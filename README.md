@@ -28,7 +28,7 @@ Start the Jupyter service - required after every Docker restart:
 docker-compose --profile=notebook up -d
 ```
 
-Access the notebooks via [http://localhost:8888/](http://localhost:8888/)
+Access the notebooks via [http://localhost:8888/tree/work/gp3s-query/python](http://localhost:8888/tree/work/gp3s-query/python)
 
 You will require the Jupyter security token to log in for the first time:
 
