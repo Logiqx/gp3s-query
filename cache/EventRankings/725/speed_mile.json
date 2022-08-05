@@ -83,54 +83,6 @@
     "ROWID": 6,
     "event_id": 725,
     "eventname": "Singlis-Speedchallenge 2022",
-    "speed": 31.42844,
-    "type": "speed_mile",
-    "username": "Andreas Schaefer",
-    "ageclass": "Grand Master (51-60)",
-    "weightclass": "71-80",
-    "sexe": "Men",
-    "spotname": "Singliser See",
-    "sessionboard": "Starboard Isonic 124 Carbon",
-    "sessionsail": "Severne Mach3  8.6",
-    "sessionfin": "F-Hot RWS-3  44",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=380637&uid=2399"
-  },
-  {
-    "ROWID": 7,
-    "event_id": 725,
-    "eventname": "Singlis-Speedchallenge 2022",
-    "speed": 31.42844,
-    "type": "speed_mile",
-    "username": "Andreas Schaefer",
-    "ageclass": "Grand Master (51-60)",
-    "weightclass": "71-80",
-    "sexe": "Men",
-    "spotname": "Singliser See",
-    "sessionboard": "Starboard Isonic 124 Carbon",
-    "sessionsail": "Severne Mach3  8.6",
-    "sessionfin": "F-Hot RWS-3  44",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=380637&uid=2399"
-  },
-  {
-    "ROWID": 8,
-    "event_id": 725,
-    "eventname": "Singlis-Speedchallenge 2022",
-    "speed": 31.42844,
-    "type": "speed_mile",
-    "username": "Andreas Schaefer",
-    "ageclass": "Grand Master (51-60)",
-    "weightclass": "71-80",
-    "sexe": "Men",
-    "spotname": "Singliser See",
-    "sessionboard": "Starboard Isonic 124 Carbon",
-    "sessionsail": "Severne Mach3  8.6",
-    "sessionfin": "F-Hot RWS-3  44",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=380637&uid=2399"
-  },
-  {
-    "ROWID": 9,
-    "event_id": 725,
-    "eventname": "Singlis-Speedchallenge 2022",
     "speed": 24.831616,
     "type": "speed_mile",
     "username": "Ralf Hansel",
@@ -144,7 +96,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=377930&uid=10573"
   },
   {
-    "ROWID": 10,
+    "ROWID": 7,
     "event_id": 725,
     "eventname": "Singlis-Speedchallenge 2022",
     "speed": 23.870428,
@@ -160,7 +112,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=387392&uid=4475"
   },
   {
-    "ROWID": 11,
+    "ROWID": 8,
     "event_id": 725,
     "eventname": "Singlis-Speedchallenge 2022",
     "speed": 21.73322,
@@ -174,5 +126,21 @@
     "sessionsail": "North Sails Volt  5.3",
     "sessionfin": "not defined -  0",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=375891&uid=24138"
+  },
+  {
+    "ROWID": 9,
+    "event_id": 725,
+    "eventname": "Singlis-Speedchallenge 2022",
+    "speed": 0.0,
+    "type": "speed_mile",
+    "username": "Arnd Gottschalk",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Singliser See",
+    "sessionboard": "RRD X-fire LTD V3 135",
+    "sessionsail": "Neilpryde V8  9.4",
+    "sessionfin": "Custom Winheller Prototypes  44",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=376269&uid=26098"
   }
 ]

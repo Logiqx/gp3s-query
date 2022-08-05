@@ -137,11 +137,11 @@
     "ageclass": "Master (36-50)",
     "weightclass": "81-90",
     "sexe": "Men",
-    "spotname": "Amager Strandpark",
+    "spotname": "Veddelev",
     "sessionboard": "Tabou Manta 61",
     "sessionsail": "Simmer Sails SCR  7.0",
     "sessionfin": "Starboard Drake  32",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=378410&uid=25722"
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=378352&uid=25722"
   },
   {
     "ROWID": 10,
@@ -195,16 +195,16 @@
     "ROWID": 13,
     "event_id": 732,
     "eventname": "2022 DBO Speed Challenge",
-    "speed": 38.671612,
+    "speed": 25.833548,
     "type": "speed_2sec",
     "username": "Bj\u00f8rn Olesen",
     "ageclass": "Junior (11-14)",
     "weightclass": "0-40",
     "sexe": "Men",
-    "spotname": "Sennels Hede",
-    "sessionboard": "F2 Rebel",
-    "sessionsail": "Hotsails DD  3.3",
+    "spotname": "Veddelev",
+    "sessionboard": "Fanatic Grip XS",
+    "sessionsail": "Neilpryde Dragonfly  2.5",
     "sessionfin": "Maui Ultra Fins X-Wave  26",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=370067&uid=25378"
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=374549&uid=25378"
   }
 ]

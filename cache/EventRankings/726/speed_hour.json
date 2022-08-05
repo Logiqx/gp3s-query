@@ -35,20 +35,36 @@
     "ROWID": 3,
     "event_id": 726,
     "eventname": "WSCA Westeinder Speedking 2022",
-    "speed": 34.980576000000006,
+    "speed": 36.267716,
+    "type": "speed_hour",
+    "username": "Edwin Beekman",
+    "ageclass": "Master (36-50)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Westeinder Plassen",
+    "sessionboard": "Fanatic Falcon TE 115 2019",
+    "sessionsail": "Duotone Warp 20.19  7.0",
+    "sessionfin": "Sonntag Fins SL-R  36",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=382568&uid=21797"
+  },
+  {
+    "ROWID": 4,
+    "event_id": 726,
+    "eventname": "WSCA Westeinder Speedking 2022",
+    "speed": 35.200964000000006,
     "type": "speed_hour",
     "username": "Max Shytikov",
     "ageclass": "Master (36-50)",
     "weightclass": "61-70",
     "sexe": "Men",
-    "spotname": "Amstelmeer",
+    "spotname": "Westeinder Plassen",
     "sessionboard": "Future Fly Dark Horse FR 107",
     "sessionsail": "Duotone Warp_fin 20.22  7.8",
     "sessionfin": "Sonntag Fins SL-X 360  36",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386209&uid=25266"
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=384186&uid=25266"
   },
   {
-    "ROWID": 4,
+    "ROWID": 5,
     "event_id": 726,
     "eventname": "WSCA Westeinder Speedking 2022",
     "speed": 34.571284000000006,
@@ -64,7 +80,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=373427&uid=15681"
   },
   {
-    "ROWID": 5,
+    "ROWID": 6,
     "event_id": 726,
     "eventname": "WSCA Westeinder Speedking 2022",
     "speed": 32.847072000000004,
@@ -80,7 +96,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=384529&uid=1499"
   },
   {
-    "ROWID": 6,
+    "ROWID": 7,
     "event_id": 726,
     "eventname": "WSCA Westeinder Speedking 2022",
     "speed": 32.045156000000006,
@@ -94,22 +110,6 @@
     "sessionsail": "S2 Maui Venom  7.7",
     "sessionfin": "Sonntag Fins SL-X  40",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=373443&uid=23663"
-  },
-  {
-    "ROWID": 7,
-    "event_id": 726,
-    "eventname": "WSCA Westeinder Speedking 2022",
-    "speed": 31.824768000000002,
-    "type": "speed_hour",
-    "username": "Edwin Beekman",
-    "ageclass": "Master (36-50)",
-    "weightclass": "71-80",
-    "sexe": "Men",
-    "spotname": "Amstelmeer",
-    "sessionboard": "Fanatic Falcon TE 115 2019",
-    "sessionsail": "Duotone Warp 20.19  7.7",
-    "sessionfin": "Finish First  37",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386155&uid=21797"
   },
   {
     "ROWID": 8,
@@ -275,6 +275,22 @@
     "ROWID": 18,
     "event_id": 726,
     "eventname": "WSCA Westeinder Speedking 2022",
+    "speed": 11.456472,
+    "type": "speed_hour",
+    "username": "Leon Ippel",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "101-110",
+    "sexe": "Men",
+    "spotname": "Westeinder Plassen",
+    "sessionboard": "PATRIK Slalom 140",
+    "sessionsail": "Neilpryde RS Racing Evo XI  9.0",
+    "sessionfin": "Sonntag Fins SLP  45",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=381611&uid=25523"
+  },
+  {
+    "ROWID": 19,
+    "event_id": 726,
+    "eventname": "WSCA Westeinder Speedking 2022",
     "speed": 10.747156,
     "type": "speed_hour",
     "username": "Bert Kuiper",
@@ -286,22 +302,6 @@
     "sessionsail": "Vandal Enemy  4.7",
     "sessionfin": "North Shore Wave   23",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=374480&uid=5707"
-  },
-  {
-    "ROWID": 19,
-    "event_id": 726,
-    "eventname": "WSCA Westeinder Speedking 2022",
-    "speed": 3.302116,
-    "type": "speed_hour",
-    "username": "Leon Ippel",
-    "ageclass": "Grand Master (51-60)",
-    "weightclass": "101-110",
-    "sexe": "Men",
-    "spotname": "Westeinder Plassen",
-    "sessionboard": "PATRIK Slalom 140",
-    "sessionsail": "Neilpryde RS Racing Evo XI  9.0",
-    "sessionfin": "Custom Carpenter Fins  46",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386070&uid=25523"
   },
   {
     "ROWID": 20,

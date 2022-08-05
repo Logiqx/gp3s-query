@@ -1,5 +1,27 @@
 [
   {
+    "session_id": 390019,
+    "session_date": "2022-08-05T00:00:00",
+    "event_id": 710,
+    "eventname": "BritishSpeedChallenge2022",
+    "speed_avg": 49.7158288,
+    "speed_2sec": 54.259896,
+    "speed_10sec": 51.600424,
+    "speed_100": 52.554204,
+    "speed_250": 49.39284000000001,
+    "speed_500": 47.918648,
+    "speed_mile": 36.51218,
+    "speed_hour": 24.600116,
+    "username": "Iain Neary",
+    "flag": "UK",
+    "sexe": "Men",
+    "spotname": "Axbridge Reservoir",
+    "sessionboard": "Tabou manta,  2016",
+    "sessionsail": "Severne Overdrive M3 9.4,  2020",
+    "sessionfin": "- F-Hot  46",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390019&uid=26304"
+  },
+  {
     "session_id": 389935,
     "session_date": "2022-08-04T00:00:00",
     "event_id": 710,

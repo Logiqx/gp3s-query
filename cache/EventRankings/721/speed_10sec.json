@@ -83,6 +83,22 @@
     "ROWID": 6,
     "event_id": 721,
     "eventname": "2022 Gps Kraaij Challenge",
+    "speed": 55.085888000000004,
+    "type": "speed_10sec",
+    "username": "Aaron van den Elsen",
+    "ageclass": "Master (36-50)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Kraaijenbergse plassen",
+    "sessionboard": "JP Slalom",
+    "sessionsail": "Gun Sails GS-R  8.4",
+    "sessionfin": "Tribal Fin mk2  42",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=379290&uid=25570"
+  },
+  {
+    "ROWID": 7,
+    "event_id": 721,
+    "eventname": "2022 Gps Kraaij Challenge",
     "speed": 54.57658800000001,
     "type": "speed_10sec",
     "username": "Erwin Rovers",
@@ -96,7 +112,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=382801&uid=5095"
   },
   {
-    "ROWID": 7,
+    "ROWID": 8,
     "event_id": 721,
     "eventname": "2022 Gps Kraaij Challenge",
     "speed": 53.972836,
@@ -112,7 +128,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=375845&uid=4390"
   },
   {
-    "ROWID": 8,
+    "ROWID": 9,
     "event_id": 721,
     "eventname": "2022 Gps Kraaij Challenge",
     "speed": 51.99304800000001,
@@ -126,22 +142,6 @@
     "sessionsail": "North Sails Warp F2017  8.4",
     "sessionfin": "Maui Ultra Fins Slalom Race Carbon  48",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=384088&uid=1797"
-  },
-  {
-    "ROWID": 9,
-    "event_id": 721,
-    "eventname": "2022 Gps Kraaij Challenge",
-    "speed": 51.55042,
-    "type": "speed_10sec",
-    "username": "Aaron van den Elsen",
-    "ageclass": "Master (36-50)",
-    "weightclass": "81-90",
-    "sexe": "Men",
-    "spotname": "Grevelingenmeer - Kabbelaarsbank",
-    "sessionboard": "JP Slalom",
-    "sessionsail": "Gun Sails GS-R  8.4",
-    "sessionfin": "Tribal Fin mk2  42",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386238&uid=25570"
   },
   {
     "ROWID": 10,
@@ -259,6 +259,22 @@
     "ROWID": 17,
     "event_id": 721,
     "eventname": "2022 Gps Kraaij Challenge",
+    "speed": 44.340584,
+    "type": "speed_10sec",
+    "username": "Patricia Verduyn Lunel",
+    "ageclass": "Master (36-50)",
+    "weightclass": "51-60",
+    "sexe": "Woman",
+    "spotname": "Kraaijenbergse plassen",
+    "sessionboard": "JP Supersport",
+    "sessionsail": "Neilpryde Search  4.5",
+    "sessionfin": "Concrete Wave Slalom  32",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=377988&uid=25571"
+  },
+  {
+    "ROWID": 18,
+    "event_id": 721,
+    "eventname": "2022 Gps Kraaij Challenge",
     "speed": 44.042412,
     "type": "speed_10sec",
     "username": "Frank van Hassel",
@@ -272,10 +288,10 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=384296&uid=23371"
   },
   {
-    "ROWID": 18,
+    "ROWID": 19,
     "event_id": 721,
     "eventname": "2022 Gps Kraaij Challenge",
-    "speed": 37.251128,
+    "speed": 40.523612,
     "type": "speed_10sec",
     "username": "Nils Duindam",
     "ageclass": "Super Master (61-70)",
@@ -283,40 +299,24 @@
     "sexe": "Men",
     "spotname": "Kraaijenbergse plassen",
     "sessionboard": "Fanatic Falcon Foil TE 190",
-    "sessionsail": "Neilpryde speedster  6.7",
-    "sessionfin": "Starboard Foil race plus  95",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=375600&uid=4058"
-  },
-  {
-    "ROWID": 19,
-    "event_id": 721,
-    "eventname": "2022 Gps Kraaij Challenge",
-    "speed": 36.138076000000005,
-    "type": "speed_10sec",
-    "username": "Patricia Verduyn Lunel",
-    "ageclass": "Master (36-50)",
-    "weightclass": "51-60",
-    "sexe": "Woman",
-    "spotname": "Grevelingenmeer - Kabbelaarsbank",
-    "sessionboard": "JP Supersport",
-    "sessionsail": "Severne Overdrive  8.0",
-    "sessionfin": "Custom Freeride  43",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=370014&uid=25571"
+    "sessionsail": "Phantom IRIS R mk2  6.5",
+    "sessionfin": "Starboard Starboard Race  (115+ 725 255)  95",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390034&uid=4058"
   },
   {
     "ROWID": 20,
     "event_id": 721,
     "eventname": "2022 Gps Kraaij Challenge",
-    "speed": 27.589244,
+    "speed": 31.019147999999998,
     "type": "speed_10sec",
     "username": "Nicole Skodda",
     "ageclass": "Master (36-50)",
     "weightclass": "51-60",
     "sexe": "Woman",
-    "spotname": "Draget, Limfjorden",
+    "spotname": "Kraaijenbergse plassen",
     "sessionboard": "i-99 Stylewave 104l  cvk",
     "sessionsail": "Loftsails Pure Lip  5.0",
     "sessionfin": "Maui Fin Co FSW  28",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386287&uid=6348"
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=382882&uid=6348"
   }
 ]

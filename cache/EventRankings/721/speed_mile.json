@@ -3,84 +3,20 @@
     "ROWID": 1,
     "event_id": 721,
     "eventname": "2022 Gps Kraaij Challenge",
-    "speed": 42.629336,
+    "speed": 42.433024,
     "type": "speed_mile",
-    "username": "Aaron van den Elsen",
+    "username": "Chris F\u00f6cking",
     "ageclass": "Master (36-50)",
-    "weightclass": "81-90",
+    "weightclass": "91-100",
     "sexe": "Men",
-    "spotname": "Grevelingenmeer - Kabbelaarsbank",
-    "sessionboard": "JP Slalom",
-    "sessionsail": "Gun Sails GS-R  8.4",
-    "sessionfin": "Tribal Fin mk2  42",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386238&uid=25570"
+    "spotname": "Kraaijenbergse plassen",
+    "sessionboard": "RRD X-Fire Ltd V3 122",
+    "sessionsail": "North Sails Warp F2006  7.8",
+    "sessionfin": "Deboichet Custom R20  47",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=377094&uid=4524"
   },
   {
     "ROWID": 2,
-    "event_id": 721,
-    "eventname": "2022 Gps Kraaij Challenge",
-    "speed": 42.433024,
-    "type": "speed_mile",
-    "username": "Chris F\u00f6cking",
-    "ageclass": "Master (36-50)",
-    "weightclass": "91-100",
-    "sexe": "Men",
-    "spotname": "Kraaijenbergse plassen",
-    "sessionboard": "RRD X-Fire Ltd V3 122",
-    "sessionsail": "North Sails Warp F2006  7.8",
-    "sessionfin": "Deboichet Custom R20  47",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=377094&uid=4524"
-  },
-  {
-    "ROWID": 3,
-    "event_id": 721,
-    "eventname": "2022 Gps Kraaij Challenge",
-    "speed": 42.433024,
-    "type": "speed_mile",
-    "username": "Chris F\u00f6cking",
-    "ageclass": "Master (36-50)",
-    "weightclass": "91-100",
-    "sexe": "Men",
-    "spotname": "Kraaijenbergse plassen",
-    "sessionboard": "RRD X-Fire Ltd V3 122",
-    "sessionsail": "North Sails Warp F2006  7.8",
-    "sessionfin": "Deboichet Custom R20  47",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=377094&uid=4524"
-  },
-  {
-    "ROWID": 4,
-    "event_id": 721,
-    "eventname": "2022 Gps Kraaij Challenge",
-    "speed": 42.433024,
-    "type": "speed_mile",
-    "username": "Chris F\u00f6cking",
-    "ageclass": "Master (36-50)",
-    "weightclass": "91-100",
-    "sexe": "Men",
-    "spotname": "Kraaijenbergse plassen",
-    "sessionboard": "RRD X-Fire Ltd V3 122",
-    "sessionsail": "North Sails Warp F2006  7.8",
-    "sessionfin": "Deboichet Custom R20  47",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=377094&uid=4524"
-  },
-  {
-    "ROWID": 5,
-    "event_id": 721,
-    "eventname": "2022 Gps Kraaij Challenge",
-    "speed": 42.433024,
-    "type": "speed_mile",
-    "username": "Chris F\u00f6cking",
-    "ageclass": "Master (36-50)",
-    "weightclass": "91-100",
-    "sexe": "Men",
-    "spotname": "Kraaijenbergse plassen",
-    "sessionboard": "RRD X-Fire Ltd V3 122",
-    "sessionsail": "North Sails Warp F2006  7.8",
-    "sessionfin": "Deboichet Custom R20  47",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=377094&uid=4524"
-  },
-  {
-    "ROWID": 6,
     "event_id": 721,
     "eventname": "2022 Gps Kraaij Challenge",
     "speed": 41.944096,
@@ -96,7 +32,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=377088&uid=4390"
   },
   {
-    "ROWID": 7,
+    "ROWID": 3,
     "event_id": 721,
     "eventname": "2022 Gps Kraaij Challenge",
     "speed": 41.386644000000004,
@@ -107,60 +43,12 @@
     "sexe": "Men",
     "spotname": "Kraaijenbergse plassen",
     "sessionboard": "Fanatic Falcon 130",
-    "sessionsail": "Duotone WARP  9.0",
+    "sessionsail": "Duotone Warp  9.0",
     "sessionfin": "F-Hot S3  46",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386808&uid=5095"
   },
   {
-    "ROWID": 8,
-    "event_id": 721,
-    "eventname": "2022 Gps Kraaij Challenge",
-    "speed": 41.386644000000004,
-    "type": "speed_mile",
-    "username": "Erwin Rovers",
-    "ageclass": "Master (36-50)",
-    "weightclass": "81-90",
-    "sexe": "Men",
-    "spotname": "Kraaijenbergse plassen",
-    "sessionboard": "Fanatic Falcon 130",
-    "sessionsail": "Duotone WARP  9.0",
-    "sessionfin": "F-Hot S3  46",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386808&uid=5095"
-  },
-  {
-    "ROWID": 9,
-    "event_id": 721,
-    "eventname": "2022 Gps Kraaij Challenge",
-    "speed": 41.386644000000004,
-    "type": "speed_mile",
-    "username": "Erwin Rovers",
-    "ageclass": "Master (36-50)",
-    "weightclass": "81-90",
-    "sexe": "Men",
-    "spotname": "Kraaijenbergse plassen",
-    "sessionboard": "Fanatic Falcon 130",
-    "sessionsail": "Duotone WARP  9.0",
-    "sessionfin": "F-Hot S3  46",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386808&uid=5095"
-  },
-  {
-    "ROWID": 10,
-    "event_id": 721,
-    "eventname": "2022 Gps Kraaij Challenge",
-    "speed": 41.386644000000004,
-    "type": "speed_mile",
-    "username": "Erwin Rovers",
-    "ageclass": "Master (36-50)",
-    "weightclass": "81-90",
-    "sexe": "Men",
-    "spotname": "Kraaijenbergse plassen",
-    "sessionboard": "Fanatic Falcon 130",
-    "sessionsail": "Duotone WARP  9.0",
-    "sessionfin": "F-Hot S3  46",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386808&uid=5095"
-  },
-  {
-    "ROWID": 11,
+    "ROWID": 4,
     "event_id": 721,
     "eventname": "2022 Gps Kraaij Challenge",
     "speed": 40.91994,
@@ -176,7 +64,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=378194&uid=21736"
   },
   {
-    "ROWID": 12,
+    "ROWID": 5,
     "event_id": 721,
     "eventname": "2022 Gps Kraaij Challenge",
     "speed": 40.562504000000004,
@@ -192,7 +80,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=388785&uid=5174"
   },
   {
-    "ROWID": 13,
+    "ROWID": 6,
     "event_id": 721,
     "eventname": "2022 Gps Kraaij Challenge",
     "speed": 40.490276,
@@ -208,7 +96,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=387036&uid=25108"
   },
   {
-    "ROWID": 14,
+    "ROWID": 7,
     "event_id": 721,
     "eventname": "2022 Gps Kraaij Challenge",
     "speed": 39.764292000000005,
@@ -224,7 +112,23 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=379151&uid=1797"
   },
   {
-    "ROWID": 15,
+    "ROWID": 8,
+    "event_id": 721,
+    "eventname": "2022 Gps Kraaij Challenge",
+    "speed": 38.549380000000006,
+    "type": "speed_mile",
+    "username": "Aaron van den Elsen",
+    "ageclass": "Master (36-50)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Kraaijenbergse plassen",
+    "sessionboard": "JP Slalom",
+    "sessionsail": "Gun Sails GS-R  8.4",
+    "sessionfin": "Tribal Fin mk2  42",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=379290&uid=25570"
+  },
+  {
+    "ROWID": 9,
     "event_id": 721,
     "eventname": "2022 Gps Kraaij Challenge",
     "speed": 38.325288,
@@ -240,7 +144,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=375955&uid=18091"
   },
   {
-    "ROWID": 16,
+    "ROWID": 10,
     "event_id": 721,
     "eventname": "2022 Gps Kraaij Challenge",
     "speed": 37.823395999999995,
@@ -256,7 +160,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=380467&uid=26026"
   },
   {
-    "ROWID": 17,
+    "ROWID": 11,
     "event_id": 721,
     "eventname": "2022 Gps Kraaij Challenge",
     "speed": 37.51226,
@@ -272,7 +176,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=379635&uid=23759"
   },
   {
-    "ROWID": 18,
+    "ROWID": 12,
     "event_id": 721,
     "eventname": "2022 Gps Kraaij Challenge",
     "speed": 36.167708000000005,
@@ -288,7 +192,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386655&uid=20620"
   },
   {
-    "ROWID": 19,
+    "ROWID": 13,
     "event_id": 721,
     "eventname": "2022 Gps Kraaij Challenge",
     "speed": 33.561944000000004,
@@ -304,10 +208,10 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=373484&uid=24851"
   },
   {
-    "ROWID": 20,
+    "ROWID": 14,
     "event_id": 721,
     "eventname": "2022 Gps Kraaij Challenge",
-    "speed": 23.387056,
+    "speed": 32.9656,
     "type": "speed_mile",
     "username": "Nils Duindam",
     "ageclass": "Super Master (61-70)",
@@ -315,12 +219,12 @@
     "sexe": "Men",
     "spotname": "Kraaijenbergse plassen",
     "sessionboard": "Fanatic Falcon Foil TE 190",
-    "sessionsail": "Phantom RF  8.0",
-    "sessionfin": "Starboard Foil race plus  95",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=388843&uid=4058"
+    "sessionsail": "Phantom IRIS R mk2  6.5",
+    "sessionfin": "Starboard Starboard Race  (115+ 725 255)  95",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390034&uid=4058"
   },
   {
-    "ROWID": 21,
+    "ROWID": 15,
     "event_id": 721,
     "eventname": "2022 Gps Kraaij Challenge",
     "speed": 17.123592000000002,
@@ -336,7 +240,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=384530&uid=24952"
   },
   {
-    "ROWID": 22,
+    "ROWID": 16,
     "event_id": 721,
     "eventname": "2022 Gps Kraaij Challenge",
     "speed": 12.063928,
@@ -352,7 +256,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=382976&uid=6348"
   },
   {
-    "ROWID": 23,
+    "ROWID": 17,
     "event_id": 721,
     "eventname": "2022 Gps Kraaij Challenge",
     "speed": 10.734192,
@@ -366,5 +270,21 @@
     "sessionsail": "Neilpryde RS6  7.8",
     "sessionfin": "Select Vmax 4.0  47",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=385038&uid=3588"
+  },
+  {
+    "ROWID": 18,
+    "event_id": 721,
+    "eventname": "2022 Gps Kraaij Challenge",
+    "speed": 0.0,
+    "type": "speed_mile",
+    "username": "Patricia Verduyn Lunel",
+    "ageclass": "Master (36-50)",
+    "weightclass": "51-60",
+    "sexe": "Woman",
+    "spotname": "Kraaijenbergse plassen",
+    "sessionboard": "JP Supersport",
+    "sessionsail": "XO-Sails Gold  5.7",
+    "sessionfin": "not defined -  0",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=374926&uid=25571"
   }
 ]
