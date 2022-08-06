@@ -131,6 +131,22 @@
     "ROWID": 9,
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
+    "speed": 70.100052,
+    "type": "speed_250",
+    "username": "Johnny Tuijn",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Karpathos",
+    "sessionboard": "AV Modena Slalom 60",
+    "sessionsail": "Point-7 AC1  6.2",
+    "sessionfin": "Finish Fast speed/slalom   29",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=385984&uid=2503"
+  },
+  {
+    "ROWID": 10,
+    "event_id": 736,
+    "eventname": "2022 Odyssey of Speed",
     "speed": 69.044412,
     "type": "speed_250",
     "username": "Johan Huitema",
@@ -144,7 +160,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=387885&uid=4541"
   },
   {
-    "ROWID": 10,
+    "ROWID": 11,
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
     "speed": 68.612896,
@@ -160,7 +176,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=385148&uid=8545"
   },
   {
-    "ROWID": 11,
+    "ROWID": 12,
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
     "speed": 67.60726000000001,
@@ -176,7 +192,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389382&uid=6430"
   },
   {
-    "ROWID": 12,
+    "ROWID": 13,
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
     "speed": 67.260936,
@@ -192,7 +208,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=377743&uid=16897"
   },
   {
-    "ROWID": 13,
+    "ROWID": 14,
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
     "speed": 67.00536,
@@ -206,22 +222,6 @@
     "sessionsail": "Loft Sails Racing blade  6.9",
     "sessionfin": "Z-fins Z slm s-  30",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=376979&uid=962"
-  },
-  {
-    "ROWID": 14,
-    "event_id": 736,
-    "eventname": "2022 Odyssey of Speed",
-    "speed": 66.722004,
-    "type": "speed_250",
-    "username": "Johnny Tuijn",
-    "ageclass": "Grand Master (51-60)",
-    "weightclass": "71-80",
-    "sexe": "Men",
-    "spotname": "Karpathos",
-    "sessionboard": "AV Modena Slalom 60",
-    "sessionsail": "Point-7 AC1  6.2",
-    "sessionfin": "Finish Fast speed/slalom   29",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386321&uid=2503"
   },
   {
     "ROWID": 15,

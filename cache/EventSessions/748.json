@@ -15596,5 +15596,27 @@
     "sessionsail": "Avanti Sails Machine M5 7.7,  2017",
     "sessionfin": "Finish Slalom  37",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390104&uid=5643"
+  },
+  {
+    "session_id": 390105,
+    "session_date": "2022-08-06T00:00:00",
+    "event_id": 748,
+    "eventname": "2022 Dunkerbeck Speed Challenge \u201cThe Summer Edition\u201d",
+    "speed_avg": 56.3659904,
+    "speed_2sec": 59.630696,
+    "speed_10sec": 58.35652,
+    "speed_100": 58.625060000000005,
+    "speed_250": 56.458220000000004,
+    "speed_500": 54.058028,
+    "speed_mile": 43.110856,
+    "speed_hour": 27.885564000000002,
+    "username": "Tim Heeringa",
+    "flag": "NL",
+    "sexe": "Men",
+    "spotname": "Ringkobing",
+    "sessionboard": "Tabou Manta 71,  2016",
+    "sessionsail": "S2 Maui Venom 7.7,  2019",
+    "sessionfin": "Zulu Umbani  evo2  36",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390105&uid=23642"
   }
 ]

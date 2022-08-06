@@ -131,6 +131,22 @@
     "ROWID": 9,
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
+    "speed": 74.007772,
+    "type": "speed_100",
+    "username": "Johnny Tuijn",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Karpathos",
+    "sessionboard": "AV Modena Slalom 60",
+    "sessionsail": "Point-7 AC1  6.2",
+    "sessionfin": "Finish Fast speed/slalom   29",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386005&uid=2503"
+  },
+  {
+    "ROWID": 10,
+    "event_id": 736,
+    "eventname": "2022 Odyssey of Speed",
     "speed": 73.068808,
     "type": "speed_100",
     "username": "Marco Bos",
@@ -144,7 +160,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=385148&uid=8545"
   },
   {
-    "ROWID": 10,
+    "ROWID": 11,
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
     "speed": 73.04473200000001,
@@ -160,7 +176,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=387885&uid=4541"
   },
   {
-    "ROWID": 11,
+    "ROWID": 12,
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
     "speed": 71.090872,
@@ -174,22 +190,6 @@
     "sessionsail": "North Sails Warp F2017   5.7",
     "sessionfin": "Z-fins SL-S-  30",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389382&uid=6430"
-  },
-  {
-    "ROWID": 12,
-    "event_id": 736,
-    "eventname": "2022 Odyssey of Speed",
-    "speed": 71.053832,
-    "type": "speed_100",
-    "username": "Johnny Tuijn",
-    "ageclass": "Grand Master (51-60)",
-    "weightclass": "71-80",
-    "sexe": "Men",
-    "spotname": "Karpathos",
-    "sessionboard": "AV Modena Slalom 60",
-    "sessionsail": "Point-7 AC1  6.2",
-    "sessionfin": "Finish Fast speed/slalom   29",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386321&uid=2503"
   },
   {
     "ROWID": 13,
