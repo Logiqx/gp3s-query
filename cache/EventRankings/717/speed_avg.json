@@ -83,6 +83,22 @@
     "ROWID": 6,
     "event_id": 717,
     "eventname": "2022 Irish Speed Masters",
+    "speed": 45.6618008,
+    "type": "speed_avg",
+    "username": "Gildas Bechet",
+    "ageclass": "Master (36-50)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Malahide Estuary",
+    "sessionboard": "Mistral Slalom 95",
+    "sessionsail": "Gun Sails GSR  5.6",
+    "sessionfin": "Gasoil Fins ELS L Asy tribord  20",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=372885&uid=3671"
+  },
+  {
+    "ROWID": 7,
+    "event_id": 717,
+    "eventname": "2022 Irish Speed Masters",
     "speed": 43.62386,
     "type": "speed_avg",
     "username": "Igor Siguenza",
@@ -94,21 +110,5 @@
     "sessionsail": "Loftsails Purelip  6.2",
     "sessionfin": "Select Edge Pro Carbon  35",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=380852&uid=24483"
-  },
-  {
-    "ROWID": 7,
-    "event_id": 717,
-    "eventname": "2022 Irish Speed Masters",
-    "speed": 43.18086160000001,
-    "type": "speed_avg",
-    "username": "Gildas Bechet",
-    "ageclass": "Master (36-50)",
-    "weightclass": "81-90",
-    "sexe": "Men",
-    "spotname": "Malahide Estuary",
-    "sessionboard": "Mistral Slalom 95",
-    "sessionsail": "Gun Sails GSR  5.6",
-    "sessionfin": "Gasoil Fins ELS L Asy tribord  20",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=373194&uid=3671"
   }
 ]

@@ -3,36 +3,20 @@
     "ROWID": 1,
     "event_id": 715,
     "eventname": "SSS Go big or go Home 2021-2022",
-    "speed": 59.841823999999995,
+    "speed": 66.105288,
     "type": "speed_2sec",
-    "username": "Hans Prins",
-    "ageclass": "Master (36-50)",
-    "weightclass": "81-90",
-    "sexe": "Men",
-    "spotname": "schildmeer",
-    "sessionboard": "Starboard iSonic Carbon Reflex 83",
-    "sessionsail": "Point-7 AC-One  8.6",
-    "sessionfin": "King Fins Slalom  44",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386289&uid=5376"
-  },
-  {
-    "ROWID": 2,
-    "event_id": 715,
-    "eventname": "SSS Go big or go Home 2021-2022",
-    "speed": 58.15094800000001,
-    "type": "speed_2sec",
-    "username": "Sven Hulst",
-    "ageclass": "Senior (19-35)",
+    "username": "Ingolf van Oostveen",
+    "ageclass": "Grand Master (51-60)",
     "weightclass": "91-100",
     "sexe": "Men",
     "spotname": "schildmeer",
-    "sessionboard": "Starboard isonic 85 Reflex Carbon ",
-    "sessionsail": "GA-sails Vapor  9.6",
-    "sessionfin": "Zulu Umbani Evo 2  48",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386293&uid=23299"
+    "sessionboard": "Starboard iSonic Carbon Reflex 83",
+    "sessionsail": "Severne Mach3  7.8",
+    "sessionfin": "Finish fast speed/slalom  43",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=368349&uid=3874"
   },
   {
-    "ROWID": 3,
+    "ROWID": 2,
     "event_id": 715,
     "eventname": "SSS Go big or go Home 2021-2022",
     "speed": 55.543332,
@@ -48,39 +32,23 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=372017&uid=24199"
   },
   {
-    "ROWID": 4,
+    "ROWID": 3,
     "event_id": 715,
     "eventname": "SSS Go big or go Home 2021-2022",
-    "speed": 55.465548000000005,
-    "type": "speed_2sec",
-    "username": "Ingolf van Oostveen",
-    "ageclass": "Grand Master (51-60)",
-    "weightclass": "91-100",
-    "sexe": "Men",
-    "spotname": "schildmeer",
-    "sessionboard": "Starboard iSonic Carbon Reflex 83",
-    "sessionsail": "Severne Mach3  8.6",
-    "sessionfin": "Finish fast speed/slalom  43",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386277&uid=3874"
-  },
-  {
-    "ROWID": 5,
-    "event_id": 715,
-    "eventname": "SSS Go big or go Home 2021-2022",
-    "speed": 54.924764,
+    "speed": 55.115520000000004,
     "type": "speed_2sec",
     "username": "Alwin Visker",
     "ageclass": "Grand Master (51-60)",
     "weightclass": "91-100",
     "sexe": "Men",
-    "spotname": "Lauwersmeer",
+    "spotname": "schildmeer",
     "sessionboard": "AV Modena Slalom 85",
-    "sessionsail": "Point-7 AC1  9.2",
-    "sessionfin": "Finish First V2  46",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386260&uid=15697"
+    "sessionsail": "Point-7 AC1  8.6",
+    "sessionfin": "Finish First  44",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=370139&uid=15697"
   },
   {
-    "ROWID": 6,
+    "ROWID": 4,
     "event_id": 715,
     "eventname": "SSS Go big or go Home 2021-2022",
     "speed": 54.13396,
@@ -96,7 +64,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=379556&uid=1265"
   },
   {
-    "ROWID": 7,
+    "ROWID": 5,
     "event_id": 715,
     "eventname": "SSS Go big or go Home 2021-2022",
     "speed": 53.104248,
@@ -112,7 +80,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=378802&uid=2358"
   },
   {
-    "ROWID": 8,
+    "ROWID": 6,
     "event_id": 715,
     "eventname": "SSS Go big or go Home 2021-2022",
     "speed": 52.167136,
@@ -128,7 +96,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386324&uid=19396"
   },
   {
-    "ROWID": 9,
+    "ROWID": 7,
     "event_id": 715,
     "eventname": "SSS Go big or go Home 2021-2022",
     "speed": 50.994820000000004,
@@ -144,39 +112,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=376650&uid=5095"
   },
   {
-    "ROWID": 10,
-    "event_id": 715,
-    "eventname": "SSS Go big or go Home 2021-2022",
-    "speed": 49.43914,
-    "type": "speed_2sec",
-    "username": "Ren\u00e9 Bijmolt",
-    "ageclass": "Master (36-50)",
-    "weightclass": "91-100",
-    "sexe": "Men",
-    "spotname": "schildmeer",
-    "sessionboard": "Starboard iSonic 83 Carbon Reflex",
-    "sessionsail": "Point-7 AC-K Pro am Racing  8.5",
-    "sessionfin": "Finish Fast - speed/slalom  44",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386259&uid=21711"
-  },
-  {
-    "ROWID": 11,
-    "event_id": 715,
-    "eventname": "SSS Go big or go Home 2021-2022",
-    "speed": 47.918648,
-    "type": "speed_2sec",
-    "username": "Jan Joustra",
-    "ageclass": "Master (36-50)",
-    "weightclass": "71-80",
-    "sexe": "Men",
-    "spotname": "Lauwersmeer",
-    "sessionboard": "Tabou Manta 66",
-    "sessionsail": "Loftsails Racing Blade  7.8",
-    "sessionfin": "Vector Fins Volt   36",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386106&uid=23396"
-  },
-  {
-    "ROWID": 12,
+    "ROWID": 8,
     "event_id": 715,
     "eventname": "SSS Go big or go Home 2021-2022",
     "speed": 46.079612000000004,
@@ -192,7 +128,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=375895&uid=25323"
   },
   {
-    "ROWID": 13,
+    "ROWID": 9,
     "event_id": 715,
     "eventname": "SSS Go big or go Home 2021-2022",
     "speed": 45.774032000000005,

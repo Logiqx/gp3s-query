@@ -595,7 +595,7 @@
     "ROWID": 38,
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
-    "speed": 47.692704,
+    "speed": 48.67056,
     "type": "speed_500",
     "username": "Peter Johansson",
     "ageclass": "Master (36-50)",
@@ -603,12 +603,28 @@
     "sexe": "Men",
     "spotname": "Karpathos",
     "sessionboard": "Starboard iSonic 63 Carbon Reflex",
-    "sessionsail": "Neilpryde Evo9  5.6",
+    "sessionsail": "Neilpryde RS Race EVO8  7.0",
     "sessionfin": "Z-fins SL S-  30",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389984&uid=1339"
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390120&uid=1339"
   },
   {
     "ROWID": 39,
+    "event_id": 736,
+    "eventname": "2022 Odyssey of Speed",
+    "speed": 45.888856,
+    "type": "speed_500",
+    "username": "Hannes Rieger",
+    "ageclass": "Super Master (61-70)",
+    "weightclass": "61-70",
+    "sexe": "Men",
+    "spotname": "Drepano",
+    "sessionboard": "Custom SL 66/21",
+    "sessionsail": "S2 Maui Wicked  6.3",
+    "sessionfin": "Custom SL 81  33",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389542&uid=24349"
+  },
+  {
+    "ROWID": 40,
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
     "speed": 45.033232,
@@ -624,7 +640,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=385762&uid=23994"
   },
   {
-    "ROWID": 40,
+    "ROWID": 41,
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
     "speed": 44.501708,
@@ -640,7 +656,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386462&uid=18040"
   },
   {
-    "ROWID": 41,
+    "ROWID": 42,
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
     "speed": 40.431012,
