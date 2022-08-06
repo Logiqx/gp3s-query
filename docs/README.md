@@ -1,5 +1,5 @@
-## GP3S Queries
+## Generated Reports
 
 The following reports are available:
 
-- [Event rankings](events/README.md)
+- [Event Rankings](events/README.md)
