@@ -1,26 +1,5 @@
 [
   {
-    "session_id": 374996,
-    "session_date": "2022-02-06T00:00:00",
-    "speed_avg": 77.44323200000001,
-    "speed_2sec": 80.18974800000001,
-    "speed_10sec": 78.134028,
-    "speed_100": 79.18781600000001,
-    "speed_250": 78.04142800000001,
-    "speed_500": 70.57046,
-    "speed_mile": 0.0,
-    "speed_hour": 5.405988000000001,
-    "username": "Michael George",
-    "flag": "UK",
-    "sexe": "Men",
-    "spotname": "West Kirby",
-    "sessionboard": "RRD Speed 41,  2014",
-    "sessionsail": "Neilpryde RS RACING EVO XII 5.2,  2021",
-    "sessionfin": "Gasoil Fins ELS L Asy tribord  21",
-    "eventname": "BritishSpeedChallenge2022",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=374996&uid=2640"
-  },
-  {
     "session_id": 374631,
     "session_date": "2022-02-01T00:00:00",
     "speed_avg": 73.0106552,
@@ -40,5 +19,26 @@
     "sessionfin": "C3 SLINGSHOT  20",
     "eventname": "BritishSpeedChallenge2022",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=374631&uid=2640"
+  },
+  {
+    "session_id": 374996,
+    "session_date": "2022-02-06T00:00:00",
+    "speed_avg": 77.44323200000001,
+    "speed_2sec": 80.18974800000001,
+    "speed_10sec": 78.134028,
+    "speed_100": 79.18781600000001,
+    "speed_250": 78.04142800000001,
+    "speed_500": 70.57046,
+    "speed_mile": 0.0,
+    "speed_hour": 5.405988000000001,
+    "username": "Michael George",
+    "flag": "UK",
+    "sexe": "Men",
+    "spotname": "West Kirby",
+    "sessionboard": "RRD Speed 41,  2014",
+    "sessionsail": "Neilpryde RS RACING EVO XII 5.2,  2021",
+    "sessionfin": "Gasoil Fins ELS L Asy tribord  21",
+    "eventname": "BritishSpeedChallenge2022",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=374996&uid=2640"
   }
 ]
