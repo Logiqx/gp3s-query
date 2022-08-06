@@ -3870,5 +3870,27 @@
     "sessionsail": "Loft Sails Racing Blade 7.8,  2017",
     "sessionfin": "Z-fins SLM S - -   43",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389904&uid=4497"
+  },
+  {
+    "session_id": 390147,
+    "session_date": "2022-08-06T00:00:00",
+    "event_id": 739,
+    "eventname": "2022 Estonian Speed King",
+    "speed_avg": 56.740094400000004,
+    "speed_2sec": 58.445416,
+    "speed_10sec": 57.38422,
+    "speed_100": 57.919448,
+    "speed_250": 55.997072,
+    "speed_500": 54.804384,
+    "speed_mile": 45.562904,
+    "speed_hour": 39.76244,
+    "username": "J\u00fcri Kaldoja",
+    "flag": "EE",
+    "sexe": "Men",
+    "spotname": "Kullipesa ",
+    "sessionboard": "Starboard iSonic 97 Carbon,  2015",
+    "sessionsail": "Loftsails Racing Blade 6.3,  2015",
+    "sessionfin": "Z-fins Z-fins SLM s-  34",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390147&uid=4497"
   }
 ]

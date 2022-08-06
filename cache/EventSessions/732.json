@@ -1076,5 +1076,27 @@
     "sessionsail": "Gun Sails Torro  6.0,  2016",
     "sessionfin": "not defined -  0",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=388603&uid=23813"
+  },
+  {
+    "session_id": 390141,
+    "session_date": "2022-08-06T00:00:00",
+    "event_id": 732,
+    "eventname": "2022 DBO Speed Challenge",
+    "speed_avg": 56.0981912,
+    "speed_2sec": 60.073324,
+    "speed_10sec": 58.82878,
+    "speed_100": 59.388084000000006,
+    "speed_250": 58.397264,
+    "speed_500": 56.786024,
+    "speed_mile": 50.717020000000005,
+    "speed_hour": 38.838292,
+    "username": "Martin Svej",
+    "flag": "DK",
+    "sexe": "Men",
+    "spotname": "Veddelev",
+    "sessionboard": "Future Fly Dark Horse 107,  2020",
+    "sessionsail": "Severne Mach 3 7.8,  2020",
+    "sessionfin": "Z-fins SLM 35 s-  35",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390141&uid=19315"
   }
 ]
