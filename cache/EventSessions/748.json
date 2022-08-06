@@ -15574,5 +15574,27 @@
     "sessionsail": "Point-7 AC1 5.6,  2021",
     "sessionfin": "Z-fins SPA P  21",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390103&uid=1892"
+  },
+  {
+    "session_id": 390104,
+    "session_date": "2022-08-05T00:00:00",
+    "event_id": 748,
+    "eventname": "2022 Dunkerbeck Speed Challenge \u201cThe Summer Edition\u201d",
+    "speed_avg": 53.38686319999999,
+    "speed_2sec": 56.447108,
+    "speed_10sec": 54.185816,
+    "speed_100": 55.089592,
+    "speed_250": 52.148616000000004,
+    "speed_500": 50.111416000000006,
+    "speed_mile": 44.088712,
+    "speed_hour": 32.467411999999996,
+    "username": "Tuur Van Den Broeck",
+    "flag": "BE",
+    "sexe": "Men",
+    "spotname": "Krabbenkreek - Sint-Philipsland",
+    "sessionboard": "Tabou Manta 71,  2015",
+    "sessionsail": "Avanti Sails Machine M5 7.7,  2017",
+    "sessionfin": "Finish Slalom  37",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390104&uid=5643"
   }
 ]
