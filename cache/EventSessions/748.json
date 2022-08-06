@@ -16256,5 +16256,27 @@
     "sessionsail": "Duotone S-type sl 8.3,  2019",
     "sessionfin": "- MS Fins X6 S+  44",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390155&uid=23853"
+  },
+  {
+    "session_id": 390157,
+    "session_date": "2022-08-06T00:00:00",
+    "event_id": 748,
+    "eventname": "2022 Dunkerbeck Speed Challenge \u201cThe Summer Edition\u201d",
+    "speed_avg": 60.2185208,
+    "speed_2sec": 63.510636000000005,
+    "speed_10sec": 62.792060000000006,
+    "speed_100": 63.206908,
+    "speed_250": 61.16970800000001,
+    "speed_500": 58.702844,
+    "speed_mile": 43.940552000000004,
+    "speed_hour": 12.904736,
+    "username": "Daniel E.A. Gustafsson",
+    "flag": "SE",
+    "sexe": "Men",
+    "spotname": "Torkelstorp",
+    "sessionboard": "Carbon Art SP 53,  2013",
+    "sessionsail": "Neilpryde RS Racing EVO X 7.0,  2018",
+    "sessionfin": "Hurricane weed speed   25",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390157&uid=4051"
   }
 ]
