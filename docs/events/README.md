@@ -2,15 +2,15 @@
 
 Summary of issues detected in the GP3S event rankings.
 
-Last refreshed 2022-08-06 09:52:19 UTC.
+Last refreshed 2022-08-06 10:06:04 UTC.
 
 | Event Name | Event ID | Duplicates | Ghosts | Missing | Incorrect | Actions |
 | ---------- | :------: | :--------: | :----: | :-----: | :-------: | :-----: |
-| [2022 Dunkerbeck Speed Challenge “The Summer Edition”](748.md) | 748 | 1 | 262 | 15 | 103 | 56 |
+| [2022 Dunkerbeck Speed Challenge “The Summer Edition”](748.md) | 748 | 1 | 262 | 15 | 101 | 55 |
 | [2022 Funsport Makkum GPS Speed Challenge](740.md) | 740 | 2 | 0 | 0 | 22 | 3 |
 | [2022 Estonian Speed King](739.md) | 739 | 0 | 0 | 0 | 0 | 0 |
 | [2022 Spanish Speed Challenge](737.md) | 737 | 0 | 16 | 0 | 0 | 2 |
-| [2022 Odyssey of Speed](736.md) | 736 | 0 | 0 | 0 | 8 | 1 |
+| [2022 Odyssey of Speed](736.md) | 736 | 0 | 0 | 0 | 0 | 0 |
 | [World Speed Tour - GPS POS 2022 ](734.md) | 734 | 0 | 0 | 0 | 0 | 0 |
 | [2022 ](733.md) | 733 | 0 | 0 | 0 | 0 | 0 |
 | [2022 DBO Speed Challenge](732.md) | 732 | 0 | 24 | 0 | 0 | 3 |
