@@ -15552,5 +15552,27 @@
     "sessionsail": "Duotone Warp 2019 7.7,  2019",
     "sessionfin": "- MS-fins X6 s+  38",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390102&uid=24994"
+  },
+  {
+    "session_id": 390103,
+    "session_date": "2022-08-05T00:00:00",
+    "event_id": 748,
+    "eventname": "2022 Dunkerbeck Speed Challenge \u201cThe Summer Edition\u201d",
+    "speed_avg": 32.069972799999995,
+    "speed_2sec": 35.804716,
+    "speed_10sec": 32.71558,
+    "speed_100": 32.615572,
+    "speed_250": 31.415476,
+    "speed_500": 30.306128000000005,
+    "speed_mile": 25.531672,
+    "speed_hour": 14.925267999999999,
+    "username": "Tom De Pauw",
+    "flag": "BE",
+    "sexe": "Men",
+    "spotname": "Grevelingenmeer - Kabbelaarsbank",
+    "sessionboard": "AV Modena Slalom 85,  2022",
+    "sessionsail": "Point-7 AC1 5.6,  2021",
+    "sessionfin": "Z-fins SPA P  21",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390103&uid=1892"
   }
 ]
