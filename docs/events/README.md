@@ -2,7 +2,7 @@
 
 Summary of issues detected in the GP3S event rankings.
 
-Last refreshed 2022-08-06 17:36:55 UTC.
+Last refreshed 2022-08-06 18:47:48 UTC.
 
 | Event Name | Event ID | Duplicates | Ghosts | Missing | Incorrect | Actions |
 | ---------- | :------: | :--------: | :----: | :-----: | :-------: | :-----: |

@@ -3936,5 +3936,27 @@
     "sessionsail": "Loftsails RacingBlade 6.3,  2020",
     "sessionfin": "Z-fins SL S  29",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390175&uid=4527"
+  },
+  {
+    "session_id": 390181,
+    "session_date": "2022-08-06T00:00:00",
+    "event_id": 739,
+    "eventname": "2022 Estonian Speed King",
+    "speed_avg": 56.591193600000004,
+    "speed_2sec": 58.402820000000006,
+    "speed_10sec": 57.047156,
+    "speed_100": 57.7824,
+    "speed_250": 56.574896,
+    "speed_500": 48.777976,
+    "speed_mile": 36.695528,
+    "speed_hour": 16.847644,
+    "username": "Kristel Kaubi",
+    "flag": "EE",
+    "sexe": "Woman",
+    "spotname": "H\u00e4\u00e4demeeste",
+    "sessionboard": "Fanatic Falcon 89,  2013",
+    "sessionsail": "Loftsails Racing Blade 5.6,  2012",
+    "sessionfin": "Z-fins SLM  26",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390181&uid=22316"
   }
 ]

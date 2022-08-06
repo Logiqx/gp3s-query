@@ -3315,6 +3315,22 @@
     "ROWID": 208,
     "event_id": 748,
     "eventname": "2022 Dunkerbeck Speed Challenge \u201cThe Summer Edition\u201d",
+    "speed": 20.03864,
+    "type": "speed_hour",
+    "username": "Franek Debowski",
+    "ageclass": "Junior plus (15-18)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Chalupy",
+    "sessionboard": "Starboard slalom medium",
+    "sessionsail": "Point-7 slalom ac1  7.8",
+    "sessionfin": "C-Fins slalom  36",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390182&uid=25852"
+  },
+  {
+    "ROWID": 209,
+    "event_id": 748,
+    "eventname": "2022 Dunkerbeck Speed Challenge \u201cThe Summer Edition\u201d",
     "speed": 19.979376000000002,
     "type": "speed_hour",
     "username": "Stef Muizelaar",
@@ -3328,7 +3344,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389982&uid=22319"
   },
   {
-    "ROWID": 209,
+    "ROWID": 210,
     "event_id": 748,
     "eventname": "2022 Dunkerbeck Speed Challenge \u201cThe Summer Edition\u201d",
     "speed": 19.953447999999998,
@@ -3344,7 +3360,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390022&uid=1079"
   },
   {
-    "ROWID": 210,
+    "ROWID": 211,
     "event_id": 748,
     "eventname": "2022 Dunkerbeck Speed Challenge \u201cThe Summer Edition\u201d",
     "speed": 19.894184000000003,
@@ -3360,7 +3376,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390102&uid=24994"
   },
   {
-    "ROWID": 211,
+    "ROWID": 212,
     "event_id": 748,
     "eventname": "2022 Dunkerbeck Speed Challenge \u201cThe Summer Edition\u201d",
     "speed": 19.821956,
@@ -3376,7 +3392,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389448&uid=25638"
   },
   {
-    "ROWID": 212,
+    "ROWID": 213,
     "event_id": 748,
     "eventname": "2022 Dunkerbeck Speed Challenge \u201cThe Summer Edition\u201d",
     "speed": 19.818252,
@@ -3392,7 +3408,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389441&uid=25133"
   },
   {
-    "ROWID": 213,
+    "ROWID": 214,
     "event_id": 748,
     "eventname": "2022 Dunkerbeck Speed Challenge \u201cThe Summer Edition\u201d",
     "speed": 19.773804000000002,
@@ -3408,7 +3424,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=370018&uid=22394"
   },
   {
-    "ROWID": 214,
+    "ROWID": 215,
     "event_id": 748,
     "eventname": "2022 Dunkerbeck Speed Challenge \u201cThe Summer Edition\u201d",
     "speed": 19.766396,
@@ -3424,7 +3440,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389478&uid=25933"
   },
   {
-    "ROWID": 215,
+    "ROWID": 216,
     "event_id": 748,
     "eventname": "2022 Dunkerbeck Speed Challenge \u201cThe Summer Edition\u201d",
     "speed": 19.512672,
@@ -3440,7 +3456,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390055&uid=23375"
   },
   {
-    "ROWID": 216,
+    "ROWID": 217,
     "event_id": 748,
     "eventname": "2022 Dunkerbeck Speed Challenge \u201cThe Summer Edition\u201d",
     "speed": 19.444148000000002,
@@ -3456,7 +3472,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390123&uid=587"
   },
   {
-    "ROWID": 217,
+    "ROWID": 218,
     "event_id": 748,
     "eventname": "2022 Dunkerbeck Speed Challenge \u201cThe Summer Edition\u201d",
     "speed": 19.442296,
@@ -3472,7 +3488,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389357&uid=24274"
   },
   {
-    "ROWID": 218,
+    "ROWID": 219,
     "event_id": 748,
     "eventname": "2022 Dunkerbeck Speed Challenge \u201cThe Summer Edition\u201d",
     "speed": 19.401552000000002,
@@ -3488,7 +3504,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389506&uid=5714"
   },
   {
-    "ROWID": 219,
+    "ROWID": 220,
     "event_id": 748,
     "eventname": "2022 Dunkerbeck Speed Challenge \u201cThe Summer Edition\u201d",
     "speed": 19.314508,
@@ -3504,7 +3520,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386959&uid=24002"
   },
   {
-    "ROWID": 220,
+    "ROWID": 221,
     "event_id": 748,
     "eventname": "2022 Dunkerbeck Speed Challenge \u201cThe Summer Edition\u201d",
     "speed": 19.231168,
@@ -3520,7 +3536,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389816&uid=24150"
   },
   {
-    "ROWID": 221,
+    "ROWID": 222,
     "event_id": 748,
     "eventname": "2022 Dunkerbeck Speed Challenge \u201cThe Summer Edition\u201d",
     "speed": 19.188572,
@@ -3536,7 +3552,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389790&uid=2543"
   },
   {
-    "ROWID": 222,
+    "ROWID": 223,
     "event_id": 748,
     "eventname": "2022 Dunkerbeck Speed Challenge \u201cThe Summer Edition\u201d",
     "speed": 19.15894,
@@ -3552,7 +3568,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389514&uid=24134"
   },
   {
-    "ROWID": 223,
+    "ROWID": 224,
     "event_id": 748,
     "eventname": "2022 Dunkerbeck Speed Challenge \u201cThe Summer Edition\u201d",
     "speed": 19.06634,
@@ -3568,7 +3584,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389701&uid=4125"
   },
   {
-    "ROWID": 224,
+    "ROWID": 225,
     "event_id": 748,
     "eventname": "2022 Dunkerbeck Speed Challenge \u201cThe Summer Edition\u201d",
     "speed": 18.981148,
@@ -3584,7 +3600,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390076&uid=4927"
   },
   {
-    "ROWID": 225,
+    "ROWID": 226,
     "event_id": 748,
     "eventname": "2022 Dunkerbeck Speed Challenge \u201cThe Summer Edition\u201d",
     "speed": 18.936700000000002,
@@ -3600,7 +3616,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386326&uid=25630"
   },
   {
-    "ROWID": 226,
+    "ROWID": 227,
     "event_id": 748,
     "eventname": "2022 Dunkerbeck Speed Challenge \u201cThe Summer Edition\u201d",
     "speed": 18.916328,
@@ -3616,7 +3632,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389887&uid=24151"
   },
   {
-    "ROWID": 227,
+    "ROWID": 228,
     "event_id": 748,
     "eventname": "2022 Dunkerbeck Speed Challenge \u201cThe Summer Edition\u201d",
     "speed": 18.77002,
@@ -3632,7 +3648,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390012&uid=23716"
   },
   {
-    "ROWID": 228,
+    "ROWID": 229,
     "event_id": 748,
     "eventname": "2022 Dunkerbeck Speed Challenge \u201cThe Summer Edition\u201d",
     "speed": 18.67742,
@@ -3648,7 +3664,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386320&uid=24106"
   },
   {
-    "ROWID": 229,
+    "ROWID": 230,
     "event_id": 748,
     "eventname": "2022 Dunkerbeck Speed Challenge \u201cThe Summer Edition\u201d",
     "speed": 18.601488000000003,
@@ -3664,7 +3680,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390064&uid=2119"
   },
   {
-    "ROWID": 230,
+    "ROWID": 231,
     "event_id": 748,
     "eventname": "2022 Dunkerbeck Speed Challenge \u201cThe Summer Edition\u201d",
     "speed": 18.564448,
@@ -3680,7 +3696,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386818&uid=1557"
   },
   {
-    "ROWID": 231,
+    "ROWID": 232,
     "event_id": 748,
     "eventname": "2022 Dunkerbeck Speed Challenge \u201cThe Summer Edition\u201d",
     "speed": 18.562596,
@@ -3696,7 +3712,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389421&uid=6328"
   },
   {
-    "ROWID": 232,
+    "ROWID": 233,
     "event_id": 748,
     "eventname": "2022 Dunkerbeck Speed Challenge \u201cThe Summer Edition\u201d",
     "speed": 18.52,
@@ -3712,7 +3728,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=387787&uid=22163"
   },
   {
-    "ROWID": 233,
+    "ROWID": 234,
     "event_id": 748,
     "eventname": "2022 Dunkerbeck Speed Challenge \u201cThe Summer Edition\u201d",
     "speed": 18.43666,
@@ -3728,7 +3744,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390087&uid=10573"
   },
   {
-    "ROWID": 234,
+    "ROWID": 235,
     "event_id": 748,
     "eventname": "2022 Dunkerbeck Speed Challenge \u201cThe Summer Edition\u201d",
     "speed": 18.407028,
@@ -3744,7 +3760,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386311&uid=5244"
   },
   {
-    "ROWID": 235,
+    "ROWID": 236,
     "event_id": 748,
     "eventname": "2022 Dunkerbeck Speed Challenge \u201cThe Summer Edition\u201d",
     "speed": 18.405176,
@@ -3760,7 +3776,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390089&uid=26011"
   },
   {
-    "ROWID": 236,
+    "ROWID": 237,
     "event_id": 748,
     "eventname": "2022 Dunkerbeck Speed Challenge \u201cThe Summer Edition\u201d",
     "speed": 18.358876000000002,
@@ -3776,7 +3792,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386310&uid=25617"
   },
   {
-    "ROWID": 237,
+    "ROWID": 238,
     "event_id": 748,
     "eventname": "2022 Dunkerbeck Speed Challenge \u201cThe Summer Edition\u201d",
     "speed": 18.332948,
@@ -3792,7 +3808,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389994&uid=4910"
   },
   {
-    "ROWID": 238,
+    "ROWID": 239,
     "event_id": 748,
     "eventname": "2022 Dunkerbeck Speed Challenge \u201cThe Summer Edition\u201d",
     "speed": 18.314428,
@@ -3808,7 +3824,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386857&uid=4597"
   },
   {
-    "ROWID": 239,
+    "ROWID": 240,
     "event_id": 748,
     "eventname": "2022 Dunkerbeck Speed Challenge \u201cThe Summer Edition\u201d",
     "speed": 18.282944,
@@ -3824,7 +3840,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390013&uid=24486"
   },
   {
-    "ROWID": 240,
+    "ROWID": 241,
     "event_id": 748,
     "eventname": "2022 Dunkerbeck Speed Challenge \u201cThe Summer Edition\u201d",
     "speed": 18.119968000000004,
@@ -3840,7 +3856,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389947&uid=24625"
   },
   {
-    "ROWID": 241,
+    "ROWID": 242,
     "event_id": 748,
     "eventname": "2022 Dunkerbeck Speed Challenge \u201cThe Summer Edition\u201d",
     "speed": 18.003292000000002,
@@ -3856,7 +3872,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=387079&uid=24064"
   },
   {
-    "ROWID": 242,
+    "ROWID": 243,
     "event_id": 748,
     "eventname": "2022 Dunkerbeck Speed Challenge \u201cThe Summer Edition\u201d",
     "speed": 17.95514,
@@ -3872,7 +3888,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389461&uid=6198"
   },
   {
-    "ROWID": 243,
+    "ROWID": 244,
     "event_id": 748,
     "eventname": "2022 Dunkerbeck Speed Challenge \u201cThe Summer Edition\u201d",
     "speed": 17.873652,
@@ -3888,7 +3904,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389973&uid=22956"
   },
   {
-    "ROWID": 244,
+    "ROWID": 245,
     "event_id": 748,
     "eventname": "2022 Dunkerbeck Speed Challenge \u201cThe Summer Edition\u201d",
     "speed": 17.823648000000002,
@@ -3904,7 +3920,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390028&uid=23835"
   },
   {
-    "ROWID": 245,
+    "ROWID": 246,
     "event_id": 748,
     "eventname": "2022 Dunkerbeck Speed Challenge \u201cThe Summer Edition\u201d",
     "speed": 17.758828,
@@ -3920,7 +3936,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389494&uid=24248"
   },
   {
-    "ROWID": 246,
+    "ROWID": 247,
     "event_id": 748,
     "eventname": "2022 Dunkerbeck Speed Challenge \u201cThe Summer Edition\u201d",
     "speed": 17.681044000000004,
@@ -3936,7 +3952,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389297&uid=19419"
   },
   {
-    "ROWID": 247,
+    "ROWID": 248,
     "event_id": 748,
     "eventname": "2022 Dunkerbeck Speed Challenge \u201cThe Summer Edition\u201d",
     "speed": 17.63104,
@@ -3952,7 +3968,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=387311&uid=2814"
   },
   {
-    "ROWID": 248,
+    "ROWID": 249,
     "event_id": 748,
     "eventname": "2022 Dunkerbeck Speed Challenge \u201cThe Summer Edition\u201d",
     "speed": 17.577332000000002,
@@ -3968,7 +3984,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389484&uid=8491"
   },
   {
-    "ROWID": 249,
+    "ROWID": 250,
     "event_id": 748,
     "eventname": "2022 Dunkerbeck Speed Challenge \u201cThe Summer Edition\u201d",
     "speed": 17.56622,
@@ -3984,7 +4000,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390131&uid=3040"
   },
   {
-    "ROWID": 250,
+    "ROWID": 251,
     "event_id": 748,
     "eventname": "2022 Dunkerbeck Speed Challenge \u201cThe Summer Edition\u201d",
     "speed": 17.456952,
@@ -4000,7 +4016,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389464&uid=5271"
   },
   {
-    "ROWID": 251,
+    "ROWID": 252,
     "event_id": 748,
     "eventname": "2022 Dunkerbeck Speed Challenge \u201cThe Summer Edition\u201d",
     "speed": 17.39028,
@@ -4016,7 +4032,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389395&uid=22540"
   },
   {
-    "ROWID": 252,
+    "ROWID": 253,
     "event_id": 748,
     "eventname": "2022 Dunkerbeck Speed Challenge \u201cThe Summer Edition\u201d",
     "speed": 17.336572,
@@ -4032,7 +4048,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389511&uid=91"
   },
   {
-    "ROWID": 253,
+    "ROWID": 254,
     "event_id": 748,
     "eventname": "2022 Dunkerbeck Speed Challenge \u201cThe Summer Edition\u201d",
     "speed": 17.221748,
@@ -4048,7 +4064,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386313&uid=23182"
   },
   {
-    "ROWID": 254,
+    "ROWID": 255,
     "event_id": 748,
     "eventname": "2022 Dunkerbeck Speed Challenge \u201cThe Summer Edition\u201d",
     "speed": 17.182856,
@@ -4064,7 +4080,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386964&uid=24090"
   },
   {
-    "ROWID": 255,
+    "ROWID": 256,
     "event_id": 748,
     "eventname": "2022 Dunkerbeck Speed Challenge \u201cThe Summer Edition\u201d",
     "speed": 16.88098,
@@ -4080,7 +4096,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389385&uid=480"
   },
   {
-    "ROWID": 256,
+    "ROWID": 257,
     "event_id": 748,
     "eventname": "2022 Dunkerbeck Speed Challenge \u201cThe Summer Edition\u201d",
     "speed": 16.88098,
@@ -4096,7 +4112,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386296&uid=16739"
   },
   {
-    "ROWID": 257,
+    "ROWID": 258,
     "event_id": 748,
     "eventname": "2022 Dunkerbeck Speed Challenge \u201cThe Summer Edition\u201d",
     "speed": 16.838384,
@@ -4112,7 +4128,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386317&uid=26191"
   },
   {
-    "ROWID": 258,
+    "ROWID": 259,
     "event_id": 748,
     "eventname": "2022 Dunkerbeck Speed Challenge \u201cThe Summer Edition\u201d",
     "speed": 16.7143,
@@ -4128,7 +4144,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389524&uid=24998"
   },
   {
-    "ROWID": 259,
+    "ROWID": 260,
     "event_id": 748,
     "eventname": "2022 Dunkerbeck Speed Challenge \u201cThe Summer Edition\u201d",
     "speed": 16.712448,
@@ -4144,7 +4160,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386319&uid=25977"
   },
   {
-    "ROWID": 260,
+    "ROWID": 261,
     "event_id": 748,
     "eventname": "2022 Dunkerbeck Speed Challenge \u201cThe Summer Edition\u201d",
     "speed": 16.480947999999998,
@@ -4160,7 +4176,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389413&uid=713"
   },
   {
-    "ROWID": 261,
+    "ROWID": 262,
     "event_id": 748,
     "eventname": "2022 Dunkerbeck Speed Challenge \u201cThe Summer Edition\u201d",
     "speed": 16.477244000000002,
@@ -4176,7 +4192,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389712&uid=5386"
   },
   {
-    "ROWID": 262,
+    "ROWID": 263,
     "event_id": 748,
     "eventname": "2022 Dunkerbeck Speed Challenge \u201cThe Summer Edition\u201d",
     "speed": 16.471688,
@@ -4192,7 +4208,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390109&uid=4095"
   },
   {
-    "ROWID": 263,
+    "ROWID": 264,
     "event_id": 748,
     "eventname": "2022 Dunkerbeck Speed Challenge \u201cThe Summer Edition\u201d",
     "speed": 16.406868,
@@ -4208,7 +4224,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389850&uid=5344"
   },
   {
-    "ROWID": 264,
+    "ROWID": 265,
     "event_id": 748,
     "eventname": "2022 Dunkerbeck Speed Challenge \u201cThe Summer Edition\u201d",
     "speed": 16.351308000000003,
@@ -4224,7 +4240,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389695&uid=25350"
   },
   {
-    "ROWID": 265,
+    "ROWID": 266,
     "event_id": 748,
     "eventname": "2022 Dunkerbeck Speed Challenge \u201cThe Summer Edition\u201d",
     "speed": 16.303156,
@@ -4240,7 +4256,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386706&uid=23079"
   },
   {
-    "ROWID": 266,
+    "ROWID": 267,
     "event_id": 748,
     "eventname": "2022 Dunkerbeck Speed Challenge \u201cThe Summer Edition\u201d",
     "speed": 16.262412,
@@ -4256,7 +4272,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390038&uid=23639"
   },
   {
-    "ROWID": 267,
+    "ROWID": 268,
     "event_id": 748,
     "eventname": "2022 Dunkerbeck Speed Challenge \u201cThe Summer Edition\u201d",
     "speed": 16.19574,
@@ -4272,7 +4288,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389386&uid=870"
   },
   {
-    "ROWID": 268,
+    "ROWID": 269,
     "event_id": 748,
     "eventname": "2022 Dunkerbeck Speed Challenge \u201cThe Summer Edition\u201d",
     "speed": 16.129068,
@@ -4288,7 +4304,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389381&uid=25129"
   },
   {
-    "ROWID": 269,
+    "ROWID": 270,
     "event_id": 748,
     "eventname": "2022 Dunkerbeck Speed Challenge \u201cThe Summer Edition\u201d",
     "speed": 16.104992,
@@ -4304,7 +4320,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389997&uid=26333"
   },
   {
-    "ROWID": 270,
+    "ROWID": 271,
     "event_id": 748,
     "eventname": "2022 Dunkerbeck Speed Challenge \u201cThe Summer Edition\u201d",
     "speed": 16.025356000000002,
@@ -4320,7 +4336,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390130&uid=25071"
   },
   {
-    "ROWID": 271,
+    "ROWID": 272,
     "event_id": 748,
     "eventname": "2022 Dunkerbeck Speed Challenge \u201cThe Summer Edition\u201d",
     "speed": 15.806820000000002,
@@ -4336,7 +4352,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390169&uid=26136"
   },
   {
-    "ROWID": 272,
+    "ROWID": 273,
     "event_id": 748,
     "eventname": "2022 Dunkerbeck Speed Challenge \u201cThe Summer Edition\u201d",
     "speed": 15.788300000000001,
@@ -4352,7 +4368,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390128&uid=19463"
   },
   {
-    "ROWID": 273,
+    "ROWID": 274,
     "event_id": 748,
     "eventname": "2022 Dunkerbeck Speed Challenge \u201cThe Summer Edition\u201d",
     "speed": 15.758668000000002,
@@ -4368,7 +4384,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390052&uid=3309"
   },
   {
-    "ROWID": 274,
+    "ROWID": 275,
     "event_id": 748,
     "eventname": "2022 Dunkerbeck Speed Challenge \u201cThe Summer Edition\u201d",
     "speed": 15.686440000000003,
@@ -4384,7 +4400,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386268&uid=18230"
   },
   {
-    "ROWID": 275,
+    "ROWID": 276,
     "event_id": 748,
     "eventname": "2022 Dunkerbeck Speed Challenge \u201cThe Summer Edition\u201d",
     "speed": 15.641992,
@@ -4400,7 +4416,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=388216&uid=2358"
   },
   {
-    "ROWID": 276,
+    "ROWID": 277,
     "event_id": 748,
     "eventname": "2022 Dunkerbeck Speed Challenge \u201cThe Summer Edition\u201d",
     "speed": 15.504944,
@@ -4416,7 +4432,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390000&uid=23646"
   },
   {
-    "ROWID": 277,
+    "ROWID": 278,
     "event_id": 748,
     "eventname": "2022 Dunkerbeck Speed Challenge \u201cThe Summer Edition\u201d",
     "speed": 14.962308000000002,
@@ -4432,7 +4448,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389417&uid=23965"
   },
   {
-    "ROWID": 278,
+    "ROWID": 279,
     "event_id": 748,
     "eventname": "2022 Dunkerbeck Speed Challenge \u201cThe Summer Edition\u201d",
     "speed": 14.875264000000001,
@@ -4448,7 +4464,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390018&uid=3177"
   },
   {
-    "ROWID": 279,
+    "ROWID": 280,
     "event_id": 748,
     "eventname": "2022 Dunkerbeck Speed Challenge \u201cThe Summer Edition\u201d",
     "speed": 14.810444,
@@ -4464,7 +4480,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389716&uid=23796"
   },
   {
-    "ROWID": 280,
+    "ROWID": 281,
     "event_id": 748,
     "eventname": "2022 Dunkerbeck Speed Challenge \u201cThe Summer Edition\u201d",
     "speed": 14.580796000000001,
@@ -4480,7 +4496,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389748&uid=26347"
   },
   {
-    "ROWID": 281,
+    "ROWID": 282,
     "event_id": 748,
     "eventname": "2022 Dunkerbeck Speed Challenge \u201cThe Summer Edition\u201d",
     "speed": 14.419672,
@@ -4496,7 +4512,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389862&uid=25739"
   },
   {
-    "ROWID": 282,
+    "ROWID": 283,
     "event_id": 748,
     "eventname": "2022 Dunkerbeck Speed Challenge \u201cThe Summer Edition\u201d",
     "speed": 14.264104000000001,
@@ -4512,7 +4528,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389508&uid=4246"
   },
   {
-    "ROWID": 283,
+    "ROWID": 284,
     "event_id": 748,
     "eventname": "2022 Dunkerbeck Speed Challenge \u201cThe Summer Edition\u201d",
     "speed": 14.236324000000002,
@@ -4528,7 +4544,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390152&uid=22378"
   },
   {
-    "ROWID": 284,
+    "ROWID": 285,
     "event_id": 748,
     "eventname": "2022 Dunkerbeck Speed Challenge \u201cThe Summer Edition\u201d",
     "speed": 14.017788000000001,
@@ -4544,7 +4560,23 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389897&uid=24502"
   },
   {
-    "ROWID": 285,
+    "ROWID": 286,
+    "event_id": 748,
+    "eventname": "2022 Dunkerbeck Speed Challenge \u201cThe Summer Edition\u201d",
+    "speed": 13.943708,
+    "type": "speed_hour",
+    "username": "Claus Falconi",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Veddelev",
+    "sessionboard": "FMX Invictus 114",
+    "sessionsail": "Severne Mach4  7.8",
+    "sessionfin": "King Fins E5. S  36",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390179&uid=2678"
+  },
+  {
+    "ROWID": 287,
     "event_id": 748,
     "eventname": "2022 Dunkerbeck Speed Challenge \u201cThe Summer Edition\u201d",
     "speed": 13.712208,
@@ -4560,7 +4592,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386301&uid=23632"
   },
   {
-    "ROWID": 286,
+    "ROWID": 288,
     "event_id": 748,
     "eventname": "2022 Dunkerbeck Speed Challenge \u201cThe Summer Edition\u201d",
     "speed": 13.693688000000002,
@@ -4576,23 +4608,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389978&uid=25523"
   },
   {
-    "ROWID": 287,
-    "event_id": 748,
-    "eventname": "2022 Dunkerbeck Speed Challenge \u201cThe Summer Edition\u201d",
-    "speed": 13.358476000000001,
-    "type": "speed_hour",
-    "username": "Franek Debowski",
-    "ageclass": "Junior plus (15-18)",
-    "weightclass": "71-80",
-    "sexe": "Men",
-    "spotname": "Sopot",
-    "sessionboard": "Starboard Foil Slalom 91",
-    "sessionsail": "Point-7 ac1  8.6",
-    "sessionfin": "- Exploder  95",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=388281&uid=25852"
-  },
-  {
-    "ROWID": 288,
+    "ROWID": 289,
     "event_id": 748,
     "eventname": "2022 Dunkerbeck Speed Challenge \u201cThe Summer Edition\u201d",
     "speed": 13.345512000000001,
@@ -4608,7 +4624,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389668&uid=96"
   },
   {
-    "ROWID": 289,
+    "ROWID": 290,
     "event_id": 748,
     "eventname": "2022 Dunkerbeck Speed Challenge \u201cThe Summer Edition\u201d",
     "speed": 13.245504,
@@ -4622,22 +4638,6 @@
     "sessionsail": "Point-7 ACZ  8.5",
     "sessionfin": "Z-fins ZSL 44 s-  44",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389725&uid=24498"
-  },
-  {
-    "ROWID": 290,
-    "event_id": 748,
-    "eventname": "2022 Dunkerbeck Speed Challenge \u201cThe Summer Edition\u201d",
-    "speed": 13.215872000000001,
-    "type": "speed_hour",
-    "username": "Claus Falconi",
-    "ageclass": "Grand Master (51-60)",
-    "weightclass": "81-90",
-    "sexe": "Men",
-    "spotname": "Veddelev",
-    "sessionboard": "FMX Invictus 114",
-    "sessionsail": "Severne Mach4   7.0",
-    "sessionfin": "King Fins E5. S  36",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=387609&uid=2678"
   },
   {
     "ROWID": 291,
