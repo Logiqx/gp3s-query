@@ -355,6 +355,22 @@
     "ROWID": 23,
     "event_id": 719,
     "eventname": "Norwegian speedmaster - 2022",
+    "speed": 41.92557600000001,
+    "type": "speed_500",
+    "username": "Lars Gimse",
+    "ageclass": "Master (36-50)",
+    "weightclass": "91-100",
+    "sexe": "Men",
+    "spotname": "Langnes, Troms\u00f8",
+    "sessionboard": "Tabou Rocket 80",
+    "sessionsail": "Severne Mach 1  8.6",
+    "sessionfin": "not defined -  0",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390062&uid=24085"
+  },
+  {
+    "ROWID": 24,
+    "event_id": 719,
+    "eventname": "Norwegian speedmaster - 2022",
     "speed": 40.682884,
     "type": "speed_500",
     "username": "Tore Hvideberg",
@@ -368,7 +384,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389818&uid=25617"
   },
   {
-    "ROWID": 24,
+    "ROWID": 25,
     "event_id": 719,
     "eventname": "Norwegian speedmaster - 2022",
     "speed": 40.31804,
@@ -382,22 +398,6 @@
     "sessionsail": "Point-7 F1e  7.6",
     "sessionfin": "Z-fins Z-SLM  37",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386057&uid=19447"
-  },
-  {
-    "ROWID": 25,
-    "event_id": 719,
-    "eventname": "Norwegian speedmaster - 2022",
-    "speed": 40.088392000000006,
-    "type": "speed_500",
-    "username": "Lars Gimse",
-    "ageclass": "Master (36-50)",
-    "weightclass": "91-100",
-    "sexe": "Men",
-    "spotname": "Langnes, Troms\u00f8",
-    "sessionboard": "Tabou Rocket 80",
-    "sessionsail": "not defined   0.0",
-    "sessionfin": "not defined -  0",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=381461&uid=24085"
   },
   {
     "ROWID": 26,

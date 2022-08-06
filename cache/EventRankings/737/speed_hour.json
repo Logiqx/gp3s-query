@@ -211,6 +211,22 @@
     "ROWID": 14,
     "event_id": 737,
     "eventname": "2022 Spanish Speed Challenge",
+    "speed": 23.581516,
+    "type": "speed_hour",
+    "username": "Bjorn Dunkerbeck",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "101-110",
+    "sexe": "Men",
+    "spotname": "fuerteventura, costa calma beach",
+    "sessionboard": "Starboard Isonic 60 Carbon reflex",
+    "sessionsail": "Severne Mach 4  6.2",
+    "sessionfin": "Z-fins Zfins  32",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386323&uid=6023"
+  },
+  {
+    "ROWID": 15,
+    "event_id": 737,
+    "eventname": "2022 Spanish Speed Challenge",
     "speed": 23.083328,
     "type": "speed_hour",
     "username": "Raimundo Sala Albert",
@@ -224,7 +240,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389730&uid=22440"
   },
   {
-    "ROWID": 15,
+    "ROWID": 16,
     "event_id": 737,
     "eventname": "2022 Spanish Speed Challenge",
     "speed": 21.529500000000002,
@@ -240,7 +256,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=378364&uid=6182"
   },
   {
-    "ROWID": 16,
+    "ROWID": 17,
     "event_id": 737,
     "eventname": "2022 Spanish Speed Challenge",
     "speed": 20.05716,
@@ -256,7 +272,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=375237&uid=26053"
   },
   {
-    "ROWID": 17,
+    "ROWID": 18,
     "event_id": 737,
     "eventname": "2022 Spanish Speed Challenge",
     "speed": 17.088404,
@@ -272,7 +288,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389254&uid=16746"
   },
   {
-    "ROWID": 18,
+    "ROWID": 19,
     "event_id": 737,
     "eventname": "2022 Spanish Speed Challenge",
     "speed": 16.471688,
@@ -288,7 +304,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=385151&uid=22584"
   },
   {
-    "ROWID": 19,
+    "ROWID": 20,
     "event_id": 737,
     "eventname": "2022 Spanish Speed Challenge",
     "speed": 15.942016000000002,
@@ -304,7 +320,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=381754&uid=22002"
   },
   {
-    "ROWID": 20,
+    "ROWID": 21,
     "event_id": 737,
     "eventname": "2022 Spanish Speed Challenge",
     "speed": 15.906828,
@@ -320,7 +336,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=384598&uid=16739"
   },
   {
-    "ROWID": 21,
+    "ROWID": 22,
     "event_id": 737,
     "eventname": "2022 Spanish Speed Challenge",
     "speed": 15.069724,
@@ -336,7 +352,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=385382&uid=25284"
   },
   {
-    "ROWID": 22,
+    "ROWID": 23,
     "event_id": 737,
     "eventname": "2022 Spanish Speed Challenge",
     "speed": 14.465972,
@@ -352,7 +368,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=374288&uid=26004"
   },
   {
-    "ROWID": 23,
+    "ROWID": 24,
     "event_id": 737,
     "eventname": "2022 Spanish Speed Challenge",
     "speed": 11.582408,
@@ -368,7 +384,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=383081&uid=25290"
   },
   {
-    "ROWID": 24,
+    "ROWID": 25,
     "event_id": 737,
     "eventname": "2022 Spanish Speed Challenge",
     "speed": 0.0,

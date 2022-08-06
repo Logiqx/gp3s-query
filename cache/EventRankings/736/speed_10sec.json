@@ -131,22 +131,6 @@
     "ROWID": 9,
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
-    "speed": 71.833524,
-    "type": "speed_10sec",
-    "username": "Johnny Tuijn",
-    "ageclass": "Grand Master (51-60)",
-    "weightclass": "71-80",
-    "sexe": "Men",
-    "spotname": "Karpathos",
-    "sessionboard": "AV Modena Slalom 60",
-    "sessionsail": "Point-7 AC1  6.2",
-    "sessionfin": "Finish Fast speed/slalom   29",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386005&uid=2503"
-  },
-  {
-    "ROWID": 10,
-    "event_id": 736,
-    "eventname": "2022 Odyssey of Speed",
     "speed": 70.757512,
     "type": "speed_10sec",
     "username": "Marco Bos",
@@ -160,7 +144,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=385148&uid=8545"
   },
   {
-    "ROWID": 11,
+    "ROWID": 10,
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
     "speed": 70.222284,
@@ -174,6 +158,22 @@
     "sessionsail": "Neilpryde RS RACING EVO XII  6.6",
     "sessionfin": "Z-fins asy s  28",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=387885&uid=4541"
+  },
+  {
+    "ROWID": 11,
+    "event_id": 736,
+    "eventname": "2022 Odyssey of Speed",
+    "speed": 69.075896,
+    "type": "speed_10sec",
+    "username": "Johnny Tuijn",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Karpathos",
+    "sessionboard": "AV Modena Slalom 60",
+    "sessionsail": "Point-7 AC1  6.2",
+    "sessionfin": "Finish Fast speed/slalom   29",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386321&uid=2503"
   },
   {
     "ROWID": 12,
@@ -547,7 +547,7 @@
     "ROWID": 35,
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
-    "speed": 54.176556000000005,
+    "speed": 55.817428,
     "type": "speed_10sec",
     "username": "Giorgos Stogias",
     "ageclass": "Grand Master (51-60)",
@@ -557,7 +557,7 @@
     "sessionboard": "Tabou Speedster 69 Ltd",
     "sessionsail": "Loftsails Racing Blade  7.0",
     "sessionfin": "- Chopper ChC  36",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389939&uid=5658"
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390085&uid=5658"
   },
   {
     "ROWID": 36,

@@ -99,22 +99,6 @@
     "ROWID": 7,
     "event_id": 730,
     "eventname": "Surf like a dude Zuidlaardermeer Speed Challenge 2022",
-    "speed": 55.874840000000006,
-    "type": "speed_500",
-    "username": "Dennis Beumer",
-    "ageclass": "Master (36-50)",
-    "weightclass": "71-80",
-    "sexe": "Men",
-    "spotname": "Zuidlaardermeer",
-    "sessionboard": "Starboard Isonic 97 Carbon",
-    "sessionsail": "Severne Mach 3  7.8",
-    "sessionfin": "Sonntag Fins GPS_6  33",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=380996&uid=22984"
-  },
-  {
-    "ROWID": 8,
-    "event_id": 730,
-    "eventname": "Surf like a dude Zuidlaardermeer Speed Challenge 2022",
     "speed": 54.150628000000005,
     "type": "speed_500",
     "username": "Peter kuiter",
@@ -128,7 +112,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=383699&uid=23407"
   },
   {
-    "ROWID": 9,
+    "ROWID": 8,
     "event_id": 730,
     "eventname": "Surf like a dude Zuidlaardermeer Speed Challenge 2022",
     "speed": 53.937648,
@@ -142,6 +126,22 @@
     "sessionsail": "Severne Mach 1  5.5",
     "sessionfin": "Finish Fast speed/ slalom  30",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=375962&uid=4690"
+  },
+  {
+    "ROWID": 9,
+    "event_id": 730,
+    "eventname": "Surf like a dude Zuidlaardermeer Speed Challenge 2022",
+    "speed": 53.82838,
+    "type": "speed_500",
+    "username": "Dennis Beumer",
+    "ageclass": "Master (36-50)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "IJsselmeer - Kornwerderzand",
+    "sessionboard": "Starboard Isonic ",
+    "sessionsail": "Severne Mach 3  7.8",
+    "sessionfin": "Sonntag Fins GPS_6  33",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386316&uid=22984"
   },
   {
     "ROWID": 10,

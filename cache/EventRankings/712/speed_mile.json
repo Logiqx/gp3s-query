@@ -3,22 +3,6 @@
     "ROWID": 1,
     "event_id": 712,
     "eventname": "2021 Red Bull Bora Challenge",
-    "speed": 59.054724,
-    "type": "speed_mile",
-    "username": "Bjorn Dunkerbeck",
-    "ageclass": "Grand Master (51-60)",
-    "weightclass": "101-110",
-    "sexe": "Men",
-    "spotname": "Barcola - Trieste",
-    "sessionboard": "AV Modena Slalom 62",
-    "sessionsail": "Severne Mach 4  7.0",
-    "sessionfin": "Custom speed  28",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=368284&uid=6023"
-  },
-  {
-    "ROWID": 2,
-    "event_id": 712,
-    "eventname": "2021 Red Bull Bora Challenge",
     "speed": 51.926376000000005,
     "type": "speed_mile",
     "username": "Roberto Coslovich",
@@ -32,7 +16,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=368344&uid=23123"
   },
   {
-    "ROWID": 3,
+    "ROWID": 2,
     "event_id": 712,
     "eventname": "2021 Red Bull Bora Challenge",
     "speed": 46.553724,
@@ -48,7 +32,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=371528&uid=23329"
   },
   {
-    "ROWID": 4,
+    "ROWID": 3,
     "event_id": 712,
     "eventname": "2021 Red Bull Bora Challenge",
     "speed": 46.396304,
@@ -62,5 +46,21 @@
     "sessionsail": "Loftsails Switchblade  5.8",
     "sessionfin": "Bugfins SLEM  32",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=387826&uid=21968"
+  },
+  {
+    "ROWID": 4,
+    "event_id": 712,
+    "eventname": "2021 Red Bull Bora Challenge",
+    "speed": 44.01278000000001,
+    "type": "speed_mile",
+    "username": "Bjorn Dunkerbeck",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "101-110",
+    "sexe": "Men",
+    "spotname": "fuerteventura, costa calma beach",
+    "sessionboard": "Starboard Isonic 60 Carbon reflex",
+    "sessionsail": "Severne Mach 4  6.2",
+    "sessionfin": "Z-fins Zfins  32",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386323&uid=6023"
   }
 ]
