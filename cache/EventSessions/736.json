@@ -10558,5 +10558,27 @@
     "sessionsail": "Point-7 AC-1 5.4,  2008",
     "sessionfin": "Zulu Umbani  32",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390135&uid=23998"
+  },
+  {
+    "session_id": 390150,
+    "session_date": "2022-08-06T00:00:00",
+    "event_id": 736,
+    "eventname": "2022 Odyssey of Speed",
+    "speed_avg": 55.745570400000005,
+    "speed_2sec": 60.141847999999996,
+    "speed_10sec": 58.836188,
+    "speed_100": 59.149176000000004,
+    "speed_250": 58.502828,
+    "speed_500": 53.398716,
+    "speed_mile": 39.129056000000006,
+    "speed_hour": 20.110868,
+    "username": "Pavlos Kapsianis",
+    "flag": "GR",
+    "sexe": "Men",
+    "spotname": "Anavissos",
+    "sessionboard": "JP Slalom 71 Pro Edition,  2021",
+    "sessionsail": "Point-7 AC1 7.1,  2022",
+    "sessionfin": "King Fins E5.M  37",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390150&uid=24816"
   }
 ]
