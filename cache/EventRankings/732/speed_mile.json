@@ -181,22 +181,6 @@
     "eventname": "2022 DBO Speed Challenge",
     "speed": 0.0,
     "type": "speed_mile",
-    "username": "Bj\u00f8rn Olesen",
-    "ageclass": "Junior (11-14)",
-    "weightclass": "0-40",
-    "sexe": "Men",
-    "spotname": "Veddelev",
-    "sessionboard": "Fanatic Grip XS",
-    "sessionsail": "Neilpryde Dragonfly  2.5",
-    "sessionfin": "Maui Ultra Fins X-Wave  26",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=374549&uid=25378"
-  },
-  {
-    "ROWID": 13,
-    "event_id": 732,
-    "eventname": "2022 DBO Speed Challenge",
-    "speed": 0.0,
-    "type": "speed_mile",
     "username": "Andrei Josephsen",
     "ageclass": "Master (36-50)",
     "weightclass": "81-90",
@@ -206,5 +190,21 @@
     "sessionsail": "Simmer Sails SCR  7.0",
     "sessionfin": "not defined -  0",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=377805&uid=25722"
+  },
+  {
+    "ROWID": 13,
+    "event_id": 732,
+    "eventname": "2022 DBO Speed Challenge",
+    "speed": 0.0,
+    "type": "speed_mile",
+    "username": "Bj\u00f8rn Olesen",
+    "ageclass": "Junior (11-14)",
+    "weightclass": "0-40",
+    "sexe": "Men",
+    "spotname": "Veddelev",
+    "sessionboard": "Fanatic Grip XS",
+    "sessionsail": "Neilpryde Dragonfly  2.5",
+    "sessionfin": "Maui Ultra Fins X-Wave  26",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=374549&uid=25378"
   }
 ]

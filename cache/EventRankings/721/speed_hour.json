@@ -99,6 +99,22 @@
     "ROWID": 7,
     "event_id": 721,
     "eventname": "2022 Gps Kraaij Challenge",
+    "speed": 23.366684000000003,
+    "type": "speed_hour",
+    "username": "Erwin Rovers",
+    "ageclass": "Master (36-50)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Kraaijenbergse plassen",
+    "sessionboard": "Fanatic Falcon 130",
+    "sessionsail": "Duotone Warp  9.0",
+    "sessionfin": "F-Hot S3  46",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386808&uid=5095"
+  },
+  {
+    "ROWID": 8,
+    "event_id": 721,
+    "eventname": "2022 Gps Kraaij Challenge",
     "speed": 22.97406,
     "type": "speed_hour",
     "username": "Bas Keijsers",
@@ -112,7 +128,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386655&uid=20620"
   },
   {
-    "ROWID": 8,
+    "ROWID": 9,
     "event_id": 721,
     "eventname": "2022 Gps Kraaij Challenge",
     "speed": 22.76108,
@@ -128,7 +144,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=373725&uid=24851"
   },
   {
-    "ROWID": 9,
+    "ROWID": 10,
     "event_id": 721,
     "eventname": "2022 Gps Kraaij Challenge",
     "speed": 20.399780000000003,
@@ -144,7 +160,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=373285&uid=23759"
   },
   {
-    "ROWID": 10,
+    "ROWID": 11,
     "event_id": 721,
     "eventname": "2022 Gps Kraaij Challenge",
     "speed": 14.851188,
@@ -160,7 +176,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390051&uid=4058"
   },
   {
-    "ROWID": 11,
+    "ROWID": 12,
     "event_id": 721,
     "eventname": "2022 Gps Kraaij Challenge",
     "speed": 14.740068,
@@ -176,7 +192,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=376218&uid=25571"
   },
   {
-    "ROWID": 12,
+    "ROWID": 13,
     "event_id": 721,
     "eventname": "2022 Gps Kraaij Challenge",
     "speed": 14.4456,
@@ -192,7 +208,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=388785&uid=5174"
   },
   {
-    "ROWID": 13,
+    "ROWID": 14,
     "event_id": 721,
     "eventname": "2022 Gps Kraaij Challenge",
     "speed": 14.258548000000001,
@@ -208,7 +224,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389068&uid=4390"
   },
   {
-    "ROWID": 14,
+    "ROWID": 15,
     "event_id": 721,
     "eventname": "2022 Gps Kraaij Challenge",
     "speed": 13.684428,
@@ -222,22 +238,6 @@
     "sessionsail": "Gun Sails Mega XR  9.9",
     "sessionfin": "King Fins 72 S--  70",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=379151&uid=1797"
-  },
-  {
-    "ROWID": 15,
-    "event_id": 721,
-    "eventname": "2022 Gps Kraaij Challenge",
-    "speed": 12.125044,
-    "type": "speed_hour",
-    "username": "Erwin Rovers",
-    "ageclass": "Master (36-50)",
-    "weightclass": "81-90",
-    "sexe": "Men",
-    "spotname": "Kraaijenbergse plassen",
-    "sessionboard": "Fanatic Falcon 130",
-    "sessionsail": "Duotone warp  7.7",
-    "sessionfin": "Black Project Fins Type RS  38",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=373104&uid=5095"
   },
   {
     "ROWID": 16,
