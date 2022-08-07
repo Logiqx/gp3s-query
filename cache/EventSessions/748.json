@@ -17840,5 +17840,27 @@
     "sessionsail": "Patrik Race+ 7.7,  2021",
     "sessionfin": "not defined -  0",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390261&uid=20629"
+  },
+  {
+    "session_id": 390267,
+    "session_date": "2022-08-05T00:00:00",
+    "event_id": 748,
+    "eventname": "2022 Dunkerbeck Speed Challenge \u201cThe Summer Edition\u201d",
+    "speed_avg": 53.3305624,
+    "speed_2sec": 58.589872,
+    "speed_10sec": 56.347100000000005,
+    "speed_100": 57.404592,
+    "speed_250": 53.965428,
+    "speed_500": 50.3744,
+    "speed_mile": 40.682884,
+    "speed_hour": 26.485452000000002,
+    "username": "Jan Zahradn\u00edcek",
+    "flag": "CZ",
+    "sexe": "Men",
+    "spotname": "Nechranice",
+    "sessionboard": "RRD X-Fire 129 LTD V11,  2019",
+    "sessionsail": "Point-7 ac1 8.6,  2022",
+    "sessionfin": "Custom Chopper Fins CHC  45",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390267&uid=23033"
   }
 ]

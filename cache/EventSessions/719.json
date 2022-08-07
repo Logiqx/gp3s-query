@@ -7038,5 +7038,27 @@
     "sessionsail": "Simmer Sails Apex 5.3,  2018",
     "sessionfin": "Select FX  33",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390264&uid=22339"
+  },
+  {
+    "session_id": 390270,
+    "session_date": "2022-08-07T00:00:00",
+    "event_id": 719,
+    "eventname": "Norwegian speedmaster - 2022",
+    "speed_avg": 42.574146400000004,
+    "speed_2sec": 47.407496,
+    "speed_10sec": 45.733288,
+    "speed_100": 46.224068,
+    "speed_250": 38.391960000000005,
+    "speed_500": 36.875172000000006,
+    "speed_mile": 0.0,
+    "speed_hour": 12.180604,
+    "username": "Stig Bremerthun Sv\u00e5sand",
+    "flag": "NO",
+    "sexe": "Men",
+    "spotname": "Straumsundet",
+    "sessionboard": "Starboard Futura Carbon 117L,  2019",
+    "sessionsail": "Severne NCX 7.5,  2019",
+    "sessionfin": "Starboard Drake Slalom DW  42",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390270&uid=25195"
   }
 ]
