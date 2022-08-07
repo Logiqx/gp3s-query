@@ -131,22 +131,6 @@
     "ROWID": 9,
     "event_id": 740,
     "eventname": "2022 Funsport Makkum GPS Speed Challenge",
-    "speed": 47.42972,
-    "type": "speed_mile",
-    "username": "Paul Salomons",
-    "ageclass": "Master (36-50)",
-    "weightclass": "61-70",
-    "sexe": "Men",
-    "spotname": "IJsselmeer - De Houw",
-    "sessionboard": "Fanatic Falcon TE 90",
-    "sessionsail": "KA Sails Race  7.0",
-    "sessionfin": "Tribal Fin Slalom MK2  30",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386156&uid=3078"
-  },
-  {
-    "ROWID": 10,
-    "event_id": 740,
-    "eventname": "2022 Funsport Makkum GPS Speed Challenge",
     "speed": 47.366752000000005,
     "type": "speed_mile",
     "username": "Wessel Douma",
@@ -160,7 +144,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=380880&uid=4910"
   },
   {
-    "ROWID": 11,
+    "ROWID": 10,
     "event_id": 740,
     "eventname": "2022 Funsport Makkum GPS Speed Challenge",
     "speed": 47.116732,
@@ -174,6 +158,22 @@
     "sessionsail": "Severne MACH 4  7.8",
     "sessionfin": "Maui Ultra Fins ride   30",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389183&uid=5761"
+  },
+  {
+    "ROWID": 11,
+    "event_id": 740,
+    "eventname": "2022 Funsport Makkum GPS Speed Challenge",
+    "speed": 46.005532,
+    "type": "speed_mile",
+    "username": "Paul Salomons",
+    "ageclass": "Master (36-50)",
+    "weightclass": "61-70",
+    "sexe": "Men",
+    "spotname": "IJsselmeer - Makkum",
+    "sessionboard": "Fanatic Slalom TE 98",
+    "sessionsail": "KA Sails Race  7.7",
+    "sessionfin": "Tribal Fin Slalom  34",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=382403&uid=3078"
   },
   {
     "ROWID": 12,

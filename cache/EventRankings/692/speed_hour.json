@@ -3,7 +3,7 @@
     "ROWID": 1,
     "event_id": 692,
     "eventname": "Surf like a dude Zuidlaardermeer speed challenge 2021",
-    "speed": 30.808020000000006,
+    "speed": 33.008196000000005,
     "type": "speed_hour",
     "username": "Eric Kamminga",
     "ageclass": "Grand Master (51-60)",
@@ -11,9 +11,9 @@
     "sexe": "Men",
     "spotname": "Zuidlaardermeer",
     "sessionboard": "RRD X-Fire 114 LTD Y25",
-    "sessionsail": "Loftsails Racingblade  8.4",
-    "sessionfin": "Zulu Shaka  37",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=376576&uid=3309"
+    "sessionsail": "Loftsails racingblade  7.7",
+    "sessionfin": "Zulu Umbani  evo2  36",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=373107&uid=3309"
   },
   {
     "ROWID": 2,
@@ -35,6 +35,22 @@
     "ROWID": 3,
     "event_id": 692,
     "eventname": "Surf like a dude Zuidlaardermeer speed challenge 2021",
+    "speed": 29.072696,
+    "type": "speed_hour",
+    "username": "Tim Heeringa",
+    "ageclass": "Master (36-50)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Zuidlaardermeer",
+    "sessionboard": "Tabou Manta 71",
+    "sessionsail": "Loftsails Racing Blade  8.6",
+    "sessionfin": "Finish Speed Slalom  37",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=363061&uid=23642"
+  },
+  {
+    "ROWID": 4,
+    "event_id": 692,
+    "eventname": "Surf like a dude Zuidlaardermeer speed challenge 2021",
     "speed": 28.6597,
     "type": "speed_hour",
     "username": "Martin Koolma",
@@ -48,7 +64,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=373102&uid=23610"
   },
   {
-    "ROWID": 4,
+    "ROWID": 5,
     "event_id": 692,
     "eventname": "Surf like a dude Zuidlaardermeer speed challenge 2021",
     "speed": 26.544716,
@@ -64,7 +80,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=373098&uid=23407"
   },
   {
-    "ROWID": 5,
+    "ROWID": 6,
     "event_id": 692,
     "eventname": "Surf like a dude Zuidlaardermeer speed challenge 2021",
     "speed": 25.711316,
@@ -80,7 +96,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=369248&uid=22984"
   },
   {
-    "ROWID": 6,
+    "ROWID": 7,
     "event_id": 692,
     "eventname": "Surf like a dude Zuidlaardermeer speed challenge 2021",
     "speed": 25.498336000000002,
@@ -96,7 +112,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=370279&uid=25848"
   },
   {
-    "ROWID": 7,
+    "ROWID": 8,
     "event_id": 692,
     "eventname": "Surf like a dude Zuidlaardermeer speed challenge 2021",
     "speed": 23.314828000000002,
@@ -112,7 +128,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=363392&uid=7440"
   },
   {
-    "ROWID": 8,
+    "ROWID": 9,
     "event_id": 692,
     "eventname": "Surf like a dude Zuidlaardermeer speed challenge 2021",
     "speed": 20.233100000000004,
@@ -128,7 +144,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=355454&uid=1343"
   },
   {
-    "ROWID": 9,
+    "ROWID": 10,
     "event_id": 692,
     "eventname": "Surf like a dude Zuidlaardermeer speed challenge 2021",
     "speed": 18.810764000000002,
@@ -144,7 +160,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=361100&uid=23914"
   },
   {
-    "ROWID": 10,
+    "ROWID": 11,
     "event_id": 692,
     "eventname": "Surf like a dude Zuidlaardermeer speed challenge 2021",
     "speed": 12.626936,
@@ -160,7 +176,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=357337&uid=24904"
   },
   {
-    "ROWID": 11,
+    "ROWID": 12,
     "event_id": 692,
     "eventname": "Surf like a dude Zuidlaardermeer speed challenge 2021",
     "speed": 11.541664,
@@ -176,7 +192,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=365303&uid=16865"
   },
   {
-    "ROWID": 12,
+    "ROWID": 13,
     "event_id": 692,
     "eventname": "Surf like a dude Zuidlaardermeer speed challenge 2021",
     "speed": 5.443028,
@@ -190,5 +206,21 @@
     "sessionsail": "Sailloft Hamburg ultimate  8.6",
     "sessionfin": "Zulu IKLWA  44",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=356737&uid=25372"
+  },
+  {
+    "ROWID": 14,
+    "event_id": 692,
+    "eventname": "Surf like a dude Zuidlaardermeer speed challenge 2021",
+    "speed": 2.214992,
+    "type": "speed_hour",
+    "username": "Andre Poelman",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Zuidlaardermeer",
+    "sessionboard": "Tabou Manta",
+    "sessionsail": "GA-sails vapor  7.9",
+    "sessionfin": "Vector Fins Canefire Maui Custom  42",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=370955&uid=24607"
   }
 ]

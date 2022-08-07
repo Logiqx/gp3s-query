@@ -67,22 +67,6 @@
     "ROWID": 5,
     "event_id": 715,
     "eventname": "SSS Go big or go Home 2021-2022",
-    "speed": 49.224308,
-    "type": "speed_250",
-    "username": "Henk Vos",
-    "ageclass": "Grand Master (51-60)",
-    "weightclass": "81-90",
-    "sexe": "Men",
-    "spotname": "schildmeer",
-    "sessionboard": "Starboard Isonic 124 Carbon",
-    "sessionsail": "KA Sails Race  8.7",
-    "sessionfin": "Black Project Fins Type R [Black Ed.]  45",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386324&uid=19396"
-  },
-  {
-    "ROWID": 6,
-    "event_id": 715,
-    "eventname": "SSS Go big or go Home 2021-2022",
     "speed": 47.781600000000005,
     "type": "speed_250",
     "username": "Erwin Rovers",
@@ -96,7 +80,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=376650&uid=5095"
   },
   {
-    "ROWID": 7,
+    "ROWID": 6,
     "event_id": 715,
     "eventname": "SSS Go big or go Home 2021-2022",
     "speed": 45.353628,
@@ -112,7 +96,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=379556&uid=1265"
   },
   {
-    "ROWID": 8,
+    "ROWID": 7,
     "event_id": 715,
     "eventname": "SSS Go big or go Home 2021-2022",
     "speed": 43.275684000000005,

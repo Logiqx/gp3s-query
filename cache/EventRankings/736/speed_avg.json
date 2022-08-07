@@ -611,22 +611,6 @@
     "ROWID": 39,
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
-    "speed": 47.616772000000005,
-    "type": "speed_avg",
-    "username": "Hannes Rieger",
-    "ageclass": "Super Master (61-70)",
-    "weightclass": "61-70",
-    "sexe": "Men",
-    "spotname": "Drepano",
-    "sessionboard": "Custom SL 66/21",
-    "sessionsail": "S2 Maui Wicked  6.3",
-    "sessionfin": "Custom SL 81  33",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389542&uid=24349"
-  },
-  {
-    "ROWID": 40,
-    "event_id": 736,
-    "eventname": "2022 Odyssey of Speed",
     "speed": 44.51541279999999,
     "type": "speed_avg",
     "username": "Markus Neufeld",
@@ -640,7 +624,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=385762&uid=23994"
   },
   {
-    "ROWID": 41,
+    "ROWID": 40,
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
     "speed": 43.7286832,
@@ -656,7 +640,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389041&uid=26350"
   },
   {
-    "ROWID": 42,
+    "ROWID": 41,
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
     "speed": 43.4019904,

@@ -35,22 +35,6 @@
     "ROWID": 3,
     "event_id": 732,
     "eventname": "2022 DBO Speed Challenge",
-    "speed": 29.348644,
-    "type": "speed_hour",
-    "username": "J\u00f8rgen N\u00f8rtoft",
-    "ageclass": "Grand Master (51-60)",
-    "weightclass": "81-90",
-    "sexe": "Men",
-    "spotname": "Ebeltoft",
-    "sessionboard": "Fanatic Falcon 114 TE",
-    "sessionsail": "Loftsails Racing Blade  7.8",
-    "sessionfin": "Hurricane SpeedSlalom M-  38",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386315&uid=24035"
-  },
-  {
-    "ROWID": 4,
-    "event_id": 732,
-    "eventname": "2022 DBO Speed Challenge",
     "speed": 29.041212,
     "type": "speed_hour",
     "username": "Anders Boje",
@@ -64,7 +48,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=374352&uid=5832"
   },
   {
-    "ROWID": 5,
+    "ROWID": 4,
     "event_id": 732,
     "eventname": "2022 DBO Speed Challenge",
     "speed": 27.72444,
@@ -80,7 +64,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=373834&uid=25879"
   },
   {
-    "ROWID": 6,
+    "ROWID": 5,
     "event_id": 732,
     "eventname": "2022 DBO Speed Challenge",
     "speed": 25.731688000000002,
@@ -96,7 +80,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=380372&uid=23918"
   },
   {
-    "ROWID": 7,
+    "ROWID": 6,
     "event_id": 732,
     "eventname": "2022 DBO Speed Challenge",
     "speed": 21.82582,
@@ -112,7 +96,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=387183&uid=24692"
   },
   {
-    "ROWID": 8,
+    "ROWID": 7,
     "event_id": 732,
     "eventname": "2022 DBO Speed Challenge",
     "speed": 20.355332,
@@ -128,7 +112,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=378435&uid=18149"
   },
   {
-    "ROWID": 9,
+    "ROWID": 8,
     "event_id": 732,
     "eventname": "2022 DBO Speed Challenge",
     "speed": 20.19606,
@@ -144,23 +128,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=385931&uid=23813"
   },
   {
-    "ROWID": 10,
-    "event_id": 732,
-    "eventname": "2022 DBO Speed Challenge",
-    "speed": 18.936700000000002,
-    "type": "speed_hour",
-    "username": "Martin Lamm",
-    "ageclass": "Grand Master (51-60)",
-    "weightclass": "71-80",
-    "sexe": "Men",
-    "spotname": "Knebel Vig",
-    "sessionboard": "Starboard Isonic 107 Carbon",
-    "sessionsail": "Neilpryde RS Racing EVO 9  7.0",
-    "sessionfin": "not defined -  0",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386326&uid=25630"
-  },
-  {
-    "ROWID": 11,
+    "ROWID": 9,
     "event_id": 732,
     "eventname": "2022 DBO Speed Challenge",
     "speed": 18.108856000000003,
@@ -176,7 +144,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=373818&uid=23079"
   },
   {
-    "ROWID": 12,
+    "ROWID": 10,
     "event_id": 732,
     "eventname": "2022 DBO Speed Challenge",
     "speed": 16.929132,
@@ -192,7 +160,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=376852&uid=5285"
   },
   {
-    "ROWID": 13,
+    "ROWID": 11,
     "event_id": 732,
     "eventname": "2022 DBO Speed Challenge",
     "speed": 11.841688000000001,
@@ -208,7 +176,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=373860&uid=15707"
   },
   {
-    "ROWID": 14,
+    "ROWID": 12,
     "event_id": 732,
     "eventname": "2022 DBO Speed Challenge",
     "speed": 2.3409280000000003,
@@ -224,7 +192,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=377361&uid=25722"
   },
   {
-    "ROWID": 15,
+    "ROWID": 13,
     "event_id": 732,
     "eventname": "2022 DBO Speed Challenge",
     "speed": 0.0,

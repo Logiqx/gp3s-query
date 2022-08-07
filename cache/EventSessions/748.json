@@ -17686,5 +17686,27 @@
     "sessionsail": "Loft Sails Switchblade 7.3,  2019",
     "sessionfin": "Sonntag Fins SL-pro  35",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390247&uid=24106"
+  },
+  {
+    "session_id": 390253,
+    "session_date": "2022-08-06T00:00:00",
+    "event_id": 748,
+    "eventname": "2022 Dunkerbeck Speed Challenge \u201cThe Summer Edition\u201d",
+    "speed_avg": 55.748533599999995,
+    "speed_2sec": 57.73610000000001,
+    "speed_10sec": 57.334216,
+    "speed_100": 57.48608,
+    "speed_250": 57.284212000000004,
+    "speed_500": 54.187668,
+    "speed_mile": 50.557748000000004,
+    "speed_hour": 19.98308,
+    "username": "Ralf Pasewald",
+    "flag": "DE",
+    "sexe": "Men",
+    "spotname": "Suhrendorf/Schaproder Bodden",
+    "sessionboard": "PATRIK Slalom 110 V4,  2019",
+    "sessionsail": "Neilpryde RS Racing EVO 12 7.4,  2021",
+    "sessionfin": "Hurricane weed 2  28",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390253&uid=22552"
   }
 ]

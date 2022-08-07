@@ -147,22 +147,6 @@
     "ROWID": 10,
     "event_id": 730,
     "eventname": "Surf like a dude Zuidlaardermeer Speed Challenge 2022",
-    "speed": 23.611148000000004,
-    "type": "speed_hour",
-    "username": "Dennis Beumer",
-    "ageclass": "Master (36-50)",
-    "weightclass": "71-80",
-    "sexe": "Men",
-    "spotname": "Zuidlaardermeer",
-    "sessionboard": "Starboard Isonic 117",
-    "sessionsail": "Severne Mach 3  7.8",
-    "sessionfin": "Z-fins z-fin. zfs38s  38",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=381001&uid=22984"
-  },
-  {
-    "ROWID": 11,
-    "event_id": 730,
-    "eventname": "Surf like a dude Zuidlaardermeer Speed Challenge 2022",
     "speed": 20.034936000000002,
     "type": "speed_hour",
     "username": "Bastiaan van Dijk",
@@ -176,7 +160,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=387286&uid=23391"
   },
   {
-    "ROWID": 12,
+    "ROWID": 11,
     "event_id": 730,
     "eventname": "Surf like a dude Zuidlaardermeer Speed Challenge 2022",
     "speed": 17.940324,
@@ -192,7 +176,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=382691&uid=184"
   },
   {
-    "ROWID": 13,
+    "ROWID": 12,
     "event_id": 730,
     "eventname": "Surf like a dude Zuidlaardermeer Speed Challenge 2022",
     "speed": 17.558812,
@@ -208,7 +192,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=375962&uid=4690"
   },
   {
-    "ROWID": 14,
+    "ROWID": 13,
     "event_id": 730,
     "eventname": "Surf like a dude Zuidlaardermeer Speed Challenge 2022",
     "speed": 14.484492,
@@ -224,7 +208,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=379215&uid=24904"
   },
   {
-    "ROWID": 15,
+    "ROWID": 14,
     "event_id": 730,
     "eventname": "Surf like a dude Zuidlaardermeer Speed Challenge 2022",
     "speed": 12.56582,
@@ -240,7 +224,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=382701&uid=1343"
   },
   {
-    "ROWID": 16,
+    "ROWID": 15,
     "event_id": 730,
     "eventname": "Surf like a dude Zuidlaardermeer Speed Challenge 2022",
     "speed": 0.0,

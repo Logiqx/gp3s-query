@@ -51,22 +51,6 @@
     "ROWID": 4,
     "event_id": 721,
     "eventname": "2022 Gps Kraaij Challenge",
-    "speed": 51.78192000000001,
-    "type": "speed_500",
-    "username": "Erwin Rovers",
-    "ageclass": "Master (36-50)",
-    "weightclass": "81-90",
-    "sexe": "Men",
-    "spotname": "Kraaijenbergse plassen",
-    "sessionboard": "Fanatic Falcon 130",
-    "sessionsail": "Duotone Warp  9.0",
-    "sessionfin": "F-Hot S3  46",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386808&uid=5095"
-  },
-  {
-    "ROWID": 5,
-    "event_id": 721,
-    "eventname": "2022 Gps Kraaij Challenge",
     "speed": 51.63376,
     "type": "speed_500",
     "username": "Aaron van den Elsen",
@@ -80,7 +64,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=379290&uid=25570"
   },
   {
-    "ROWID": 6,
+    "ROWID": 5,
     "event_id": 721,
     "eventname": "2022 Gps Kraaij Challenge",
     "speed": 51.455968,
@@ -96,7 +80,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=377094&uid=4524"
   },
   {
-    "ROWID": 7,
+    "ROWID": 6,
     "event_id": 721,
     "eventname": "2022 Gps Kraaij Challenge",
     "speed": 51.435596000000004,
@@ -112,7 +96,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=382738&uid=21736"
   },
   {
-    "ROWID": 8,
+    "ROWID": 7,
     "event_id": 721,
     "eventname": "2022 Gps Kraaij Challenge",
     "speed": 48.777976,
@@ -126,6 +110,22 @@
     "sessionsail": "Neilpryde RS slalom MKIII  7.0",
     "sessionfin": "Sonntag Fins SL-X  37",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=376779&uid=24851"
+  },
+  {
+    "ROWID": 8,
+    "event_id": 721,
+    "eventname": "2022 Gps Kraaij Challenge",
+    "speed": 48.50943600000001,
+    "type": "speed_500",
+    "username": "Erwin Rovers",
+    "ageclass": "Master (36-50)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Kraaijenbergse plassen",
+    "sessionboard": "Fanatic Falcon 130",
+    "sessionsail": "Duotone warp  7.7",
+    "sessionfin": "Black Project Fins Type RS  38",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=373104&uid=5095"
   },
   {
     "ROWID": 9,
