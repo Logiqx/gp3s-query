@@ -531,6 +531,22 @@
     "ROWID": 34,
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
+    "speed": 15.016016000000002,
+    "type": "speed_hour",
+    "username": "Goulielmos Giorgos",
+    "ageclass": "Super Master (61-70)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Skarfeia",
+    "sessionboard": "RRD X-Fire 114 LTD Y25",
+    "sessionsail": "Challenger Sails Aero+  7.0",
+    "sessionfin": "Z-fins ZSL S-  36",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390209&uid=6188"
+  },
+  {
+    "ROWID": 35,
+    "event_id": 736,
+    "eventname": "2022 Odyssey of Speed",
     "speed": 14.138168000000002,
     "type": "speed_hour",
     "username": "George Papagiannakis",
@@ -544,7 +560,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389519&uid=6342"
   },
   {
-    "ROWID": 35,
+    "ROWID": 36,
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
     "speed": 13.465892,
@@ -558,22 +574,6 @@
     "sessionsail": "Severne NCX  7.5",
     "sessionfin": "Select Vmax 3.0  43",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389527&uid=18040"
-  },
-  {
-    "ROWID": 36,
-    "event_id": 736,
-    "eventname": "2022 Odyssey of Speed",
-    "speed": 13.339956,
-    "type": "speed_hour",
-    "username": "Goulielmos Giorgos",
-    "ageclass": "Super Master (61-70)",
-    "weightclass": "81-90",
-    "sexe": "Men",
-    "spotname": "Loutsa, Nissakia",
-    "sessionboard": "RRD X-Fire 129 LTD Y25",
-    "sessionsail": "Challenger Sails Aero+  8.4",
-    "sessionfin": "Z-fins ZSF S-  45",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=388022&uid=6188"
   },
   {
     "ROWID": 37,
