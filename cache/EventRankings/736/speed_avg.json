@@ -371,6 +371,22 @@
     "ROWID": 24,
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
+    "speed": 58.29429280000001,
+    "type": "speed_avg",
+    "username": "Mavris Haris",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Varkiza",
+    "sessionboard": "RRD X-Fire LTD V5 105",
+    "sessionsail": "Point-7 AC1  7.1",
+    "sessionfin": "iFins Nano Pure  36",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390220&uid=2117"
+  },
+  {
+    "ROWID": 25,
+    "event_id": 736,
+    "eventname": "2022 Odyssey of Speed",
     "speed": 58.28614400000001,
     "type": "speed_avg",
     "username": "David Van Ederen",
@@ -384,7 +400,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=388439&uid=24045"
   },
   {
-    "ROWID": 25,
+    "ROWID": 26,
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
     "speed": 57.57868,
@@ -400,7 +416,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=388050&uid=24816"
   },
   {
-    "ROWID": 26,
+    "ROWID": 27,
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
     "speed": 57.1949456,
@@ -416,7 +432,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389624&uid=26300"
   },
   {
-    "ROWID": 27,
+    "ROWID": 28,
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
     "speed": 56.951222400000006,
@@ -430,22 +446,6 @@
     "sessionsail": "Gaastra Vapor  5.6",
     "sessionfin": "Sonntag Fins SL-Pro  32",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=376935&uid=23430"
-  },
-  {
-    "ROWID": 28,
-    "event_id": 736,
-    "eventname": "2022 Odyssey of Speed",
-    "speed": 56.741576,
-    "type": "speed_avg",
-    "username": "Mavris Haris",
-    "ageclass": "Grand Master (51-60)",
-    "weightclass": "81-90",
-    "sexe": "Men",
-    "spotname": "Anavissos",
-    "sessionboard": "RRD X-Fire LTD V5 105",
-    "sessionsail": "Point-7 AC1  7.1",
-    "sessionfin": "iFins Nano Pure  36",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=387944&uid=2117"
   },
   {
     "ROWID": 29,

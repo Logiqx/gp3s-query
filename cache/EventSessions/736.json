@@ -10624,5 +10624,27 @@
     "sessionsail": "North Sails Warp F2017  5.7,  2017",
     "sessionfin": "Custom Carpenter Fins  33",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390217&uid=6430"
+  },
+  {
+    "session_id": 390220,
+    "session_date": "2022-08-07T00:00:00",
+    "event_id": 736,
+    "eventname": "2022 Odyssey of Speed",
+    "speed_avg": 58.29429280000001,
+    "speed_2sec": 61.812352,
+    "speed_10sec": 59.43994,
+    "speed_100": 60.9771,
+    "speed_250": 57.634240000000005,
+    "speed_500": 54.571032,
+    "speed_mile": 46.116652,
+    "speed_hour": 25.063116,
+    "username": "Mavris Haris",
+    "flag": "GR",
+    "sexe": "Men",
+    "spotname": "Varkiza",
+    "sessionboard": "RRD X-Fire LTD V5 105,  2013",
+    "sessionsail": "Point-7 AC1 7.1,  2018",
+    "sessionfin": "iFins Nano Pure  36",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390220&uid=2117"
   }
 ]
