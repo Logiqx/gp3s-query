@@ -211,7 +211,7 @@
     "ROWID": 14,
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
-    "speed": 69.785212,
+    "speed": 70.776032,
     "type": "speed_2sec",
     "username": "Minos Efstathiadis",
     "ageclass": "Grand Master (51-60)",
@@ -221,7 +221,7 @@
     "sessionboard": "Fanatic Falcon 89",
     "sessionsail": "Loft Sails Racing blade  6.9",
     "sessionfin": "Z-fins Z slm s-  30",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=376979&uid=962"
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=376958&uid=962"
   },
   {
     "ROWID": 15,
@@ -627,6 +627,22 @@
     "ROWID": 40,
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
+    "speed": 50.95778000000001,
+    "type": "speed_2sec",
+    "username": "Till Kramann",
+    "ageclass": "Master (36-50)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Drepano",
+    "sessionboard": "Custom Winheller/Slalom",
+    "sessionsail": "Severne Overdrive M3  8.6",
+    "sessionfin": "Z-fins SLM S-  44",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390297&uid=24908"
+  },
+  {
+    "ROWID": 41,
+    "event_id": 736,
+    "eventname": "2022 Odyssey of Speed",
     "speed": 49.248384,
     "type": "speed_2sec",
     "username": "Cornelia Groot-van Ederen",
@@ -640,7 +656,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389040&uid=26350"
   },
   {
-    "ROWID": 41,
+    "ROWID": 42,
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
     "speed": 49.14282,
@@ -656,7 +672,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=385762&uid=23994"
   },
   {
-    "ROWID": 42,
+    "ROWID": 43,
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
     "speed": 48.863168,

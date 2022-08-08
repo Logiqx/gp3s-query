@@ -179,6 +179,22 @@
     "ROWID": 12,
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
+    "speed": 68.398064,
+    "type": "speed_250",
+    "username": "Minos Efstathiadis",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "91-100",
+    "sexe": "Men",
+    "spotname": "Drepano",
+    "sessionboard": "Fanatic Falcon 89",
+    "sessionsail": "Loft Sails Racing blade  6.9",
+    "sessionfin": "Z-fins Z slm s-  30",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=376958&uid=962"
+  },
+  {
+    "ROWID": 13,
+    "event_id": 736,
+    "eventname": "2022 Odyssey of Speed",
     "speed": 67.60726000000001,
     "type": "speed_250",
     "username": "Tomislav Jaklin",
@@ -192,7 +208,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389382&uid=6430"
   },
   {
-    "ROWID": 13,
+    "ROWID": 14,
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
     "speed": 67.260936,
@@ -208,7 +224,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=377743&uid=16897"
   },
   {
-    "ROWID": 14,
+    "ROWID": 15,
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
     "speed": 66.603476,
@@ -224,7 +240,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=381836&uid=1608"
   },
   {
-    "ROWID": 15,
+    "ROWID": 16,
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
     "speed": 65.103356,
@@ -240,7 +256,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=385679&uid=21831"
   },
   {
-    "ROWID": 16,
+    "ROWID": 17,
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
     "speed": 61.686416,
@@ -256,7 +272,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=385244&uid=18214"
   },
   {
-    "ROWID": 17,
+    "ROWID": 18,
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
     "speed": 60.862276,
@@ -272,7 +288,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389788&uid=299"
   },
   {
-    "ROWID": 18,
+    "ROWID": 19,
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
     "speed": 60.23444800000001,
@@ -288,7 +304,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=385446&uid=23407"
   },
   {
-    "ROWID": 19,
+    "ROWID": 20,
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
     "speed": 59.712184,
@@ -304,7 +320,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=388050&uid=24816"
   },
   {
-    "ROWID": 20,
+    "ROWID": 21,
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
     "speed": 59.491796,
@@ -320,7 +336,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389624&uid=26300"
   },
   {
-    "ROWID": 21,
+    "ROWID": 22,
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
     "speed": 59.475128,
@@ -336,7 +352,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=385861&uid=6030"
   },
   {
-    "ROWID": 22,
+    "ROWID": 23,
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
     "speed": 59.3566,
@@ -352,7 +368,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=388147&uid=18072"
   },
   {
-    "ROWID": 23,
+    "ROWID": 24,
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
     "speed": 58.910268,
@@ -368,7 +384,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386299&uid=23998"
   },
   {
-    "ROWID": 24,
+    "ROWID": 25,
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
     "speed": 58.72692000000001,
@@ -384,7 +400,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=388439&uid=24045"
   },
   {
-    "ROWID": 25,
+    "ROWID": 26,
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
     "speed": 58.343556,
@@ -400,7 +416,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389984&uid=1339"
   },
   {
-    "ROWID": 26,
+    "ROWID": 27,
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
     "speed": 57.969452,
@@ -416,7 +432,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=387944&uid=2117"
   },
   {
-    "ROWID": 27,
+    "ROWID": 28,
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
     "speed": 57.702764,
@@ -432,7 +448,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390011&uid=23748"
   },
   {
-    "ROWID": 28,
+    "ROWID": 29,
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
     "speed": 56.910108,
@@ -448,7 +464,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=378038&uid=3182"
   },
   {
-    "ROWID": 29,
+    "ROWID": 30,
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
     "speed": 56.848992,
@@ -464,7 +480,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=384389&uid=2856"
   },
   {
-    "ROWID": 30,
+    "ROWID": 31,
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
     "speed": 56.713796,
@@ -480,7 +496,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=377186&uid=22406"
   },
   {
-    "ROWID": 31,
+    "ROWID": 32,
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
     "speed": 56.497112,
@@ -496,7 +512,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389519&uid=6342"
   },
   {
-    "ROWID": 32,
+    "ROWID": 33,
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
     "speed": 55.811872,
@@ -512,7 +528,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=376935&uid=23430"
   },
   {
-    "ROWID": 33,
+    "ROWID": 34,
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
     "speed": 55.45999200000001,
@@ -528,7 +544,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386405&uid=6039"
   },
   {
-    "ROWID": 34,
+    "ROWID": 35,
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
     "speed": 55.034032,
@@ -544,7 +560,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390085&uid=5658"
   },
   {
-    "ROWID": 35,
+    "ROWID": 36,
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
     "speed": 53.845048000000006,
@@ -560,7 +576,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389970&uid=24349"
   },
   {
-    "ROWID": 36,
+    "ROWID": 37,
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
     "speed": 52.35604,
@@ -576,7 +592,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=383101&uid=25586"
   },
   {
-    "ROWID": 37,
+    "ROWID": 38,
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
     "speed": 51.80044,
@@ -592,7 +608,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=378507&uid=23910"
   },
   {
-    "ROWID": 38,
+    "ROWID": 39,
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
     "speed": 50.729984,
@@ -608,7 +624,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389884&uid=6188"
   },
   {
-    "ROWID": 39,
+    "ROWID": 40,
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
     "speed": 46.92042000000001,
@@ -624,7 +640,23 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=385762&uid=23994"
   },
   {
-    "ROWID": 40,
+    "ROWID": 41,
+    "event_id": 736,
+    "eventname": "2022 Odyssey of Speed",
+    "speed": 46.542612000000005,
+    "type": "speed_250",
+    "username": "Till Kramann",
+    "ageclass": "Master (36-50)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Drepano",
+    "sessionboard": "Custom Winheller/Slalom",
+    "sessionsail": "Severne Overdrive M3  8.6",
+    "sessionfin": "Z-fins SLM S-  44",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390297&uid=24908"
+  },
+  {
+    "ROWID": 42,
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
     "speed": 46.487052,
@@ -640,7 +672,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=380357&uid=18040"
   },
   {
-    "ROWID": 41,
+    "ROWID": 43,
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
     "speed": 46.062944,

@@ -51,7 +51,7 @@
     "ROWID": 4,
     "event_id": 712,
     "eventname": "2021 Red Bull Bora Challenge",
-    "speed": 56.42377280000001,
+    "speed": 55.670008800000005,
     "type": "speed_avg",
     "username": "Giulio Paolo Paladini",
     "ageclass": "Master (36-50)",
@@ -61,6 +61,6 @@
     "sessionboard": "i-99 WCSL 99",
     "sessionsail": "Loftsails Switchblade  5.8",
     "sessionfin": "Bugfins SLEM  32",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=355236&uid=21968"
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=387826&uid=21968"
   }
 ]

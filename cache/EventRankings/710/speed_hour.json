@@ -131,6 +131,22 @@
     "ROWID": 9,
     "event_id": 710,
     "eventname": "BritishSpeedChallenge2022",
+    "speed": 28.51154,
+    "type": "speed_hour",
+    "username": "Steve Thompson",
+    "ageclass": "Super Master (61-70)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Rutland Water",
+    "sessionboard": "Starboard iSonic 125",
+    "sessionsail": "Point-7 ACX  7.9",
+    "sessionfin": "Select Elite S11 Race  45",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=371472&uid=3592"
+  },
+  {
+    "ROWID": 10,
+    "event_id": 710,
+    "eventname": "BritishSpeedChallenge2022",
     "speed": 28.124472,
     "type": "speed_hour",
     "username": "Mark Ingram",
@@ -144,7 +160,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=370987&uid=5835"
   },
   {
-    "ROWID": 10,
+    "ROWID": 11,
     "event_id": 710,
     "eventname": "BritishSpeedChallenge2022",
     "speed": 27.154024000000003,
@@ -160,7 +176,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=375547&uid=16978"
   },
   {
-    "ROWID": 11,
+    "ROWID": 12,
     "event_id": 710,
     "eventname": "BritishSpeedChallenge2022",
     "speed": 26.565088,
@@ -176,7 +192,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=372866&uid=22769"
   },
   {
-    "ROWID": 12,
+    "ROWID": 13,
     "event_id": 710,
     "eventname": "BritishSpeedChallenge2022",
     "speed": 25.876144,
@@ -192,7 +208,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=370524&uid=2363"
   },
   {
-    "ROWID": 13,
+    "ROWID": 14,
     "event_id": 710,
     "eventname": "BritishSpeedChallenge2022",
     "speed": 24.927920000000004,
@@ -208,7 +224,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=373326&uid=5368"
   },
   {
-    "ROWID": 14,
+    "ROWID": 15,
     "event_id": 710,
     "eventname": "BritishSpeedChallenge2022",
     "speed": 24.296388,
@@ -224,7 +240,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386202&uid=2307"
   },
   {
-    "ROWID": 15,
+    "ROWID": 16,
     "event_id": 710,
     "eventname": "BritishSpeedChallenge2022",
     "speed": 23.931544000000002,
@@ -240,7 +256,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=375020&uid=18265"
   },
   {
-    "ROWID": 16,
+    "ROWID": 17,
     "event_id": 710,
     "eventname": "BritishSpeedChallenge2022",
     "speed": 23.329644000000002,
@@ -256,7 +272,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=372408&uid=16998"
   },
   {
-    "ROWID": 17,
+    "ROWID": 18,
     "event_id": 710,
     "eventname": "BritishSpeedChallenge2022",
     "speed": 23.281492,
@@ -272,7 +288,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=375979&uid=23091"
   },
   {
-    "ROWID": 18,
+    "ROWID": 19,
     "event_id": 710,
     "eventname": "BritishSpeedChallenge2022",
     "speed": 23.037028000000003,
@@ -288,7 +304,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=383071&uid=24192"
   },
   {
-    "ROWID": 19,
+    "ROWID": 20,
     "event_id": 710,
     "eventname": "BritishSpeedChallenge2022",
     "speed": 22.485132,
@@ -304,7 +320,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=375357&uid=6401"
   },
   {
-    "ROWID": 20,
+    "ROWID": 21,
     "event_id": 710,
     "eventname": "BritishSpeedChallenge2022",
     "speed": 22.185108,
@@ -320,7 +336,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=369203&uid=20717"
   },
   {
-    "ROWID": 21,
+    "ROWID": 22,
     "event_id": 710,
     "eventname": "BritishSpeedChallenge2022",
     "speed": 20.681284,
@@ -336,7 +352,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=375344&uid=22480"
   },
   {
-    "ROWID": 22,
+    "ROWID": 23,
     "event_id": 710,
     "eventname": "BritishSpeedChallenge2022",
     "speed": 19.814548000000002,
@@ -350,22 +366,6 @@
     "sessionsail": "Neilpryde RS Racing  5.8",
     "sessionfin": "Select Elite SL7  31",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=369179&uid=25932"
-  },
-  {
-    "ROWID": 23,
-    "event_id": 710,
-    "eventname": "BritishSpeedChallenge2022",
-    "speed": 19.116343999999998,
-    "type": "speed_hour",
-    "username": "Steve Thompson",
-    "ageclass": "Super Master (61-70)",
-    "weightclass": "71-80",
-    "sexe": "Men",
-    "spotname": "Notts County SC",
-    "sessionboard": "Starboard Isonic 67 Carbon reflex ",
-    "sessionsail": "Simmer Sails SCR  6.3",
-    "sessionfin": "Starboard Drake Race Ready to Race  36",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=378438&uid=3592"
   },
   {
     "ROWID": 24,
