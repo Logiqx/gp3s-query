@@ -211,17 +211,17 @@
     "ROWID": 14,
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
-    "speed": 70.222284,
+    "speed": 69.785212,
     "type": "speed_2sec",
     "username": "Minos Efstathiadis",
     "ageclass": "Grand Master (51-60)",
     "weightclass": "91-100",
     "sexe": "Men",
     "spotname": "Drepano",
-    "sessionboard": "Tabou Manta 61",
-    "sessionsail": "Loft Sails Racing Blade  6.3",
-    "sessionfin": "King Fins E5  32",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=377835&uid=962"
+    "sessionboard": "Fanatic Falcon 89",
+    "sessionsail": "Loft Sails Racing blade  6.9",
+    "sessionfin": "Z-fins Z slm s-  30",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=376979&uid=962"
   },
   {
     "ROWID": 15,
@@ -659,16 +659,16 @@
     "ROWID": 42,
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
-    "speed": 48.17052,
+    "speed": 48.863168,
     "type": "speed_2sec",
     "username": "Dimitris Bregiannis",
     "ageclass": "Grand Master (51-60)",
     "weightclass": "71-80",
     "sexe": "Men",
     "spotname": "Anavissos",
-    "sessionboard": "Starboard Futura 134 Wood",
-    "sessionsail": "Severne ncx  7.5",
-    "sessionfin": "Select Vmax 3.0  43",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=380357&uid=18040"
+    "sessionboard": "RRD Fire Storm 111",
+    "sessionsail": "Point-7 AC-ONE  6.2",
+    "sessionfin": "RRD Zx cng g-10  38",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390281&uid=18040"
   }
 ]
