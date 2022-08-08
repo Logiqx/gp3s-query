@@ -11,5 +11,8 @@ DOCKER_BUILDKIT=1 docker build . --build-arg LOGIQX_DEBUG -t $IMAGE_NAME:$IMAGE_
 # Run unit tests
 run_py_script check_events.py
 
+# View differences
+git diff docs/events/README.md
+
 # Docker Tag
 docker tag $IMAGE_NAME:$IMAGE_TAG $IMAGE_NAME:latest
