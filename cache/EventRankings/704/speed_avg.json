@@ -67,6 +67,22 @@
     "ROWID": 5,
     "event_id": 704,
     "eventname": "Schildmeer Speed Challenge 2021-2022",
+    "speed": 60.52817520000001,
+    "type": "speed_avg",
+    "username": "Hans Prins",
+    "ageclass": "Master (36-50)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "schildmeer",
+    "sessionboard": "Starboard Isonic Slalom Carbon LCF 97",
+    "sessionsail": "Point-7 AC-One  7.1",
+    "sessionfin": "Finish Fast  34",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=369381&uid=5376"
+  },
+  {
+    "ROWID": 6,
+    "event_id": 704,
+    "eventname": "Schildmeer Speed Challenge 2021-2022",
     "speed": 58.448749600000006,
     "type": "speed_avg",
     "username": "Frans Werkman",
@@ -78,22 +94,6 @@
     "sessionsail": "Severne Mach 5  7.0",
     "sessionfin": "Sonntag Fins SL-pro  34",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389993&uid=5650"
-  },
-  {
-    "ROWID": 6,
-    "event_id": 704,
-    "eventname": "Schildmeer Speed Challenge 2021-2022",
-    "speed": 58.353927199999994,
-    "type": "speed_avg",
-    "username": "Hans Prins",
-    "ageclass": "Master (36-50)",
-    "weightclass": "81-90",
-    "sexe": "Men",
-    "spotname": "schildmeer",
-    "sessionboard": "Starboard Isonic Slalom Carbon LCF 97",
-    "sessionsail": "Point-7 AC-One  7.1",
-    "sessionfin": "Finish Fast  34",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=374322&uid=5376"
   },
   {
     "ROWID": 7,
@@ -131,6 +131,22 @@
     "ROWID": 9,
     "event_id": 704,
     "eventname": "Schildmeer Speed Challenge 2021-2022",
+    "speed": 56.3919184,
+    "type": "speed_avg",
+    "username": "Edwin Buruma",
+    "ageclass": "Master (36-50)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "schildmeer",
+    "sessionboard": "Naish Bullit",
+    "sessionsail": "Severne reflex 8  7.0",
+    "sessionfin": "Tectonics Talon (9.5)  34",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=370585&uid=23550"
+  },
+  {
+    "ROWID": 10,
+    "event_id": 704,
+    "eventname": "Schildmeer Speed Challenge 2021-2022",
     "speed": 55.5800016,
     "type": "speed_avg",
     "username": "Richard Hilgers",
@@ -144,7 +160,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386824&uid=24414"
   },
   {
-    "ROWID": 10,
+    "ROWID": 11,
     "event_id": 704,
     "eventname": "Schildmeer Speed Challenge 2021-2022",
     "speed": 54.21618880000001,
@@ -160,7 +176,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=380473&uid=25935"
   },
   {
-    "ROWID": 11,
+    "ROWID": 12,
     "event_id": 704,
     "eventname": "Schildmeer Speed Challenge 2021-2022",
     "speed": 53.85134480000001,
@@ -174,22 +190,6 @@
     "sessionsail": "Point-7 AC-K Pro am Racing  8.5",
     "sessionfin": "Finish Fast - speed/slalom  44",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=378354&uid=21711"
-  },
-  {
-    "ROWID": 12,
-    "event_id": 704,
-    "eventname": "Schildmeer Speed Challenge 2021-2022",
-    "speed": 53.58354560000001,
-    "type": "speed_avg",
-    "username": "Edwin Buruma",
-    "ageclass": "Master (36-50)",
-    "weightclass": "71-80",
-    "sexe": "Men",
-    "spotname": "schildmeer",
-    "sessionboard": "Starboard iSonic 107 Carbon",
-    "sessionsail": "Severne Mach 3  7.8",
-    "sessionfin": "Sonntag Fins GPS-6  35",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389977&uid=23550"
   },
   {
     "ROWID": 13,

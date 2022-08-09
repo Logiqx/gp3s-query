@@ -115,22 +115,6 @@
     "ROWID": 8,
     "event_id": 715,
     "eventname": "SSS Go big or go Home 2021-2022",
-    "speed": 52.315296000000004,
-    "type": "speed_250",
-    "username": "Marlon Weijers",
-    "ageclass": "Master (36-50)",
-    "weightclass": "71-80",
-    "sexe": "Men",
-    "spotname": "Lauwersmeer",
-    "sessionboard": "Future Fly Dark Horse 122",
-    "sessionsail": "Point-7 AC-K PRO  8.5",
-    "sessionfin": "not defined -  0",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=372017&uid=24199"
-  },
-  {
-    "ROWID": 9,
-    "event_id": 715,
-    "eventname": "SSS Go big or go Home 2021-2022",
     "speed": 50.767024,
     "type": "speed_250",
     "username": "Andres Baas",
@@ -144,7 +128,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=378802&uid=2358"
   },
   {
-    "ROWID": 10,
+    "ROWID": 9,
     "event_id": 715,
     "eventname": "SSS Go big or go Home 2021-2022",
     "speed": 47.781600000000005,
@@ -160,7 +144,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=376650&uid=5095"
   },
   {
-    "ROWID": 11,
+    "ROWID": 10,
     "event_id": 715,
     "eventname": "SSS Go big or go Home 2021-2022",
     "speed": 45.353628,
@@ -176,7 +160,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=379556&uid=1265"
   },
   {
-    "ROWID": 12,
+    "ROWID": 11,
     "event_id": 715,
     "eventname": "SSS Go big or go Home 2021-2022",
     "speed": 43.275684000000005,

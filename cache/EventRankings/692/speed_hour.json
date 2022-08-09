@@ -67,6 +67,22 @@
     "ROWID": 5,
     "event_id": 692,
     "eventname": "Surf like a dude Zuidlaardermeer speed challenge 2021",
+    "speed": 27.115132000000003,
+    "type": "speed_hour",
+    "username": "Dennis Beumer",
+    "ageclass": "Master (36-50)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Zuidlaardermeer",
+    "sessionboard": "Starboard Isonic 97 Carbon",
+    "sessionsail": "Severne Reflex 6  7.0",
+    "sessionfin": "Z-fins z-fin. zfs38s  38",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=374633&uid=22984"
+  },
+  {
+    "ROWID": 6,
+    "event_id": 692,
+    "eventname": "Surf like a dude Zuidlaardermeer speed challenge 2021",
     "speed": 26.544716,
     "type": "speed_hour",
     "username": "Peter kuiter",
@@ -78,22 +94,6 @@
     "sessionsail": "S2 Maui Venom  6.9",
     "sessionfin": "Finish Fast 33 Speed/High  33",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=373098&uid=23407"
-  },
-  {
-    "ROWID": 6,
-    "event_id": 692,
-    "eventname": "Surf like a dude Zuidlaardermeer speed challenge 2021",
-    "speed": 25.711316,
-    "type": "speed_hour",
-    "username": "Dennis Beumer",
-    "ageclass": "Master (36-50)",
-    "weightclass": "71-80",
-    "sexe": "Men",
-    "spotname": "Zuidlaardermeer",
-    "sessionboard": "Starboard Isonic 117",
-    "sessionsail": "Severne Mach 3  7.8",
-    "sessionfin": "Z-fins z-fin. zfs38s  38",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=369248&uid=22984"
   },
   {
     "ROWID": 7,
@@ -211,7 +211,7 @@
     "ROWID": 14,
     "event_id": 692,
     "eventname": "Surf like a dude Zuidlaardermeer speed challenge 2021",
-    "speed": 2.214992,
+    "speed": 0.0,
     "type": "speed_hour",
     "username": "Andre Poelman",
     "ageclass": "Grand Master (51-60)",
@@ -219,8 +219,8 @@
     "sexe": "Men",
     "spotname": "Zuidlaardermeer",
     "sessionboard": "Tabou Manta",
-    "sessionsail": "GA-sails vapor  7.9",
-    "sessionfin": "Vector Fins Canefire Maui Custom  42",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=370955&uid=24607"
+    "sessionsail": "Gaastra Vapor  7.1",
+    "sessionfin": "Select V.max  37",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=370953&uid=24607"
   }
 ]

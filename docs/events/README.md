@@ -2,7 +2,7 @@
 
 Summary of issues detected in the GP3S event rankings.
 
-Last refreshed 2022-08-08 23:20:28 UTC.
+Last refreshed 2022-08-09 07:04:00 UTC.
 
 | Event Name | Event ID | Date Issues | Duplicates | Ghosts | Missing | Incorrect | Actions |
 | ---------- | :------: | :---------: | :--------: | :----: | :-----: | :-------: | :-----: |
@@ -23,8 +23,8 @@ Last refreshed 2022-08-08 23:20:28 UTC.
 | [2022 Gps Kraaij Challenge](721.md) | 721 | 1 | 0 | 0 | 0 | 0 | 0 |
 | [Norwegian speedmaster - 2022](719.md) | 719 | 0 | 0 | 0 | 0 | 0 | 0 |
 | [2022 Irish Speed Masters](717.md) | 717 | 0 | 0 | 0 | 0 | 8 | 1 |
-| [SSS Go big or go Home 2021-2022](715.md) | 715 | 2 | 0 | 0 | 0 | 7 | 2 |
+| [SSS Go big or go Home 2021-2022](715.md) | 715 | 2 | 0 | 0 | 9 | 5 | 2 |
 | [2021 Red Bull Bora Challenge](712.md) | 712 | 1 | 0 | 0 | 0 | 1 | 1 |
 | [BritishSpeedChallenge2022](710.md) | 710 | 0 | 0 | 0 | 0 | 1 | 1 |
-| [Schildmeer Speed Challenge 2021-2022](704.md) | 704 | 0 | 0 | 0 | 0 | 18 | 6 |
-| [Surf like a dude Zuidlaardermeer speed challenge 2021](692.md) | 692 | 5 | 0 | 0 | 0 | 6 | 2 |
+| [Schildmeer Speed Challenge 2021-2022](704.md) | 704 | 0 | 0 | 0 | 0 | 2 | 1 |
+| [Surf like a dude Zuidlaardermeer speed challenge 2021](692.md) | 692 | 5 | 0 | 0 | 0 | 8 | 1 |

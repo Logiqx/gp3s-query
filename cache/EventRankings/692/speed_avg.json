@@ -67,6 +67,22 @@
     "ROWID": 5,
     "event_id": 692,
     "eventname": "Surf like a dude Zuidlaardermeer speed challenge 2021",
+    "speed": 55.5362944,
+    "type": "speed_avg",
+    "username": "Dennis Beumer",
+    "ageclass": "Master (36-50)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Zuidlaardermeer",
+    "sessionboard": "Starboard Isonic 97 Carbon",
+    "sessionsail": "Severne Mach 3  7.8",
+    "sessionfin": "Sonntag Fins GPS_6  33",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=380996&uid=22984"
+  },
+  {
+    "ROWID": 6,
+    "event_id": 692,
+    "eventname": "Surf like a dude Zuidlaardermeer speed challenge 2021",
     "speed": 55.5355536,
     "type": "speed_avg",
     "username": "Paul Poelman",
@@ -80,7 +96,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=361100&uid=23914"
   },
   {
-    "ROWID": 6,
+    "ROWID": 7,
     "event_id": 692,
     "eventname": "Surf like a dude Zuidlaardermeer speed challenge 2021",
     "speed": 54.83772000000001,
@@ -96,7 +112,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=370666&uid=23407"
   },
   {
-    "ROWID": 7,
+    "ROWID": 8,
     "event_id": 692,
     "eventname": "Surf like a dude Zuidlaardermeer speed challenge 2021",
     "speed": 51.658206400000005,
@@ -110,22 +126,6 @@
     "sessionsail": "Duotone S_page  7.3",
     "sessionfin": "Black Project Fins type r  375",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=355454&uid=1343"
-  },
-  {
-    "ROWID": 8,
-    "event_id": 692,
-    "eventname": "Surf like a dude Zuidlaardermeer speed challenge 2021",
-    "speed": 51.491156,
-    "type": "speed_avg",
-    "username": "Dennis Beumer",
-    "ageclass": "Master (36-50)",
-    "weightclass": "71-80",
-    "sexe": "Men",
-    "spotname": "Zuidlaardermeer",
-    "sessionboard": "Starboard Isonic 117",
-    "sessionsail": "Severne Mach 3  7.8",
-    "sessionfin": "Z-fins z-fin. zfs38s  38",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=369248&uid=22984"
   },
   {
     "ROWID": 9,

@@ -19,22 +19,6 @@
     "ROWID": 2,
     "event_id": 715,
     "eventname": "SSS Go big or go Home 2021-2022",
-    "speed": 25.429812000000002,
-    "type": "speed_hour",
-    "username": "Marlon Weijers",
-    "ageclass": "Master (36-50)",
-    "weightclass": "71-80",
-    "sexe": "Men",
-    "spotname": "Beulakerwijde, Giethoorn",
-    "sessionboard": "AHD topaz",
-    "sessionsail": "Point-7 AC-K PRO  8.5",
-    "sessionfin": "not defined -  0",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=372020&uid=24199"
-  },
-  {
-    "ROWID": 3,
-    "event_id": 715,
-    "eventname": "SSS Go big or go Home 2021-2022",
     "speed": 24.4927,
     "type": "speed_hour",
     "username": "Ingolf van Oostveen",
@@ -48,7 +32,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=385476&uid=3874"
   },
   {
-    "ROWID": 4,
+    "ROWID": 3,
     "event_id": 715,
     "eventname": "SSS Go big or go Home 2021-2022",
     "speed": 23.177780000000002,
@@ -64,7 +48,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=377719&uid=15697"
   },
   {
-    "ROWID": 5,
+    "ROWID": 4,
     "event_id": 715,
     "eventname": "SSS Go big or go Home 2021-2022",
     "speed": 21.036868000000002,
@@ -80,7 +64,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386610&uid=21711"
   },
   {
-    "ROWID": 6,
+    "ROWID": 5,
     "event_id": 715,
     "eventname": "SSS Go big or go Home 2021-2022",
     "speed": 20.657208,
@@ -96,7 +80,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386293&uid=23299"
   },
   {
-    "ROWID": 7,
+    "ROWID": 6,
     "event_id": 715,
     "eventname": "SSS Go big or go Home 2021-2022",
     "speed": 19.045968000000002,
@@ -112,7 +96,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=378802&uid=2358"
   },
   {
-    "ROWID": 8,
+    "ROWID": 7,
     "event_id": 715,
     "eventname": "SSS Go big or go Home 2021-2022",
     "speed": 0.0,
@@ -128,7 +112,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=382710&uid=23396"
   },
   {
-    "ROWID": 9,
+    "ROWID": 8,
     "event_id": 715,
     "eventname": "SSS Go big or go Home 2021-2022",
     "speed": 0.0,
@@ -144,7 +128,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386324&uid=19396"
   },
   {
-    "ROWID": 10,
+    "ROWID": 9,
     "event_id": 715,
     "eventname": "SSS Go big or go Home 2021-2022",
     "speed": 0.0,
