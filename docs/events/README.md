@@ -2,7 +2,7 @@
 
 Summary of issues detected in the GP3S event rankings.
 
-Last refreshed 2022-08-09 07:04:00 UTC.
+Last refreshed 2022-08-09 07:24:24 UTC.
 
 | Event Name | Event ID | Date Issues | Duplicates | Ghosts | Missing | Incorrect | Actions |
 | ---------- | :------: | :---------: | :--------: | :----: | :-----: | :-------: | :-----: |
@@ -28,3 +28,4 @@ Last refreshed 2022-08-09 07:04:00 UTC.
 | [BritishSpeedChallenge2022](710.md) | 710 | 0 | 0 | 0 | 0 | 1 | 1 |
 | [Schildmeer Speed Challenge 2021-2022](704.md) | 704 | 0 | 0 | 0 | 0 | 2 | 1 |
 | [Surf like a dude Zuidlaardermeer speed challenge 2021](692.md) | 692 | 5 | 0 | 0 | 0 | 8 | 1 |
+| TOTAL | - | 14 | 0 | 2 | 17 | 37 | 11 |
