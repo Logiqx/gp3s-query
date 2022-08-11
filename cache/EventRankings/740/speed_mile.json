@@ -67,6 +67,22 @@
     "ROWID": 5,
     "event_id": 740,
     "eventname": "2022 Funsport Makkum GPS Speed Challenge",
+    "speed": 50.944816,
+    "type": "speed_mile",
+    "username": "Dylan de Jong",
+    "ageclass": "Master (36-50)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "IJsselmeer - Makkum",
+    "sessionboard": "JP Slalom 60 Pro Edition",
+    "sessionsail": "Neilpryde RS Racing EVO X  7.0",
+    "sessionfin": "Zulu Umbani V3  32",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=379184&uid=53"
+  },
+  {
+    "ROWID": 6,
+    "event_id": 740,
+    "eventname": "2022 Funsport Makkum GPS Speed Challenge",
     "speed": 50.702204,
     "type": "speed_mile",
     "username": "Jens Salomons",
@@ -80,7 +96,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=382980&uid=4663"
   },
   {
-    "ROWID": 6,
+    "ROWID": 7,
     "event_id": 740,
     "eventname": "2022 Funsport Makkum GPS Speed Challenge",
     "speed": 49.683604,
@@ -96,7 +112,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=383751&uid=2574"
   },
   {
-    "ROWID": 7,
+    "ROWID": 8,
     "event_id": 740,
     "eventname": "2022 Funsport Makkum GPS Speed Challenge",
     "speed": 48.855760000000004,
@@ -112,7 +128,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=379405&uid=5456"
   },
   {
-    "ROWID": 8,
+    "ROWID": 9,
     "event_id": 740,
     "eventname": "2022 Funsport Makkum GPS Speed Challenge",
     "speed": 48.34275600000001,
@@ -128,7 +144,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=387150&uid=4097"
   },
   {
-    "ROWID": 9,
+    "ROWID": 10,
     "event_id": 740,
     "eventname": "2022 Funsport Makkum GPS Speed Challenge",
     "speed": 47.366752000000005,
@@ -144,7 +160,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=380880&uid=4910"
   },
   {
-    "ROWID": 10,
+    "ROWID": 11,
     "event_id": 740,
     "eventname": "2022 Funsport Makkum GPS Speed Challenge",
     "speed": 47.116732,
@@ -160,7 +176,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389183&uid=5761"
   },
   {
-    "ROWID": 11,
+    "ROWID": 12,
     "event_id": 740,
     "eventname": "2022 Funsport Makkum GPS Speed Challenge",
     "speed": 46.005532,
@@ -176,7 +192,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=382403&uid=3078"
   },
   {
-    "ROWID": 12,
+    "ROWID": 13,
     "event_id": 740,
     "eventname": "2022 Funsport Makkum GPS Speed Challenge",
     "speed": 45.414744,
@@ -192,7 +208,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=382549&uid=1437"
   },
   {
-    "ROWID": 13,
+    "ROWID": 14,
     "event_id": 740,
     "eventname": "2022 Funsport Makkum GPS Speed Challenge",
     "speed": 30.652452,
@@ -208,7 +224,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=382621&uid=24019"
   },
   {
-    "ROWID": 14,
+    "ROWID": 15,
     "event_id": 740,
     "eventname": "2022 Funsport Makkum GPS Speed Challenge",
     "speed": 30.269088000000004,

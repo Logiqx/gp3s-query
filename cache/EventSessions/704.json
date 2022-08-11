@@ -3782,5 +3782,27 @@
     "sessionsail": "Point-7 AC-ONE 7.8,  2022",
     "sessionfin": "Finish Fast b6  36",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390070&uid=20514"
+  },
+  {
+    "session_id": 390375,
+    "session_date": "2022-08-09T00:00:00",
+    "event_id": 704,
+    "eventname": "Schildmeer Speed Challenge 2021-2022",
+    "speed_avg": 49.526184,
+    "speed_2sec": 52.565316,
+    "speed_10sec": 51.920820000000006,
+    "speed_100": 52.16528400000001,
+    "speed_250": 50.579972000000005,
+    "speed_500": 45.746252000000005,
+    "speed_mile": 37.810432000000006,
+    "speed_hour": 20.507196,
+    "username": "Frans Werkman",
+    "flag": "NL",
+    "sexe": "Men",
+    "spotname": "schildmeer",
+    "sessionboard": "AV Modena 68,  2022",
+    "sessionsail": "Severne Mach 4  7.8,  2021",
+    "sessionfin": "Sonntag Fins SL-pro  36",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390375&uid=5650"
   }
 ]
