@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd">
+  <Document>
+    <name>GP3S Spot Cluster</name>
+    <open>1</open>
+    <Style id="gp3s"/>
+    <Placemark>
+      <name>Le Morne</name>
+      <styleUrl>#gp3s</styleUrl>
+      <Point>
+        <coordinates>57.34256821,-20.46384809</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Village du MORNE</name>
+      <styleUrl>#gp3s</styleUrl>
+      <Point>
+        <coordinates>57.3383172,-20.46631235</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Morne Village</name>
+      <styleUrl>#gp3s</styleUrl>
+      <Point>
+        <coordinates>57.33791864,-20.46621221</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

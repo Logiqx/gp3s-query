@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd">
+  <Document>
+    <name>GP3S Spot Cluster</name>
+    <open>1</open>
+    <Style id="gp3s"/>
+    <Placemark>
+      <name>Hood River Sandbar</name>
+      <styleUrl>#gp3s</styleUrl>
+      <Point>
+        <coordinates>-121.503315,45.71758695</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hood River Event Site</name>
+      <styleUrl>#gp3s</styleUrl>
+      <Point>
+        <coordinates>-121.5047739,45.71902425</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hood River Waterfront Park</name>
+      <styleUrl>#gp3s</styleUrl>
+      <Point>
+        <coordinates>-121.5171094,45.72074196</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hood River Sandbar Channel Course</name>
+      <styleUrl>#gp3s</styleUrl>
+      <Point>
+        <coordinates>-121.5057152,45.71906015</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

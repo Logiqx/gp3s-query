@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd">
+  <Document>
+    <name>GP3S Spot Cluster</name>
+    <open>1</open>
+    <Style id="gp3s"/>
+    <Placemark>
+      <name>Point Walter, WA</name>
+      <styleUrl>#gp3s</styleUrl>
+      <Point>
+        <coordinates>115.8125855,-32.01198087</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Melville Beach, Swan River, WA</name>
+      <styleUrl>#gp3s</styleUrl>
+      <Point>
+        <coordinates>115.8199992,-32.01448282</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

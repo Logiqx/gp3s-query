@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd">
+  <Document>
+    <name>GP3S Spot Cluster</name>
+    <open>1</open>
+    <Style id="gp3s"/>
+    <Placemark>
+      <name>Rhodos, Trianda</name>
+      <styleUrl>#gp3s</styleUrl>
+      <Point>
+        <coordinates>28.15042146,36.42820469</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rhodos, Procenter</name>
+      <styleUrl>#gp3s</styleUrl>
+      <Point>
+        <coordinates>28.15409276,36.42990301</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd">
+  <Document>
+    <name>GP3S Spot Cluster</name>
+    <open>1</open>
+    <Style id="gp3s"/>
+    <Placemark>
+      <name>Grevelingenmeer - Ouddorp Haven</name>
+      <styleUrl>#gp3s</styleUrl>
+      <Point>
+        <coordinates>3.955059926,51.79798633</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ouddorp Haven-Dammetjes</name>
+      <styleUrl>#gp3s</styleUrl>
+      <Point>
+        <coordinates>3.95200952,51.79833575</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ouddorp Haven</name>
+      <styleUrl>#gp3s</styleUrl>
+      <Point>
+        <coordinates>3.959617761,51.79247892</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pellentapijtje Ouddorp haven</name>
+      <styleUrl>#gp3s</styleUrl>
+      <Point>
+        <coordinates>3.963170599,51.79080437</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

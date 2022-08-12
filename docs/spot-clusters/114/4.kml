@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd">
+  <Document>
+    <name>GP3S Spot Cluster</name>
+    <open>1</open>
+    <Style id="gp3s"/>
+    <Placemark>
+      <name>Lapalme - leucate</name>
+      <styleUrl>#gp3s</styleUrl>
+      <Point>
+        <coordinates>3.007779591,42.96528128</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Etang La Palme</name>
+      <styleUrl>#gp3s</styleUrl>
+      <Point>
+        <coordinates>3.016201152,42.96739461</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>'l etang La Palme</name>
+      <styleUrl>#gp3s</styleUrl>
+      <Point>
+        <coordinates>3.01457655,42.97044855</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>les salines La Palme</name>
+      <styleUrl>#gp3s</styleUrl>
+      <Point>
+        <coordinates>3.021794985,42.96693221</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Le salin de La Palme</name>
+      <styleUrl>#gp3s</styleUrl>
+      <Point>
+        <coordinates>3.022301397,42.96898708</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

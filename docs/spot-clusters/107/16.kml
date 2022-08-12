@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd">
+  <Document>
+    <name>GP3S Spot Cluster</name>
+    <open>1</open>
+    <Style id="gp3s"/>
+    <Placemark>
+      <name>Mar Menor, Playa Honda</name>
+      <styleUrl>#gp3s</styleUrl>
+      <Point>
+        <coordinates>-0.735889094,37.64259103</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mar Menor, Secret</name>
+      <styleUrl>#gp3s</styleUrl>
+      <Point>
+        <coordinates>-0.736911264,37.6556783</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mar Menor, CWMM Arena</name>
+      <styleUrl>#gp3s</styleUrl>
+      <Point>
+        <coordinates>-0.7323593,37.64950885</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mar Menor, Secret Spot</name>
+      <styleUrl>#gp3s</styleUrl>
+      <Point>
+        <coordinates>-0.742364302,37.63855286</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

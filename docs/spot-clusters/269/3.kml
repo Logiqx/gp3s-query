@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd">
+  <Document>
+    <name>GP3S Spot Cluster</name>
+    <open>1</open>
+    <Style id="gp3s"/>
+    <Placemark>
+      <name>Barnegat Bay, Seaside Park</name>
+      <styleUrl>#gp3s</styleUrl>
+      <Point>
+        <coordinates>-74.09620454,39.89334061</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Barnegat - Bayshore Dr. - Public Beach</name>
+      <styleUrl>#gp3s</styleUrl>
+      <Point>
+        <coordinates>-74.09168475,39.88773065</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

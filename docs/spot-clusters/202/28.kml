@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd">
+  <Document>
+    <name>GP3S Spot Cluster</name>
+    <open>1</open>
+    <Style id="gp3s"/>
+    <Placemark>
+      <name>Grote Hegge</name>
+      <styleUrl>#gp3s</styleUrl>
+      <Point>
+        <coordinates>5.8443879,51.1557687</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Thorn</name>
+      <styleUrl>#gp3s</styleUrl>
+      <Point>
+        <coordinates>5.8467347,51.15200238</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>De Grote Hegge</name>
+      <styleUrl>#gp3s</styleUrl>
+      <Point>
+        <coordinates>5.848276786,51.15318727</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

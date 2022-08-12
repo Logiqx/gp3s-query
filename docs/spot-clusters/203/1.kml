@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd">
+  <Document>
+    <name>GP3S Spot Cluster</name>
+    <open>1</open>
+    <Style id="gp3s"/>
+    <Placemark>
+      <name>Drabak</name>
+      <styleUrl>#gp3s</styleUrl>
+      <Point>
+        <coordinates>10.62115438,59.64286027</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Drøbaksundet</name>
+      <styleUrl>#gp3s</styleUrl>
+      <Point>
+        <coordinates>10.62609017,59.65113006</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Torkildstranda</name>
+      <styleUrl>#gp3s</styleUrl>
+      <Point>
+        <coordinates>10.62126951,59.64631706</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

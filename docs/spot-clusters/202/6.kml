@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd">
+  <Document>
+    <name>GP3S Spot Cluster</name>
+    <open>1</open>
+    <Style id="gp3s"/>
+    <Placemark>
+      <name>Veerse Meer - Schotsman</name>
+      <styleUrl>#gp3s</styleUrl>
+      <Point>
+        <coordinates>3.644125192,51.5749734</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Veerse Meer - Vrouwenpolder</name>
+      <styleUrl>#gp3s</styleUrl>
+      <Point>
+        <coordinates>3.6417709,51.57599115</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Veerse meer- Veerse dam</name>
+      <styleUrl>#gp3s</styleUrl>
+      <Point>
+        <coordinates>3.638629584,51.57955892</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Veerse meer-Trailerhelling</name>
+      <styleUrl>#gp3s</styleUrl>
+      <Point>
+        <coordinates>3.641001238,51.5763282</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Veerse meer - Oostwatering</name>
+      <styleUrl>#gp3s</styleUrl>
+      <Point>
+        <coordinates>3.64346325,51.57165195</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

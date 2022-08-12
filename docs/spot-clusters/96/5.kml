@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd">
+  <Document>
+    <name>GP3S Spot Cluster</name>
+    <open>1</open>
+    <Style id="gp3s"/>
+    <Placemark>
+      <name>schlei,Maasholm</name>
+      <styleUrl>#gp3s</styleUrl>
+      <Point>
+        <coordinates>9.9926705,54.6900073</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Maasholm</name>
+      <styleUrl>#gp3s</styleUrl>
+      <Point>
+        <coordinates>9.99010417,54.69243833</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Schlei, Maasholm Ost</name>
+      <styleUrl>#gp3s</styleUrl>
+      <Point>
+        <coordinates>9.991309516,54.69093071</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

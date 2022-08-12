@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd">
+  <Document>
+    <name>GP3S Spot Cluster</name>
+    <open>1</open>
+    <Style id="gp3s"/>
+    <Placemark>
+      <name>Dorum, Bremerhaven</name>
+      <styleUrl>#gp3s</styleUrl>
+      <Point>
+        <coordinates>8.510030645,53.74291372</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cappel , Deich</name>
+      <styleUrl>#gp3s</styleUrl>
+      <Point>
+        <coordinates>8.51266195,53.74476105</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dorumer Tief</name>
+      <styleUrl>#gp3s</styleUrl>
+      <Point>
+        <coordinates>8.509083383,53.74318177</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

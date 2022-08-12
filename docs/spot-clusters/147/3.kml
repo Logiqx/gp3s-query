@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd">
+  <Document>
+    <name>GP3S Spot Cluster</name>
+    <open>1</open>
+    <Style id="gp3s"/>
+    <Placemark>
+      <name>Valledoria - San Pietro</name>
+      <styleUrl>#gp3s</styleUrl>
+      <Point>
+        <coordinates>8.80188715,40.93556325</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Laguna del Coghinas - Valledoria</name>
+      <styleUrl>#gp3s</styleUrl>
+      <Point>
+        <coordinates>8.81118409,40.93261426</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

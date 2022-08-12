@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd">
+  <Document>
+    <name>GP3S Spot Cluster</name>
+    <open>1</open>
+    <Style id="gp3s"/>
+    <Placemark>
+      <name>El Palmar</name>
+      <styleUrl>#gp3s</styleUrl>
+      <Point>
+        <coordinates>0.03857557,38.8632235</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Punta Molins</name>
+      <styleUrl>#gp3s</styleUrl>
+      <Point>
+        <coordinates>0.040859413,38.8631382</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

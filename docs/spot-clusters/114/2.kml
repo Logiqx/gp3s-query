@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd">
+  <Document>
+    <name>GP3S Spot Cluster</name>
+    <open>1</open>
+    <Style id="gp3s"/>
+    <Placemark>
+      <name>La Veille Nouvelle a Port la N</name>
+      <styleUrl>#gp3s</styleUrl>
+      <Point>
+        <coordinates>3.080497066,43.04536415</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Port la Nouvelle Plage Nord</name>
+      <styleUrl>#gp3s</styleUrl>
+      <Point>
+        <coordinates>3.078562238,43.04406924</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Port la Nouvelle</name>
+      <styleUrl>#gp3s</styleUrl>
+      <Point>
+        <coordinates>3.080570098,43.04281921</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

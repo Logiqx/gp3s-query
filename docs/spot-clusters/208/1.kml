@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd">
+  <Document>
+    <name>GP3S Spot Cluster</name>
+    <open>1</open>
+    <Style id="gp3s"/>
+    <Placemark>
+      <name>Manukau Harbour Inland, Waiuku</name>
+      <styleUrl>#gp3s</styleUrl>
+      <Point>
+        <coordinates>174.7252789,-37.227379</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sandspit Beach Waiuku</name>
+      <styleUrl>#gp3s</styleUrl>
+      <Point>
+        <coordinates>174.7243714,-37.22638835</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

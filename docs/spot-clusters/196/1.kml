@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd">
+  <Document>
+    <name>GP3S Spot Cluster</name>
+    <open>1</open>
+    <Style id="gp3s"/>
+    <Placemark>
+      <name>Luderitz, Second Lagoon</name>
+      <styleUrl>#gp3s</styleUrl>
+      <Point>
+        <coordinates>15.14806925,-26.68654093</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luderitz Speed Canal</name>
+      <styleUrl>#gp3s</styleUrl>
+      <Point>
+        <coordinates>15.14774791,-26.68674571</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luderitz</name>
+      <styleUrl>#gp3s</styleUrl>
+      <Point>
+        <coordinates>15.1480362,-26.68657955</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

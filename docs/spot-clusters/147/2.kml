@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd">
+  <Document>
+    <name>GP3S Spot Cluster</name>
+    <open>1</open>
+    <Style id="gp3s"/>
+    <Placemark>
+      <name>Lago di Como</name>
+      <styleUrl>#gp3s</styleUrl>
+      <Point>
+        <coordinates>9.29351825,46.09127865</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dervio</name>
+      <styleUrl>#gp3s</styleUrl>
+      <Point>
+        <coordinates>9.289800839,46.07875048</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cremia, Como Lake</name>
+      <styleUrl>#gp3s</styleUrl>
+      <Point>
+        <coordinates>9.292101,46.08630955</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd">
+  <Document>
+    <name>GP3S Spot Cluster</name>
+    <open>1</open>
+    <Style id="gp3s"/>
+    <Placemark>
+      <name>Brandvlei</name>
+      <styleUrl>#gp3s</styleUrl>
+      <Point>
+        <coordinates>19.39936139,-33.6946464</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brand Vlie Speed Strip </name>
+      <styleUrl>#gp3s</styleUrl>
+      <Point>
+        <coordinates>19.3963499,-33.6941379</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

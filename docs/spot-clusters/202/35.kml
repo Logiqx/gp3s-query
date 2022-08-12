@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd">
+  <Document>
+    <name>GP3S Spot Cluster</name>
+    <open>1</open>
+    <Style id="gp3s"/>
+    <Placemark>
+      <name>Blauwe Stad</name>
+      <styleUrl>#gp3s</styleUrl>
+      <Point>
+        <coordinates>7.039245281,53.19074525</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Oldambtmeer</name>
+      <styleUrl>#gp3s</styleUrl>
+      <Point>
+        <coordinates>7.039515815,53.18652477</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

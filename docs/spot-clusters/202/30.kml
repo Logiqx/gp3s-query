@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd">
+  <Document>
+    <name>GP3S Spot Cluster</name>
+    <open>1</open>
+    <Style id="gp3s"/>
+    <Placemark>
+      <name>Grevelingenmeer - Den Osse</name>
+      <styleUrl>#gp3s</styleUrl>
+      <Point>
+        <coordinates>3.910787294,51.7392314</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Grevelingenmeer - Dwars in de Weg</name>
+      <styleUrl>#gp3s</styleUrl>
+      <Point>
+        <coordinates>3.921746444,51.73965568</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
