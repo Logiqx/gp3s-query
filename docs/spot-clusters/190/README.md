@@ -1,6 +1,6 @@
 ## Mauritius - ID 190
 
-### Cluster 1 - [KML](190/1.kml)
+### Cluster 1 - [KML](1.kml)
 
 | Spot Name | Spot ID | Spot Type | Num Sessions | Location |
 | --------- | :-----: | :-------: | :----------: | :------: |
@@ -8,7 +8,7 @@
 | [Village du MORNE](https://www.gps-speedsurfing.com/mygps.aspx?mnu=spotsearch&val=6359.md) | 6359 | Sea | 1| [Google](https://www.google.com/maps/search/?api=1&query=-20.46631235,57.3383172)
 | [Morne Village](https://www.gps-speedsurfing.com/mygps.aspx?mnu=spotsearch&val=6360.md) | 6360 | Sea | 2| [Google](https://www.google.com/maps/search/?api=1&query=-20.46621221,57.33791864)
 
-### Cluster 2 - [KML](190/2.kml)
+### Cluster 2 - [KML](2.kml)
 
 | Spot Name | Spot ID | Spot Type | Num Sessions | Location |
 | --------- | :-----: | :-------: | :----------: | :------: |

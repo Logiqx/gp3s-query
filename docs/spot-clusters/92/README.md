@@ -1,6 +1,6 @@
 ## Cape Verde - ID 92
 
-### Cluster 1 - [KML](92/1.kml)
+### Cluster 1 - [KML](1.kml)
 
 | Spot Name | Spot ID | Spot Type | Num Sessions | Location |
 | --------- | :-----: | :-------: | :----------: | :------: |

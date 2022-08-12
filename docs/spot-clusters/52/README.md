@@ -1,6 +1,6 @@
 ## Austria - ID 52
 
-### Cluster 1 - [KML](52/1.kml)
+### Cluster 1 - [KML](1.kml)
 
 | Spot Name | Spot ID | Spot Type | Num Sessions | Location |
 | --------- | :-----: | :-------: | :----------: | :------: |

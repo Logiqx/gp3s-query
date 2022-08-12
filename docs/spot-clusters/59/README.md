@@ -1,20 +1,20 @@
 ## Belgium - ID 59
 
-### Cluster 1 - [KML](59/1.kml)
+### Cluster 1 - [KML](1.kml)
 
 | Spot Name | Spot ID | Spot Type | Num Sessions | Location |
 | --------- | :-----: | :-------: | :----------: | :------: |
 | [Heist](https://www.gps-speedsurfing.com/mygps.aspx?mnu=spotsearch&val=1840.md) | 1840 | - | 48| [Google](https://www.google.com/maps/search/?api=1&query=51.34876072,3.250648022)
 | [RBSC Duinbergen](https://www.gps-speedsurfing.com/mygps.aspx?mnu=spotsearch&val=6024.md) | 6024 | Sea | 3| [Google](https://www.google.com/maps/search/?api=1&query=51.34817841,3.250883252)
 
-### Cluster 2 - [KML](59/2.kml)
+### Cluster 2 - [KML](2.kml)
 
 | Spot Name | Spot ID | Spot Type | Num Sessions | Location |
 | --------- | :-----: | :-------: | :----------: | :------: |
 | [Bredene](https://www.gps-speedsurfing.com/mygps.aspx?mnu=spotsearch&val=551.md) | 551 | - | 1| [Google](https://www.google.com/maps/search/?api=1&query=51.27369658,3.005920446)
 | [De Haan - Windhaan](https://www.gps-speedsurfing.com/mygps.aspx?mnu=spotsearch&val=3098.md) | 3098 | Sea | 2| [Google](https://www.google.com/maps/search/?api=1&query=51.27918549,3.012367996)
 
-### Cluster 3 - [KML](59/3.kml)
+### Cluster 3 - [KML](3.kml)
 
 | Spot Name | Spot ID | Spot Type | Num Sessions | Location |
 | --------- | :-----: | :-------: | :----------: | :------: |

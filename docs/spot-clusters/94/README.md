@@ -1,6 +1,6 @@
 ## Cyprus - ID 94
 
-### Cluster 1 - [KML](94/1.kml)
+### Cluster 1 - [KML](1.kml)
 
 | Spot Name | Spot ID | Spot Type | Num Sessions | Location |
 | --------- | :-----: | :-------: | :----------: | :------: |

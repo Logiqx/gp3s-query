@@ -1,6 +1,6 @@
 ## Netherlands Antilles - ID 47
 
-### Cluster 1 - [KML](47/1.kml)
+### Cluster 1 - [KML](1.kml)
 
 | Spot Name | Spot ID | Spot Type | Num Sessions | Location |
 | --------- | :-----: | :-------: | :----------: | :------: |

@@ -1,6 +1,6 @@
 ## Aruba - ID 54
 
-### Cluster 1 - [KML](54/1.kml)
+### Cluster 1 - [KML](1.kml)
 
 | Spot Name | Spot ID | Spot Type | Num Sessions | Location |
 | --------- | :-----: | :-------: | :----------: | :------: |

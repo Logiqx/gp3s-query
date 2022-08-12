@@ -2,7 +2,7 @@
 
 Summary of spot clusters detected in the GP3S countries.
 
-Last refreshed 2022-08-12 10:05:28 UTC.
+Last refreshed 2022-08-12 10:09:07 UTC.
 
 | Country Name | Country ID | Spots | Spot Clusters |
 | ------------ | :--------: | :---: | :-----------: |
