@@ -643,7 +643,7 @@
     "ROWID": 41,
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
-    "speed": 49.444696,
+    "speed": 50.861476,
     "type": "speed_10sec",
     "username": "Till Kramann",
     "ageclass": "Master (36-50)",
@@ -653,26 +653,10 @@
     "sessionboard": "Custom Winheller/Slalom",
     "sessionsail": "Severne Overdrive M3  8.6",
     "sessionfin": "Z-fins SLM S-  44",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390297&uid=24908"
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390576&uid=24908"
   },
   {
     "ROWID": 42,
-    "event_id": 736,
-    "eventname": "2022 Odyssey of Speed",
-    "speed": 47.683444,
-    "type": "speed_10sec",
-    "username": "Markus Neufeld",
-    "ageclass": "Grand Master (51-60)",
-    "weightclass": "81-90",
-    "sexe": "Men",
-    "spotname": "Serifos",
-    "sessionboard": "i-99 Style Pro Wave",
-    "sessionsail": "Point-7 ACX  5.8",
-    "sessionfin": "not defined -  0",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=385762&uid=23994"
-  },
-  {
-    "ROWID": 43,
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
     "speed": 47.626032,
@@ -688,7 +672,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=380357&uid=18040"
   },
   {
-    "ROWID": 44,
+    "ROWID": 43,
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
     "speed": 46.89449200000001,

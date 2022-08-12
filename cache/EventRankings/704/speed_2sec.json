@@ -227,22 +227,6 @@
     "ROWID": 15,
     "event_id": 704,
     "eventname": "Schildmeer Speed Challenge 2021-2022",
-    "speed": 42.390428,
-    "type": "speed_2sec",
-    "username": "Saar Schuling ",
-    "ageclass": "Master (36-50)",
-    "weightclass": "51-60",
-    "sexe": "Woman",
-    "spotname": "schildmeer",
-    "sessionboard": "JP Slalom 62 Pro Edition",
-    "sessionsail": "Neilpryde V8  5.7",
-    "sessionfin": "Select Edge free slam  33",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=370835&uid=25189"
-  },
-  {
-    "ROWID": 16,
-    "event_id": 704,
-    "eventname": "Schildmeer Speed Challenge 2021-2022",
     "speed": 37.4104,
     "type": "speed_2sec",
     "username": "Stefan Bijmolt",
@@ -254,5 +238,21 @@
     "sessionsail": "Severne Overdrive M4  7.8",
     "sessionfin": "- Severne F-series  44",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389989&uid=25577"
+  },
+  {
+    "ROWID": 16,
+    "event_id": 704,
+    "eventname": "Schildmeer Speed Challenge 2021-2022",
+    "speed": 24.164896000000002,
+    "type": "speed_2sec",
+    "username": "Saar Schuling ",
+    "ageclass": "Master (36-50)",
+    "weightclass": "51-60",
+    "sexe": "Woman",
+    "spotname": "Vlieland (De Weidjes)",
+    "sessionboard": "Tabou 3S 106 ltd",
+    "sessionsail": "Ezzy Wave SE  5.8",
+    "sessionfin": "not defined -  0",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390619&uid=25189"
   }
 ]

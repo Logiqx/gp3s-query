@@ -35,6 +35,22 @@
     "ROWID": 3,
     "event_id": 722,
     "eventname": "Lysakerfjorden 2022",
+    "speed": 33.2441408,
+    "type": "speed_avg",
+    "username": "Christian Hilmersen",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Lysakerfjorden",
+    "sessionboard": "Exocet RS 380 Elite Pro",
+    "sessionsail": "Demon Design VG7  95.0",
+    "sessionfin": "Select Rhino  51",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390617&uid=23634"
+  },
+  {
+    "ROWID": 4,
+    "event_id": 722,
+    "eventname": "Lysakerfjorden 2022",
     "speed": 32.1496088,
     "type": "speed_avg",
     "username": "Haakon Ranum",
@@ -48,7 +64,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=383172&uid=26228"
   },
   {
-    "ROWID": 4,
+    "ROWID": 5,
     "event_id": 722,
     "eventname": "Lysakerfjorden 2022",
     "speed": 31.778838399999998,
@@ -62,22 +78,6 @@
     "sessionsail": "Ezzy Cheetah  8.5",
     "sessionfin": "not defined -  0",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=382231&uid=23900"
-  },
-  {
-    "ROWID": 5,
-    "event_id": 722,
-    "eventname": "Lysakerfjorden 2022",
-    "speed": 27.512941600000005,
-    "type": "speed_avg",
-    "username": "Christian Hilmersen",
-    "ageclass": "Grand Master (51-60)",
-    "weightclass": "81-90",
-    "sexe": "Men",
-    "spotname": "Rolfstangen, Lysaker, Oslo",
-    "sessionboard": "Exocet RS 380 Elite Pro",
-    "sessionsail": "Gun Sails Vector  9.6",
-    "sessionfin": "- SABFoil (679-95-450)  95",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=380843&uid=23634"
   },
   {
     "ROWID": 6,

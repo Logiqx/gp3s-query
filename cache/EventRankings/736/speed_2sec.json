@@ -611,6 +611,22 @@
     "ROWID": 39,
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
+    "speed": 52.639396,
+    "type": "speed_2sec",
+    "username": "Till Kramann",
+    "ageclass": "Master (36-50)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Drepano",
+    "sessionboard": "Custom Winheller/Slalom",
+    "sessionsail": "Severne Overdrive M3  8.6",
+    "sessionfin": "Z-fins SLM S-  44",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390576&uid=24908"
+  },
+  {
+    "ROWID": 40,
+    "event_id": 736,
+    "eventname": "2022 Odyssey of Speed",
     "speed": 52.502348000000005,
     "type": "speed_2sec",
     "username": "Dionisis Papadatos",
@@ -624,7 +640,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=378507&uid=23910"
   },
   {
-    "ROWID": 40,
+    "ROWID": 41,
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
     "speed": 52.178248,
@@ -638,22 +654,6 @@
     "sessionsail": "Challenger Sails Aero+  7.7",
     "sessionfin": "Z-fins ZSL S-  36",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389884&uid=6188"
-  },
-  {
-    "ROWID": 41,
-    "event_id": 736,
-    "eventname": "2022 Odyssey of Speed",
-    "speed": 50.95778000000001,
-    "type": "speed_2sec",
-    "username": "Till Kramann",
-    "ageclass": "Master (36-50)",
-    "weightclass": "81-90",
-    "sexe": "Men",
-    "spotname": "Drepano",
-    "sessionboard": "Custom Winheller/Slalom",
-    "sessionsail": "Severne Overdrive M3  8.6",
-    "sessionfin": "Z-fins SLM S-  44",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390297&uid=24908"
   },
   {
     "ROWID": 42,
@@ -673,22 +673,6 @@
   },
   {
     "ROWID": 43,
-    "event_id": 736,
-    "eventname": "2022 Odyssey of Speed",
-    "speed": 49.14282,
-    "type": "speed_2sec",
-    "username": "Markus Neufeld",
-    "ageclass": "Grand Master (51-60)",
-    "weightclass": "81-90",
-    "sexe": "Men",
-    "spotname": "Serifos",
-    "sessionboard": "i-99 Style Pro Wave",
-    "sessionsail": "Point-7 ACX  5.8",
-    "sessionfin": "not defined -  0",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=385762&uid=23994"
-  },
-  {
-    "ROWID": 44,
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
     "speed": 48.863168,

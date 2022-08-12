@@ -179,6 +179,22 @@
     "ROWID": 12,
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
+    "speed": 36.091776,
+    "type": "speed_hour",
+    "username": "Papandrikopoulos Konstantinos",
+    "ageclass": "Senior (19-35)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Plaz",
+    "sessionboard": "Starboard Isonic 85 2021",
+    "sessionsail": "S2 Maui Venom  8.3",
+    "sessionfin": "Custom Carpenter Fins  44",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390588&uid=16897"
+  },
+  {
+    "ROWID": 13,
+    "event_id": 736,
+    "eventname": "2022 Odyssey of Speed",
     "speed": 35.310232,
     "type": "speed_hour",
     "username": "Christian Bornemann",
@@ -192,7 +208,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390369&uid=1789"
   },
   {
-    "ROWID": 13,
+    "ROWID": 14,
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
     "speed": 34.656476000000005,
@@ -206,22 +222,6 @@
     "sessionsail": "Gun Sails GSR  7.8",
     "sessionfin": "F-Hot RS  37",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386002&uid=18214"
-  },
-  {
-    "ROWID": 14,
-    "event_id": 736,
-    "eventname": "2022 Odyssey of Speed",
-    "speed": 33.339704,
-    "type": "speed_hour",
-    "username": "Papandrikopoulos Konstantinos",
-    "ageclass": "Senior (19-35)",
-    "weightclass": "81-90",
-    "sexe": "Men",
-    "spotname": "VALTOS",
-    "sessionboard": "Starboard Isonic 85 2021",
-    "sessionsail": "S2 Maui Venom  8.3",
-    "sessionfin": "Custom erd racing fast lane  34",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=379633&uid=16897"
   },
   {
     "ROWID": 15,
@@ -670,21 +670,5 @@
     "sessionsail": "Loftsails Racingblade  5.6",
     "sessionfin": "Select Lightning  33",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=388439&uid=24045"
-  },
-  {
-    "ROWID": 43,
-    "event_id": 736,
-    "eventname": "2022 Odyssey of Speed",
-    "speed": 4.3985,
-    "type": "speed_hour",
-    "username": "Markus Neufeld",
-    "ageclass": "Grand Master (51-60)",
-    "weightclass": "81-90",
-    "sexe": "Men",
-    "spotname": "Serifos",
-    "sessionboard": "i-99 Style Pro Wave",
-    "sessionsail": "Point-7 ACX  5.8",
-    "sessionfin": "not defined -  0",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=385762&uid=23994"
   }
 ]

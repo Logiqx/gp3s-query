@@ -262,5 +262,27 @@
     "sessionsail": "Demon Design VG7 8.5,  2021",
     "sessionfin": "Select Rhino Pro  51",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=385993&uid=26303"
+  },
+  {
+    "session_id": 390617,
+    "session_date": "2022-08-11T00:00:00",
+    "event_id": 722,
+    "eventname": "Lysakerfjorden 2022",
+    "speed_avg": 33.2441408,
+    "speed_2sec": 40.090244,
+    "speed_10sec": 39.130908000000005,
+    "speed_100": 39.130908000000005,
+    "speed_250": 37.791911999999996,
+    "speed_500": 34.615732,
+    "speed_mile": 25.492780000000003,
+    "speed_hour": 0.0,
+    "username": "Christian Hilmersen",
+    "flag": "NO",
+    "sexe": "Men",
+    "spotname": "Lysakerfjorden",
+    "sessionboard": "Exocet RS 380 Elite Pro,  2019",
+    "sessionsail": "Demon Design VG7 95.0,  2015",
+    "sessionfin": "Select Rhino  51",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390617&uid=23634"
   }
 ]

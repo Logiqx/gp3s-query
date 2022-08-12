@@ -4024,5 +4024,27 @@
     "sessionsail": "Loft Sails Racing blade 7.0,  2015",
     "sessionfin": "Z-fins Z-fins SLM s-  34",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390574&uid=4497"
+  },
+  {
+    "session_id": 390605,
+    "session_date": "2022-08-11T00:00:00",
+    "event_id": 739,
+    "eventname": "2022 Estonian Speed King",
+    "speed_avg": 40.9258664,
+    "speed_2sec": 44.496152,
+    "speed_10sec": 42.681192,
+    "speed_100": 42.83676,
+    "speed_250": 41.977432,
+    "speed_500": 40.788448,
+    "speed_mile": 38.723468,
+    "speed_hour": 19.045968000000002,
+    "username": "Toomas Kasenurm",
+    "flag": "EE",
+    "sexe": "Men",
+    "spotname": "Vana P\u00e4rnu rand",
+    "sessionboard": "Starboard Isonic 124 Carbon,  2016",
+    "sessionsail": "Loft Sails racing blade  7.0,  2020",
+    "sessionfin": "Z-fins SL S-  41",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390605&uid=4527"
   }
 ]
