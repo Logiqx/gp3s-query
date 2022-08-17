@@ -1,0 +1,34 @@
+[
+  {
+    "rowid": "1",
+    "event_id": 712,
+    "eventname": "2021 Red Bull Bora Challenge",
+    "speed": 44.85914400000001,
+    "type": "speed_24hour",
+    "username": "Giulio Paolo Paladini",
+    "ageclass": "Master (36-50)",
+    "weightclass": "61-70",
+    "sexe": "Men",
+    "spotname": "Barcola - Trieste",
+    "sessionboard": "i-99 WCSL 99",
+    "sessionsail": "Point-7 AC1  6.2",
+    "sessionfin": "Custom MVF Matej Vidmar  31",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=387830&uid=21968"
+  },
+  {
+    "rowid": "2",
+    "event_id": 712,
+    "eventname": "2021 Red Bull Bora Challenge",
+    "speed": 0.0,
+    "type": "speed_24hour",
+    "username": "Bjorn Dunkerbeck",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "101-110",
+    "sexe": "Men",
+    "spotname": "Barcola - Trieste",
+    "sessionboard": "AV Modena Slalom 62",
+    "sessionsail": "Severne Mach 4  7.0",
+    "sessionfin": "Custom speed  28",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=368385&uid=6023"
+  }
+]

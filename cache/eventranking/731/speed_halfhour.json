@@ -1,0 +1,50 @@
+[
+  {
+    "rowid": "1",
+    "event_id": 731,
+    "eventname": "Wurster ONE hour",
+    "speed": 36.658488000000006,
+    "type": "speed_halfhour",
+    "username": "Hans-Dieter Wilshusen",
+    "ageclass": "Super Master (61-70)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Dorum, Bremerhaven",
+    "sessionboard": "RRD FreeStyleWave 96",
+    "sessionsail": "Loftsails Purelip  6.2",
+    "sessionfin": "Tabou Wave  22",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=387331&uid=3855"
+  },
+  {
+    "rowid": "2",
+    "event_id": 731,
+    "eventname": "Wurster ONE hour",
+    "speed": 32.760028,
+    "type": "speed_halfhour",
+    "username": "Bert Nijsen",
+    "ageclass": "Super Master (61-70)",
+    "weightclass": "61-70",
+    "sexe": "Men",
+    "spotname": "Dorum, Bremerhaven",
+    "sessionboard": "Starboard Isonic 107 Carbon",
+    "sessionsail": "Neilpryde speedster  7.2",
+    "sessionfin": "Lessacher Le Wo Duo Rake 30'  40",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=381147&uid=4306"
+  },
+  {
+    "rowid": "3",
+    "event_id": 731,
+    "eventname": "Wurster ONE hour",
+    "speed": 29.835720000000002,
+    "type": "speed_halfhour",
+    "username": "Volker Dunker",
+    "ageclass": "Super Master (61-70)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Dorumer Tief",
+    "sessionboard": "JP Freestyle 99",
+    "sessionsail": "Gun Sails Torro  5.7",
+    "sessionfin": "ART Slalom Blade   28",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=387314&uid=5860"
+  }
+]
