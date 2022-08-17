@@ -83,22 +83,6 @@
     "ROWID": 6,
     "event_id": 725,
     "eventname": "Singlis-Speedchallenge 2022",
-    "speed": 44.988784,
-    "type": "speed_10sec",
-    "username": "Ralf Hansel",
-    "ageclass": "Grand Master (51-60)",
-    "weightclass": "71-80",
-    "sexe": "Men",
-    "spotname": "Singliser See",
-    "sessionboard": "PATRIK Slalom 122 ll",
-    "sessionsail": "Loftsails RacingBlade  8.6",
-    "sessionfin": "C-Fins 4.4  43",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=377930&uid=10573"
-  },
-  {
-    "ROWID": 7,
-    "event_id": 725,
-    "eventname": "Singlis-Speedchallenge 2022",
     "speed": 42.075588,
     "type": "speed_10sec",
     "username": "Volkmar Kunde",
@@ -112,7 +96,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=387392&uid=4475"
   },
   {
-    "ROWID": 8,
+    "ROWID": 7,
     "event_id": 725,
     "eventname": "Singlis-Speedchallenge 2022",
     "speed": 41.490356,
@@ -126,6 +110,22 @@
     "sessionsail": "Gun Sails Vector  8.6",
     "sessionfin": "Maui Ultra Fins Slalom Weed  36",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=376181&uid=11612"
+  },
+  {
+    "ROWID": 8,
+    "event_id": 725,
+    "eventname": "Singlis-Speedchallenge 2022",
+    "speed": 37.33817200000001,
+    "type": "speed_10sec",
+    "username": "Ralf Hansel",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Veerse Meer - Schotsman",
+    "sessionboard": "PATRIK Slalom 122 ll",
+    "sessionsail": "Loftsails RacingBlade  8.6",
+    "sessionfin": "C-Fins 4.4  43",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390760&uid=10573"
   },
   {
     "ROWID": 9,

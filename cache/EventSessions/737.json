@@ -3430,5 +3430,27 @@
     "sessionsail": "Severne Mach 3 7.0,  2020",
     "sessionfin": "- Chopper DW  36",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389730&uid=22440"
+  },
+  {
+    "session_id": 390803,
+    "session_date": "2022-08-14T00:00:00",
+    "event_id": 737,
+    "eventname": "2022 Spanish Speed Challenge",
+    "speed_avg": 46.46223520000001,
+    "speed_2sec": 52.085648,
+    "speed_10sec": 51.183724000000005,
+    "speed_100": 51.302252,
+    "speed_250": 50.800360000000005,
+    "speed_500": 48.944656,
+    "speed_mile": 0.0,
+    "speed_hour": 6.552376,
+    "username": "Rafael Cuesta",
+    "flag": "ES",
+    "sexe": "Men",
+    "spotname": "Alarc\u00f3n",
+    "sessionboard": "Fanatic Falcon TE 140 ,  2020",
+    "sessionsail": "Duotone Warp 2019 8.4,  2019",
+    "sessionfin": "- Gregor Custom Fins SL2 S-  44",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390803&uid=22584"
   }
 ]

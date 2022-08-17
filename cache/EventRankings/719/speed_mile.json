@@ -211,6 +211,22 @@
     "ROWID": 14,
     "event_id": 719,
     "eventname": "Norwegian speedmaster - 2022",
+    "speed": 40.238404,
+    "type": "speed_mile",
+    "username": "Ole Erik Carlson",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "91-100",
+    "sexe": "Men",
+    "spotname": "Dr\u00f8baksundet",
+    "sessionboard": "Simmer Monster 136L",
+    "sessionsail": "Simmer Sails Enduro  7.8",
+    "sessionfin": "Black Project Fins Hammer GT [Black Ed.]  475",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390732&uid=9552"
+  },
+  {
+    "ROWID": 15,
+    "event_id": 719,
+    "eventname": "Norwegian speedmaster - 2022",
     "speed": 38.953116,
     "type": "speed_mile",
     "username": "Stig Bremerthun Sv\u00e5sand",
@@ -224,7 +240,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=387702&uid=25195"
   },
   {
-    "ROWID": 15,
+    "ROWID": 16,
     "event_id": 719,
     "eventname": "Norwegian speedmaster - 2022",
     "speed": 38.64198,
@@ -240,7 +256,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=385032&uid=23185"
   },
   {
-    "ROWID": 16,
+    "ROWID": 17,
     "event_id": 719,
     "eventname": "Norwegian speedmaster - 2022",
     "speed": 35.775084,
@@ -256,7 +272,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=388601&uid=24419"
   },
   {
-    "ROWID": 17,
+    "ROWID": 18,
     "event_id": 719,
     "eventname": "Norwegian speedmaster - 2022",
     "speed": 35.421352000000006,
@@ -272,36 +288,20 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386057&uid=19447"
   },
   {
-    "ROWID": 18,
-    "event_id": 719,
-    "eventname": "Norwegian speedmaster - 2022",
-    "speed": 35.339864000000006,
-    "type": "speed_mile",
-    "username": "Ole Erik Carlson",
-    "ageclass": "Grand Master (51-60)",
-    "weightclass": "91-100",
-    "sexe": "Men",
-    "spotname": "Saltnes",
-    "sessionboard": "RRD Firemove 110: - LTD V3",
-    "sessionsail": "Simmer Sails Enduro  5.9",
-    "sessionfin": "Black Project Fins Hammer GT [Black Ed.]  375",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=384666&uid=9552"
-  },
-  {
     "ROWID": 19,
     "event_id": 719,
     "eventname": "Norwegian speedmaster - 2022",
-    "speed": 34.276816,
+    "speed": 35.060212,
     "type": "speed_mile",
     "username": "Harald Solheim",
     "ageclass": "Grand Master (51-60)",
     "weightclass": "61-70",
     "sexe": "Men",
-    "spotname": "M\u00f8vik",
+    "spotname": "Dr\u00f8baksundet",
     "sessionboard": "RRD Firemove",
-    "sessionsail": "Duotone Super Hero  5.7",
-    "sessionfin": "Black Project Fins Sabre  30",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=387894&uid=23169"
+    "sessionsail": "North Sails Volt  6.4",
+    "sessionfin": "Black Project Fins Hammer  35",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390756&uid=23169"
   },
   {
     "ROWID": 20,

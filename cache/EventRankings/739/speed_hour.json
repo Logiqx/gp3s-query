@@ -195,6 +195,22 @@
     "ROWID": 13,
     "event_id": 739,
     "eventname": "2022 Estonian Speed King",
+    "speed": 25.653904,
+    "type": "speed_hour",
+    "username": "Elena Lass",
+    "ageclass": "Master (36-50)",
+    "weightclass": "51-60",
+    "sexe": "Woman",
+    "spotname": "Vana P\u00e4rnu rand",
+    "sessionboard": "Starboard iSonic 63 Carbon Reflex",
+    "sessionsail": "GA-sails phantom  6.4",
+    "sessionfin": "Starboard Drake Slalom DW 32  32",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390654&uid=23316"
+  },
+  {
+    "ROWID": 14,
+    "event_id": 739,
+    "eventname": "2022 Estonian Speed King",
     "speed": 21.736924000000002,
     "type": "speed_hour",
     "username": "Fons van den Hove",
@@ -208,7 +224,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386281&uid=24311"
   },
   {
-    "ROWID": 14,
+    "ROWID": 15,
     "event_id": 739,
     "eventname": "2022 Estonian Speed King",
     "speed": 20.877596,
@@ -224,7 +240,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=381273&uid=5024"
   },
   {
-    "ROWID": 15,
+    "ROWID": 16,
     "event_id": 739,
     "eventname": "2022 Estonian Speed King",
     "speed": 14.780812000000001,
@@ -238,21 +254,5 @@
     "sessionsail": "Gun Sails Vector  7.1",
     "sessionfin": "Select Elite S10  35",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=379597&uid=4023"
-  },
-  {
-    "ROWID": 16,
-    "event_id": 739,
-    "eventname": "2022 Estonian Speed King",
-    "speed": 6.304208,
-    "type": "speed_hour",
-    "username": "Elena Lass",
-    "ageclass": "Master (36-50)",
-    "weightclass": "51-60",
-    "sexe": "Woman",
-    "spotname": "H\u00e4\u00e4demeeste",
-    "sessionboard": "Starboard iSonic 55",
-    "sessionsail": "GA-sails Vapor  5.6",
-    "sessionfin": "Z-fins Z SLM  25",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=382622&uid=23316"
   }
 ]

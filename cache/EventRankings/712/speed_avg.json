@@ -3,17 +3,17 @@
     "ROWID": 1,
     "event_id": 712,
     "eventname": "2021 Red Bull Bora Challenge",
-    "speed": 69.36221520000001,
+    "speed": 66.16751520000001,
     "type": "speed_avg",
     "username": "Bjorn Dunkerbeck",
     "ageclass": "Grand Master (51-60)",
     "weightclass": "101-110",
     "sexe": "Men",
-    "spotname": "Barcola - Trieste",
-    "sessionboard": "AV Modena Slalom 62",
-    "sessionsail": "Severne Mach 4  7.0",
-    "sessionfin": "Custom speed  28",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=368284&uid=6023"
+    "spotname": "Gran Canaria, Bah\u00eda de Formas (Salinas de Arinaga)",
+    "sessionboard": "Starboard Isonic 60 Carbon reflex",
+    "sessionsail": "Severne Mach 4  6.2",
+    "sessionfin": "Z-fins Zfins  32",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390722&uid=6023"
   },
   {
     "ROWID": 2,

@@ -878,5 +878,27 @@
     "sessionsail": "Loftsails LIP Wave 5.2,  2007",
     "sessionfin": "Tabou Wave  22",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390098&uid=3855"
+  },
+  {
+    "session_id": 390911,
+    "session_date": "2022-08-16T00:00:00",
+    "event_id": 731,
+    "eventname": "Wurster ONE hour",
+    "speed_avg": 30.243160000000003,
+    "speed_2sec": 34.060131999999996,
+    "speed_10sec": 33.656396,
+    "speed_100": 33.610096,
+    "speed_250": 32.9656,
+    "speed_500": 32.052564,
+    "speed_mile": 28.789340000000003,
+    "speed_hour": 6.0653,
+    "username": "Bert Nijsen",
+    "flag": "DE",
+    "sexe": "Men",
+    "spotname": "Dorum, Bremerhaven",
+    "sessionboard": "Starboard Isonic 107 Carbon,  2016",
+    "sessionsail": "Neilpryde speedster 8.2,  2018",
+    "sessionfin": "Lessacher LE WO DUO SPEED RAKE 30  22",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390911&uid=4306"
   }
 ]
