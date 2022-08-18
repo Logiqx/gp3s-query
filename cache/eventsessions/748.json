@@ -100176,5 +100176,31 @@
     "sessionsail": "Demon Design C4 Slalom/Speed 8.2,  2008",
     "sessionfin": "Deboichet Concept Slalom  32",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390981&uid=3855"
+  },
+  {
+    "session_id": 390982,
+    "session_date": "8/17/2022 12:00:00 AM",
+    "event_id": 748,
+    "eventname": "2022 Dunkerbeck Speed Challenge \u201cThe Summer Edition\u201d",
+    "speed_avg": 58.85396720000001,
+    "speed_2sec": 64.077348,
+    "speed_10sec": 59.336228000000006,
+    "speed_100": 60.873388000000006,
+    "speed_250": 58.586168,
+    "speed_500": 57.467560000000006,
+    "speed_mile": 46.861156,
+    "speed_hour": 19.503412,
+    "speed_halfhour": 0.0,
+    "speed_24hour": 0.0,
+    "speed_alpha_racing": 41.54036,
+    "session_distance": 49.04999,
+    "username": "Papandrikopoulos Konstantinos",
+    "flag": "GR",
+    "sexe": "Men",
+    "spotname": "VALTOS",
+    "sessionboard": "FMX Invictus 118,  2022",
+    "sessionsail": "Neilpryde RS:RACING EVOXIII 7.4,  2022",
+    "sessionfin": "King Fins E5  37",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390982&uid=16897"
   }
 ]
