@@ -9,7 +9,7 @@ IMAGE_TAG=$(git rev-parse --short=12 HEAD)
 DOCKER_BUILDKIT=1 docker build . --build-arg LOGIQX_DEBUG -t $IMAGE_NAME:$IMAGE_TAG
 
 # Run unit tests
-run_py_script check_events.py
+run_py_script check_events_v2.py
 
 # View differences
 git diff docs/events/README.md
