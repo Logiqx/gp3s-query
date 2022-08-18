@@ -35,6 +35,22 @@
     "rowid": "3",
     "event_id": 740,
     "eventname": "2022 Funsport Makkum GPS Speed Challenge",
+    "speed": 70.513048,
+    "type": "speed_100",
+    "username": "Twan Verseput ",
+    "ageclass": "Senior (19-35)",
+    "weightclass": "91-100",
+    "sexe": "Men",
+    "spotname": "IJsselmeer - Makkum",
+    "sessionboard": "AV Modena Slalom 72",
+    "sessionsail": "Point-7 AC-ONE  7.8",
+    "sessionfin": "Sonntag Fins GPS 6 Adjusted Twan   34",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=382393&uid=3923"
+  },
+  {
+    "rowid": "4",
+    "event_id": 740,
+    "eventname": "2022 Funsport Makkum GPS Speed Challenge",
     "speed": 69.624088,
     "type": "speed_100",
     "username": "Karstjan van den Berg",
@@ -48,7 +64,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=388769&uid=1437"
   },
   {
-    "rowid": "4",
+    "rowid": "5",
     "event_id": 740,
     "eventname": "2022 Funsport Makkum GPS Speed Challenge",
     "speed": 69.068488,
@@ -64,7 +80,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=381602&uid=53"
   },
   {
-    "rowid": "5",
+    "rowid": "6",
     "event_id": 740,
     "eventname": "2022 Funsport Makkum GPS Speed Challenge",
     "speed": 67.549848,
@@ -80,7 +96,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=382134&uid=3078"
   },
   {
-    "rowid": "6",
+    "rowid": "7",
     "event_id": 740,
     "eventname": "2022 Funsport Makkum GPS Speed Challenge",
     "speed": 67.377612,
@@ -96,7 +112,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=382447&uid=4307"
   },
   {
-    "rowid": "7",
+    "rowid": "8",
     "event_id": 740,
     "eventname": "2022 Funsport Makkum GPS Speed Challenge",
     "speed": 67.22389600000001,
@@ -112,7 +128,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=388659&uid=4910"
   },
   {
-    "rowid": "8",
+    "rowid": "9",
     "event_id": 740,
     "eventname": "2022 Funsport Makkum GPS Speed Challenge",
     "speed": 63.064304,
@@ -126,22 +142,6 @@
     "sessionsail": "Severne MACH 4  7.8",
     "sessionfin": "King Fins S  37",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=382395&uid=2574"
-  },
-  {
-    "rowid": "9",
-    "event_id": 740,
-    "eventname": "2022 Funsport Makkum GPS Speed Challenge",
-    "speed": 60.432612000000006,
-    "type": "speed_100",
-    "username": "Carsten Hanke",
-    "ageclass": "Grand Master (51-60)",
-    "weightclass": "71-80",
-    "sexe": "Men",
-    "spotname": "IJsselmeer - Makkum",
-    "sessionboard": "PATRIK Slalom 110 AI V2",
-    "sessionsail": "Patrik Race+  7.0",
-    "sessionfin": "Feine Finnen Bump  36",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=379405&uid=5456"
   },
   {
     "rowid": "10",
@@ -179,6 +179,22 @@
     "rowid": "12",
     "event_id": 740,
     "eventname": "2022 Funsport Makkum GPS Speed Challenge",
+    "speed": 57.115680000000005,
+    "type": "speed_100",
+    "username": "Albert Ruitenberg",
+    "ageclass": "Master (36-50)",
+    "weightclass": "91-100",
+    "sexe": "Men",
+    "spotname": "IJsselmeer - Makkum",
+    "sessionboard": "Fanatic Falcon 130",
+    "sessionsail": "Duotone Warp 2020  8.4",
+    "sessionfin": "Z-fins Z SLM 44 s-  44",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=383740&uid=4097"
+  },
+  {
+    "rowid": "13",
+    "event_id": 740,
+    "eventname": "2022 Funsport Makkum GPS Speed Challenge",
     "speed": 56.576748,
     "type": "speed_100",
     "username": "Ruben Jort Landstra",
@@ -190,22 +206,6 @@
     "sessionsail": "Point-7 AC-ONE  6.2",
     "sessionfin": "Select Elite S1 Superfast Slam   38",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=382448&uid=22878"
-  },
-  {
-    "rowid": "13",
-    "event_id": 740,
-    "eventname": "2022 Funsport Makkum GPS Speed Challenge",
-    "speed": 55.793352000000006,
-    "type": "speed_100",
-    "username": "Albert Ruitenberg",
-    "ageclass": "Master (36-50)",
-    "weightclass": "91-100",
-    "sexe": "Men",
-    "spotname": "IJsselmeer - Makkum",
-    "sessionboard": "Fanatic Falcon TE 115",
-    "sessionsail": "Duotone Warp 2020  7.0",
-    "sessionfin": "Z-fins Z SLM 34 s-  34",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=387150&uid=4097"
   },
   {
     "rowid": "14",
@@ -227,17 +227,17 @@
     "rowid": "15",
     "event_id": 740,
     "eventname": "2022 Funsport Makkum GPS Speed Challenge",
-    "speed": 54.285824000000005,
+    "speed": 53.72652000000001,
     "type": "speed_100",
-    "username": "Stijn de Bruin",
-    "ageclass": "Senior (19-35)",
-    "weightclass": "61-70",
+    "username": "Dirk Doppenberg",
+    "ageclass": "Master (36-50)",
+    "weightclass": "91-100",
     "sexe": "Men",
     "spotname": "IJsselmeer - Makkum",
-    "sessionboard": "Starboard iSonic 127",
-    "sessionsail": "Severne MACH 4  7.8",
-    "sessionfin": "Maui Ultra Fins ride   30",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389183&uid=5761"
+    "sessionboard": "AV Modena Slalom 77",
+    "sessionsail": "Point-7 AC-ONE  7.8",
+    "sessionfin": "Zulu CM71  42",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389626&uid=418"
   },
   {
     "rowid": "16",

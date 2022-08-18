@@ -302,5 +302,21 @@
     "sessionsail": "Neilpryde RS Racing EVO X  9.4",
     "sessionfin": "Sonntag Fins SL-PRO  47",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=384530&uid=24952"
+  },
+  {
+    "rowid": "20",
+    "event_id": 721,
+    "eventname": "2022 Gps Kraaij Challenge",
+    "speed": 0.0,
+    "type": "speed_halfhour",
+    "username": "Menno van den Berg",
+    "ageclass": "Master (36-50)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Kraaijenbergse plassen",
+    "sessionboard": "RRD X- Fire LTD V7 105 ",
+    "sessionsail": "Loftsails Racing Blade  7.8",
+    "sessionfin": "BOSS 4.3 S  38",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=375845&uid=4390"
   }
 ]

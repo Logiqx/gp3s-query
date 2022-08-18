@@ -35,36 +35,20 @@
     "rowid": "3",
     "event_id": 733,
     "eventname": "2022 ",
-    "speed": 60.404832,
+    "speed": 60.536324,
     "type": "speed_500",
     "username": "Fabrice Ramet",
     "ageclass": "Master (36-50)",
     "weightclass": "71-80",
     "sexe": "Men",
     "spotname": "blue bay",
-    "sessionboard": "not defined ",
+    "sessionboard": "Future Fly Dark Horse 107",
     "sessionsail": "Gaastra GTX Race  7.0",
     "sessionfin": "not defined -  0",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=377627&uid=23557"
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=377635&uid=23557"
   },
   {
     "rowid": "4",
-    "event_id": 733,
-    "eventname": "2022 ",
-    "speed": 57.678688,
-    "type": "speed_500",
-    "username": "Marcel Mulder",
-    "ageclass": "Grand Master (51-60)",
-    "weightclass": "91-100",
-    "sexe": "Men",
-    "spotname": "Wolderwijd - Strand Horst",
-    "sessionboard": "Starboard FUTURA 107",
-    "sessionsail": "Duotone Warp 20.19  7.7",
-    "sessionfin": "Hurricane Weed 2  30",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=374857&uid=15678"
-  },
-  {
-    "rowid": "5",
     "event_id": 733,
     "eventname": "2022 ",
     "speed": 56.547116,
@@ -80,7 +64,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390777&uid=22394"
   },
   {
-    "rowid": "6",
+    "rowid": "5",
     "event_id": 733,
     "eventname": "2022 ",
     "speed": 56.3008,
@@ -96,7 +80,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=380085&uid=24788"
   },
   {
-    "rowid": "7",
+    "rowid": "6",
     "event_id": 733,
     "eventname": "2022 ",
     "speed": 53.554284,
@@ -112,7 +96,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=376254&uid=22438"
   },
   {
-    "rowid": "8",
+    "rowid": "7",
     "event_id": 733,
     "eventname": "2022 ",
     "speed": 48.840944,

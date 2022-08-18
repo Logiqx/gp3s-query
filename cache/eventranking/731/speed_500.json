@@ -3,7 +3,23 @@
     "rowid": "1",
     "event_id": 731,
     "eventname": "Wurster ONE hour",
-    "speed": 51.080012,
+    "speed": 65.879344,
+    "type": "speed_500",
+    "username": "Joachim K\u00f6nig",
+    "ageclass": "Master (36-50)",
+    "weightclass": "61-70",
+    "sexe": "Men",
+    "spotname": "Dorum, Bremerhaven",
+    "sessionboard": "JP Speed 45 Pro Edition",
+    "sessionsail": "Neilpryde RS Racing Evo X  5.2",
+    "sessionfin": "Hurricane Speed 2  21",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=381657&uid=5232"
+  },
+  {
+    "rowid": "2",
+    "event_id": 731,
+    "eventname": "Wurster ONE hour",
+    "speed": 55.465548000000005,
     "type": "speed_500",
     "username": "Hans-Dieter Wilshusen",
     "ageclass": "Super Master (61-70)",
@@ -11,12 +27,12 @@
     "sexe": "Men",
     "spotname": "Dorum, Bremerhaven",
     "sessionboard": "Starboard iSonic Speed Slalom 80",
-    "sessionsail": "Loftsails Speed Blade  6.1",
+    "sessionsail": "Loftsails Racing Blade  7.0",
     "sessionfin": "Hurricane SS M-  32",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=384329&uid=3855"
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=382062&uid=3855"
   },
   {
-    "rowid": "2",
+    "rowid": "3",
     "event_id": 731,
     "eventname": "Wurster ONE hour",
     "speed": 49.06318400000001,
@@ -32,7 +48,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=382051&uid=4306"
   },
   {
-    "rowid": "3",
+    "rowid": "4",
     "event_id": 731,
     "eventname": "Wurster ONE hour",
     "speed": 47.377864,
@@ -48,7 +64,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=384547&uid=10607"
   },
   {
-    "rowid": "4",
+    "rowid": "5",
     "event_id": 731,
     "eventname": "Wurster ONE hour",
     "speed": 41.542212000000006,
@@ -57,7 +73,7 @@
     "ageclass": "Super Master (61-70)",
     "weightclass": "71-80",
     "sexe": "Men",
-    "spotname": "Dorumer Tief",
+    "spotname": "Dorum, Bremerhaven",
     "sessionboard": "JP Freestyle 99",
     "sessionsail": "Gun Sails Torro  5.7",
     "sessionfin": "ART Slalom Blade   28",

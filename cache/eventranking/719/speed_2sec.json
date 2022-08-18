@@ -124,7 +124,7 @@
     "spotname": "M\u00f8vik",
     "sessionboard": "Fanatic Falcon Slalom TE 114",
     "sessionsail": "Duotone Warp 20.19  7.7",
-    "sessionfin": "Select S1 Slam  37",
+    "sessionfin": "not defined -  0",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=375396&uid=23491"
   },
   {
@@ -355,6 +355,22 @@
     "rowid": "23",
     "event_id": 719,
     "eventname": "Norwegian speedmaster - 2022",
+    "speed": 49.572484,
+    "type": "speed_2sec",
+    "username": "Dag Hansen",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "51-60",
+    "sexe": "Men",
+    "spotname": "Lysakerfjorden",
+    "sessionboard": "Starboard Phantom 377",
+    "sessionsail": "Demon Design VG7  8.5",
+    "sessionfin": "Select Rhino Pro  51",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=385993&uid=26303"
+  },
+  {
+    "rowid": "24",
+    "event_id": 719,
+    "eventname": "Norwegian speedmaster - 2022",
     "speed": 48.150148,
     "type": "speed_2sec",
     "username": "Christian Hilmersen",
@@ -368,7 +384,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386703&uid=23634"
   },
   {
-    "rowid": "24",
+    "rowid": "25",
     "event_id": 719,
     "eventname": "Norwegian speedmaster - 2022",
     "speed": 47.33712,
@@ -384,7 +400,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=387744&uid=24419"
   },
   {
-    "rowid": "25",
+    "rowid": "26",
     "event_id": 719,
     "eventname": "Norwegian speedmaster - 2022",
     "speed": 46.350004000000006,
@@ -400,7 +416,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390062&uid=24085"
   },
   {
-    "rowid": "26",
+    "rowid": "27",
     "event_id": 719,
     "eventname": "Norwegian speedmaster - 2022",
     "speed": 43.407176,
@@ -416,7 +432,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=382606&uid=21904"
   },
   {
-    "rowid": "27",
+    "rowid": "28",
     "event_id": 719,
     "eventname": "Norwegian speedmaster - 2022",
     "speed": 43.079372,
@@ -432,7 +448,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386310&uid=25617"
   },
   {
-    "rowid": "28",
+    "rowid": "29",
     "event_id": 719,
     "eventname": "Norwegian speedmaster - 2022",
     "speed": 43.070112,

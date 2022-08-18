@@ -13,7 +13,7 @@
     "sessionboard": "Custom SBT",
     "sessionsail": "Gun Sails proto  4.5",
     "sessionfin": "Tribal Fin 19.5 ST  19",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=385200&uid=26004"
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=385199&uid=26004"
   },
   {
     "rowid": "2",
@@ -35,36 +35,52 @@
     "rowid": "3",
     "event_id": 737,
     "eventname": "2022 Spanish Speed Challenge",
-    "speed": 69.951892,
-    "type": "speed_250",
-    "username": "Bjorn Dunkerbeck",
-    "ageclass": "Grand Master (51-60)",
-    "weightclass": "101-110",
-    "sexe": "Men",
-    "spotname": "Gran Canaria, Bah\u00eda de Formas (Salinas de Arinaga)",
-    "sessionboard": "Starboard Isonic 60 Carbon reflex",
-    "sessionsail": "Severne Mach 4  6.2",
-    "sessionfin": "Z-fins Zfins  32",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390722&uid=6023"
-  },
-  {
-    "rowid": "4",
-    "event_id": 737,
-    "eventname": "2022 Spanish Speed Challenge",
-    "speed": 69.387032,
+    "speed": 72.733596,
     "type": "speed_250",
     "username": "Kai Kaufmann",
     "ageclass": "Master (36-50)",
     "weightclass": "91-100",
     "sexe": "Men",
-    "spotname": "Gran Canaria, Bah\u00eda de Formas (Salinas de Arinaga)",
+    "spotname": "Fuerteventura, Sotavento",
     "sessionboard": "Starboard iSonic Speed Special W54",
     "sessionsail": "RRD X-Wing Y25  5.6",
     "sessionfin": "Black Project Fins Type S  24",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389254&uid=16746"
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=387433&uid=16746"
+  },
+  {
+    "rowid": "4",
+    "event_id": 737,
+    "eventname": "2022 Spanish Speed Challenge",
+    "speed": 71.309408,
+    "type": "speed_250",
+    "username": "Bjorn Dunkerbeck",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "101-110",
+    "sexe": "Men",
+    "spotname": "fuerteventura, costa calma beach",
+    "sessionboard": "Starboard Isonic 60 Carbon reflex",
+    "sessionsail": "Severne Mach 4  6.2",
+    "sessionfin": "Z-fins Zfins  32",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386298&uid=6023"
   },
   {
     "rowid": "5",
+    "event_id": 737,
+    "eventname": "2022 Spanish Speed Challenge",
+    "speed": 70.601944,
+    "type": "speed_250",
+    "username": "Nils Bach",
+    "ageclass": "Senior (19-35)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Tarifa, Campo de football",
+    "sessionboard": "AV Modena Slalom 62",
+    "sessionsail": "Point-7 AC1  6.2",
+    "sessionfin": "Feine Finnen BASTARD SLALOM   30",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=378364&uid=6182"
+  },
+  {
+    "rowid": "6",
     "event_id": 737,
     "eventname": "2022 Spanish Speed Challenge",
     "speed": 69.118492,
@@ -74,13 +90,13 @@
     "weightclass": "41-50",
     "sexe": "Men",
     "spotname": "Tarifa, Campo de football",
-    "sessionboard": "PATRIK 95",
+    "sessionboard": "PATRIK Slalom 95 AI",
     "sessionsail": "Loftsails Racing Blade  6.3",
     "sessionfin": "not defined -  0",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=378303&uid=22332"
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=377725&uid=22332"
   },
   {
-    "rowid": "6",
+    "rowid": "7",
     "event_id": 737,
     "eventname": "2022 Spanish Speed Challenge",
     "speed": 67.28501200000001,
@@ -93,10 +109,10 @@
     "sessionboard": "Mistral speed 95",
     "sessionsail": "Challenger Sails PSL   6.4",
     "sessionfin": "Tribal Fin Slalom MK2  30",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=377995&uid=23628"
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=377994&uid=23628"
   },
   {
-    "rowid": "7",
+    "rowid": "8",
     "event_id": 737,
     "eventname": "2022 Spanish Speed Challenge",
     "speed": 67.00906400000001,
@@ -112,7 +128,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=387393&uid=22828"
   },
   {
-    "rowid": "8",
+    "rowid": "9",
     "event_id": 737,
     "eventname": "2022 Spanish Speed Challenge",
     "speed": 66.82756800000001,
@@ -128,23 +144,23 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=384572&uid=23714"
   },
   {
-    "rowid": "9",
+    "rowid": "10",
     "event_id": 737,
     "eventname": "2022 Spanish Speed Challenge",
-    "speed": 63.58101200000001,
+    "speed": 65.41078800000001,
     "type": "speed_250",
     "username": "Oliver Schaarschmidt",
     "ageclass": "Grand Master (51-60)",
     "weightclass": "71-80",
     "sexe": "Men",
-    "spotname": "Gran Canaria, Bah\u00eda de Formas (Salinas de Arinaga)",
+    "spotname": "Fuerteventura, Risco del Paso",
     "sessionboard": "PATRIK Slalom 85",
     "sessionsail": "Duotone Warp Fin 2022  5.8",
     "sessionfin": "C-Fins 5.0  29",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=385070&uid=2357"
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386523&uid=2357"
   },
   {
-    "rowid": "10",
+    "rowid": "11",
     "event_id": 737,
     "eventname": "2022 Spanish Speed Challenge",
     "speed": 62.92170000000001,
@@ -156,11 +172,11 @@
     "spotname": "Fornells",
     "sessionboard": "Starboard iSonic Speed Slalom 70 UltraCore Reflex Carbon",
     "sessionsail": "Loftsails Speed Blade  5.6",
-    "sessionfin": "Gasoil Fins ELS Asy Speed tribord  21",
+    "sessionfin": "Gasoil Fins serie E 8,5  25",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=373616&uid=19419"
   },
   {
-    "rowid": "11",
+    "rowid": "12",
     "event_id": 737,
     "eventname": "2022 Spanish Speed Challenge",
     "speed": 62.279056000000004,
@@ -176,7 +192,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=387399&uid=13637"
   },
   {
-    "rowid": "12",
+    "rowid": "13",
     "event_id": 737,
     "eventname": "2022 Spanish Speed Challenge",
     "speed": 61.26601200000001,
@@ -192,7 +208,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=377694&uid=23059"
   },
   {
-    "rowid": "13",
+    "rowid": "14",
     "event_id": 737,
     "eventname": "2022 Spanish Speed Challenge",
     "speed": 60.102956000000006,
@@ -208,7 +224,39 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386525&uid=22440"
   },
   {
-    "rowid": "14",
+    "rowid": "15",
+    "event_id": 737,
+    "eventname": "2022 Spanish Speed Challenge",
+    "speed": 57.76388000000001,
+    "type": "speed_250",
+    "username": "Brendan Lorho",
+    "ageclass": "Junior plus (15-18)",
+    "weightclass": "61-70",
+    "sexe": "Men",
+    "spotname": "El Medano",
+    "sessionboard": "FMX Invictus 88",
+    "sessionsail": "Point-7 AC1  5.6",
+    "sessionfin": "Z-fins Zfins  32",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=376302&uid=24609"
+  },
+  {
+    "rowid": "16",
+    "event_id": 737,
+    "eventname": "2022 Spanish Speed Challenge",
+    "speed": 57.52312,
+    "type": "speed_250",
+    "username": "Anne Schindler",
+    "ageclass": "Master (36-50)",
+    "weightclass": "71-80",
+    "sexe": "Woman",
+    "spotname": "Gran Canaria, Bah\u00eda de Formas (Salinas de Arinaga)",
+    "sessionboard": "AV Modena Speed 52",
+    "sessionsail": "Severne Mach 1 Speed  5.2",
+    "sessionfin": "Custom ZULU  28",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386296&uid=16739"
+  },
+  {
+    "rowid": "17",
     "event_id": 737,
     "eventname": "2022 Spanish Speed Challenge",
     "speed": 57.487932,
@@ -224,23 +272,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386982&uid=26053"
   },
   {
-    "rowid": "15",
-    "event_id": 737,
-    "eventname": "2022 Spanish Speed Challenge",
-    "speed": 56.58415600000001,
-    "type": "speed_250",
-    "username": "Anne Schindler",
-    "ageclass": "Master (36-50)",
-    "weightclass": "71-80",
-    "sexe": "Woman",
-    "spotname": "Gran Canaria, Bah\u00eda de Formas (Salinas de Arinaga)",
-    "sessionboard": "AV Modena Speed 52",
-    "sessionsail": "Severne Mach 1 Speed  5.2",
-    "sessionfin": "Zulu Shaka  25",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=385912&uid=16739"
-  },
-  {
-    "rowid": "16",
+    "rowid": "18",
     "event_id": 737,
     "eventname": "2022 Spanish Speed Challenge",
     "speed": 55.611856,
@@ -256,7 +288,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=381739&uid=25183"
   },
   {
-    "rowid": "17",
+    "rowid": "19",
     "event_id": 737,
     "eventname": "2022 Spanish Speed Challenge",
     "speed": 55.495180000000005,
@@ -272,23 +304,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=385147&uid=22584"
   },
   {
-    "rowid": "18",
-    "event_id": 737,
-    "eventname": "2022 Spanish Speed Challenge",
-    "speed": 55.13033600000001,
-    "type": "speed_250",
-    "username": "Brendan Lorho",
-    "ageclass": "Junior plus (15-18)",
-    "weightclass": "61-70",
-    "sexe": "Men",
-    "spotname": "Alacati",
-    "sessionboard": "FMX Invictus 108",
-    "sessionsail": "Point-7 AC1  7.1",
-    "sessionfin": "Z-fins SLM S-  33",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390711&uid=24609"
-  },
-  {
-    "rowid": "19",
+    "rowid": "20",
     "event_id": 737,
     "eventname": "2022 Spanish Speed Challenge",
     "speed": 54.715488,
@@ -304,39 +320,39 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=385433&uid=22002"
   },
   {
-    "rowid": "20",
+    "rowid": "21",
     "event_id": 737,
     "eventname": "2022 Spanish Speed Challenge",
-    "speed": 53.135732,
+    "speed": 54.287676,
+    "type": "speed_250",
+    "username": "Ancor Yeray Jim\u00e9nez",
+    "ageclass": "Master (36-50)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Arinaga - Bah\u00eda de Formas - Gran Canaria",
+    "sessionboard": "Tabou Manta 59II",
+    "sessionsail": "North Sails Warp F2012  5.2",
+    "sessionfin": "Choco Fins Fireblade 2  30",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389102&uid=23336"
+  },
+  {
+    "rowid": "22",
+    "event_id": 737,
+    "eventname": "2022 Spanish Speed Challenge",
+    "speed": 53.313524,
     "type": "speed_250",
     "username": "Philipp Trefil",
     "ageclass": "Master (36-50)",
     "weightclass": "81-90",
     "sexe": "Men",
-    "spotname": "Fuerteventura, Matas Blancas",
-    "sessionboard": "Starboard Isonic 124 Carbon",
-    "sessionsail": "Severne Overdrive M1  7.8",
-    "sessionfin": "Sonntag Fins SL-Pro  42",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=377394&uid=25589"
+    "spotname": "Fuerteventura, Risco del Paso",
+    "sessionboard": "Starboard Isonic Carbon Reflex 67",
+    "sessionsail": "Severne Mach 1  5.5",
+    "sessionfin": "F2 sx xs 30 cnc foiled  30",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386571&uid=25589"
   },
   {
-    "rowid": "21",
-    "event_id": 737,
-    "eventname": "2022 Spanish Speed Challenge",
-    "speed": 52.259736000000004,
-    "type": "speed_250",
-    "username": "Nils Bach",
-    "ageclass": "Senior (19-35)",
-    "weightclass": "81-90",
-    "sexe": "Men",
-    "spotname": "Ramberg",
-    "sessionboard": "AV Modena Slalom 72.5",
-    "sessionsail": "Point-7 AC1  7.1",
-    "sessionfin": "Feine Finnen BASTARD SLALOM   36",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390730&uid=6182"
-  },
-  {
-    "rowid": "22",
+    "rowid": "23",
     "event_id": 737,
     "eventname": "2022 Spanish Speed Challenge",
     "speed": 51.922672000000006,
@@ -352,7 +368,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=377437&uid=24813"
   },
   {
-    "rowid": "23",
+    "rowid": "24",
     "event_id": 737,
     "eventname": "2022 Spanish Speed Challenge",
     "speed": 51.885632,
@@ -368,7 +384,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=385382&uid=25284"
   },
   {
-    "rowid": "24",
+    "rowid": "25",
     "event_id": 737,
     "eventname": "2022 Spanish Speed Challenge",
     "speed": 49.24468,
@@ -382,5 +398,21 @@
     "sessionsail": "Loftsails Racingblade  7.0",
     "sessionfin": "Tribal Fin MK\"  36",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=385704&uid=25290"
+  },
+  {
+    "rowid": "26",
+    "event_id": 737,
+    "eventname": "2022 Spanish Speed Challenge",
+    "speed": 0.0,
+    "type": "speed_250",
+    "username": "Eduardo de llano",
+    "ageclass": "Master (36-50)",
+    "weightclass": "91-100",
+    "sexe": "Men",
+    "spotname": "El Medano",
+    "sessionboard": "Mistral Edge XR",
+    "sessionsail": "Sailworks Race  6.1",
+    "sessionfin": "not defined -  0",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=378142&uid=25460"
   }
 ]

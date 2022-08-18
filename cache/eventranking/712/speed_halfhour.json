@@ -3,6 +3,22 @@
     "rowid": "1",
     "event_id": 712,
     "eventname": "2021 Red Bull Bora Challenge",
+    "speed": 40.080984,
+    "type": "speed_halfhour",
+    "username": "zeno tarlao",
+    "ageclass": "Senior (19-35)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Barcola - Trieste",
+    "sessionboard": "Tabou Air Ride+ 91 ",
+    "sessionsail": "Gaastra Vapor  7.2",
+    "sessionfin": "Starboard IQ 725/115+/255-2  725",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=387827&uid=23329"
+  },
+  {
+    "rowid": "2",
+    "event_id": 712,
+    "eventname": "2021 Red Bull Bora Challenge",
     "speed": 37.286316,
     "type": "speed_halfhour",
     "username": "Giulio Paolo Paladini",
@@ -16,7 +32,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=366080&uid=21968"
   },
   {
-    "rowid": "2",
+    "rowid": "3",
     "event_id": 712,
     "eventname": "2021 Red Bull Bora Challenge",
     "speed": 36.606632,
@@ -30,22 +46,6 @@
     "sessionsail": "Point-7 ACK-Pro  6.2",
     "sessionfin": "Maui Ultra Fins Slalom Carbon  32",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=368344&uid=23123"
-  },
-  {
-    "rowid": "3",
-    "event_id": 712,
-    "eventname": "2021 Red Bull Bora Challenge",
-    "speed": 34.647216,
-    "type": "speed_halfhour",
-    "username": "zeno tarlao",
-    "ageclass": "Senior (19-35)",
-    "weightclass": "81-90",
-    "sexe": "Men",
-    "spotname": "Barcola - Trieste",
-    "sessionboard": "not defined ",
-    "sessionsail": "not defined   0.0",
-    "sessionfin": "Select S1 pro  39",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=371528&uid=23329"
   },
   {
     "rowid": "4",

@@ -1168,5 +1168,31 @@
     "sessionsail": "Neilpryde speedster 8.2,  2018",
     "sessionfin": "Lessacher LE WO DUO SPEED RAKE 30  22",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390911&uid=4306"
+  },
+  {
+    "session_id": 390981,
+    "session_date": "8/17/2022 12:00:00 AM",
+    "event_id": 731,
+    "eventname": "Wurster ONE hour",
+    "speed_avg": 39.502419200000006,
+    "speed_2sec": 41.307007999999996,
+    "speed_10sec": 40.464348,
+    "speed_100": 40.582876000000006,
+    "speed_250": 39.434636,
+    "speed_500": 38.923484,
+    "speed_mile": 33.450824000000004,
+    "speed_hour": 26.828072000000002,
+    "speed_halfhour": 28.326340000000002,
+    "speed_24hour": 0.0,
+    "speed_alpha_racing": 30.980256000000004,
+    "session_distance": 42.369644,
+    "username": "Hans-Dieter Wilshusen",
+    "flag": "DE",
+    "sexe": "Men",
+    "spotname": "Dorum, Bremerhaven",
+    "sessionboard": "HiFly Drop Inn M 146 Liter ,  2016",
+    "sessionsail": "Demon Design C4 Slalom/Speed 8.2,  2008",
+    "sessionfin": "Deboichet Concept Slalom  32",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390981&uid=3855"
   }
 ]

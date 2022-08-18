@@ -3,6 +3,22 @@
     "rowid": "1",
     "event_id": 731,
     "eventname": "Wurster ONE hour",
+    "speed": 68.814764,
+    "type": "speed_100",
+    "username": "Joachim K\u00f6nig",
+    "ageclass": "Master (36-50)",
+    "weightclass": "61-70",
+    "sexe": "Men",
+    "spotname": "Dorum, Bremerhaven",
+    "sessionboard": "JP Speed 45 Pro Edition",
+    "sessionsail": "Neilpryde RS Racing Evo X  5.2",
+    "sessionfin": "Hurricane Speed 2  21",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=381657&uid=5232"
+  },
+  {
+    "rowid": "2",
+    "event_id": 731,
+    "eventname": "Wurster ONE hour",
     "speed": 59.584396000000005,
     "type": "speed_100",
     "username": "Hans-Dieter Wilshusen",
@@ -16,7 +32,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=384329&uid=3855"
   },
   {
-    "rowid": "2",
+    "rowid": "3",
     "event_id": 731,
     "eventname": "Wurster ONE hour",
     "speed": 54.908096,
@@ -32,7 +48,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=382051&uid=4306"
   },
   {
-    "rowid": "3",
+    "rowid": "4",
     "event_id": 731,
     "eventname": "Wurster ONE hour",
     "speed": 48.535364,
@@ -48,7 +64,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=384547&uid=10607"
   },
   {
-    "rowid": "4",
+    "rowid": "5",
     "event_id": 731,
     "eventname": "Wurster ONE hour",
     "speed": 42.399688,

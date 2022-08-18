@@ -154,10 +154,10 @@
     "weightclass": "81-90",
     "sexe": "Men",
     "spotname": "R\u00f8restrand - Horten",
-    "sessionboard": "Fanatic Falcon 98",
+    "sessionboard": "Starboard Isonic 72 Carbon Reflex",
     "sessionsail": "Severne Overdrive M2  7.0",
-    "sessionfin": "Z-fins SLM S-  33",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=385690&uid=6329"
+    "sessionfin": "Z-fins SLM s-  37",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=382270&uid=6329"
   },
   {
     "rowid": "11",
@@ -316,7 +316,7 @@
     "spotname": "M\u00f8vik",
     "sessionboard": "Fanatic Falcon Slalom TE 114",
     "sessionsail": "Duotone Warp 20.19  7.7",
-    "sessionfin": "Select S1 Slam  37",
+    "sessionfin": "not defined -  0",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=375396&uid=23491"
   },
   {
@@ -355,6 +355,22 @@
     "rowid": "23",
     "event_id": 719,
     "eventname": "Norwegian speedmaster - 2022",
+    "speed": 24.188972,
+    "type": "speed_mile",
+    "username": "Jan Erik Ringvold",
+    "ageclass": "Master (36-50)",
+    "weightclass": "91-100",
+    "sexe": "Men",
+    "spotname": "Lysakerfjorden",
+    "sessionboard": "PATRIK f-ride",
+    "sessionsail": "Severne Turbo  7.5",
+    "sessionfin": "not defined -  0",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=384603&uid=24766"
+  },
+  {
+    "rowid": "24",
+    "event_id": 719,
+    "eventname": "Norwegian speedmaster - 2022",
     "speed": 23.81672,
     "type": "speed_mile",
     "username": "Alexander Brown",
@@ -368,7 +384,23 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386526&uid=22339"
   },
   {
-    "rowid": "24",
+    "rowid": "25",
+    "event_id": 719,
+    "eventname": "Norwegian speedmaster - 2022",
+    "speed": 19.218204000000004,
+    "type": "speed_mile",
+    "username": "Dag Hansen",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "51-60",
+    "sexe": "Men",
+    "spotname": "Lysakerfjorden",
+    "sessionboard": "Starboard Phantom 377",
+    "sessionsail": "Demon Design VG7  8.5",
+    "sessionfin": "Select Rhino Pro  51",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=385993&uid=26303"
+  },
+  {
+    "rowid": "26",
     "event_id": 719,
     "eventname": "Norwegian speedmaster - 2022",
     "speed": 9.074800000000002,
@@ -384,7 +416,39 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=382606&uid=21904"
   },
   {
-    "rowid": "25",
+    "rowid": "27",
+    "event_id": 719,
+    "eventname": "Norwegian speedmaster - 2022",
+    "speed": 0.0,
+    "type": "speed_mile",
+    "username": "Axel Espeli Blankholm",
+    "ageclass": "Junior (11-14)",
+    "weightclass": "0-40",
+    "sexe": "Men",
+    "spotname": "Langeby",
+    "sessionboard": "Fanatic Falcon 89",
+    "sessionsail": "Duotone NOW   4.4",
+    "sessionfin": "not defined -  0",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389875&uid=25451"
+  },
+  {
+    "rowid": "28",
+    "event_id": 719,
+    "eventname": "Norwegian speedmaster - 2022",
+    "speed": 0.0,
+    "type": "speed_mile",
+    "username": "Lars Gimse",
+    "ageclass": "Master (36-50)",
+    "weightclass": "91-100",
+    "sexe": "Men",
+    "spotname": "Langnes, Troms\u00f8",
+    "sessionboard": "Tabou Rocket 80",
+    "sessionsail": "not defined   0.0",
+    "sessionfin": "not defined -  0",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=374159&uid=24085"
+  },
+  {
+    "rowid": "29",
     "event_id": 719,
     "eventname": "Norwegian speedmaster - 2022",
     "speed": 0.0,

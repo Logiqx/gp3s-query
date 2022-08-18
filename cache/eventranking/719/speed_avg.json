@@ -252,7 +252,7 @@
     "spotname": "M\u00f8vik",
     "sessionboard": "Fanatic Falcon Slalom TE 114",
     "sessionsail": "Duotone Warp 20.19  7.7",
-    "sessionfin": "Select S1 Slam  37",
+    "sessionfin": "not defined -  0",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=375396&uid=23491"
   },
   {
@@ -446,5 +446,21 @@
     "sessionsail": "Duotone NOW   4.4",
     "sessionfin": "not defined -  0",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389875&uid=25451"
+  },
+  {
+    "rowid": "29",
+    "event_id": 719,
+    "eventname": "Norwegian speedmaster - 2022",
+    "speed": 24.52974,
+    "type": "speed_avg",
+    "username": "Dag Hansen",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "51-60",
+    "sexe": "Men",
+    "spotname": "Lysakerfjorden",
+    "sessionboard": "Starboard Phantom 377",
+    "sessionsail": "Demon Design VG7  8.5",
+    "sessionfin": "Select Rhino Pro  51",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=385993&uid=26303"
   }
 ]

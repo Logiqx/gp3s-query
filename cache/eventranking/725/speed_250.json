@@ -3,22 +3,6 @@
     "rowid": "1",
     "event_id": 725,
     "eventname": "Singlis-Speedchallenge 2022",
-    "speed": 56.42118,
-    "type": "speed_250",
-    "username": "Hans-Jurgen Goertz",
-    "ageclass": "Ultimate Master (71-99)",
-    "weightclass": "91-100",
-    "sexe": "Men",
-    "spotname": "Schaproder Bodden/Poggenhof",
-    "sessionboard": "F2 Sputnik 280 WCE",
-    "sessionsail": "Gun Sails GS-R  6.3",
-    "sessionfin": "Maui Ultra Fins Speed Weed  26",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=388400&uid=819"
-  },
-  {
-    "rowid": "2",
-    "event_id": 725,
-    "eventname": "Singlis-Speedchallenge 2022",
     "speed": 54.16174,
     "type": "speed_250",
     "username": "Gerhard Schr\u00f6der",
@@ -32,23 +16,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=378170&uid=24678"
   },
   {
-    "rowid": "3",
-    "event_id": 725,
-    "eventname": "Singlis-Speedchallenge 2022",
-    "speed": 53.719112,
-    "type": "speed_250",
-    "username": "Sven Barkholtz",
-    "ageclass": "Master (36-50)",
-    "weightclass": "81-90",
-    "sexe": "Men",
-    "spotname": "Schaproder Bodden",
-    "sessionboard": "Tabou Manta",
-    "sessionsail": "GA-sails Vapor  6.4",
-    "sessionfin": "Maui Ultra Fins Speed Weed  26",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389110&uid=5840"
-  },
-  {
-    "rowid": "4",
+    "rowid": "2",
     "event_id": 725,
     "eventname": "Singlis-Speedchallenge 2022",
     "speed": 52.754220000000004,
@@ -64,7 +32,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=375139&uid=7491"
   },
   {
-    "rowid": "5",
+    "rowid": "3",
     "event_id": 725,
     "eventname": "Singlis-Speedchallenge 2022",
     "speed": 50.379956,
@@ -80,7 +48,23 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=380637&uid=2399"
   },
   {
-    "rowid": "6",
+    "rowid": "4",
+    "event_id": 725,
+    "eventname": "Singlis-Speedchallenge 2022",
+    "speed": 44.618384,
+    "type": "speed_250",
+    "username": "Ralf Hansel",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Singliser See",
+    "sessionboard": "PATRIK Slalom 122 ll",
+    "sessionsail": "Loftsails RacingBlade  8.6",
+    "sessionfin": "C-Fins 4.4  43",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=377930&uid=10573"
+  },
+  {
+    "rowid": "5",
     "event_id": 725,
     "eventname": "Singlis-Speedchallenge 2022",
     "speed": 40.488424,
@@ -96,23 +80,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=387392&uid=4475"
   },
   {
-    "rowid": "7",
-    "event_id": 725,
-    "eventname": "Singlis-Speedchallenge 2022",
-    "speed": 37.04926,
-    "type": "speed_250",
-    "username": "Ralf Hansel",
-    "ageclass": "Grand Master (51-60)",
-    "weightclass": "71-80",
-    "sexe": "Men",
-    "spotname": "Veerse Meer - Schotsman",
-    "sessionboard": "PATRIK Slalom 122 ll",
-    "sessionsail": "Loftsails RacingBlade  8.6",
-    "sessionfin": "C-Fins 4.4  43",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390760&uid=10573"
-  },
-  {
-    "rowid": "8",
+    "rowid": "6",
     "event_id": 725,
     "eventname": "Singlis-Speedchallenge 2022",
     "speed": 36.886284,
@@ -128,7 +96,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=376181&uid=11612"
   },
   {
-    "rowid": "9",
+    "rowid": "7",
     "event_id": 725,
     "eventname": "Singlis-Speedchallenge 2022",
     "speed": 35.66396400000001,
@@ -142,5 +110,21 @@
     "sessionsail": "North Sails Volt  5.3",
     "sessionfin": "not defined -  0",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=375890&uid=24138"
+  },
+  {
+    "rowid": "8",
+    "event_id": 725,
+    "eventname": "Singlis-Speedchallenge 2022",
+    "speed": 0.0,
+    "type": "speed_250",
+    "username": "Arnd Gottschalk",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Singliser See",
+    "sessionboard": "RRD X-fire LTD V3 135",
+    "sessionsail": "Neilpryde V8  9.4",
+    "sessionfin": "Custom Winheller Prototypes  44",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=376269&uid=26098"
   }
 ]

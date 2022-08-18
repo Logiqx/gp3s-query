@@ -41,10 +41,42 @@
     "ageclass": "Super Master (61-70)",
     "weightclass": "71-80",
     "sexe": "Men",
-    "spotname": "Dorumer Tief",
+    "spotname": "Dorum, Bremerhaven",
     "sessionboard": "JP Freestyle 99",
     "sessionsail": "Gun Sails Torro  5.7",
     "sessionfin": "ART Slalom Blade   28",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=387314&uid=5860"
+  },
+  {
+    "rowid": "4",
+    "event_id": 731,
+    "eventname": "Wurster ONE hour",
+    "speed": 18.521852,
+    "type": "speed_halfhour",
+    "username": "Joachim K\u00f6nig",
+    "ageclass": "Master (36-50)",
+    "weightclass": "61-70",
+    "sexe": "Men",
+    "spotname": "Dorum, Bremerhaven",
+    "sessionboard": "JP Speed 45 Pro Edition",
+    "sessionsail": "Neilpryde RS Racing Evo X  5.2",
+    "sessionfin": "Hurricane Speed 2  21",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=381657&uid=5232"
+  },
+  {
+    "rowid": "5",
+    "event_id": 731,
+    "eventname": "Wurster ONE hour",
+    "speed": 0.0,
+    "type": "speed_halfhour",
+    "username": "Paul Stich",
+    "ageclass": "Master (36-50)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Dorum, Bremerhaven",
+    "sessionboard": "Tabou Manta Fr 75",
+    "sessionsail": "Gun Sails Vector  7.8",
+    "sessionfin": "Lessacher Rake 30  35",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=381789&uid=10607"
   }
 ]

@@ -316,7 +316,7 @@
     "spotname": "M\u00f8vik",
     "sessionboard": "Fanatic Falcon Slalom TE 114",
     "sessionsail": "Duotone Warp 20.19  7.7",
-    "sessionfin": "Select S1 Slam  37",
+    "sessionfin": "not defined -  0",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=375396&uid=23491"
   },
   {
@@ -355,20 +355,36 @@
     "rowid": "23",
     "event_id": 719,
     "eventname": "Norwegian speedmaster - 2022",
-    "speed": 12.475072,
+    "speed": 13.712208,
     "type": "speed_hour",
     "username": "Kristian Grytnes",
     "ageclass": "Grand Master (51-60)",
     "weightclass": "81-90",
     "sexe": "Men",
     "spotname": "Traela",
-    "sessionboard": "Mistral Screamer RD",
-    "sessionsail": "Loftsails Racing Blade  6.3",
-    "sessionfin": "Mistral stock  35",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=380482&uid=23632"
+    "sessionboard": "Fanatic Ray 95 Ltd",
+    "sessionsail": "Gaastra Vapor  7.1",
+    "sessionfin": "Fanatic Ray  34",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386301&uid=23632"
   },
   {
     "rowid": "24",
+    "event_id": 719,
+    "eventname": "Norwegian speedmaster - 2022",
+    "speed": 13.45478,
+    "type": "speed_hour",
+    "username": "Dag Hansen",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "51-60",
+    "sexe": "Men",
+    "spotname": "Lysakerfjorden",
+    "sessionboard": "Starboard Phantom 377",
+    "sessionsail": "Demon Design VG7  8.5",
+    "sessionfin": "Select Rhino Pro  51",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=385993&uid=26303"
+  },
+  {
+    "rowid": "25",
     "event_id": 719,
     "eventname": "Norwegian speedmaster - 2022",
     "speed": 6.387548,
@@ -384,7 +400,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=384890&uid=23634"
   },
   {
-    "rowid": "25",
+    "rowid": "26",
     "event_id": 719,
     "eventname": "Norwegian speedmaster - 2022",
     "speed": 6.10234,
@@ -400,7 +416,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=379981&uid=24766"
   },
   {
-    "rowid": "26",
+    "rowid": "27",
     "event_id": 719,
     "eventname": "Norwegian speedmaster - 2022",
     "speed": 5.363392,
@@ -414,5 +430,37 @@
     "sessionsail": "North Sails Prisma  8.5",
     "sessionfin": "Tabou Freeride  48",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=382606&uid=21904"
+  },
+  {
+    "rowid": "28",
+    "event_id": 719,
+    "eventname": "Norwegian speedmaster - 2022",
+    "speed": 0.0,
+    "type": "speed_hour",
+    "username": "Axel Espeli Blankholm",
+    "ageclass": "Junior (11-14)",
+    "weightclass": "0-40",
+    "sexe": "Men",
+    "spotname": "Langeby",
+    "sessionboard": "Fanatic Falcon 89",
+    "sessionsail": "Duotone NOW   4.4",
+    "sessionfin": "not defined -  0",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389875&uid=25451"
+  },
+  {
+    "rowid": "29",
+    "event_id": 719,
+    "eventname": "Norwegian speedmaster - 2022",
+    "speed": 0.0,
+    "type": "speed_hour",
+    "username": "Morten Kessel",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Sando brygga",
+    "sessionboard": "Fanatic Falcon Slalom TE 136",
+    "sessionsail": "North Sails Warp F2015  7.7",
+    "sessionfin": "Fanatic blast original  38",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=385792&uid=23185"
   }
 ]
