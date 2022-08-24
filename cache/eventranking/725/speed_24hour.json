@@ -5,22 +5,6 @@
     "eventname": "Singlis-Speedchallenge 2022",
     "speed": 0.0,
     "type": "speed_24hour",
-    "username": "Arnd Gottschalk",
-    "ageclass": "Grand Master (51-60)",
-    "weightclass": "71-80",
-    "sexe": "Men",
-    "spotname": "Singliser See",
-    "sessionboard": "RRD X-fire LTD V3 135",
-    "sessionsail": "Neilpryde V8  9.4",
-    "sessionfin": "Custom Winheller Prototypes  44",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=376269&uid=26098"
-  },
-  {
-    "rowid": "2",
-    "event_id": 725,
-    "eventname": "Singlis-Speedchallenge 2022",
-    "speed": 0.0,
-    "type": "speed_24hour",
     "username": "Gerhard Schr\u00f6der",
     "ageclass": "Grand Master (51-60)",
     "weightclass": "71-80",
@@ -32,7 +16,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=375787&uid=24678"
   },
   {
-    "rowid": "3",
+    "rowid": "2",
     "event_id": 725,
     "eventname": "Singlis-Speedchallenge 2022",
     "speed": 0.0,
@@ -48,7 +32,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=374786&uid=24138"
   },
   {
-    "rowid": "4",
+    "rowid": "3",
     "event_id": 725,
     "eventname": "Singlis-Speedchallenge 2022",
     "speed": 0.0,
@@ -64,7 +48,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=376181&uid=11612"
   },
   {
-    "rowid": "5",
+    "rowid": "4",
     "event_id": 725,
     "eventname": "Singlis-Speedchallenge 2022",
     "speed": 0.0,
@@ -80,7 +64,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=373467&uid=10573"
   },
   {
-    "rowid": "6",
+    "rowid": "5",
     "event_id": 725,
     "eventname": "Singlis-Speedchallenge 2022",
     "speed": 0.0,
@@ -96,7 +80,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=378060&uid=7491"
   },
   {
-    "rowid": "7",
+    "rowid": "6",
     "event_id": 725,
     "eventname": "Singlis-Speedchallenge 2022",
     "speed": 0.0,
@@ -112,7 +96,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=387934&uid=4475"
   },
   {
-    "rowid": "8",
+    "rowid": "7",
     "event_id": 725,
     "eventname": "Singlis-Speedchallenge 2022",
     "speed": 0.0,

@@ -3,17 +3,17 @@
     "rowid": "1",
     "event_id": 737,
     "eventname": "2022 Spanish Speed Challenge",
-    "speed": 63.330992,
+    "speed": 59.706627999999995,
     "type": "speed_mile",
     "username": "Enrique del valle",
     "ageclass": "Master (36-50)",
     "weightclass": "81-90",
     "sexe": "Men",
-    "spotname": "Mar Menor, Lopagan El Molino",
+    "spotname": "La Palme - Plage du Rouet",
     "sessionboard": "PATRIK Speed 53",
-    "sessionsail": "Neilpryde EVO XII  5.8",
-    "sessionfin": "Tribal Fin Sym Speed  27",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=377865&uid=23714"
+    "sessionsail": "KA Sails Race  5.7",
+    "sessionfin": "Tribal Fin ASY Speed Carbon   23",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390996&uid=23714"
   },
   {
     "rowid": "2",
@@ -291,17 +291,17 @@
     "rowid": "19",
     "event_id": 737,
     "eventname": "2022 Spanish Speed Challenge",
-    "speed": 42.28116,
+    "speed": 41.69778,
     "type": "speed_mile",
     "username": "Philipp Trefil",
     "ageclass": "Master (36-50)",
     "weightclass": "81-90",
     "sexe": "Men",
-    "spotname": "Fuerteventura, Matas Blancas",
-    "sessionboard": "Starboard Isonic 124 Carbon",
-    "sessionsail": "Severne Overdrive M1  7.8",
-    "sessionfin": "Sonntag Fins SL-Pro  42",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=377394&uid=25589"
+    "spotname": "Neusiedlersee",
+    "sessionboard": "Starboard Isonic 72 Carbon",
+    "sessionsail": "Severne Overdrive M4  7.0",
+    "sessionfin": "Tribal Fin Delta Sym Speed  22",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=391311&uid=25589"
   },
   {
     "rowid": "20",
@@ -398,21 +398,5 @@
     "sessionsail": "Point-7 AC-X  6.0",
     "sessionfin": "not defined -  0",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=378543&uid=23336"
-  },
-  {
-    "rowid": "26",
-    "event_id": 737,
-    "eventname": "2022 Spanish Speed Challenge",
-    "speed": 0.0,
-    "type": "speed_mile",
-    "username": "Eduardo de llano",
-    "ageclass": "Master (36-50)",
-    "weightclass": "91-100",
-    "sexe": "Men",
-    "spotname": "El Medano",
-    "sessionboard": "Mistral Edge XR",
-    "sessionsail": "Sailworks Race  6.1",
-    "sessionfin": "not defined -  0",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=378142&uid=25460"
   }
 ]

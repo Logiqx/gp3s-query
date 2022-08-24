@@ -462,5 +462,21 @@
     "sessionsail": "Duotone NOW   4.4",
     "sessionfin": "not defined -  0",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389875&uid=25451"
+  },
+  {
+    "rowid": "30",
+    "event_id": 719,
+    "eventname": "Norwegian speedmaster - 2022",
+    "speed": 33.941604000000005,
+    "type": "speed_2sec",
+    "username": "Niklas Haug",
+    "ageclass": "Master (36-50)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Torkildstranda",
+    "sessionboard": "not defined ",
+    "sessionsail": "",
+    "sessionfin": "not defined -  0",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=391326&uid=26380"
   }
 ]

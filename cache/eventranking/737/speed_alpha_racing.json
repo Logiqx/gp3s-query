@@ -398,21 +398,5 @@
     "sessionsail": "Gun Sails GS-R  5.6",
     "sessionfin": "Custom Chopper Fin Speed  235",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=374286&uid=26004"
-  },
-  {
-    "rowid": "26",
-    "event_id": 737,
-    "eventname": "2022 Spanish Speed Challenge",
-    "speed": 0.0,
-    "type": "speed_alpha_racing",
-    "username": "Eduardo de llano",
-    "ageclass": "Master (36-50)",
-    "weightclass": "91-100",
-    "sexe": "Men",
-    "spotname": "El Medano",
-    "sessionboard": "Mistral Edge XR",
-    "sessionsail": "Sailworks Race  6.1",
-    "sessionfin": "not defined -  0",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=378142&uid=25460"
   }
 ]

@@ -211,6 +211,22 @@
     "rowid": "14",
     "event_id": 739,
     "eventname": "2022 Estonian Speed King",
+    "speed": 25.496484,
+    "type": "speed_hour",
+    "username": "Rain Rebane",
+    "ageclass": "Super Master (61-70)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Laulasmaa",
+    "sessionboard": "Tabou Manta 69",
+    "sessionsail": "Gaastra GTX  6.5",
+    "sessionfin": "Select Supercross  34",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=385362&uid=3878"
+  },
+  {
+    "rowid": "15",
+    "event_id": 739,
+    "eventname": "2022 Estonian Speed King",
     "speed": 21.736924000000002,
     "type": "speed_hour",
     "username": "Fons van den Hove",
@@ -224,7 +240,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386281&uid=24311"
   },
   {
-    "rowid": "15",
+    "rowid": "16",
     "event_id": 739,
     "eventname": "2022 Estonian Speed King",
     "speed": 20.877596,
@@ -240,7 +256,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=381273&uid=5024"
   },
   {
-    "rowid": "16",
+    "rowid": "17",
     "event_id": 739,
     "eventname": "2022 Estonian Speed King",
     "speed": 14.780812000000001,
@@ -254,5 +270,21 @@
     "sessionsail": "Gun Sails Vector  7.1",
     "sessionfin": "Select Elite S10  35",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=379597&uid=4023"
+  },
+  {
+    "rowid": "18",
+    "event_id": 739,
+    "eventname": "2022 Estonian Speed King",
+    "speed": 4.41702,
+    "type": "speed_hour",
+    "username": "Lisanna Kasenurm",
+    "ageclass": "Junior (11-14)",
+    "weightclass": "0-40",
+    "sexe": "Woman",
+    "spotname": "Rohuk\u00fcla",
+    "sessionboard": "not defined ",
+    "sessionsail": "",
+    "sessionfin": "not defined -  0",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=391181&uid=26390"
   }
 ]

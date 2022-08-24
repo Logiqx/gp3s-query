@@ -83,6 +83,22 @@
     "rowid": "6",
     "event_id": 737,
     "eventname": "2022 Spanish Speed Challenge",
+    "speed": 35.57692,
+    "type": "speed_halfhour",
+    "username": "Philipp Trefil",
+    "ageclass": "Master (36-50)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Neusiedlersee",
+    "sessionboard": "Starboard Isonic 72 Carbon",
+    "sessionsail": "Severne Overdrive M4  7.0",
+    "sessionfin": "Tribal Fin Delta Sym Speed  22",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=391265&uid=25589"
+  },
+  {
+    "rowid": "7",
+    "event_id": 737,
+    "eventname": "2022 Spanish Speed Challenge",
     "speed": 35.480616000000005,
     "type": "speed_halfhour",
     "username": "Ra\u00fal Mart\u00ednez Alvarez",
@@ -96,7 +112,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=376259&uid=23628"
   },
   {
-    "rowid": "7",
+    "rowid": "8",
     "event_id": 737,
     "eventname": "2022 Spanish Speed Challenge",
     "speed": 35.249116,
@@ -112,7 +128,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=378601&uid=16746"
   },
   {
-    "rowid": "8",
+    "rowid": "9",
     "event_id": 737,
     "eventname": "2022 Spanish Speed Challenge",
     "speed": 35.13244,
@@ -126,22 +142,6 @@
     "sessionsail": "Loftsails RacingBlade  5.6",
     "sessionfin": "- Chopperfins  30",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=377576&uid=23059"
-  },
-  {
-    "rowid": "9",
-    "event_id": 737,
-    "eventname": "2022 Spanish Speed Challenge",
-    "speed": 35.025024,
-    "type": "speed_halfhour",
-    "username": "Philipp Trefil",
-    "ageclass": "Master (36-50)",
-    "weightclass": "81-90",
-    "sexe": "Men",
-    "spotname": "Fuerteventura Sotavento",
-    "sessionboard": "Starboard Isonic 124 Carbon",
-    "sessionsail": "Severne Overdrive M1  7.8",
-    "sessionfin": "Sonntag Fins SL-Pro  37",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=377384&uid=25589"
   },
   {
     "rowid": "10",
@@ -385,22 +385,6 @@
   },
   {
     "rowid": "25",
-    "event_id": 737,
-    "eventname": "2022 Spanish Speed Challenge",
-    "speed": 0.0,
-    "type": "speed_halfhour",
-    "username": "Eduardo de llano",
-    "ageclass": "Master (36-50)",
-    "weightclass": "91-100",
-    "sexe": "Men",
-    "spotname": "El Medano",
-    "sessionboard": "Mistral Edge XR",
-    "sessionsail": "Sailworks Race  6.1",
-    "sessionfin": "not defined -  0",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=378142&uid=25460"
-  },
-  {
-    "rowid": "26",
     "event_id": 737,
     "eventname": "2022 Spanish Speed Challenge",
     "speed": 0.0,

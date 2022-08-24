@@ -62,5 +62,21 @@
     "sessionsail": "KA Sails speed  5.7",
     "sessionfin": "Tribal Fin Slalom MK2  30",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=373660&uid=5203"
+  },
+  {
+    "rowid": "5",
+    "event_id": 727,
+    "eventname": "2022 FFF SPEED CHALLENGE",
+    "speed": 0.0,
+    "type": "speed_mile",
+    "username": "Francois Robles",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Fos, 13",
+    "sessionboard": "Fanatic Falcon TE 90",
+    "sessionsail": "Duotone Warp 2021  6.2",
+    "sessionfin": "Select Rhino pro  32",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=378274&uid=25318"
   }
 ]

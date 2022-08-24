@@ -387,22 +387,6 @@
     "rowid": "25",
     "event_id": 732,
     "eventname": "2022 DBO Speed Challenge",
-    "speed": 54.298788,
-    "type": "speed_2sec",
-    "username": "Andrei Josephsen",
-    "ageclass": "Master (36-50)",
-    "weightclass": "81-90",
-    "sexe": "Men",
-    "spotname": "Veddelev",
-    "sessionboard": "Tabou Manta 61",
-    "sessionsail": "Simmer Sails SCR  7.0",
-    "sessionfin": "Starboard Drake  32",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=378352&uid=25722"
-  },
-  {
-    "rowid": "26",
-    "event_id": 732,
-    "eventname": "2022 DBO Speed Challenge",
     "speed": 52.950532,
     "type": "speed_2sec",
     "username": "Martin Lamm",
@@ -416,7 +400,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386326&uid=25630"
   },
   {
-    "rowid": "27",
+    "rowid": "26",
     "event_id": 732,
     "eventname": "2022 DBO Speed Challenge",
     "speed": 52.937568,
@@ -432,7 +416,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=387626&uid=15727"
   },
   {
-    "rowid": "28",
+    "rowid": "27",
     "event_id": 732,
     "eventname": "2022 DBO Speed Challenge",
     "speed": 52.567168,
@@ -448,7 +432,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=375058&uid=718"
   },
   {
-    "rowid": "29",
+    "rowid": "28",
     "event_id": 732,
     "eventname": "2022 DBO Speed Challenge",
     "speed": 51.359664,
@@ -464,7 +448,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=384487&uid=26264"
   },
   {
-    "rowid": "30",
+    "rowid": "29",
     "event_id": 732,
     "eventname": "2022 DBO Speed Challenge",
     "speed": 49.385432,
@@ -480,7 +464,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386570&uid=24434"
   },
   {
-    "rowid": "31",
+    "rowid": "30",
     "event_id": 732,
     "eventname": "2022 DBO Speed Challenge",
     "speed": 47.805676,
@@ -494,6 +478,22 @@
     "sessionsail": "Severne Overdrive M1  7.8",
     "sessionfin": "not defined -  0",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=376404&uid=23773"
+  },
+  {
+    "rowid": "31",
+    "event_id": 732,
+    "eventname": "2022 DBO Speed Challenge",
+    "speed": 45.212876,
+    "type": "speed_2sec",
+    "username": "Andrei Josephsen",
+    "ageclass": "Master (36-50)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Veddelev",
+    "sessionboard": "Tabou Manta 61",
+    "sessionsail": "Simmer Sails SCR  7.0",
+    "sessionfin": "Starboard Drake  32",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=375901&uid=25722"
   },
   {
     "rowid": "32",

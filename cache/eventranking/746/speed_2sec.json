@@ -1,0 +1,34 @@
+[
+  {
+    "rowid": "1",
+    "event_id": 746,
+    "eventname": "2022 Desafio Brasileiro de Windsurf Speed",
+    "speed": 61.08081200000001,
+    "type": "speed_2sec",
+    "username": "Fabricio Gehling",
+    "ageclass": "Master (36-50)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Barrinha dos Ventos",
+    "sessionboard": "JP Slalom 62 Pro Edition",
+    "sessionsail": "Loft Sails Racing blade  6.9",
+    "sessionfin": "not defined -  0",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=391225&uid=26381"
+  },
+  {
+    "rowid": "2",
+    "event_id": 746,
+    "eventname": "2022 Desafio Brasileiro de Windsurf Speed",
+    "speed": 42.488584,
+    "type": "speed_2sec",
+    "username": "luis egidio",
+    "ageclass": "Master (36-50)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Porto Alegre - Raia1",
+    "sessionboard": "not defined ",
+    "sessionsail": "Gaastra Vapor  7.9",
+    "sessionfin": "- Z slaalom proto  45",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=391275&uid=25869"
+  }
+]

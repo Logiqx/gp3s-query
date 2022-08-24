@@ -195,6 +195,22 @@
     "rowid": "13",
     "event_id": 739,
     "eventname": "2022 Estonian Speed King",
+    "speed": 39.779108,
+    "type": "speed_mile",
+    "username": "Rain Rebane",
+    "ageclass": "Super Master (61-70)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Laulasmaa",
+    "sessionboard": "Tabou Manta 69",
+    "sessionsail": "Gaastra GTX  6.5",
+    "sessionfin": "Select Supercross  34",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=385362&uid=3878"
+  },
+  {
+    "rowid": "14",
+    "event_id": 739,
+    "eventname": "2022 Estonian Speed King",
     "speed": 39.267956,
     "type": "speed_mile",
     "username": "Taavi Tiimus",
@@ -208,7 +224,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=385110&uid=20524"
   },
   {
-    "rowid": "14",
+    "rowid": "15",
     "event_id": 739,
     "eventname": "2022 Estonian Speed King",
     "speed": 37.758576000000005,
@@ -224,7 +240,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=381272&uid=5024"
   },
   {
-    "rowid": "15",
+    "rowid": "16",
     "event_id": 739,
     "eventname": "2022 Estonian Speed King",
     "speed": 35.749156000000006,
@@ -240,7 +256,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=381324&uid=4023"
   },
   {
-    "rowid": "16",
+    "rowid": "17",
     "event_id": 739,
     "eventname": "2022 Estonian Speed King",
     "speed": 34.82686,

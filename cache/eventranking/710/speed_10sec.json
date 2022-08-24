@@ -755,6 +755,22 @@
     "rowid": "48",
     "event_id": 710,
     "eventname": "BritishSpeedChallenge2022",
+    "speed": 44.414664,
+    "type": "speed_10sec",
+    "username": "Ashton Mills",
+    "ageclass": "Junior (11-14)",
+    "weightclass": "61-70",
+    "sexe": "Men",
+    "spotname": "Christchurch Harbour",
+    "sessionboard": "not defined ",
+    "sessionsail": "",
+    "sessionfin": "not defined -  0",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=391145&uid=26389"
+  },
+  {
+    "rowid": "49",
+    "event_id": 710,
+    "eventname": "BritishSpeedChallenge2022",
     "speed": 42.129296000000004,
     "type": "speed_10sec",
     "username": "Andrew Hawkins",
@@ -768,7 +784,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=383781&uid=5687"
   },
   {
-    "rowid": "49",
+    "rowid": "50",
     "event_id": 710,
     "eventname": "BritishSpeedChallenge2022",
     "speed": 28.878236,
@@ -782,21 +798,5 @@
     "sessionsail": "KA Sails Koncept  5.8",
     "sessionfin": "not defined -  0",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=384716&uid=25899"
-  },
-  {
-    "rowid": "50",
-    "event_id": 710,
-    "eventname": "BritishSpeedChallenge2022",
-    "speed": 0.0,
-    "type": "speed_10sec",
-    "username": "Martin David Jerrard",
-    "ageclass": "Grand Master (51-60)",
-    "weightclass": "71-80",
-    "sexe": "Men",
-    "spotname": "Portland Harbour, Weymouth",
-    "sessionboard": "Starboard Isonic 67 Carbon reflex",
-    "sessionsail": "Point-7 ACK-Pro  7.1",
-    "sessionfin": "Maui Ultra Fins Slalom  36",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=375463&uid=24192"
   }
 ]

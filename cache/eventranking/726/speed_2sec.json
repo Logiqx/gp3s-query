@@ -99,22 +99,6 @@
     "rowid": "7",
     "event_id": 726,
     "eventname": "WSCA Westeinder Speedking 2022",
-    "speed": 59.260296000000004,
-    "type": "speed_2sec",
-    "username": "Max Shytikov",
-    "ageclass": "Master (36-50)",
-    "weightclass": "61-70",
-    "sexe": "Men",
-    "spotname": "Westeinder Plassen",
-    "sessionboard": "Future Fly Dark Horse FR 107",
-    "sessionsail": "Duotone Warp_fin 20.22  7.8",
-    "sessionfin": "Sonntag Fins SL-X 360  36",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=384186&uid=25266"
-  },
-  {
-    "rowid": "8",
-    "event_id": 726,
-    "eventname": "WSCA Westeinder Speedking 2022",
     "speed": 59.219552,
     "type": "speed_2sec",
     "username": "Rogier Hassink",
@@ -128,7 +112,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389776&uid=23518"
   },
   {
-    "rowid": "9",
+    "rowid": "8",
     "event_id": 726,
     "eventname": "WSCA Westeinder Speedking 2022",
     "speed": 58.608392,
@@ -144,7 +128,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=377874&uid=22950"
   },
   {
-    "rowid": "10",
+    "rowid": "9",
     "event_id": 726,
     "eventname": "WSCA Westeinder Speedking 2022",
     "speed": 57.456448,
@@ -160,23 +144,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=382074&uid=23965"
   },
   {
-    "rowid": "11",
-    "event_id": 726,
-    "eventname": "WSCA Westeinder Speedking 2022",
-    "speed": 56.604528,
-    "type": "speed_2sec",
-    "username": "Leon Ippel",
-    "ageclass": "Grand Master (51-60)",
-    "weightclass": "101-110",
-    "sexe": "Men",
-    "spotname": "Westeinder Plassen",
-    "sessionboard": "PATRIK Slalom 140",
-    "sessionsail": "Neilpryde RS Racing Evo XI  9.0",
-    "sessionfin": "Sonntag Fins SLP  45",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=380867&uid=25523"
-  },
-  {
-    "rowid": "12",
+    "rowid": "10",
     "event_id": 726,
     "eventname": "WSCA Westeinder Speedking 2022",
     "speed": 56.067448000000006,
@@ -192,7 +160,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=384027&uid=384"
   },
   {
-    "rowid": "13",
+    "rowid": "11",
     "event_id": 726,
     "eventname": "WSCA Westeinder Speedking 2022",
     "speed": 54.269156,
@@ -208,7 +176,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=374480&uid=5707"
   },
   {
-    "rowid": "14",
+    "rowid": "12",
     "event_id": 726,
     "eventname": "WSCA Westeinder Speedking 2022",
     "speed": 53.928388000000005,
@@ -224,7 +192,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=373443&uid=23663"
   },
   {
-    "rowid": "15",
+    "rowid": "13",
     "event_id": 726,
     "eventname": "WSCA Westeinder Speedking 2022",
     "speed": 53.852456000000004,
@@ -240,7 +208,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=376239&uid=19409"
   },
   {
-    "rowid": "16",
+    "rowid": "14",
     "event_id": 726,
     "eventname": "WSCA Westeinder Speedking 2022",
     "speed": 52.793112,
@@ -256,7 +224,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=380841&uid=21778"
   },
   {
-    "rowid": "17",
+    "rowid": "15",
     "event_id": 726,
     "eventname": "WSCA Westeinder Speedking 2022",
     "speed": 50.266984,
@@ -272,7 +240,23 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=380635&uid=23373"
   },
   {
-    "rowid": "18",
+    "rowid": "16",
+    "event_id": 726,
+    "eventname": "WSCA Westeinder Speedking 2022",
+    "speed": 49.950292000000005,
+    "type": "speed_2sec",
+    "username": "Leon Ippel",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "101-110",
+    "sexe": "Men",
+    "spotname": "Brouwersdam - Zeezijde",
+    "sessionboard": "PATRIK Slalom 140",
+    "sessionsail": "Neilpryde RS Racing Evo XI  9.0",
+    "sessionfin": "Custom Carpenter Fins  46",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=391097&uid=25523"
+  },
+  {
+    "rowid": "17",
     "event_id": 726,
     "eventname": "WSCA Westeinder Speedking 2022",
     "speed": 46.131468,
@@ -286,5 +270,21 @@
     "sessionsail": "Neilpryde Combat Wave HD  4.7",
     "sessionfin": "JP Freeride  32",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=373504&uid=22978"
+  },
+  {
+    "rowid": "18",
+    "event_id": 726,
+    "eventname": "WSCA Westeinder Speedking 2022",
+    "speed": 41.288488,
+    "type": "speed_2sec",
+    "username": "Max Shytikov",
+    "ageclass": "Master (36-50)",
+    "weightclass": "61-70",
+    "sexe": "Men",
+    "spotname": "IJsselmeer - Kornwerderzand",
+    "sessionboard": "Future Fly Dark Horse FR 107",
+    "sessionsail": "Duotone Warp_fin 20.22  7.8",
+    "sessionfin": "Sonntag Fins SL-X 360  36",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=391270&uid=25266"
   }
 ]

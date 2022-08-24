@@ -195,6 +195,22 @@
     "rowid": "13",
     "event_id": 739,
     "eventname": "2022 Estonian Speed King",
+    "speed": 57.965748000000005,
+    "type": "speed_10sec",
+    "username": "Cerly Aulik",
+    "ageclass": "Master (36-50)",
+    "weightclass": "61-70",
+    "sexe": "Woman",
+    "spotname": "S\u00e4\u00e4re tirp, Hiiumaa",
+    "sessionboard": "PATRIK Slalom",
+    "sessionsail": "Loftsails Racing Blade  5.6",
+    "sessionfin": "Z-fins SLM S-  32",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=391165&uid=22317"
+  },
+  {
+    "rowid": "14",
+    "event_id": 739,
+    "eventname": "2022 Estonian Speed King",
     "speed": 57.413852000000006,
     "type": "speed_10sec",
     "username": "Taavi Tiimus",
@@ -208,7 +224,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=385110&uid=20524"
   },
   {
-    "rowid": "14",
+    "rowid": "15",
     "event_id": 739,
     "eventname": "2022 Estonian Speed King",
     "speed": 57.15272,
@@ -222,22 +238,6 @@
     "sessionsail": "Gaastra Vapor  8.6",
     "sessionfin": "Z-fins SLM S-  37",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=385243&uid=24430"
-  },
-  {
-    "rowid": "15",
-    "event_id": 739,
-    "eventname": "2022 Estonian Speed King",
-    "speed": 56.319320000000005,
-    "type": "speed_10sec",
-    "username": "Cerly Aulik",
-    "ageclass": "Master (36-50)",
-    "weightclass": "61-70",
-    "sexe": "Woman",
-    "spotname": "P\u00e4rnu muul",
-    "sessionboard": "PATRIK Slalom",
-    "sessionsail": "Loftsails Racing Blade  5.6",
-    "sessionfin": "Z-fins SLM S-  32",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=381311&uid=22317"
   },
   {
     "rowid": "16",
@@ -254,5 +254,37 @@
     "sessionsail": "Gun Sails GS-R  5.6",
     "sessionfin": "Select Elite S07  31",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=381272&uid=5024"
+  },
+  {
+    "rowid": "17",
+    "event_id": 739,
+    "eventname": "2022 Estonian Speed King",
+    "speed": 43.881288,
+    "type": "speed_10sec",
+    "username": "Rain Rebane",
+    "ageclass": "Super Master (61-70)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Laulasmaa",
+    "sessionboard": "Fanatic Falcon 134",
+    "sessionsail": "Neilpryde RS5  9.8",
+    "sessionfin": "Select Elite Slam  49",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=391083&uid=3878"
+  },
+  {
+    "rowid": "18",
+    "event_id": 739,
+    "eventname": "2022 Estonian Speed King",
+    "speed": 21.172064000000002,
+    "type": "speed_10sec",
+    "username": "Lisanna Kasenurm",
+    "ageclass": "Junior (11-14)",
+    "weightclass": "0-40",
+    "sexe": "Woman",
+    "spotname": "Rohuk\u00fcla",
+    "sessionboard": "not defined ",
+    "sessionsail": "",
+    "sessionfin": "not defined -  0",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=391181&uid=26390"
   }
 ]

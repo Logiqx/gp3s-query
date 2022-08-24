@@ -115,22 +115,6 @@
     "rowid": "8",
     "event_id": 721,
     "eventname": "2022 Gps Kraaij Challenge",
-    "speed": 48.777976,
-    "type": "speed_500",
-    "username": "Bas de Vries",
-    "ageclass": "Master (36-50)",
-    "weightclass": "71-80",
-    "sexe": "Men",
-    "spotname": "Kraaijenbergse plassen",
-    "sessionboard": "Mistral Slalom 123",
-    "sessionsail": "Neilpryde RS slalom MKIII  7.0",
-    "sessionfin": "Sonntag Fins SL-X  37",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=376779&uid=24851"
-  },
-  {
-    "rowid": "9",
-    "event_id": 721,
-    "eventname": "2022 Gps Kraaij Challenge",
     "speed": 48.26682400000001,
     "type": "speed_500",
     "username": "Michiel Lieberom",
@@ -144,7 +128,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=374873&uid=18056"
   },
   {
-    "rowid": "10",
+    "rowid": "9",
     "event_id": 721,
     "eventname": "2022 Gps Kraaij Challenge",
     "speed": 48.20756000000001,
@@ -160,7 +144,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=377144&uid=1797"
   },
   {
-    "rowid": "11",
+    "rowid": "10",
     "event_id": 721,
     "eventname": "2022 Gps Kraaij Challenge",
     "speed": 47.444536,
@@ -176,7 +160,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=388785&uid=5174"
   },
   {
-    "rowid": "12",
+    "rowid": "11",
     "event_id": 721,
     "eventname": "2022 Gps Kraaij Challenge",
     "speed": 47.41120000000001,
@@ -192,7 +176,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=384219&uid=26026"
   },
   {
-    "rowid": "13",
+    "rowid": "12",
     "event_id": 721,
     "eventname": "2022 Gps Kraaij Challenge",
     "speed": 46.78152000000001,
@@ -206,6 +190,22 @@
     "sessionsail": "Neilpryde RS6  7.8",
     "sessionfin": "Select Vmax 4.0  47",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=385038&uid=3588"
+  },
+  {
+    "rowid": "13",
+    "event_id": 721,
+    "eventname": "2022 Gps Kraaij Challenge",
+    "speed": 45.788848,
+    "type": "speed_500",
+    "username": "Bas de Vries",
+    "ageclass": "Master (36-50)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Grevelingenmeer - Grevelingendam",
+    "sessionboard": "Mistral Slalom 140",
+    "sessionsail": "Neilpryde RS Racing EVO 6  8.6",
+    "sessionfin": "Sonntag Fins SL-Pro  45",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=391148&uid=24851"
   },
   {
     "rowid": "14",

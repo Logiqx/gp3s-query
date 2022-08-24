@@ -259,17 +259,17 @@
     "rowid": "17",
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
-    "speed": 58.099092,
+    "speed": 59.464016,
     "type": "speed_500",
     "username": "Dimitris Lentzos",
     "ageclass": "Master (36-50)",
     "weightclass": "81-90",
     "sexe": "Men",
-    "spotname": "Anavissos",
+    "spotname": "VALTOS",
     "sessionboard": "FMX Invictus 108",
-    "sessionsail": "Gun Sails GSR  7.1",
-    "sessionfin": "F-Hot RS  37",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=385244&uid=18214"
+    "sessionsail": "Gun Sails GSR  7.8",
+    "sessionfin": "Z-fins z sl  s-  36",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=391219&uid=18214"
   },
   {
     "rowid": "18",
@@ -403,22 +403,6 @@
     "rowid": "26",
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
-    "speed": 55.178488,
-    "type": "speed_500",
-    "username": "Peter Johansson",
-    "ageclass": "Master (36-50)",
-    "weightclass": "71-80",
-    "sexe": "Men",
-    "spotname": "Karpathos",
-    "sessionboard": "Starboard iSonic 63 Carbon Reflex",
-    "sessionsail": "Neilpryde Evo9  5.6",
-    "sessionfin": "Z-fins SL S-  30",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389805&uid=1339"
-  },
-  {
-    "rowid": "27",
-    "event_id": 736,
-    "eventname": "2022 Odyssey of Speed",
     "speed": 54.182112000000004,
     "type": "speed_500",
     "username": "Sofia Koukouzeli",
@@ -432,7 +416,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=388147&uid=18072"
   },
   {
-    "rowid": "28",
+    "rowid": "27",
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
     "speed": 54.145072000000006,
@@ -446,6 +430,22 @@
     "sessionsail": "Severne ReflexR7  7.8",
     "sessionfin": "Select S1 Hi wind  37",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386405&uid=6039"
+  },
+  {
+    "rowid": "28",
+    "event_id": 736,
+    "eventname": "2022 Odyssey of Speed",
+    "speed": 53.926536,
+    "type": "speed_500",
+    "username": "George Papagiannakis",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "61-70",
+    "sexe": "Men",
+    "spotname": "Tsimari",
+    "sessionboard": "Starboard iSonic Speed Special W53",
+    "sessionsail": "Loftsails Racing Blade  6.3",
+    "sessionfin": "mXr-fin UFO Wide 30 10%  24",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=391266&uid=6342"
   },
   {
     "rowid": "29",
@@ -579,22 +579,6 @@
     "rowid": "37",
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
-    "speed": 51.111496,
-    "type": "speed_500",
-    "username": "George Papagiannakis",
-    "ageclass": "Grand Master (51-60)",
-    "weightclass": "61-70",
-    "sexe": "Men",
-    "spotname": "VALTOS",
-    "sessionboard": "Starboard Isonic 107 UltraCore Reflex Carbon",
-    "sessionsail": "Loftsails Racing Blade  7.8",
-    "sessionfin": "F-Hot RWS-3  37",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390856&uid=6342"
-  },
-  {
-    "rowid": "38",
-    "event_id": 736,
-    "eventname": "2022 Odyssey of Speed",
     "speed": 50.70590800000001,
     "type": "speed_500",
     "username": "David Van Ederen",
@@ -608,7 +592,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=388439&uid=24045"
   },
   {
-    "rowid": "39",
+    "rowid": "38",
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
     "speed": 49.60582,
@@ -624,7 +608,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389884&uid=6188"
   },
   {
-    "rowid": "40",
+    "rowid": "39",
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
     "speed": 48.937248000000004,
@@ -638,6 +622,22 @@
     "sessionsail": "Loftsails RACING BLADE  8.6",
     "sessionfin": "mXr-fin Katana Race  47",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=378507&uid=23910"
+  },
+  {
+    "rowid": "40",
+    "event_id": 736,
+    "eventname": "2022 Odyssey of Speed",
+    "speed": 48.452024,
+    "type": "speed_500",
+    "username": "Peter Johansson",
+    "ageclass": "Master (36-50)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Grasko",
+    "sessionboard": "Starboard Isonic 77 Carbon Reflex",
+    "sessionsail": "Severne Mach 4  8.6",
+    "sessionfin": "Z-fins SL 40 S-  40",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=391101&uid=1339"
   },
   {
     "rowid": "41",

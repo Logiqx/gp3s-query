@@ -147,22 +147,6 @@
     "rowid": "10",
     "event_id": 721,
     "eventname": "2022 Gps Kraaij Challenge",
-    "speed": 49.993999200000005,
-    "type": "speed_avg",
-    "username": "Bas de Vries",
-    "ageclass": "Master (36-50)",
-    "weightclass": "71-80",
-    "sexe": "Men",
-    "spotname": "Kraaijenbergse plassen",
-    "sessionboard": "Mistral Slalom 123",
-    "sessionsail": "Neilpryde RS Racing EVO 6  8.6",
-    "sessionfin": "Sonntag Fins SL-X  37",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=384090&uid=24851"
-  },
-  {
-    "rowid": "11",
-    "event_id": 721,
-    "eventname": "2022 Gps Kraaij Challenge",
     "speed": 48.2238576,
     "type": "speed_avg",
     "username": "Jan Behrendt",
@@ -176,7 +160,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=388785&uid=5174"
   },
   {
-    "rowid": "12",
+    "rowid": "11",
     "event_id": 721,
     "eventname": "2022 Gps Kraaij Challenge",
     "speed": 47.456388800000006,
@@ -192,7 +176,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=385038&uid=3588"
   },
   {
-    "rowid": "13",
+    "rowid": "12",
     "event_id": 721,
     "eventname": "2022 Gps Kraaij Challenge",
     "speed": 47.276374399999995,
@@ -206,6 +190,22 @@
     "sessionsail": "Loftsails Switchblade  6.8",
     "sessionfin": "mXr-fin Katana Race 10%  40",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=377385&uid=18056"
+  },
+  {
+    "rowid": "13",
+    "event_id": 721,
+    "eventname": "2022 Gps Kraaij Challenge",
+    "speed": 45.95923199999999,
+    "type": "speed_avg",
+    "username": "Bas de Vries",
+    "ageclass": "Master (36-50)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Grevelingenmeer - Grevelingendam",
+    "sessionboard": "Mistral Slalom 140",
+    "sessionsail": "Neilpryde RS Racing EVO 6  8.6",
+    "sessionfin": "Sonntag Fins SL-Pro  45",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=391148&uid=24851"
   },
   {
     "rowid": "14",

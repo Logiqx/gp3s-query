@@ -19,17 +19,17 @@
     "rowid": "2",
     "event_id": 734,
     "eventname": "World Speed Tour - GPS POS 2022 ",
-    "speed": 84.14562000000001,
+    "speed": 82.741804,
     "type": "speed_500",
-    "username": "Christian Arnold",
+    "username": "Hans Kreisel",
     "ageclass": "Master (36-50)",
     "weightclass": "91-100",
     "sexe": "Men",
     "spotname": "La Palme - Plage du Rouet",
-    "sessionboard": "PATRIK Speed 43",
-    "sessionsail": "Patrik race+  5.8",
-    "sessionfin": "Custom NoLo  37",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=382997&uid=23136"
+    "sessionboard": "JP Speed 45 Pro Edition",
+    "sessionsail": "Neilpryde EVO XII  5.2",
+    "sessionfin": "Z-fins SPA S  21",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=391075&uid=2042"
   },
   {
     "rowid": "3",
@@ -131,22 +131,6 @@
     "rowid": "9",
     "event_id": 734,
     "eventname": "World Speed Tour - GPS POS 2022 ",
-    "speed": 77.628432,
-    "type": "speed_500",
-    "username": "Hans Kreisel",
-    "ageclass": "Master (36-50)",
-    "weightclass": "91-100",
-    "sexe": "Men",
-    "spotname": "La Palme - Plage du Rouet",
-    "sessionboard": "JP Speed 45 Pro Edition",
-    "sessionsail": "Neilpryde EVO XII  5.2",
-    "sessionfin": "Z-fins SPA S  20",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=374588&uid=2042"
-  },
-  {
-    "rowid": "10",
-    "event_id": 734,
-    "eventname": "World Speed Tour - GPS POS 2022 ",
     "speed": 76.372776,
     "type": "speed_500",
     "username": "Floris Wondergem",
@@ -160,39 +144,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=374600&uid=22819"
   },
   {
-    "rowid": "11",
-    "event_id": 734,
-    "eventname": "World Speed Tour - GPS POS 2022 ",
-    "speed": 75.46344400000001,
-    "type": "speed_500",
-    "username": "Thomas Moldenhauer",
-    "ageclass": "Grand Master (51-60)",
-    "weightclass": "81-90",
-    "sexe": "Men",
-    "spotname": "La Palme - Plage du Rouet",
-    "sessionboard": "AV Modena Speed 45",
-    "sessionsail": "Point-7 AC1 speed  5.6",
-    "sessionfin": "Z-fins SPA S  21",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=384478&uid=24163"
-  },
-  {
-    "rowid": "12",
-    "event_id": 734,
-    "eventname": "World Speed Tour - GPS POS 2022 ",
-    "speed": 74.139264,
-    "type": "speed_500",
-    "username": "Heidi Ulrich",
-    "ageclass": "Master (36-50)",
-    "weightclass": "61-70",
-    "sexe": "Woman",
-    "spotname": "La Palme - Plage du Rouet",
-    "sessionboard": "PATRIK Speed 39",
-    "sessionsail": "Patrik Race+  5.2",
-    "sessionfin": "mXr-fin ASY/DC  17",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=383033&uid=20629"
-  },
-  {
-    "rowid": "13",
+    "rowid": "10",
     "event_id": 734,
     "eventname": "World Speed Tour - GPS POS 2022 ",
     "speed": 74.10037200000001,
@@ -208,23 +160,39 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=374718&uid=5223"
   },
   {
-    "rowid": "14",
+    "rowid": "11",
     "event_id": 734,
     "eventname": "World Speed Tour - GPS POS 2022 ",
-    "speed": 71.45016,
+    "speed": 73.574404,
     "type": "speed_500",
-    "username": "Anne Fahner",
+    "username": "Thomas Moldenhauer",
     "ageclass": "Grand Master (51-60)",
     "weightclass": "81-90",
     "sexe": "Men",
-    "spotname": "La Palme - Plage du Rouet",
-    "sessionboard": "Starboard iSonic Speed Special W49",
-    "sessionsail": "Loftsails Speed Blade  5.6",
-    "sessionfin": "Sonntag Fins GPS 6  25",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=382977&uid=4516"
+    "spotname": "Le Rouet",
+    "sessionboard": "AV Modena Speed 45",
+    "sessionsail": "Point-7 AC1 speed  5.6",
+    "sessionfin": "NoLo 4  21",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=391059&uid=24163"
   },
   {
-    "rowid": "15",
+    "rowid": "12",
+    "event_id": 734,
+    "eventname": "World Speed Tour - GPS POS 2022 ",
+    "speed": 71.481644,
+    "type": "speed_500",
+    "username": "Gerwin Slingerland",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "La Palme - Plage du Rouet",
+    "sessionboard": "JP Speed 45 Pro Edition",
+    "sessionsail": "Neilpryde Evo x111  5.2",
+    "sessionfin": "Z-fins Speed asy 21 S  21",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=391037&uid=4588"
+  },
+  {
+    "rowid": "13",
     "event_id": 734,
     "eventname": "World Speed Tour - GPS POS 2022 ",
     "speed": 70.839,
@@ -240,7 +208,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=382332&uid=23889"
   },
   {
-    "rowid": "16",
+    "rowid": "14",
     "event_id": 734,
     "eventname": "World Speed Tour - GPS POS 2022 ",
     "speed": 70.331552,
@@ -256,10 +224,26 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=374580&uid=5203"
   },
   {
-    "rowid": "17",
+    "rowid": "15",
     "event_id": 734,
     "eventname": "World Speed Tour - GPS POS 2022 ",
-    "speed": 66.140476,
+    "speed": 69.58890000000001,
+    "type": "speed_500",
+    "username": "Enrique del valle",
+    "ageclass": "Master (36-50)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "La Palme - Plage du Rouet",
+    "sessionboard": "JP Speed proto 45",
+    "sessionsail": "KA Sails Race  5.2",
+    "sessionfin": "Tribal Fin ASY Speed Carbon  21",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=391053&uid=23714"
+  },
+  {
+    "rowid": "16",
+    "event_id": 734,
+    "eventname": "World Speed Tour - GPS POS 2022 ",
+    "speed": 66.731264,
     "type": "speed_500",
     "username": "Melek Toraman",
     "ageclass": "Master (36-50)",
@@ -269,26 +253,10 @@
     "sessionboard": "AV Modena Speed 45",
     "sessionsail": "Point-7 AC1 speed  5.6",
     "sessionfin": "Z-fins speed 21 ASY SB  21",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=384415&uid=25149"
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=391066&uid=25149"
   },
   {
-    "rowid": "18",
-    "event_id": 734,
-    "eventname": "World Speed Tour - GPS POS 2022 ",
-    "speed": 65.66266,
-    "type": "speed_500",
-    "username": "Enrique del valle",
-    "ageclass": "Master (36-50)",
-    "weightclass": "81-90",
-    "sexe": "Men",
-    "spotname": "La Palme - Plage du Rouet",
-    "sessionboard": "PATRIK Speed 53",
-    "sessionsail": "Neilpryde EVO XII  5.2",
-    "sessionfin": "Tribal Fin SYM Speed  23",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=374796&uid=23714"
-  },
-  {
-    "rowid": "19",
+    "rowid": "17",
     "event_id": 734,
     "eventname": "World Speed Tour - GPS POS 2022 ",
     "speed": 65.621916,
@@ -304,7 +272,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389297&uid=19419"
   },
   {
-    "rowid": "20",
+    "rowid": "18",
     "event_id": 734,
     "eventname": "World Speed Tour - GPS POS 2022 ",
     "speed": 65.105208,
@@ -320,7 +288,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=388468&uid=2340"
   },
   {
-    "rowid": "21",
+    "rowid": "19",
     "event_id": 734,
     "eventname": "World Speed Tour - GPS POS 2022 ",
     "speed": 64.416264,
@@ -336,7 +304,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=384310&uid=4470"
   },
   {
-    "rowid": "22",
+    "rowid": "20",
     "event_id": 734,
     "eventname": "World Speed Tour - GPS POS 2022 ",
     "speed": 63.392108,
@@ -352,7 +320,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=383146&uid=24908"
   },
   {
-    "rowid": "23",
+    "rowid": "21",
     "event_id": 734,
     "eventname": "World Speed Tour - GPS POS 2022 ",
     "speed": 61.008584000000006,
@@ -366,5 +334,53 @@
     "sessionsail": "Neilpryde Evo 11  5.2",
     "sessionfin": "Hurricane speed2 30   24",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=388941&uid=2343"
+  },
+  {
+    "rowid": "22",
+    "event_id": 734,
+    "eventname": "World Speed Tour - GPS POS 2022 ",
+    "speed": 59.102876,
+    "type": "speed_500",
+    "username": "Christian Arnold",
+    "ageclass": "Master (36-50)",
+    "weightclass": "91-100",
+    "sexe": "Men",
+    "spotname": "Port la Nouvelle Plage Nord",
+    "sessionboard": "PATRIK Slalom 110V3",
+    "sessionsail": "Patrik Race+  7.7",
+    "sessionfin": "NoLo 4  36",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=391339&uid=23136"
+  },
+  {
+    "rowid": "23",
+    "event_id": 734,
+    "eventname": "World Speed Tour - GPS POS 2022 ",
+    "speed": 53.441312,
+    "type": "speed_500",
+    "username": "Heidi Ulrich",
+    "ageclass": "Master (36-50)",
+    "weightclass": "61-70",
+    "sexe": "Woman",
+    "spotname": "Port la Nouvelle Plage Nord",
+    "sessionboard": "PATRIK slalom 95",
+    "sessionsail": "Patrik Race+  6.4",
+    "sessionfin": "not defined Nolo  32",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=391342&uid=20629"
+  },
+  {
+    "rowid": "24",
+    "event_id": 734,
+    "eventname": "World Speed Tour - GPS POS 2022 ",
+    "speed": 49.074296000000004,
+    "type": "speed_500",
+    "username": "Anne Fahner",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Lauwersmeer",
+    "sessionboard": "FMX Invictus 138",
+    "sessionsail": "Point-7 AC-ONE  8.6",
+    "sessionfin": "Z-fins SLM S-  44",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=391205&uid=4516"
   }
 ]
