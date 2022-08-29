@@ -19,6 +19,22 @@
     "rowid": "2",
     "event_id": 719,
     "eventname": "Norwegian speedmaster - 2022",
+    "speed": 36.184376,
+    "type": "speed_hour",
+    "username": "Jone Vikingstad",
+    "ageclass": "Master (36-50)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Vikingstad ",
+    "sessionboard": "Starboard Isonic 72 Carbon Reflex",
+    "sessionsail": "Severne Mach2  7.0",
+    "sessionfin": "Z-fins SL S-  37",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=391559&uid=3925"
+  },
+  {
+    "rowid": "3",
+    "event_id": 719,
+    "eventname": "Norwegian speedmaster - 2022",
     "speed": 35.25282,
     "type": "speed_hour",
     "username": "Anders Gitlesen",
@@ -32,7 +48,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=379867&uid=5943"
   },
   {
-    "rowid": "3",
+    "rowid": "4",
     "event_id": 719,
     "eventname": "Norwegian speedmaster - 2022",
     "speed": 34.776856,
@@ -48,7 +64,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386295&uid=23206"
   },
   {
-    "rowid": "4",
+    "rowid": "5",
     "event_id": 719,
     "eventname": "Norwegian speedmaster - 2022",
     "speed": 34.660180000000004,
@@ -64,7 +80,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=380387&uid=24361"
   },
   {
-    "rowid": "5",
+    "rowid": "6",
     "event_id": 719,
     "eventname": "Norwegian speedmaster - 2022",
     "speed": 33.62306,
@@ -80,7 +96,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386983&uid=18258"
   },
   {
-    "rowid": "6",
+    "rowid": "7",
     "event_id": 719,
     "eventname": "Norwegian speedmaster - 2022",
     "speed": 33.211916,
@@ -96,7 +112,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=387357&uid=23182"
   },
   {
-    "rowid": "7",
+    "rowid": "8",
     "event_id": 719,
     "eventname": "Norwegian speedmaster - 2022",
     "speed": 33.019308,
@@ -110,22 +126,6 @@
     "sessionsail": "KA Sails Race  6.3",
     "sessionfin": "Hurricane SRA  32",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386760&uid=23700"
-  },
-  {
-    "rowid": "8",
-    "event_id": 719,
-    "eventname": "Norwegian speedmaster - 2022",
-    "speed": 32.985972000000004,
-    "type": "speed_hour",
-    "username": "Jone Vikingstad",
-    "ageclass": "Master (36-50)",
-    "weightclass": "71-80",
-    "sexe": "Men",
-    "spotname": "B\u00f8v\u00e5gen",
-    "sessionboard": "Starboard Isonic 72 Carbon Reflex",
-    "sessionsail": "Severne Mach2  7.8",
-    "sessionfin": "Z-fins SL S-  37",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=383917&uid=3925"
   },
   {
     "rowid": "9",

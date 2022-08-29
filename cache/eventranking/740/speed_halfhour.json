@@ -3,7 +3,7 @@
     "rowid": "1",
     "event_id": 740,
     "eventname": "2022 Funsport Makkum GPS Speed Challenge",
-    "speed": 39.043864000000006,
+    "speed": 40.1884,
     "type": "speed_halfhour",
     "username": "Dylan de Jong",
     "ageclass": "Master (36-50)",
@@ -11,9 +11,9 @@
     "sexe": "Men",
     "spotname": "IJsselmeer - Makkum",
     "sessionboard": "JP Slalom 85 Pro Edition",
-    "sessionsail": "Neilpryde RS Racing Evo XI  8.6",
-    "sessionfin": "Sonntag Fins SL-Pro  43",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=380176&uid=53"
+    "sessionsail": "Neilpryde RS Racing Evo III   9.0",
+    "sessionfin": "Z-fins Z SLM 46 s-  46",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=391486&uid=53"
   },
   {
     "rowid": "2",

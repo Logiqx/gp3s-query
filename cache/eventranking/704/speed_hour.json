@@ -3,7 +3,7 @@
     "rowid": "1",
     "event_id": 704,
     "eventname": "Schildmeer Speed Challenge 2021-2022",
-    "speed": 33.073016,
+    "speed": 33.674916,
     "type": "speed_hour",
     "username": "Hans Prins",
     "ageclass": "Master (36-50)",
@@ -13,10 +13,26 @@
     "sessionboard": "Starboard iSonic Carbon Reflex 83",
     "sessionsail": "Point-7 AC-One  8.6",
     "sessionfin": "King Fins Slalom  44",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=391231&uid=5376"
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=391508&uid=5376"
   },
   {
     "rowid": "2",
+    "event_id": 704,
+    "eventname": "Schildmeer Speed Challenge 2021-2022",
+    "speed": 32.34518,
+    "type": "speed_hour",
+    "username": "Bert Bodde",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "schildmeer",
+    "sessionboard": "Starboard iSonic Race Slalom 127 UltraCore Reflex Carbon",
+    "sessionsail": "Point-7 AC-ONE  8.6",
+    "sessionfin": "Sonntag Fins SL-X  44",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=391659&uid=20514"
+  },
+  {
+    "rowid": "3",
     "event_id": 704,
     "eventname": "Schildmeer Speed Challenge 2021-2022",
     "speed": 30.726532000000002,
@@ -30,22 +46,6 @@
     "sessionsail": "Point-7 AC1  7.8",
     "sessionfin": "Finish Fast speed  36",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=374223&uid=15697"
-  },
-  {
-    "rowid": "3",
-    "event_id": 704,
-    "eventname": "Schildmeer Speed Challenge 2021-2022",
-    "speed": 29.050472000000003,
-    "type": "speed_hour",
-    "username": "Bert Bodde",
-    "ageclass": "Grand Master (51-60)",
-    "weightclass": "81-90",
-    "sexe": "Men",
-    "spotname": "schildmeer",
-    "sessionboard": "Starboard iSonic Race Slalom 127 UltraCore Reflex Carbon",
-    "sessionsail": "North Sails Warp F2017  8.4",
-    "sessionfin": "Sonntag Fins SL-X  44",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=370273&uid=20514"
   },
   {
     "rowid": "4",

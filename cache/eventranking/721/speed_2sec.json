@@ -35,22 +35,6 @@
     "rowid": "3",
     "event_id": 721,
     "eventname": "2022 Gps Kraaij Challenge",
-    "speed": 60.354828,
-    "type": "speed_2sec",
-    "username": "Chris F\u00f6cking",
-    "ageclass": "Master (36-50)",
-    "weightclass": "91-100",
-    "sexe": "Men",
-    "spotname": "Kraaijenbergse plassen",
-    "sessionboard": "RRD X-Fire Ltd V3 122",
-    "sessionsail": "North Sails Warp F2006  7.8",
-    "sessionfin": "Deboichet Custom R20  47",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=377094&uid=4524"
-  },
-  {
-    "rowid": "4",
-    "event_id": 721,
-    "eventname": "2022 Gps Kraaij Challenge",
     "speed": 59.760336,
     "type": "speed_2sec",
     "username": "Juul Wulms",
@@ -64,7 +48,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=387036&uid=25108"
   },
   {
-    "rowid": "5",
+    "rowid": "4",
     "event_id": 721,
     "eventname": "2022 Gps Kraaij Challenge",
     "speed": 59.73070400000001,
@@ -80,7 +64,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=379160&uid=21736"
   },
   {
-    "rowid": "6",
+    "rowid": "5",
     "event_id": 721,
     "eventname": "2022 Gps Kraaij Challenge",
     "speed": 56.563784000000005,
@@ -96,7 +80,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=375635&uid=25570"
   },
   {
-    "rowid": "7",
+    "rowid": "6",
     "event_id": 721,
     "eventname": "2022 Gps Kraaij Challenge",
     "speed": 55.9304,
@@ -112,7 +96,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=382801&uid=5095"
   },
   {
-    "rowid": "8",
+    "rowid": "7",
     "event_id": 721,
     "eventname": "2022 Gps Kraaij Challenge",
     "speed": 55.043292,
@@ -128,7 +112,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=375845&uid=4390"
   },
   {
-    "rowid": "9",
+    "rowid": "8",
     "event_id": 721,
     "eventname": "2022 Gps Kraaij Challenge",
     "speed": 53.928388000000005,
@@ -144,7 +128,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=384088&uid=1797"
   },
   {
-    "rowid": "10",
+    "rowid": "9",
     "event_id": 721,
     "eventname": "2022 Gps Kraaij Challenge",
     "speed": 53.172772,
@@ -160,7 +144,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=384296&uid=23371"
   },
   {
-    "rowid": "11",
+    "rowid": "10",
     "event_id": 721,
     "eventname": "2022 Gps Kraaij Challenge",
     "speed": 52.88386,
@@ -174,6 +158,22 @@
     "sessionsail": "Loftsails Switchblade  6.8",
     "sessionfin": "mXr-fin Katana Race 10%  40",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=374873&uid=18056"
+  },
+  {
+    "rowid": "11",
+    "event_id": 721,
+    "eventname": "2022 Gps Kraaij Challenge",
+    "speed": 52.739404,
+    "type": "speed_2sec",
+    "username": "Chris F\u00f6cking",
+    "ageclass": "Master (36-50)",
+    "weightclass": "91-100",
+    "sexe": "Men",
+    "spotname": "Grevelingenmeer - Hompelvoet",
+    "sessionboard": "RRD X-Fire Ltd V3 122",
+    "sessionsail": "North Sails Warp F2006  7.8",
+    "sessionfin": "C3 Venom  50",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=391781&uid=4524"
   },
   {
     "rowid": "12",

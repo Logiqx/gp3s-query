@@ -19,6 +19,22 @@
     "rowid": "2",
     "event_id": 730,
     "eventname": "Surf like a dude Zuidlaardermeer Speed Challenge 2022",
+    "speed": 35.015764000000004,
+    "type": "speed_halfhour",
+    "username": "Tim Heeringa",
+    "ageclass": "Master (36-50)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Lauwersmeer",
+    "sessionboard": "AHD GT 75",
+    "sessionsail": "S2 Maui Venom  8.4",
+    "sessionfin": "Finish Speed Slalom  37",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=391471&uid=23642"
+  },
+  {
+    "rowid": "3",
+    "event_id": 730,
+    "eventname": "Surf like a dude Zuidlaardermeer Speed Challenge 2022",
     "speed": 34.191624000000004,
     "type": "speed_halfhour",
     "username": "Richard Hilgers",
@@ -32,7 +48,39 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=375141&uid=24414"
   },
   {
-    "rowid": "3",
+    "rowid": "4",
+    "event_id": 730,
+    "eventname": "Surf like a dude Zuidlaardermeer Speed Challenge 2022",
+    "speed": 33.64158,
+    "type": "speed_halfhour",
+    "username": "Martijn Mobach",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Lauwersmeer",
+    "sessionboard": "Starboard ISONIC SLALOM 67",
+    "sessionsail": "Severne Mach3  7.8",
+    "sessionfin": "Gasoil Fins CHR-L  33",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=391657&uid=4690"
+  },
+  {
+    "rowid": "5",
+    "event_id": 730,
+    "eventname": "Surf like a dude Zuidlaardermeer Speed Challenge 2022",
+    "speed": 33.452676,
+    "type": "speed_halfhour",
+    "username": "Bert Bodde",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "schildmeer",
+    "sessionboard": "Starboard iSonic Race Slalom 127 UltraCore Reflex Carbon",
+    "sessionsail": "Point-7 AC-ONE  8.6",
+    "sessionfin": "Sonntag Fins SL-X  44",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=391659&uid=20514"
+  },
+  {
+    "rowid": "6",
     "event_id": 730,
     "eventname": "Surf like a dude Zuidlaardermeer Speed Challenge 2022",
     "speed": 33.436008,
@@ -48,7 +96,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=376947&uid=3309"
   },
   {
-    "rowid": "4",
+    "rowid": "7",
     "event_id": 730,
     "eventname": "Surf like a dude Zuidlaardermeer Speed Challenge 2022",
     "speed": 33.185988,
@@ -64,23 +112,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=382861&uid=24370"
   },
   {
-    "rowid": "5",
-    "event_id": 730,
-    "eventname": "Surf like a dude Zuidlaardermeer Speed Challenge 2022",
-    "speed": 33.073016,
-    "type": "speed_halfhour",
-    "username": "Tim Heeringa",
-    "ageclass": "Master (36-50)",
-    "weightclass": "81-90",
-    "sexe": "Men",
-    "spotname": "Zuidlaardermeer",
-    "sessionboard": "AHD GT 75",
-    "sessionsail": "Loftsails Racing Blade  8.6",
-    "sessionfin": "Finish Speed Slalom  37",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=380937&uid=23642"
-  },
-  {
-    "rowid": "6",
+    "rowid": "8",
     "event_id": 730,
     "eventname": "Surf like a dude Zuidlaardermeer Speed Challenge 2022",
     "speed": 31.985892000000003,
@@ -96,7 +128,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=384830&uid=25848"
   },
   {
-    "rowid": "7",
+    "rowid": "9",
     "event_id": 730,
     "eventname": "Surf like a dude Zuidlaardermeer Speed Challenge 2022",
     "speed": 31.719203999999998,
@@ -112,7 +144,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=380606&uid=23407"
   },
   {
-    "rowid": "8",
+    "rowid": "10",
     "event_id": 730,
     "eventname": "Surf like a dude Zuidlaardermeer Speed Challenge 2022",
     "speed": 31.574748,
@@ -128,23 +160,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=381001&uid=22984"
   },
   {
-    "rowid": "9",
-    "event_id": 730,
-    "eventname": "Surf like a dude Zuidlaardermeer Speed Challenge 2022",
-    "speed": 31.230276,
-    "type": "speed_halfhour",
-    "username": "Bert Bodde",
-    "ageclass": "Grand Master (51-60)",
-    "weightclass": "81-90",
-    "sexe": "Men",
-    "spotname": "Zuidlaardermeer",
-    "sessionboard": "AV Modena Slalom 72,5",
-    "sessionsail": "Point-7 AC-ONE  8.6",
-    "sessionfin": "Sonntag Fins GPS-6  36",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=384834&uid=20514"
-  },
-  {
-    "rowid": "10",
+    "rowid": "11",
     "event_id": 730,
     "eventname": "Surf like a dude Zuidlaardermeer Speed Challenge 2022",
     "speed": 28.117064000000003,
@@ -158,22 +174,6 @@
     "sessionsail": "Loft Sails Racingblade  7.8",
     "sessionfin": "Zulu Shaka  36",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=382330&uid=7440"
-  },
-  {
-    "rowid": "11",
-    "event_id": 730,
-    "eventname": "Surf like a dude Zuidlaardermeer Speed Challenge 2022",
-    "speed": 27.315148,
-    "type": "speed_halfhour",
-    "username": "Martijn Mobach",
-    "ageclass": "Grand Master (51-60)",
-    "weightclass": "81-90",
-    "sexe": "Men",
-    "spotname": "Zuidlaardermeer",
-    "sessionboard": "Starboard Isonic 107 UltraCore Reflex Carbon",
-    "sessionsail": "Severne Mach2  7.0",
-    "sessionfin": "Finish Fast speed/ slalom  30",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=374348&uid=4690"
   },
   {
     "rowid": "12",

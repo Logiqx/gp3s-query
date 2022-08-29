@@ -19,6 +19,22 @@
     "rowid": "2",
     "event_id": 692,
     "eventname": "Surf like a dude Zuidlaardermeer speed challenge 2021",
+    "speed": 35.015764000000004,
+    "type": "speed_halfhour",
+    "username": "Tim Heeringa",
+    "ageclass": "Master (36-50)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Lauwersmeer",
+    "sessionboard": "AHD GT 75",
+    "sessionsail": "S2 Maui Venom  8.4",
+    "sessionfin": "Finish Speed Slalom  37",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=391471&uid=23642"
+  },
+  {
+    "rowid": "3",
+    "event_id": 692,
+    "eventname": "Surf like a dude Zuidlaardermeer speed challenge 2021",
     "speed": 34.191624000000004,
     "type": "speed_halfhour",
     "username": "Richard Hilgers",
@@ -32,7 +48,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=375141&uid=24414"
   },
   {
-    "rowid": "3",
+    "rowid": "4",
     "event_id": 692,
     "eventname": "Surf like a dude Zuidlaardermeer speed challenge 2021",
     "speed": 33.185988,
@@ -46,22 +62,6 @@
     "sessionsail": "Severne OverdriveR8  7.0",
     "sessionfin": "not defined -  0",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=382861&uid=24370"
-  },
-  {
-    "rowid": "4",
-    "event_id": 692,
-    "eventname": "Surf like a dude Zuidlaardermeer speed challenge 2021",
-    "speed": 33.073016,
-    "type": "speed_halfhour",
-    "username": "Tim Heeringa",
-    "ageclass": "Master (36-50)",
-    "weightclass": "81-90",
-    "sexe": "Men",
-    "spotname": "Zuidlaardermeer",
-    "sessionboard": "AHD GT 75",
-    "sessionsail": "Loftsails Racing Blade  8.6",
-    "sessionfin": "Finish Speed Slalom  37",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=380937&uid=23642"
   },
   {
     "rowid": "5",

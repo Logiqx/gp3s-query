@@ -83,22 +83,6 @@
     "rowid": "6",
     "event_id": 737,
     "eventname": "2022 Spanish Speed Challenge",
-    "speed": 41.788528,
-    "type": "speed_alpha_racing",
-    "username": "Brendan Lorho",
-    "ageclass": "Junior plus (15-18)",
-    "weightclass": "61-70",
-    "sexe": "Men",
-    "spotname": "El Medano",
-    "sessionboard": "FMX Invictus 88",
-    "sessionsail": "Point-7 AC1  5.6",
-    "sessionfin": "Z-fins Zfins  32",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=376412&uid=24609"
-  },
-  {
-    "rowid": "7",
-    "event_id": 737,
-    "eventname": "2022 Spanish Speed Challenge",
     "speed": 41.09588,
     "type": "speed_alpha_racing",
     "username": "Ra\u00fal Mart\u00ednez Alvarez",
@@ -112,7 +96,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=383859&uid=23628"
   },
   {
-    "rowid": "8",
+    "rowid": "7",
     "event_id": 737,
     "eventname": "2022 Spanish Speed Challenge",
     "speed": 40.897715999999996,
@@ -128,7 +112,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=376545&uid=3923"
   },
   {
-    "rowid": "9",
+    "rowid": "8",
     "event_id": 737,
     "eventname": "2022 Spanish Speed Challenge",
     "speed": 39.799479999999996,
@@ -144,7 +128,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=376463&uid=23714"
   },
   {
-    "rowid": "10",
+    "rowid": "9",
     "event_id": 737,
     "eventname": "2022 Spanish Speed Challenge",
     "speed": 39.164244,
@@ -160,7 +144,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=376923&uid=25589"
   },
   {
-    "rowid": "11",
+    "rowid": "10",
     "event_id": 737,
     "eventname": "2022 Spanish Speed Challenge",
     "speed": 39.00312,
@@ -176,7 +160,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=377725&uid=22332"
   },
   {
-    "rowid": "12",
+    "rowid": "11",
     "event_id": 737,
     "eventname": "2022 Spanish Speed Challenge",
     "speed": 38.636424,
@@ -192,7 +176,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=385407&uid=13637"
   },
   {
-    "rowid": "13",
+    "rowid": "12",
     "event_id": 737,
     "eventname": "2022 Spanish Speed Challenge",
     "speed": 38.608644000000005,
@@ -208,7 +192,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=378704&uid=2357"
   },
   {
-    "rowid": "14",
+    "rowid": "13",
     "event_id": 737,
     "eventname": "2022 Spanish Speed Challenge",
     "speed": 38.047488,
@@ -222,6 +206,22 @@
     "sessionsail": "RRD X-Wing Y25  5.6",
     "sessionfin": "Hurricane SS 3 M-  32",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=378601&uid=16746"
+  },
+  {
+    "rowid": "14",
+    "event_id": 737,
+    "eventname": "2022 Spanish Speed Challenge",
+    "speed": 37.399288,
+    "type": "speed_alpha_racing",
+    "username": "Brendan Lorho",
+    "ageclass": "Junior plus (15-18)",
+    "weightclass": "61-70",
+    "sexe": "Men",
+    "spotname": "Brouwersdam - Zeezijde",
+    "sessionboard": "FMX Invictus 108",
+    "sessionsail": "Point-7 AC1  7.1",
+    "sessionfin": "Z-fins SLM S-  33",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=391745&uid=24609"
   },
   {
     "rowid": "15",

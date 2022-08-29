@@ -227,6 +227,22 @@
     "rowid": "15",
     "event_id": 737,
     "eventname": "2022 Spanish Speed Challenge",
+    "speed": 62.21794,
+    "type": "speed_2sec",
+    "username": "Anne Schindler",
+    "ageclass": "Master (36-50)",
+    "weightclass": "71-80",
+    "sexe": "Woman",
+    "spotname": "Gran Canaria, Bah\u00eda de Formas (Salinas de Arinaga)",
+    "sessionboard": "Starboard I-Sonic Speed 54",
+    "sessionsail": "Severne Mach 2  5.5",
+    "sessionfin": "Zulu Shaka  25",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=391707&uid=16739"
+  },
+  {
+    "rowid": "16",
+    "event_id": 737,
+    "eventname": "2022 Spanish Speed Challenge",
     "speed": 62.179048,
     "type": "speed_2sec",
     "username": "Alberto Marugan",
@@ -238,22 +254,6 @@
     "sessionsail": "Duotone Warp Fin  8.4",
     "sessionfin": "Z-fins SLM S-   45",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=381739&uid=25183"
-  },
-  {
-    "rowid": "16",
-    "event_id": 737,
-    "eventname": "2022 Spanish Speed Challenge",
-    "speed": 61.6716,
-    "type": "speed_2sec",
-    "username": "Anne Schindler",
-    "ageclass": "Master (36-50)",
-    "weightclass": "71-80",
-    "sexe": "Woman",
-    "spotname": "Gran Canaria, Bah\u00eda de Formas (Salinas de Arinaga)",
-    "sessionboard": "AV Modena Speed 52",
-    "sessionsail": "Severne Mach3 Luderitz Special   5.0",
-    "sessionfin": "Custom ZULU  28",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=378747&uid=16739"
   },
   {
     "rowid": "17",
@@ -275,22 +275,6 @@
     "rowid": "18",
     "event_id": 737,
     "eventname": "2022 Spanish Speed Challenge",
-    "speed": 60.095548,
-    "type": "speed_2sec",
-    "username": "Brendan Lorho",
-    "ageclass": "Junior plus (15-18)",
-    "weightclass": "61-70",
-    "sexe": "Men",
-    "spotname": "El Medano",
-    "sessionboard": "FMX Invictus 88",
-    "sessionsail": "Point-7 AC1  5.6",
-    "sessionfin": "Z-fins Zfins  32",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=376412&uid=24609"
-  },
-  {
-    "rowid": "19",
-    "event_id": 737,
-    "eventname": "2022 Spanish Speed Challenge",
     "speed": 58.15094800000001,
     "type": "speed_2sec",
     "username": "Ancor Yeray Jim\u00e9nez",
@@ -304,7 +288,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389102&uid=23336"
   },
   {
-    "rowid": "20",
+    "rowid": "19",
     "event_id": 737,
     "eventname": "2022 Spanish Speed Challenge",
     "speed": 57.3194,
@@ -320,7 +304,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=385147&uid=22584"
   },
   {
-    "rowid": "21",
+    "rowid": "20",
     "event_id": 737,
     "eventname": "2022 Spanish Speed Challenge",
     "speed": 56.10634,
@@ -334,6 +318,22 @@
     "sessionsail": "Duotone Warp F2019  8.4",
     "sessionfin": "Z-fins sf  46",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=385433&uid=22002"
+  },
+  {
+    "rowid": "21",
+    "event_id": 737,
+    "eventname": "2022 Spanish Speed Challenge",
+    "speed": 55.593336,
+    "type": "speed_2sec",
+    "username": "Brendan Lorho",
+    "ageclass": "Junior plus (15-18)",
+    "weightclass": "61-70",
+    "sexe": "Men",
+    "spotname": "Brouwersdam - Zeezijde",
+    "sessionboard": "FMX Invictus 108",
+    "sessionsail": "Point-7 AC1  7.1",
+    "sessionfin": "Z-fins SLM S-  33",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=391745&uid=24609"
   },
   {
     "rowid": "22",

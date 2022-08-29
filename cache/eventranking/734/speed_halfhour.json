@@ -99,6 +99,22 @@
     "rowid": "7",
     "event_id": 734,
     "eventname": "World Speed Tour - GPS POS 2022 ",
+    "speed": 36.362168000000004,
+    "type": "speed_halfhour",
+    "username": "Rolf de Ruiter",
+    "ageclass": "Senior (19-35)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Markermeer - Lelystad Haven ",
+    "sessionboard": "AV Modena Slalom 72,5",
+    "sessionsail": "Point-7 AC-ONE  7.8",
+    "sessionfin": "Tribal Fin Slalom MK2  38",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=391588&uid=2352"
+  },
+  {
+    "rowid": "8",
+    "event_id": 734,
+    "eventname": "World Speed Tour - GPS POS 2022 ",
     "speed": 33.574908,
     "type": "speed_halfhour",
     "username": "Laurent Fesquet",
@@ -112,7 +128,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=382219&uid=4597"
   },
   {
-    "rowid": "8",
+    "rowid": "9",
     "event_id": 734,
     "eventname": "World Speed Tour - GPS POS 2022 ",
     "speed": 29.598664,
@@ -128,7 +144,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=391023&uid=2042"
   },
   {
-    "rowid": "9",
+    "rowid": "10",
     "event_id": 734,
     "eventname": "World Speed Tour - GPS POS 2022 ",
     "speed": 25.594640000000002,
@@ -144,7 +160,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389604&uid=19419"
   },
   {
-    "rowid": "10",
+    "rowid": "11",
     "event_id": 734,
     "eventname": "World Speed Tour - GPS POS 2022 ",
     "speed": 24.448252000000004,
@@ -160,7 +176,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=377957&uid=2343"
   },
   {
-    "rowid": "11",
+    "rowid": "12",
     "event_id": 734,
     "eventname": "World Speed Tour - GPS POS 2022 ",
     "speed": 24.420472,
@@ -174,22 +190,6 @@
     "sessionsail": "Challenger Sails PSL  7.4",
     "sessionfin": "Finish  Fast Speed  / B3  29",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=383385&uid=2035"
-  },
-  {
-    "rowid": "12",
-    "event_id": 734,
-    "eventname": "World Speed Tour - GPS POS 2022 ",
-    "speed": 21.642472,
-    "type": "speed_halfhour",
-    "username": "Rolf de Ruiter",
-    "ageclass": "Senior (19-35)",
-    "weightclass": "81-90",
-    "sexe": "Men",
-    "spotname": "La Palme - Plage du Rouet",
-    "sessionboard": "AV Speed proto 45",
-    "sessionsail": "Point-7 AC-ONE SPEED   5.0",
-    "sessionfin": "Tribal Fin Asy Speed Carbon 21 S  21",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=382223&uid=2352"
   },
   {
     "rowid": "13",

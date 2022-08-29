@@ -12010,5 +12010,31 @@
     "sessionsail": "Avanti Sails Machine M9 8.4,  2022",
     "sessionfin": "Gasoil Fins CHR-L soft  38",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=391377&uid=22618"
+  },
+  {
+    "session_id": 391403,
+    "session_date": "8/20/2022 12:00:00 AM",
+    "event_id": 732,
+    "eventname": "2022 DBO Speed Challenge",
+    "speed_avg": 38.3904784,
+    "speed_2sec": 39.629096000000004,
+    "speed_10sec": 39.56798,
+    "speed_100": 39.573536,
+    "speed_250": 39.266104000000006,
+    "speed_500": 38.510488,
+    "speed_mile": 18.670012,
+    "speed_hour": 9.804488,
+    "speed_halfhour": 12.678792000000001,
+    "speed_24hour": 0.0,
+    "speed_alpha_racing": 22.325860000000002,
+    "session_distance": 15.32754,
+    "username": "Jesper Holm",
+    "flag": "DK",
+    "sexe": "Men",
+    "spotname": "lunkenbugten (fyn)",
+    "sessionboard": "Seatrend All Star 70,  1999",
+    "sessionsail": "Loftsails Switchblade 6.3,  2016",
+    "sessionfin": "Z-fins Z-SLM  37",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=391403&uid=25250"
   }
 ]

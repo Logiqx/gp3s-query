@@ -67,6 +67,22 @@
     "rowid": "5",
     "event_id": 719,
     "eventname": "Norwegian speedmaster - 2022",
+    "speed": 49.544704,
+    "type": "speed_mile",
+    "username": "Jone Vikingstad",
+    "ageclass": "Master (36-50)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Vikingstad ",
+    "sessionboard": "Starboard Isonic 72 Carbon Reflex",
+    "sessionsail": "Severne Mach2  7.0",
+    "sessionfin": "Z-fins SL S-  37",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=391559&uid=3925"
+  },
+  {
+    "rowid": "6",
+    "event_id": 719,
+    "eventname": "Norwegian speedmaster - 2022",
     "speed": 48.598332,
     "type": "speed_mile",
     "username": "K\u00e5re Christoffer Vestrheim",
@@ -80,7 +96,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=380387&uid=24361"
   },
   {
-    "rowid": "6",
+    "rowid": "7",
     "event_id": 719,
     "eventname": "Norwegian speedmaster - 2022",
     "speed": 47.11488000000001,
@@ -94,22 +110,6 @@
     "sessionsail": "Neilpryde RS Racing Evo XI  8.6",
     "sessionfin": "Starboard Drake Slalom DW Ready to Race  44",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390285&uid=23280"
-  },
-  {
-    "rowid": "7",
-    "event_id": 719,
-    "eventname": "Norwegian speedmaster - 2022",
-    "speed": 46.955608,
-    "type": "speed_mile",
-    "username": "Jone Vikingstad",
-    "ageclass": "Master (36-50)",
-    "weightclass": "71-80",
-    "sexe": "Men",
-    "spotname": "Sola Flymuseum",
-    "sessionboard": "Starboard iSonic 63",
-    "sessionsail": "Severne Mach2  6.2",
-    "sessionfin": "Z-fins SL S-  32",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=383043&uid=3925"
   },
   {
     "rowid": "8",

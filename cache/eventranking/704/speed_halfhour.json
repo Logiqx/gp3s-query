@@ -3,7 +3,7 @@
     "rowid": "1",
     "event_id": 704,
     "eventname": "Schildmeer Speed Challenge 2021-2022",
-    "speed": 34.958352000000005,
+    "speed": 35.306528,
     "type": "speed_halfhour",
     "username": "Frans Werkman",
     "ageclass": "Super Master (61-70)",
@@ -13,7 +13,7 @@
     "sessionboard": "AV Modena 68",
     "sessionsail": "Severne Mach 4   7.8",
     "sessionfin": "Sonntag Fins SL-pro  36",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=391204&uid=5650"
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=391492&uid=5650"
   },
   {
     "rowid": "2",
@@ -35,6 +35,22 @@
     "rowid": "3",
     "event_id": 704,
     "eventname": "Schildmeer Speed Challenge 2021-2022",
+    "speed": 33.452676,
+    "type": "speed_halfhour",
+    "username": "Bert Bodde",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "schildmeer",
+    "sessionboard": "Starboard iSonic Race Slalom 127 UltraCore Reflex Carbon",
+    "sessionsail": "Point-7 AC-ONE  8.6",
+    "sessionfin": "Sonntag Fins SL-X  44",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=391659&uid=20514"
+  },
+  {
+    "rowid": "4",
+    "event_id": 704,
+    "eventname": "Schildmeer Speed Challenge 2021-2022",
     "speed": 32.543344,
     "type": "speed_halfhour",
     "username": "Stijn Beks",
@@ -48,7 +64,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=378395&uid=25935"
   },
   {
-    "rowid": "4",
+    "rowid": "5",
     "event_id": 704,
     "eventname": "Schildmeer Speed Challenge 2021-2022",
     "speed": 32.184056000000005,
@@ -64,7 +80,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=382941&uid=15691"
   },
   {
-    "rowid": "5",
+    "rowid": "6",
     "event_id": 704,
     "eventname": "Schildmeer Speed Challenge 2021-2022",
     "speed": 31.748836000000004,
@@ -78,22 +94,6 @@
     "sessionsail": "Point-7 AC-One  7.8",
     "sessionfin": "King Fins Slalom  44",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=382421&uid=5376"
-  },
-  {
-    "rowid": "6",
-    "event_id": 704,
-    "eventname": "Schildmeer Speed Challenge 2021-2022",
-    "speed": 31.102488,
-    "type": "speed_halfhour",
-    "username": "Bert Bodde",
-    "ageclass": "Grand Master (51-60)",
-    "weightclass": "81-90",
-    "sexe": "Men",
-    "spotname": "schildmeer",
-    "sessionboard": "PATRIK Slalom ",
-    "sessionsail": "North Sails Warp F2017  7.7",
-    "sessionfin": "C3 Venom  36",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=367791&uid=20514"
   },
   {
     "rowid": "7",

@@ -35,22 +35,6 @@
     "rowid": "3",
     "event_id": 692,
     "eventname": "Surf like a dude Zuidlaardermeer speed challenge 2021",
-    "speed": 50.157716,
-    "type": "speed_mile",
-    "username": "Tim Heeringa",
-    "ageclass": "Master (36-50)",
-    "weightclass": "81-90",
-    "sexe": "Men",
-    "spotname": "Zuidlaardermeer",
-    "sessionboard": "AHD GT 75",
-    "sessionsail": "Loftsails Racing Blade  8.6",
-    "sessionfin": "Finish Speed Slalom  37",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=380937&uid=23642"
-  },
-  {
-    "rowid": "4",
-    "event_id": 692,
-    "eventname": "Surf like a dude Zuidlaardermeer speed challenge 2021",
     "speed": 50.087340000000005,
     "type": "speed_mile",
     "username": "Paul Poelman",
@@ -64,7 +48,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=361100&uid=23914"
   },
   {
-    "rowid": "5",
+    "rowid": "4",
     "event_id": 692,
     "eventname": "Surf like a dude Zuidlaardermeer speed challenge 2021",
     "speed": 48.06866,
@@ -78,6 +62,22 @@
     "sessionsail": "S2 Maui Venom  6.9",
     "sessionfin": "Finish Fast 33 Speed/High  33",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=377234&uid=23407"
+  },
+  {
+    "rowid": "5",
+    "event_id": 692,
+    "eventname": "Surf like a dude Zuidlaardermeer speed challenge 2021",
+    "speed": 47.657516,
+    "type": "speed_mile",
+    "username": "Tim Heeringa",
+    "ageclass": "Master (36-50)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Lauwersmeer",
+    "sessionboard": "AHD GT 75",
+    "sessionsail": "S2 Maui Venom  8.4",
+    "sessionfin": "Finish Speed Slalom  37",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=391471&uid=23642"
   },
   {
     "rowid": "6",
@@ -115,22 +115,6 @@
     "rowid": "8",
     "event_id": 692,
     "eventname": "Surf like a dude Zuidlaardermeer speed challenge 2021",
-    "speed": 45.837,
-    "type": "speed_mile",
-    "username": "Martin Koolma",
-    "ageclass": "Master (36-50)",
-    "weightclass": "71-80",
-    "sexe": "Men",
-    "spotname": "Zuidlaardermeer",
-    "sessionboard": "Starboard  iSonic 73 Carbon Reflex ",
-    "sessionsail": "Severne Overdrive M1  7.8",
-    "sessionfin": "Select Vmax 4.0  37",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=382868&uid=23610"
-  },
-  {
-    "rowid": "9",
-    "event_id": 692,
-    "eventname": "Surf like a dude Zuidlaardermeer speed challenge 2021",
     "speed": 45.646244,
     "type": "speed_mile",
     "username": "Jeroen Helmers",
@@ -144,7 +128,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=382691&uid=184"
   },
   {
-    "rowid": "10",
+    "rowid": "9",
     "event_id": 692,
     "eventname": "Surf like a dude Zuidlaardermeer speed challenge 2021",
     "speed": 44.940632,
@@ -160,7 +144,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=374311&uid=24370"
   },
   {
-    "rowid": "11",
+    "rowid": "10",
     "event_id": 692,
     "eventname": "Surf like a dude Zuidlaardermeer speed challenge 2021",
     "speed": 43.910920000000004,
@@ -176,7 +160,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=363072&uid=16865"
   },
   {
-    "rowid": "12",
+    "rowid": "11",
     "event_id": 692,
     "eventname": "Surf like a dude Zuidlaardermeer speed challenge 2021",
     "speed": 43.51274,
@@ -192,7 +176,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=382330&uid=7440"
   },
   {
-    "rowid": "13",
+    "rowid": "12",
     "event_id": 692,
     "eventname": "Surf like a dude Zuidlaardermeer speed challenge 2021",
     "speed": 43.394212,
@@ -208,7 +192,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=382707&uid=24904"
   },
   {
-    "rowid": "14",
+    "rowid": "13",
     "event_id": 692,
     "eventname": "Surf like a dude Zuidlaardermeer speed challenge 2021",
     "speed": 42.986772,
@@ -224,7 +208,39 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=388807&uid=25848"
   },
   {
+    "rowid": "14",
+    "event_id": 692,
+    "eventname": "Surf like a dude Zuidlaardermeer speed challenge 2021",
+    "speed": 42.218192,
+    "type": "speed_mile",
+    "username": "Marleen Boer",
+    "ageclass": "Master (36-50)",
+    "weightclass": "61-70",
+    "sexe": "Woman",
+    "spotname": "Waddenzee, Peasens/Moddergat",
+    "sessionboard": "Starboard iSonic 63",
+    "sessionsail": "Severne Mach5  7.0",
+    "sessionfin": "Bugfins Slem  32",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=391655&uid=24486"
+  },
+  {
     "rowid": "15",
+    "event_id": 692,
+    "eventname": "Surf like a dude Zuidlaardermeer speed challenge 2021",
+    "speed": 41.555176,
+    "type": "speed_mile",
+    "username": "Martin Koolma",
+    "ageclass": "Master (36-50)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Lauwersmeer",
+    "sessionboard": "JP Slalom IX 84 V135",
+    "sessionsail": "Severne Overdrive M1  9.4",
+    "sessionfin": "Z-fins SLM S-  45",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=391534&uid=23610"
+  },
+  {
+    "rowid": "16",
     "event_id": 692,
     "eventname": "Surf like a dude Zuidlaardermeer speed challenge 2021",
     "speed": 26.578052000000003,
@@ -238,22 +254,6 @@
     "sessionsail": "Tushingham X15  8.3",
     "sessionfin": "Custom Person/Agesen  26",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=363444&uid=18014"
-  },
-  {
-    "rowid": "16",
-    "event_id": 692,
-    "eventname": "Surf like a dude Zuidlaardermeer speed challenge 2021",
-    "speed": 16.249447999999997,
-    "type": "speed_mile",
-    "username": "Marleen Boer",
-    "ageclass": "Master (36-50)",
-    "weightclass": "61-70",
-    "sexe": "Woman",
-    "spotname": "Zuidlaardermeer",
-    "sessionboard": "Starboard iSonic 63",
-    "sessionsail": "Severne Mach 4  7.0",
-    "sessionfin": "Bugfins Slem  35",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=377158&uid=24486"
   },
   {
     "rowid": "17",

@@ -1194,5 +1194,31 @@
     "sessionsail": "Demon Design C4 Slalom/Speed 8.2,  2008",
     "sessionfin": "Deboichet Concept Slalom  32",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390981&uid=3855"
+  },
+  {
+    "session_id": 391643,
+    "session_date": "8/27/2022 12:00:00 AM",
+    "event_id": 731,
+    "eventname": "Wurster ONE hour",
+    "speed_avg": 47.924204,
+    "speed_2sec": 52.085648,
+    "speed_10sec": 50.991116000000005,
+    "speed_100": 51.385592,
+    "speed_250": 50.618864,
+    "speed_500": 48.681672000000006,
+    "speed_mile": 40.501388,
+    "speed_hour": 14.517828000000002,
+    "speed_halfhour": 17.644004,
+    "speed_24hour": 0.0,
+    "speed_alpha_racing": 34.61388,
+    "session_distance": 14.517372,
+    "username": "Paul Stich",
+    "flag": "DE",
+    "sexe": "Men",
+    "spotname": "Skaven Strand Ringkobing Fjord",
+    "sessionboard": "Tabou Manta 69 PRO TE,  2011",
+    "sessionsail": "Gun Sails GSR 7.1,  2019",
+    "sessionfin": "Lessacher Rake 30  35",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=391643&uid=10607"
   }
 ]

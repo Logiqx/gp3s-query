@@ -67,17 +67,17 @@
     "rowid": "5",
     "event_id": 692,
     "eventname": "Surf like a dude Zuidlaardermeer speed challenge 2021",
-    "speed": 37.247423999999995,
+    "speed": 36.925176,
     "type": "speed_alpha_racing",
     "username": "Martin Koolma",
     "ageclass": "Master (36-50)",
     "weightclass": "71-80",
     "sexe": "Men",
-    "spotname": "Zuidlaardermeer",
-    "sessionboard": "Starboard iSonic 72 Carbon Reflex ",
-    "sessionsail": "Severne Overdrive M1  7.8",
-    "sessionfin": "Z-fins SLM S-  37",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=367808&uid=23610"
+    "spotname": "Lauwersmeer",
+    "sessionboard": "JP Slalom IX 84 V135",
+    "sessionsail": "Severne Overdrive M1  9.4",
+    "sessionfin": "Z-fins SLM S-  45",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=391534&uid=23610"
   },
   {
     "rowid": "6",
@@ -227,6 +227,22 @@
     "rowid": "15",
     "event_id": 692,
     "eventname": "Surf like a dude Zuidlaardermeer speed challenge 2021",
+    "speed": 26.18728,
+    "type": "speed_alpha_racing",
+    "username": "Marleen Boer",
+    "ageclass": "Master (36-50)",
+    "weightclass": "61-70",
+    "sexe": "Woman",
+    "spotname": "Lauwersmeer",
+    "sessionboard": "Starboard iSonic Carbon Reflex",
+    "sessionsail": "Severne Mach 5  7.8",
+    "sessionfin": "Gasoil Fins Chr-m  365",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=391521&uid=24486"
+  },
+  {
+    "rowid": "16",
+    "event_id": 692,
+    "eventname": "Surf like a dude Zuidlaardermeer speed challenge 2021",
     "speed": 19.234872,
     "type": "speed_alpha_racing",
     "username": "Pieter van Wijngaarden",
@@ -240,7 +256,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=363444&uid=18014"
   },
   {
-    "rowid": "16",
+    "rowid": "17",
     "event_id": 692,
     "eventname": "Surf like a dude Zuidlaardermeer speed challenge 2021",
     "speed": 17.438432000000002,
@@ -254,22 +270,6 @@
     "sessionsail": "Gaastra Vapor  7.1",
     "sessionfin": "Select V.max  37",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=370953&uid=24607"
-  },
-  {
-    "rowid": "17",
-    "event_id": 692,
-    "eventname": "Surf like a dude Zuidlaardermeer speed challenge 2021",
-    "speed": 14.614132000000001,
-    "type": "speed_alpha_racing",
-    "username": "Marleen Boer",
-    "ageclass": "Master (36-50)",
-    "weightclass": "61-70",
-    "sexe": "Woman",
-    "spotname": "Zuidlaardermeer",
-    "sessionboard": "Starboard iSonic 63",
-    "sessionsail": "Severne Mach 4  7.0",
-    "sessionfin": "Bugfins Slem  35",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=377158&uid=24486"
   },
   {
     "rowid": "18",
