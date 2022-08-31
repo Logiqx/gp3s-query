@@ -83,6 +83,38 @@
     "rowid": "6",
     "event_id": 739,
     "eventname": "2022 Estonian Speed King",
+    "speed": 32.513712000000005,
+    "type": "speed_hour",
+    "username": "Aivo Pr\u00fckk",
+    "ageclass": "Master (36-50)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Saadj\u00e4rv",
+    "sessionboard": "Starboard Isonic 107 Carbon",
+    "sessionsail": "Gun Sails GSR  7.8",
+    "sessionfin": "Z-fins SL S-  39",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=391915&uid=4579"
+  },
+  {
+    "rowid": "7",
+    "event_id": 739,
+    "eventname": "2022 Estonian Speed King",
+    "speed": 32.513712000000005,
+    "type": "speed_hour",
+    "username": "Aivo Pr\u00fckk",
+    "ageclass": "Master (36-50)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Saadj\u00e4rv",
+    "sessionboard": "Starboard Isonic 107 Carbon",
+    "sessionsail": "Gun Sails GSR  7.8",
+    "sessionfin": "Z-fins SL S-  39",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=391915&uid=4579"
+  },
+  {
+    "rowid": "8",
+    "event_id": 739,
+    "eventname": "2022 Estonian Speed King",
     "speed": 31.245092,
     "type": "speed_hour",
     "username": "Cerly Aulik",
@@ -96,7 +128,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=387486&uid=22317"
   },
   {
-    "rowid": "7",
+    "rowid": "9",
     "event_id": 739,
     "eventname": "2022 Estonian Speed King",
     "speed": 31.139528000000002,
@@ -112,7 +144,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389163&uid=24440"
   },
   {
-    "rowid": "8",
+    "rowid": "10",
     "event_id": 739,
     "eventname": "2022 Estonian Speed King",
     "speed": 30.235752,
@@ -128,23 +160,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=385072&uid=5112"
   },
   {
-    "rowid": "9",
-    "event_id": 739,
-    "eventname": "2022 Estonian Speed King",
-    "speed": 30.217232,
-    "type": "speed_hour",
-    "username": "Aivo Pr\u00fckk",
-    "ageclass": "Master (36-50)",
-    "weightclass": "81-90",
-    "sexe": "Men",
-    "spotname": "Saadj\u00e4rv",
-    "sessionboard": "Starboard Isonic 107 Carbon",
-    "sessionsail": "Gun Sails GSR  7.8",
-    "sessionfin": "Z-fins SL S-  39",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=387469&uid=4579"
-  },
-  {
-    "rowid": "10",
+    "rowid": "11",
     "event_id": 739,
     "eventname": "2022 Estonian Speed King",
     "speed": 29.857944,
@@ -160,7 +176,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386862&uid=24448"
   },
   {
-    "rowid": "11",
+    "rowid": "12",
     "event_id": 739,
     "eventname": "2022 Estonian Speed King",
     "speed": 29.356052000000002,
@@ -176,7 +192,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=385110&uid=20524"
   },
   {
-    "rowid": "12",
+    "rowid": "13",
     "event_id": 739,
     "eventname": "2022 Estonian Speed King",
     "speed": 27.672584,
@@ -192,7 +208,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=385243&uid=24430"
   },
   {
-    "rowid": "13",
+    "rowid": "14",
     "event_id": 739,
     "eventname": "2022 Estonian Speed King",
     "speed": 25.653904,
@@ -208,7 +224,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390654&uid=23316"
   },
   {
-    "rowid": "14",
+    "rowid": "15",
     "event_id": 739,
     "eventname": "2022 Estonian Speed King",
     "speed": 25.496484,
@@ -224,7 +240,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=385362&uid=3878"
   },
   {
-    "rowid": "15",
+    "rowid": "16",
     "event_id": 739,
     "eventname": "2022 Estonian Speed King",
     "speed": 21.736924000000002,
@@ -240,7 +256,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386281&uid=24311"
   },
   {
-    "rowid": "16",
+    "rowid": "17",
     "event_id": 739,
     "eventname": "2022 Estonian Speed King",
     "speed": 20.877596,
@@ -256,7 +272,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=381273&uid=5024"
   },
   {
-    "rowid": "17",
+    "rowid": "18",
     "event_id": 739,
     "eventname": "2022 Estonian Speed King",
     "speed": 14.780812000000001,
@@ -272,7 +288,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=379597&uid=4023"
   },
   {
-    "rowid": "18",
+    "rowid": "19",
     "event_id": 739,
     "eventname": "2022 Estonian Speed King",
     "speed": 4.41702,

@@ -3,20 +3,36 @@
     "rowid": "1",
     "event_id": 704,
     "eventname": "Schildmeer Speed Challenge 2021-2022",
-    "speed": 49.76324,
+    "speed": 40.708812,
     "type": "speed_alpha_racing",
     "username": "Alwin Visker",
     "ageclass": "Grand Master (51-60)",
     "weightclass": "91-100",
     "sexe": "Men",
-    "spotname": "Lauwersmeer",
-    "sessionboard": "AV Modena Slalom 77",
-    "sessionsail": "Point-7 AC1  9.2",
-    "sessionfin": "- Chopper CHC  43",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=391501&uid=15697"
+    "spotname": "schildmeer",
+    "sessionboard": "AV Modena Slalom 72,5",
+    "sessionsail": "Point-7 AC1  7.8",
+    "sessionfin": "Finish Fast speed  36",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=374223&uid=15697"
   },
   {
     "rowid": "2",
+    "event_id": 704,
+    "eventname": "Schildmeer Speed Challenge 2021-2022",
+    "speed": 38.888296000000004,
+    "type": "speed_alpha_racing",
+    "username": "Hans Prins",
+    "ageclass": "Master (36-50)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "schildmeer",
+    "sessionboard": "Starboard iSonic Carbon Reflex 83",
+    "sessionsail": "Point-7 AC-One  7.8",
+    "sessionfin": "King Fins Slalom  44",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=382421&uid=5376"
+  },
+  {
+    "rowid": "3",
     "event_id": 704,
     "eventname": "Schildmeer Speed Challenge 2021-2022",
     "speed": 37.762280000000004,
@@ -32,7 +48,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=388689&uid=3874"
   },
   {
-    "rowid": "3",
+    "rowid": "4",
     "event_id": 704,
     "eventname": "Schildmeer Speed Challenge 2021-2022",
     "speed": 37.386324,
@@ -48,7 +64,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=391659&uid=20514"
   },
   {
-    "rowid": "4",
+    "rowid": "5",
     "event_id": 704,
     "eventname": "Schildmeer Speed Challenge 2021-2022",
     "speed": 36.54922,
@@ -62,22 +78,6 @@
     "sessionsail": "Point-7 AC1  7.8",
     "sessionfin": "iFins Fight Club  38",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=382126&uid=22320"
-  },
-  {
-    "rowid": "5",
-    "event_id": 704,
-    "eventname": "Schildmeer Speed Challenge 2021-2022",
-    "speed": 35.971396,
-    "type": "speed_alpha_racing",
-    "username": "Hans Prins",
-    "ageclass": "Master (36-50)",
-    "weightclass": "81-90",
-    "sexe": "Men",
-    "spotname": "Lauwersmeer",
-    "sessionboard": "Starboard iSonic Carbon Reflex 83",
-    "sessionsail": "Point-7 AC-One  8.6",
-    "sessionfin": "King Fins Slalom  44",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=391508&uid=5376"
   },
   {
     "rowid": "6",

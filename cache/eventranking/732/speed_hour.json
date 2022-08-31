@@ -67,6 +67,22 @@
     "rowid": "5",
     "event_id": 732,
     "eventname": "2022 DBO Speed Challenge",
+    "speed": 37.643752000000006,
+    "type": "speed_hour",
+    "username": "Kim Sorensen",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "61-70",
+    "sexe": "Men",
+    "spotname": "Knebel Vig",
+    "sessionboard": "PATRIK Slalom 115",
+    "sessionsail": "Avanti Sails Machine M9  7.7",
+    "sessionfin": "Gasoil Fins CHR-L medium  36",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=391823&uid=22618"
+  },
+  {
+    "rowid": "6",
+    "event_id": 732,
+    "eventname": "2022 DBO Speed Challenge",
     "speed": 37.286316,
     "type": "speed_hour",
     "username": "Peter L Rasmussen",
@@ -78,22 +94,6 @@
     "sessionsail": "Point-7 AC1  7.8",
     "sessionfin": "Maui Ultra Fins Slalom Pro Carbon  38",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=379984&uid=26059"
-  },
-  {
-    "rowid": "6",
-    "event_id": 732,
-    "eventname": "2022 DBO Speed Challenge",
-    "speed": 36.05844,
-    "type": "speed_hour",
-    "username": "Kim Sorensen",
-    "ageclass": "Grand Master (51-60)",
-    "weightclass": "61-70",
-    "sexe": "Men",
-    "spotname": "Knebel Vig",
-    "sessionboard": "RRD X-Fire LTD V6 105",
-    "sessionsail": "Avanti Sails Machine M9  7.7",
-    "sessionfin": "Gasoil Fins CHR-L soft  36",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=381913&uid=22618"
   },
   {
     "rowid": "7",
@@ -395,8 +395,8 @@
     "sexe": "Men",
     "spotname": "Veddelev",
     "sessionboard": "Starboard Foil 177",
-    "sessionsail": "Gun Sails Raise  8.0",
-    "sessionfin": "Bugfins Racefoil  850",
+    "sessionsail": "Gun Sails Raise  7.0",
+    "sessionfin": "Bugfins SLEM  31",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=391092&uid=1203"
   },
   {

@@ -67,22 +67,6 @@
     "rowid": "5",
     "event_id": 737,
     "eventname": "2022 Spanish Speed Challenge",
-    "speed": 74.87636,
-    "type": "speed_2sec",
-    "username": "Enrique del valle",
-    "ageclass": "Master (36-50)",
-    "weightclass": "81-90",
-    "sexe": "Men",
-    "spotname": "La Palme - Plage du Rouet",
-    "sessionboard": "JP Speed proto 45",
-    "sessionsail": "KA Sails Race  5.2",
-    "sessionfin": "Tribal Fin ASY Speed Carbon  21",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=391053&uid=23714"
-  },
-  {
-    "rowid": "6",
-    "event_id": 737,
-    "eventname": "2022 Spanish Speed Challenge",
     "speed": 73.576256,
     "type": "speed_2sec",
     "username": "Ra\u00fal Mart\u00ednez Alvarez",
@@ -96,7 +80,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=377433&uid=23628"
   },
   {
-    "rowid": "7",
+    "rowid": "6",
     "event_id": 737,
     "eventname": "2022 Spanish Speed Challenge",
     "speed": 73.32808800000001,
@@ -112,7 +96,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386298&uid=6023"
   },
   {
-    "rowid": "8",
+    "rowid": "7",
     "event_id": 737,
     "eventname": "2022 Spanish Speed Challenge",
     "speed": 72.97620800000001,
@@ -128,7 +112,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=378059&uid=22332"
   },
   {
-    "rowid": "9",
+    "rowid": "8",
     "event_id": 737,
     "eventname": "2022 Spanish Speed Challenge",
     "speed": 70.711212,
@@ -142,6 +126,22 @@
     "sessionsail": "North Sails warp   5.7",
     "sessionfin": "Sonntag Fins GPS 6  29",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=387393&uid=22828"
+  },
+  {
+    "rowid": "9",
+    "event_id": 737,
+    "eventname": "2022 Spanish Speed Challenge",
+    "speed": 70.20376399999999,
+    "type": "speed_2sec",
+    "username": "Enrique del valle",
+    "ageclass": "Master (36-50)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Tarifa, Campo de football",
+    "sessionboard": "PATRIK Speed 53",
+    "sessionsail": "Neilpryde EVO XII  5.8",
+    "sessionfin": "Tribal Fin ASY Speed Carbon   23",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=384571&uid=23714"
   },
   {
     "rowid": "10",
@@ -275,6 +275,22 @@
     "rowid": "18",
     "event_id": 737,
     "eventname": "2022 Spanish Speed Challenge",
+    "speed": 60.095548,
+    "type": "speed_2sec",
+    "username": "Brendan Lorho",
+    "ageclass": "Junior plus (15-18)",
+    "weightclass": "61-70",
+    "sexe": "Men",
+    "spotname": "El Medano",
+    "sessionboard": "FMX Invictus 88",
+    "sessionsail": "Point-7 AC1  5.6",
+    "sessionfin": "Z-fins Zfins  32",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=376412&uid=24609"
+  },
+  {
+    "rowid": "19",
+    "event_id": 737,
+    "eventname": "2022 Spanish Speed Challenge",
     "speed": 58.15094800000001,
     "type": "speed_2sec",
     "username": "Ancor Yeray Jim\u00e9nez",
@@ -288,7 +304,23 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389102&uid=23336"
   },
   {
-    "rowid": "19",
+    "rowid": "20",
+    "event_id": 737,
+    "eventname": "2022 Spanish Speed Challenge",
+    "speed": 57.86574,
+    "type": "speed_2sec",
+    "username": "Philipp Trefil",
+    "ageclass": "Master (36-50)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Fuerteventura, Risco del Paso",
+    "sessionboard": "Starboard Isonic Carbon Reflex 67",
+    "sessionsail": "Severne Mach 1  5.5",
+    "sessionfin": "F2 sx xs 30 cnc foiled  30",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386571&uid=25589"
+  },
+  {
+    "rowid": "21",
     "event_id": 737,
     "eventname": "2022 Spanish Speed Challenge",
     "speed": 57.3194,
@@ -304,7 +336,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=385147&uid=22584"
   },
   {
-    "rowid": "20",
+    "rowid": "22",
     "event_id": 737,
     "eventname": "2022 Spanish Speed Challenge",
     "speed": 56.10634,
@@ -320,23 +352,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=385433&uid=22002"
   },
   {
-    "rowid": "21",
-    "event_id": 737,
-    "eventname": "2022 Spanish Speed Challenge",
-    "speed": 55.593336,
-    "type": "speed_2sec",
-    "username": "Brendan Lorho",
-    "ageclass": "Junior plus (15-18)",
-    "weightclass": "61-70",
-    "sexe": "Men",
-    "spotname": "Brouwersdam - Zeezijde",
-    "sessionboard": "FMX Invictus 108",
-    "sessionsail": "Point-7 AC1  7.1",
-    "sessionfin": "Z-fins SLM S-  33",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=391745&uid=24609"
-  },
-  {
-    "rowid": "22",
+    "rowid": "23",
     "event_id": 737,
     "eventname": "2022 Spanish Speed Challenge",
     "speed": 55.534072,
@@ -352,7 +368,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=377437&uid=24813"
   },
   {
-    "rowid": "23",
+    "rowid": "24",
     "event_id": 737,
     "eventname": "2022 Spanish Speed Challenge",
     "speed": 54.82475600000001,
@@ -368,7 +384,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386080&uid=25284"
   },
   {
-    "rowid": "24",
+    "rowid": "25",
     "event_id": 737,
     "eventname": "2022 Spanish Speed Challenge",
     "speed": 53.046836000000006,
@@ -382,21 +398,5 @@
     "sessionsail": "Loft Sails Racing Blade  7.8",
     "sessionfin": "Z-fins SLM S-  38",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=385619&uid=25290"
-  },
-  {
-    "rowid": "25",
-    "event_id": 737,
-    "eventname": "2022 Spanish Speed Challenge",
-    "speed": 52.02268,
-    "type": "speed_2sec",
-    "username": "Philipp Trefil",
-    "ageclass": "Master (36-50)",
-    "weightclass": "81-90",
-    "sexe": "Men",
-    "spotname": "Neusiedlersee",
-    "sessionboard": "Starboard Isonic 72 Carbon",
-    "sessionsail": "Severne Overdrive M4  7.0",
-    "sessionfin": "Tribal Fin Delta Sym Speed  22",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=391311&uid=25589"
   }
 ]

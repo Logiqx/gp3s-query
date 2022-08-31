@@ -19,6 +19,22 @@
     "rowid": "2",
     "event_id": 692,
     "eventname": "Surf like a dude Zuidlaardermeer speed challenge 2021",
+    "speed": 57.812032,
+    "type": "speed_500",
+    "username": "Tim Heeringa",
+    "ageclass": "Master (36-50)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Zuidlaardermeer",
+    "sessionboard": "Exocet RS 3",
+    "sessionsail": "S2 Maui Venom  7.0",
+    "sessionfin": "F-Hot RS-3  34",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=374289&uid=23642"
+  },
+  {
+    "rowid": "3",
+    "event_id": 692,
+    "eventname": "Surf like a dude Zuidlaardermeer speed challenge 2021",
     "speed": 57.712024,
     "type": "speed_500",
     "username": "Richard Hilgers",
@@ -32,7 +48,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=374301&uid=24414"
   },
   {
-    "rowid": "3",
+    "rowid": "4",
     "event_id": 692,
     "eventname": "Surf like a dude Zuidlaardermeer speed challenge 2021",
     "speed": 57.491636,
@@ -48,7 +64,23 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=374311&uid=24370"
   },
   {
-    "rowid": "4",
+    "rowid": "5",
+    "event_id": 692,
+    "eventname": "Surf like a dude Zuidlaardermeer speed challenge 2021",
+    "speed": 56.589712000000006,
+    "type": "speed_500",
+    "username": "Martin Koolma",
+    "ageclass": "Master (36-50)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Zuidlaardermeer",
+    "sessionboard": "Starboard iSonic 63",
+    "sessionsail": "Severne Mach 4  6.2",
+    "sessionfin": "Finish Speed/Slalom  32",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=358508&uid=23610"
+  },
+  {
+    "rowid": "6",
     "event_id": 692,
     "eventname": "Surf like a dude Zuidlaardermeer speed challenge 2021",
     "speed": 55.941512,
@@ -64,7 +96,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=382691&uid=184"
   },
   {
-    "rowid": "5",
+    "rowid": "7",
     "event_id": 692,
     "eventname": "Surf like a dude Zuidlaardermeer speed challenge 2021",
     "speed": 55.874840000000006,
@@ -80,7 +112,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=380996&uid=22984"
   },
   {
-    "rowid": "6",
+    "rowid": "8",
     "event_id": 692,
     "eventname": "Surf like a dude Zuidlaardermeer speed challenge 2021",
     "speed": 54.30249200000001,
@@ -96,23 +128,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=369311&uid=23407"
   },
   {
-    "rowid": "7",
-    "event_id": 692,
-    "eventname": "Surf like a dude Zuidlaardermeer speed challenge 2021",
-    "speed": 53.996912,
-    "type": "speed_500",
-    "username": "Tim Heeringa",
-    "ageclass": "Master (36-50)",
-    "weightclass": "81-90",
-    "sexe": "Men",
-    "spotname": "Lauwersmeer",
-    "sessionboard": "AHD GT 75",
-    "sessionsail": "S2 Maui Venom  8.4",
-    "sessionfin": "Finish Speed Slalom  37",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=391471&uid=23642"
-  },
-  {
-    "rowid": "8",
+    "rowid": "9",
     "event_id": 692,
     "eventname": "Surf like a dude Zuidlaardermeer speed challenge 2021",
     "speed": 53.687628000000004,
@@ -128,7 +144,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=361100&uid=23914"
   },
   {
-    "rowid": "9",
+    "rowid": "10",
     "event_id": 692,
     "eventname": "Surf like a dude Zuidlaardermeer speed challenge 2021",
     "speed": 53.054244,
@@ -144,7 +160,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=362389&uid=16865"
   },
   {
-    "rowid": "10",
+    "rowid": "11",
     "event_id": 692,
     "eventname": "Surf like a dude Zuidlaardermeer speed challenge 2021",
     "speed": 52.802372,
@@ -160,7 +176,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=380625&uid=25848"
   },
   {
-    "rowid": "11",
+    "rowid": "12",
     "event_id": 692,
     "eventname": "Surf like a dude Zuidlaardermeer speed challenge 2021",
     "speed": 52.472716,
@@ -176,7 +192,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=363740&uid=1343"
   },
   {
-    "rowid": "12",
+    "rowid": "13",
     "event_id": 692,
     "eventname": "Surf like a dude Zuidlaardermeer speed challenge 2021",
     "speed": 49.22616,
@@ -192,7 +208,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=379490&uid=7440"
   },
   {
-    "rowid": "13",
+    "rowid": "14",
     "event_id": 692,
     "eventname": "Surf like a dude Zuidlaardermeer speed challenge 2021",
     "speed": 47.124140000000004,
@@ -206,22 +222,6 @@
     "sessionsail": "North Sails Warp F2012  6.3",
     "sessionfin": "Zulu IKLWA  32",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=382707&uid=24904"
-  },
-  {
-    "rowid": "14",
-    "event_id": 692,
-    "eventname": "Surf like a dude Zuidlaardermeer speed challenge 2021",
-    "speed": 46.890788,
-    "type": "speed_500",
-    "username": "Martin Koolma",
-    "ageclass": "Master (36-50)",
-    "weightclass": "71-80",
-    "sexe": "Men",
-    "spotname": "Lauwersmeer",
-    "sessionboard": "JP Slalom IX 84 V135",
-    "sessionsail": "Severne Overdrive M1  9.4",
-    "sessionfin": "Z-fins SLM S-  45",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=391534&uid=23610"
   },
   {
     "rowid": "15",
@@ -243,17 +243,17 @@
     "rowid": "16",
     "event_id": 692,
     "eventname": "Surf like a dude Zuidlaardermeer speed challenge 2021",
-    "speed": 45.998124000000004,
+    "speed": 45.557348000000005,
     "type": "speed_500",
     "username": "Marleen Boer",
     "ageclass": "Master (36-50)",
     "weightclass": "61-70",
     "sexe": "Woman",
-    "spotname": "Waddenzee, Peasens/Moddergat",
+    "spotname": "Zuidlaardermeer",
     "sessionboard": "Starboard iSonic 63",
-    "sessionsail": "Severne Mach5  7.0",
+    "sessionsail": "Severne Mach4  6.2",
     "sessionfin": "Bugfins Slem  32",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=391655&uid=24486"
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=378316&uid=24486"
   },
   {
     "rowid": "17",
