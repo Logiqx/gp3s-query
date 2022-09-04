@@ -227,6 +227,22 @@
     "rowid": "15",
     "event_id": 692,
     "eventname": "Surf like a dude Zuidlaardermeer speed challenge 2021",
+    "speed": 53.400568,
+    "type": "speed_2sec",
+    "username": "Jelmer Vries",
+    "ageclass": "Master (36-50)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Zuidlaardermeer",
+    "sessionboard": "Starboard iSonic Carbon Reflex 107",
+    "sessionsail": "GA-sails Vapor   7.2",
+    "sessionfin": "Black Project Fins Type-S (black) Limited Edition  24",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=392360&uid=19368"
+  },
+  {
+    "rowid": "16",
+    "event_id": 692,
+    "eventname": "Surf like a dude Zuidlaardermeer speed challenge 2021",
     "speed": 50.742948000000005,
     "type": "speed_2sec",
     "username": "Andre Poelman",
@@ -240,7 +256,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=370953&uid=24607"
   },
   {
-    "rowid": "16",
+    "rowid": "17",
     "event_id": 692,
     "eventname": "Surf like a dude Zuidlaardermeer speed challenge 2021",
     "speed": 50.17994,
@@ -256,7 +272,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=378316&uid=24486"
   },
   {
-    "rowid": "17",
+    "rowid": "18",
     "event_id": 692,
     "eventname": "Surf like a dude Zuidlaardermeer speed challenge 2021",
     "speed": 49.072444000000004,
@@ -272,7 +288,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=364065&uid=25372"
   },
   {
-    "rowid": "18",
+    "rowid": "19",
     "event_id": 692,
     "eventname": "Surf like a dude Zuidlaardermeer speed challenge 2021",
     "speed": 40.899568,

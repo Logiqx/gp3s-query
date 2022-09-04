@@ -307,6 +307,22 @@
     "rowid": "20",
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
+    "speed": 28.956020000000002,
+    "type": "speed_hour",
+    "username": "Hannes Rieger",
+    "ageclass": "Super Master (61-70)",
+    "weightclass": "61-70",
+    "sexe": "Men",
+    "spotname": "Karpathos",
+    "sessionboard": "Custom SL 66/21",
+    "sessionsail": "S2 Maui Wicked  6.3",
+    "sessionfin": "Custom SL 81  33",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=392301&uid=24349"
+  },
+  {
+    "rowid": "21",
+    "event_id": 736,
+    "eventname": "2022 Odyssey of Speed",
     "speed": 28.950464,
     "type": "speed_hour",
     "username": "Sofia Koukouzeli",
@@ -320,7 +336,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=379926&uid=18072"
   },
   {
-    "rowid": "21",
+    "rowid": "22",
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
     "speed": 28.776376000000003,
@@ -336,7 +352,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=391515&uid=26346"
   },
   {
-    "rowid": "22",
+    "rowid": "23",
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
     "speed": 28.246704,
@@ -350,22 +366,6 @@
     "sessionsail": "Maui Sails TR-9  7.0",
     "sessionfin": "Z-fins Z SLM 34 s-  34",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390986&uid=1504"
-  },
-  {
-    "rowid": "23",
-    "event_id": 736,
-    "eventname": "2022 Odyssey of Speed",
-    "speed": 28.024464000000002,
-    "type": "speed_hour",
-    "username": "Hannes Rieger",
-    "ageclass": "Super Master (61-70)",
-    "weightclass": "61-70",
-    "sexe": "Men",
-    "spotname": "Schinias",
-    "sessionboard": "Custom FR 61/20",
-    "sessionsail": "Maui Sails Switch  5.2",
-    "sessionfin": "Custom SL 81  29",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390118&uid=24349"
   },
   {
     "rowid": "24",

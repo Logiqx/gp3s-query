@@ -467,6 +467,22 @@
     "rowid": "30",
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
+    "speed": 35.282452,
+    "type": "speed_alpha_racing",
+    "username": "Hannes Rieger",
+    "ageclass": "Super Master (61-70)",
+    "weightclass": "61-70",
+    "sexe": "Men",
+    "spotname": "Karpathos",
+    "sessionboard": "Custom SL 66/21",
+    "sessionsail": "S2 Maui Wicked  6.3",
+    "sessionfin": "Custom SL 81  33",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=392301&uid=24349"
+  },
+  {
+    "rowid": "31",
+    "event_id": 736,
+    "eventname": "2022 Odyssey of Speed",
     "speed": 34.899088000000006,
     "type": "speed_alpha_racing",
     "username": "Mixalis Damigos",
@@ -480,7 +496,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389624&uid=26300"
   },
   {
-    "rowid": "31",
+    "rowid": "32",
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
     "speed": 34.56758,
@@ -496,7 +512,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=385913&uid=2856"
   },
   {
-    "rowid": "32",
+    "rowid": "33",
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
     "speed": 34.36386,
@@ -510,22 +526,6 @@
     "sessionsail": "Severne Mach 5  6.2",
     "sessionfin": "Gasoil Fins Dual 28/33 soft - proto  28",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=387979&uid=22478"
-  },
-  {
-    "rowid": "33",
-    "event_id": 736,
-    "eventname": "2022 Odyssey of Speed",
-    "speed": 34.204588,
-    "type": "speed_alpha_racing",
-    "username": "Hannes Rieger",
-    "ageclass": "Super Master (61-70)",
-    "weightclass": "61-70",
-    "sexe": "Men",
-    "spotname": "Drepano",
-    "sessionboard": "Custom SL 66/21",
-    "sessionsail": "S2 Maui Wicked  6.3",
-    "sessionfin": "Custom SL 81  33",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389542&uid=24349"
   },
   {
     "rowid": "34",

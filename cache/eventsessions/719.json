@@ -9592,5 +9592,31 @@
     "sessionsail": "Severne NCX 7.0,  2020",
     "sessionfin": "Z-fins SLM S-  39",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=391729&uid=25195"
+  },
+  {
+    "session_id": 392273,
+    "session_date": "9/2/2022 12:00:00 AM",
+    "event_id": 719,
+    "eventname": "Norwegian speedmaster - 2022",
+    "speed_avg": 29.1601104,
+    "speed_2sec": 31.200644000000004,
+    "speed_10sec": 30.772832,
+    "speed_100": 30.598744,
+    "speed_250": 30.119076000000003,
+    "speed_500": 29.685708,
+    "speed_mile": 22.63144,
+    "speed_hour": 12.704720000000002,
+    "speed_halfhour": 14.086312000000001,
+    "speed_24hour": 0.0,
+    "speed_alpha_racing": 12.350988,
+    "session_distance": 13.887345,
+    "username": "Ole Erik Carlson",
+    "flag": "NO",
+    "sexe": "Men",
+    "spotname": "Torkildstranda",
+    "sessionboard": "Simmer Monster 136L,  2018",
+    "sessionsail": "Simmer Sails Enduro 6.5,  2018",
+    "sessionfin": "not defined Simmer Black Bird Cruz -85  1600",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=392273&uid=9552"
   }
 ]

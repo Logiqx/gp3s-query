@@ -1087,8 +1087,8 @@
     "sexe": "Men",
     "spotname": "IJsselmeer - Makkum",
     "sessionboard": "Fanatic Falcon TE 115 2019,  2019",
-    "sessionsail": "Severne Mach 3 7.8,  2020",
-    "sessionfin": "Finish First  37",
+    "sessionsail": "Severne Mach4 7.8,  2021",
+    "sessionfin": "Black Project Fins Weed Speed\r\n  28",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=382444&uid=4307"
   },
   {
@@ -1114,7 +1114,7 @@
     "spotname": "IJsselmeer - Makkum",
     "sessionboard": "Starboard Isonic 63 Carbon reflex,  2021",
     "sessionsail": "Severne Mach4  7.0,  2021",
-    "sessionfin": "Sonntag Fins GPS-6  32",
+    "sessionfin": "Finish First  37",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=382447&uid=4307"
   },
   {
@@ -1634,7 +1634,7 @@
     "spotname": "IJsselmeer - Makkum",
     "sessionboard": "Fanatic Falcon TE 115 2019,  2019",
     "sessionsail": "Severne Mach4 7.8,  2021",
-    "sessionfin": "Black Project Fins Weed Speed\r\n  28",
+    "sessionfin": "Finish First  37",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=383649&uid=4307"
   },
   {
@@ -2700,7 +2700,7 @@
     "spotname": "IJsselmeer - Makkum",
     "sessionboard": "Starboard iSonic 83 Carbon Reflex,  2021",
     "sessionsail": "Severne Mach4 7.8,  2021",
-    "sessionfin": "Black Project Fins Weed Speed\r\n  28",
+    "sessionfin": "Tribal Fin Slalom MK2  43",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389196&uid=4307"
   },
   {
@@ -2986,7 +2986,7 @@
     "spotname": "IJsselmeer - Makkum",
     "sessionboard": "Starboard  iSonic 73 Carbon Reflex ,  2022",
     "sessionsail": "Severne Mach4 7.8,  2021",
-    "sessionfin": "Black Project Fins Weed Speed\r\n  28",
+    "sessionfin": "Gasoil Fins SLR  36",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389490&uid=4307"
   },
   {
@@ -3610,7 +3610,7 @@
     "spotname": "IJsselmeer - Makkum",
     "sessionboard": "Starboard iSonic 83 Carbon Reflex,  2021",
     "sessionsail": "Neilpryde EVO  XI 9.0,  2019",
-    "sessionfin": "Black Project Fins Weed Speed\r\n  28",
+    "sessionfin": "Sonntag Fins Sl pro  465",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390381&uid=4307"
   },
   {
@@ -3922,7 +3922,7 @@
     "spotname": "IJsselmeer - Makkum",
     "sessionboard": "Starboard iSonic 83 Carbon Reflex,  2021",
     "sessionsail": "Neilpryde EVO  XI 9.0,  2019",
-    "sessionfin": "Black Project Fins Weed Speed\r\n  28",
+    "sessionfin": "Sonntag Fins Sl pro  465",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390682&uid=4307"
   },
   {
@@ -4522,5 +4522,57 @@
     "sessionsail": "Severne Mach4 7.8,  2021",
     "sessionfin": "Finish First  37",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=392083&uid=4307"
+  },
+  {
+    "session_id": 392213,
+    "session_date": "9/1/2022 12:00:00 AM",
+    "event_id": 740,
+    "eventname": "2022 Funsport Makkum GPS Speed Challenge",
+    "speed_avg": 55.6666752,
+    "speed_2sec": 58.15094800000001,
+    "speed_10sec": 57.284212000000004,
+    "speed_100": 57.85648,
+    "speed_250": 56.423032000000006,
+    "speed_500": 54.274712,
+    "speed_mile": 48.39276,
+    "speed_hour": 29.841276,
+    "speed_halfhour": 31.23398,
+    "speed_24hour": 0.0,
+    "speed_alpha_racing": 31.441404000000002,
+    "session_distance": 57.924796,
+    "username": "Rob de Jong",
+    "flag": "NL",
+    "sexe": "Men",
+    "spotname": "IJsselmeer - Makkum",
+    "sessionboard": "Starboard iSonic 83 Carbon Reflex,  2021",
+    "sessionsail": "Severne Mach 4 8.6,  2021",
+    "sessionfin": "Tribal Fin Slalom MK2  43",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=392213&uid=4307"
+  },
+  {
+    "session_id": 392326,
+    "session_date": "9/3/2022 12:00:00 AM",
+    "event_id": 740,
+    "eventname": "2022 Funsport Makkum GPS Speed Challenge",
+    "speed_avg": 50.299208799999995,
+    "speed_2sec": 54.80994,
+    "speed_10sec": 54.185816,
+    "speed_100": 54.335828,
+    "speed_250": 53.385752000000004,
+    "speed_500": 50.935556000000005,
+    "speed_mile": 44.47207600000001,
+    "speed_hour": 15.82534,
+    "speed_halfhour": 25.000148000000003,
+    "speed_24hour": 0.0,
+    "speed_alpha_racing": 23.922284,
+    "session_distance": 32.963511,
+    "username": "Rob de Jong",
+    "flag": "NL",
+    "sexe": "Men",
+    "spotname": "IJsselmeer - Makkum",
+    "sessionboard": "Starboard iSonic 83 Carbon Reflex,  2021",
+    "sessionsail": "Severne Mach 4 8.6,  2021",
+    "sessionfin": "Tribal Fin Slalom MK2  43",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=392326&uid=4307"
   }
 ]

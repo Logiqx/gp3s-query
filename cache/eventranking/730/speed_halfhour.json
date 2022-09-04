@@ -83,6 +83,22 @@
     "rowid": "6",
     "event_id": 730,
     "eventname": "Surf like a dude Zuidlaardermeer Speed Challenge 2022",
+    "speed": 32.31554800000001,
+    "type": "speed_halfhour",
+    "username": "Bert Bodde",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Zuidlaardermeer",
+    "sessionboard": "AV Modena Slalom 72,5",
+    "sessionsail": "Point-7 AC-ONE  8.6",
+    "sessionfin": "Finish Fast b6  36",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=392322&uid=20514"
+  },
+  {
+    "rowid": "7",
+    "event_id": 730,
+    "eventname": "Surf like a dude Zuidlaardermeer Speed Challenge 2022",
     "speed": 31.985892000000003,
     "type": "speed_halfhour",
     "username": "Jakob Snip",
@@ -96,7 +112,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=384830&uid=25848"
   },
   {
-    "rowid": "7",
+    "rowid": "8",
     "event_id": 730,
     "eventname": "Surf like a dude Zuidlaardermeer Speed Challenge 2022",
     "speed": 31.719203999999998,
@@ -112,7 +128,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=380606&uid=23407"
   },
   {
-    "rowid": "8",
+    "rowid": "9",
     "event_id": 730,
     "eventname": "Surf like a dude Zuidlaardermeer Speed Challenge 2022",
     "speed": 31.574748,
@@ -126,22 +142,6 @@
     "sessionsail": "Severne Mach 3  7.8",
     "sessionfin": "Z-fins z-fin. zfs38s  38",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=381001&uid=22984"
-  },
-  {
-    "rowid": "9",
-    "event_id": 730,
-    "eventname": "Surf like a dude Zuidlaardermeer Speed Challenge 2022",
-    "speed": 31.230276,
-    "type": "speed_halfhour",
-    "username": "Bert Bodde",
-    "ageclass": "Grand Master (51-60)",
-    "weightclass": "81-90",
-    "sexe": "Men",
-    "spotname": "Zuidlaardermeer",
-    "sessionboard": "AV Modena Slalom 72,5",
-    "sessionsail": "Point-7 AC-ONE  8.6",
-    "sessionfin": "Sonntag Fins GPS-6  36",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=384834&uid=20514"
   },
   {
     "rowid": "10",

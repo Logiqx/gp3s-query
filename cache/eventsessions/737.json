@@ -9280,5 +9280,31 @@
     "sessionsail": "Duotone Warp  F 2021  9.0,  2021",
     "sessionfin": "- Gregor Custom Fins SL1 S-  46",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=391997&uid=22584"
+  },
+  {
+    "session_id": 392175,
+    "session_date": "8/26/2022 12:00:00 AM",
+    "event_id": 737,
+    "eventname": "2022 Spanish Speed Challenge",
+    "speed_avg": 61.13526080000001,
+    "speed_2sec": 65.001496,
+    "speed_10sec": 62.534632,
+    "speed_100": 63.36247600000001,
+    "speed_250": 61.24378800000001,
+    "speed_500": 59.132508,
+    "speed_mile": 40.673624000000004,
+    "speed_hour": 0.0,
+    "speed_halfhour": 24.274164,
+    "speed_24hour": 0.0,
+    "speed_alpha_racing": 31.948852000000002,
+    "session_distance": 20.38067,
+    "username": "Oliver Schaarschmidt",
+    "flag": "DE",
+    "sexe": "Men",
+    "spotname": "Gran Canaria, Bah\u00eda de Formas (Salinas de Arinaga)",
+    "sessionboard": "PATRIK Slalom 85,  2021",
+    "sessionsail": "Duotone warp fin 2022 5.0,  2022",
+    "sessionfin": "C-Fins 5.0  29",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=392175&uid=2357"
   }
 ]
