@@ -1,0 +1,28 @@
+[
+  {
+    "session_id": 391275,
+    "session_date": "8/8/2022 12:00:00 AM",
+    "event_id": 746,
+    "eventname": "2022 Desafio Brasileiro de Windsurf Speed",
+    "speed_avg": 38.990156,
+    "speed_2sec": 42.488584,
+    "speed_10sec": 39.801332,
+    "speed_100": 39.801332,
+    "speed_250": 38.612348000000004,
+    "speed_500": 38.351216,
+    "speed_mile": 31.765504000000004,
+    "speed_hour": 19.953447999999998,
+    "speed_halfhour": 22.89072,
+    "speed_24hour": 0.0,
+    "speed_alpha_racing": 28.902312000000002,
+    "session_distance": 25.652084,
+    "username": "luis egidio",
+    "flag": "BR",
+    "sexe": "Men",
+    "spotname": "Porto Alegre - Raia1",
+    "sessionboard": "not defined ,  0",
+    "sessionsail": "Gaastra Vapor 7.9,  2012",
+    "sessionfin": "- Z slaalom proto  45",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=391275&uid=25869"
+  }
+]

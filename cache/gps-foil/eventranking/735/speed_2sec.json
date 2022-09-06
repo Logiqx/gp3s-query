@@ -1,0 +1,50 @@
+[
+  {
+    "rowid": "1",
+    "event_id": 735,
+    "eventname": "World Speed Tour - GPS POS 2022",
+    "speed": 61.13452,
+    "type": "speed_2sec",
+    "username": "Andy Laufer",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "91-100",
+    "sexe": "Men",
+    "spotname": "Plage du Rouet",
+    "sessionboard": "JP Foil Board",
+    "sessionsail": "Neilpryde EVO XIII  6.6",
+    "sessionfin": "Custom Neil Pryde Flight F4 EVO  95",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=382029&uid=5149"
+  },
+  {
+    "rowid": "2",
+    "event_id": 735,
+    "eventname": "World Speed Tour - GPS POS 2022",
+    "speed": 54.869204,
+    "type": "speed_2sec",
+    "username": "Hans-Peter Schmidt",
+    "ageclass": "Master (36-50)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "La Palme - Plage du Rouet",
+    "sessionboard": "Phantom IrisX mk2 78",
+    "sessionsail": "Phantom IRIS RF  4.3",
+    "sessionfin": "Phantom IRIS R FW350-Fuselage100-BW200  350",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389965&uid=25710"
+  },
+  {
+    "rowid": "3",
+    "event_id": 735,
+    "eventname": "World Speed Tour - GPS POS 2022",
+    "speed": 49.000216,
+    "type": "speed_2sec",
+    "username": "Christophe le Guennic",
+    "ageclass": "Master (36-50)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Plage du Rouet",
+    "sessionboard": "Phantom IrisX mk2 78",
+    "sessionsail": "Phantom IRIS X  5.0",
+    "sessionfin": "Phantom IRIS R FW550-Fuselage100-BW200  550",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386008&uid=24593"
+  }
+]

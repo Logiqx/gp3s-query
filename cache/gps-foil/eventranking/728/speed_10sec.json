@@ -1,0 +1,34 @@
+[
+  {
+    "rowid": "1",
+    "event_id": 728,
+    "eventname": "2022 FFF Speed Challenge",
+    "speed": 62.90873600000001,
+    "type": "speed_10sec",
+    "username": "S\u00e9bastien Bourgeois",
+    "ageclass": "Senior (19-35)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Fos, 13",
+    "sessionboard": "AHD Compact Foil 83",
+    "sessionsail": "KA Sails Koncept  5.0",
+    "sessionfin": "- AFS 105 370 / 200  105",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386958&uid=5223"
+  },
+  {
+    "rowid": "2",
+    "event_id": 728,
+    "eventname": "2022 FFF Speed Challenge",
+    "speed": 52.239364,
+    "type": "speed_10sec",
+    "username": "Alexandre Broussier",
+    "ageclass": "Senior (19-35)",
+    "weightclass": "61-70",
+    "sexe": "Men",
+    "spotname": "Fos, 13",
+    "sessionboard": "Tabou AirRide",
+    "sessionsail": "Severne Reflex 5  7.0",
+    "sessionfin": "- AFS 105 S740  105",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390199&uid=11625"
+  }
+]
