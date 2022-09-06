@@ -1,6 +1,18 @@
 ## Generated Reports
 
-The following reports are available:
+### Event Rankings
 
-- [Event Rankings](events/README.md) - discrepancies in the rankings, according to API data
-- [Spot Clusters](spot-clusters/README.md) - possible duplicate spots
+Discrepancies in the GP3S rankings, according to API data:
+
+- [gps-speedsurfing](gps-speed/events/README.md)
+- [gps-foilsurfing](gps-foil/events/README.md)
+- [gps-kitesurfing](gps-kite/events/README.md)
+- [gps-icesurfing](gps-ice/events/README.md)
+
+
+
+### Duplicate Spots
+
+Possible duplicate spots according to proximity
+
+- [Spot Clusters](spot-clusters/README.md)
