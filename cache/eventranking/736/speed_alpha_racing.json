@@ -355,6 +355,22 @@
     "rowid": "23",
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
+    "speed": 40.266184,
+    "type": "speed_alpha_racing",
+    "username": "Mixalis Damigos",
+    "ageclass": "Senior (19-35)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Kamari - Avis",
+    "sessionboard": "RRD X-Fire LTD V7 114",
+    "sessionsail": "GA-sails vapor  7.1",
+    "sessionfin": "Z-fins Z-SLM  37",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=392441&uid=26300"
+  },
+  {
+    "rowid": "24",
+    "event_id": 736,
+    "eventname": "2022 Odyssey of Speed",
     "speed": 40.068020000000004,
     "type": "speed_alpha_racing",
     "username": "Peter Johansson",
@@ -368,7 +384,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390120&uid=1339"
   },
   {
-    "rowid": "24",
+    "rowid": "25",
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
     "speed": 39.85504,
@@ -384,7 +400,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=382060&uid=22406"
   },
   {
-    "rowid": "25",
+    "rowid": "26",
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
     "speed": 39.730956,
@@ -400,7 +416,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=388857&uid=18072"
   },
   {
-    "rowid": "26",
+    "rowid": "27",
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
     "speed": 37.727092,
@@ -416,7 +432,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=385606&uid=23407"
   },
   {
-    "rowid": "27",
+    "rowid": "28",
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
     "speed": 37.101116000000005,
@@ -432,7 +448,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=377746&uid=3182"
   },
   {
-    "rowid": "28",
+    "rowid": "29",
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
     "speed": 36.32512800000001,
@@ -448,7 +464,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=388917&uid=299"
   },
   {
-    "rowid": "29",
+    "rowid": "30",
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
     "speed": 36.032512000000004,
@@ -464,7 +480,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390742&uid=6030"
   },
   {
-    "rowid": "30",
+    "rowid": "31",
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
     "speed": 35.282452,
@@ -478,22 +494,6 @@
     "sessionsail": "S2 Maui Wicked  6.3",
     "sessionfin": "Custom SL 81  33",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=392301&uid=24349"
-  },
-  {
-    "rowid": "31",
-    "event_id": 736,
-    "eventname": "2022 Odyssey of Speed",
-    "speed": 34.899088000000006,
-    "type": "speed_alpha_racing",
-    "username": "Mixalis Damigos",
-    "ageclass": "Senior (19-35)",
-    "weightclass": "81-90",
-    "sexe": "Men",
-    "spotname": "Kamari - Avis",
-    "sessionboard": "RRD X-Fire LTD V7 114",
-    "sessionsail": "GA-sails Vapor  8.0",
-    "sessionfin": "RRD WH Comp 95  95",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389624&uid=26300"
   },
   {
     "rowid": "32",
@@ -563,6 +563,22 @@
     "rowid": "36",
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
+    "speed": 33.313776000000004,
+    "type": "speed_alpha_racing",
+    "username": "Giorgos Stogias",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "91-100",
+    "sexe": "Men",
+    "spotname": "Schinias",
+    "sessionboard": "RRD Fire Storm Wood V2",
+    "sessionsail": "RRD FIREWING MK5  8.6",
+    "sessionfin": "MFC KP-RC  44",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=392488&uid=5658"
+  },
+  {
+    "rowid": "37",
+    "event_id": 736,
+    "eventname": "2022 Odyssey of Speed",
     "speed": 33.21562,
     "type": "speed_alpha_racing",
     "username": "Kostas Ntotsias",
@@ -574,22 +590,6 @@
     "sessionsail": "Severne ReflexR7  7.8",
     "sessionfin": "Select S1 Hi wind  37",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=380233&uid=6039"
-  },
-  {
-    "rowid": "37",
-    "event_id": 736,
-    "eventname": "2022 Odyssey of Speed",
-    "speed": 32.480376,
-    "type": "speed_alpha_racing",
-    "username": "Giorgos Stogias",
-    "ageclass": "Grand Master (51-60)",
-    "weightclass": "91-100",
-    "sexe": "Men",
-    "spotname": "Schinias",
-    "sessionboard": "RRD Fire Storm Wood V2",
-    "sessionsail": "RRD FIREWING MK5  8.6",
-    "sessionfin": "MFC KP-RC  44",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=391368&uid=5658"
   },
   {
     "rowid": "38",

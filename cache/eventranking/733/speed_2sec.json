@@ -110,5 +110,21 @@
     "sessionsail": "Loftsails Racing Blade  7.0",
     "sessionfin": "not defined -  0",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386993&uid=25067"
+  },
+  {
+    "rowid": "8",
+    "event_id": 733,
+    "eventname": "2022 ",
+    "speed": 23.58522,
+    "type": "speed_2sec",
+    "username": "Ralph van Dam",
+    "ageclass": "Master (36-50)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Eiland van Maurik",
+    "sessionboard": "AHD Formula Diamond ",
+    "sessionsail": "GA-sails Matrix  7.2",
+    "sessionfin": "not defined -  0",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=392494&uid=26397"
   }
 ]

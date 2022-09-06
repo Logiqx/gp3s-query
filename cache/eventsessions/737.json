@@ -9306,5 +9306,31 @@
     "sessionsail": "Duotone warp fin 2022 5.0,  2022",
     "sessionfin": "C-Fins 5.0  29",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=392175&uid=2357"
+  },
+  {
+    "session_id": 392457,
+    "session_date": "9/4/2022 12:00:00 AM",
+    "event_id": 737,
+    "eventname": "2022 Spanish Speed Challenge",
+    "speed_avg": 53.39241920000001,
+    "speed_2sec": 56.093376000000006,
+    "speed_10sec": 54.095068000000005,
+    "speed_100": 55.095148,
+    "speed_250": 53.68022,
+    "speed_500": 52.620876,
+    "speed_mile": 40.912532000000006,
+    "speed_hour": 22.275856,
+    "speed_halfhour": 23.303716,
+    "speed_24hour": 0.0,
+    "speed_alpha_racing": 39.849484000000004,
+    "session_distance": 64.06637,
+    "username": "Salvador Ya\u00f1ez",
+    "flag": "ES",
+    "sexe": "Men",
+    "spotname": "Santa Teresa",
+    "sessionboard": "Starboard Isonic 85 Carbon Reflex ,  2019",
+    "sessionsail": "Severne Mach 4  7.8,  2021",
+    "sessionfin": "Hurricane SR7  45",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=392457&uid=13637"
   }
 ]

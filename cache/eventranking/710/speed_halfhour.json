@@ -115,6 +115,22 @@
     "rowid": "8",
     "event_id": 710,
     "eventname": "BritishSpeedChallenge2022",
+    "speed": 34.300892000000005,
+    "type": "speed_halfhour",
+    "username": "Iain Neary",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "91-100",
+    "sexe": "Men",
+    "spotname": "Hamworthy",
+    "sessionboard": "Tabou manta",
+    "sessionsail": "Severne Overdrive M3  9.4",
+    "sessionfin": "- F-Hot  46",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=392424&uid=26304"
+  },
+  {
+    "rowid": "9",
+    "event_id": 710,
+    "eventname": "BritishSpeedChallenge2022",
     "speed": 34.078652,
     "type": "speed_halfhour",
     "username": "Mark Ingram",
@@ -128,7 +144,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=370987&uid=5835"
   },
   {
-    "rowid": "9",
+    "rowid": "10",
     "event_id": 710,
     "eventname": "BritishSpeedChallenge2022",
     "speed": 33.352668,
@@ -144,7 +160,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=369225&uid=2363"
   },
   {
-    "rowid": "10",
+    "rowid": "11",
     "event_id": 710,
     "eventname": "BritishSpeedChallenge2022",
     "speed": 32.045156000000006,
@@ -160,7 +176,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386134&uid=16978"
   },
   {
-    "rowid": "11",
+    "rowid": "12",
     "event_id": 710,
     "eventname": "BritishSpeedChallenge2022",
     "speed": 31.408068,
@@ -176,7 +192,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=372866&uid=22769"
   },
   {
-    "rowid": "12",
+    "rowid": "13",
     "event_id": 710,
     "eventname": "BritishSpeedChallenge2022",
     "speed": 31.102488,
@@ -190,22 +206,6 @@
     "sessionsail": "GA-sails Vapor  6.4",
     "sessionfin": "F-Hot RWS-3  30",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=369494&uid=20717"
-  },
-  {
-    "rowid": "13",
-    "event_id": 710,
-    "eventname": "BritishSpeedChallenge2022",
-    "speed": 30.99322,
-    "type": "speed_halfhour",
-    "username": "Iain Neary",
-    "ageclass": "Grand Master (51-60)",
-    "weightclass": "91-100",
-    "sexe": "Men",
-    "spotname": "Hamworthy",
-    "sessionboard": "Tabou manta",
-    "sessionsail": "Severne overdrivemach3  7.8",
-    "sessionfin": "F-Hot Slalom S3  40",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389432&uid=26304"
   },
   {
     "rowid": "14",

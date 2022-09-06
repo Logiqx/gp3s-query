@@ -235,7 +235,7 @@
     "sexe": "Men",
     "spotname": "VALTOS",
     "sessionboard": "FMX Invictus 118",
-    "sessionsail": "S2 Maui Venom  7.5",
+    "sessionsail": "S2 Maui VENOM  7.5",
     "sessionfin": "not defined Kashy version B  38",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=381836&uid=1608"
   },
@@ -499,6 +499,22 @@
     "rowid": "32",
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
+    "speed": 56.72453759999999,
+    "type": "speed_avg",
+    "username": "Thanasis Savvakis",
+    "ageclass": "Ultimate Master (71-99)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "LIMNI",
+    "sessionboard": "RRD X-fire 114",
+    "sessionsail": "GA-sails Vapor  7.9",
+    "sessionfin": "Select Vmax 3.0  37",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=392445&uid=26346"
+  },
+  {
+    "rowid": "33",
+    "event_id": 736,
+    "eventname": "2022 Odyssey of Speed",
     "speed": 56.653050400000005,
     "type": "speed_avg",
     "username": "Giannis Reglis",
@@ -512,7 +528,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=377186&uid=22406"
   },
   {
-    "rowid": "33",
+    "rowid": "34",
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
     "speed": 55.068479200000006,
@@ -528,7 +544,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390011&uid=23748"
   },
   {
-    "rowid": "34",
+    "rowid": "35",
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
     "speed": 54.57066160000001,
@@ -542,22 +558,6 @@
     "sessionsail": "Severne ReflexR7  7.0",
     "sessionfin": "Select ELITE S1 HI-WIND  35",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=388678&uid=6039"
-  },
-  {
-    "rowid": "35",
-    "event_id": 736,
-    "eventname": "2022 Odyssey of Speed",
-    "speed": 54.549548800000004,
-    "type": "speed_avg",
-    "username": "Thanasis Savvakis",
-    "ageclass": "Ultimate Master (71-99)",
-    "weightclass": "71-80",
-    "sexe": "Men",
-    "spotname": "LIMNI",
-    "sessionboard": "RRD X-fire 114",
-    "sessionsail": "GA-sails Vapor  7.9",
-    "sessionfin": "Select Vmax 3.0  37",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389294&uid=26346"
   },
   {
     "rowid": "36",

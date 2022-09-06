@@ -235,7 +235,7 @@
     "sexe": "Men",
     "spotname": "VALTOS",
     "sessionboard": "FMX Invictus 118",
-    "sessionsail": "S2 Maui Venom  7.5",
+    "sessionsail": "S2 Maui VENOM  7.5",
     "sessionfin": "not defined Kashy version B  38",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=381836&uid=1608"
   },
@@ -515,6 +515,22 @@
     "rowid": "33",
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
+    "speed": 58.076868000000005,
+    "type": "speed_10sec",
+    "username": "Chris Psy",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Marmari",
+    "sessionboard": "FMX Invictus 118",
+    "sessionsail": "Neilpryde RS Racing EVO XII  6.6",
+    "sessionfin": "NoLo LIMITED  36",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=392414&uid=25586"
+  },
+  {
+    "rowid": "34",
+    "event_id": 736,
+    "eventname": "2022 Odyssey of Speed",
     "speed": 57.93056000000001,
     "type": "speed_10sec",
     "username": "Panos Christoforou",
@@ -528,7 +544,23 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390011&uid=23748"
   },
   {
-    "rowid": "34",
+    "rowid": "35",
+    "event_id": 736,
+    "eventname": "2022 Odyssey of Speed",
+    "speed": 57.765732,
+    "type": "speed_10sec",
+    "username": "Thanasis Savvakis",
+    "ageclass": "Ultimate Master (71-99)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "LIMNI",
+    "sessionboard": "RRD X-fire 114",
+    "sessionsail": "GA-sails Vapor  7.9",
+    "sessionfin": "Select Vmax 3.0  37",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=392444&uid=26346"
+  },
+  {
+    "rowid": "36",
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
     "speed": 57.62868400000001,
@@ -544,7 +576,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=384389&uid=2856"
   },
   {
-    "rowid": "35",
+    "rowid": "37",
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
     "speed": 57.580532000000005,
@@ -560,23 +592,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=376935&uid=23430"
   },
   {
-    "rowid": "36",
-    "event_id": 736,
-    "eventname": "2022 Odyssey of Speed",
-    "speed": 57.391628000000004,
-    "type": "speed_10sec",
-    "username": "Thanasis Savvakis",
-    "ageclass": "Ultimate Master (71-99)",
-    "weightclass": "71-80",
-    "sexe": "Men",
-    "spotname": "LIMNI",
-    "sessionboard": "RRD X-fire 114",
-    "sessionsail": "GA-sails Vapor  7.9",
-    "sessionfin": "Select Vmax 3.0  37",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389290&uid=26346"
-  },
-  {
-    "rowid": "37",
+    "rowid": "38",
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
     "speed": 57.167536,
@@ -592,7 +608,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390347&uid=24349"
   },
   {
-    "rowid": "38",
+    "rowid": "39",
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
     "speed": 55.993368000000004,
@@ -608,7 +624,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386405&uid=6039"
   },
   {
-    "rowid": "39",
+    "rowid": "40",
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
     "speed": 55.817428,
@@ -622,22 +638,6 @@
     "sessionsail": "Loftsails Racing Blade  7.0",
     "sessionfin": "- Chopper ChC  36",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390085&uid=5658"
-  },
-  {
-    "rowid": "40",
-    "event_id": 736,
-    "eventname": "2022 Odyssey of Speed",
-    "speed": 52.889416000000004,
-    "type": "speed_10sec",
-    "username": "Chris Psy",
-    "ageclass": "Grand Master (51-60)",
-    "weightclass": "81-90",
-    "sexe": "Men",
-    "spotname": "Chalkoutsi",
-    "sessionboard": "FMX Invictus 118",
-    "sessionsail": "Neilpryde RS Racing EVO XII  7.4",
-    "sessionfin": "not defined -  0",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390322&uid=25586"
   },
   {
     "rowid": "41",

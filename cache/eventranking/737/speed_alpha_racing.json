@@ -131,6 +131,22 @@
     "rowid": "9",
     "event_id": 737,
     "eventname": "2022 Spanish Speed Challenge",
+    "speed": 39.849484000000004,
+    "type": "speed_alpha_racing",
+    "username": "Salvador Ya\u00f1ez",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Santa Teresa",
+    "sessionboard": "Starboard Isonic 85 Carbon Reflex ",
+    "sessionsail": "Severne Mach 4   7.8",
+    "sessionfin": "Hurricane SR7  45",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=392457&uid=13637"
+  },
+  {
+    "rowid": "10",
+    "event_id": 737,
+    "eventname": "2022 Spanish Speed Challenge",
     "speed": 39.799479999999996,
     "type": "speed_alpha_racing",
     "username": "Enrique del valle",
@@ -144,7 +160,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=376463&uid=23714"
   },
   {
-    "rowid": "10",
+    "rowid": "11",
     "event_id": 737,
     "eventname": "2022 Spanish Speed Challenge",
     "speed": 39.164244,
@@ -160,7 +176,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=376923&uid=25589"
   },
   {
-    "rowid": "11",
+    "rowid": "12",
     "event_id": 737,
     "eventname": "2022 Spanish Speed Challenge",
     "speed": 39.00312,
@@ -174,22 +190,6 @@
     "sessionsail": "Loftsails Racing Blade  6.3",
     "sessionfin": "not defined -  0",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=377725&uid=22332"
-  },
-  {
-    "rowid": "12",
-    "event_id": 737,
-    "eventname": "2022 Spanish Speed Challenge",
-    "speed": 38.636424,
-    "type": "speed_alpha_racing",
-    "username": "Salvador Ya\u00f1ez",
-    "ageclass": "Grand Master (51-60)",
-    "weightclass": "81-90",
-    "sexe": "Men",
-    "spotname": "Santa Teresa",
-    "sessionboard": "Starboard Isonic 85 Carbon Reflex ",
-    "sessionsail": "Severne Mach 1  8.6",
-    "sessionfin": "Sonntag Fins  SLX  45",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=385407&uid=13637"
   },
   {
     "rowid": "13",
