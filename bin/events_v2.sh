@@ -6,4 +6,4 @@ run_py_script download_events_v2.py
 run_py_script check_events_v2.py
 
 # View differences
-git diff docs/events/README.md
+git diff docs/*/events/README.md
