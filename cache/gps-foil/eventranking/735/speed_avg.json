@@ -46,5 +46,37 @@
     "sessionsail": "Phantom IRIS X  5.0",
     "sessionfin": "Phantom IRIS R FW550-Fuselage100-BW200  550",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386008&uid=24593"
+  },
+  {
+    "rowid": "4",
+    "event_id": 735,
+    "eventname": "World Speed Tour - GPS POS 2022",
+    "speed": 38.6538328,
+    "type": "speed_avg",
+    "username": "Alain Bollini",
+    "ageclass": "Super Master (61-70)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Etang de Thau",
+    "sessionboard": "F2 RX Formula",
+    "sessionsail": "Gun Sails GSR  6.3",
+    "sessionfin": "Lok\u00e9foil Race  105",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=392610&uid=24023"
+  },
+  {
+    "rowid": "5",
+    "event_id": 735,
+    "eventname": "World Speed Tour - GPS POS 2022",
+    "speed": 38.6538328,
+    "type": "speed_avg",
+    "username": "Alain Bollini",
+    "ageclass": "Super Master (61-70)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Etang de Thau",
+    "sessionboard": "F2 RX Formula",
+    "sessionsail": "Gun Sails GSR  6.3",
+    "sessionfin": "Lok\u00e9foil Race  105",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=392610&uid=24023"
   }
 ]

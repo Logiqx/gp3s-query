@@ -243,6 +243,22 @@
     "rowid": "16",
     "event_id": 732,
     "eventname": "2022 DBO Speed Challenge",
+    "speed": 36.699232,
+    "type": "speed_alpha_racing",
+    "username": "Jesper Madsen",
+    "ageclass": "Master (36-50)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Veddelev",
+    "sessionboard": "Starboard Isonic 90",
+    "sessionsail": "Loftsails Racing Blade  6.3",
+    "sessionfin": "Z-fins SL S-  31",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=392650&uid=15727"
+  },
+  {
+    "rowid": "17",
+    "event_id": 732,
+    "eventname": "2022 DBO Speed Challenge",
     "speed": 36.28994,
     "type": "speed_alpha_racing",
     "username": "Ole Hem",
@@ -256,7 +272,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=385931&uid=23813"
   },
   {
-    "rowid": "17",
+    "rowid": "18",
     "event_id": 732,
     "eventname": "2022 DBO Speed Challenge",
     "speed": 35.945468,
@@ -270,22 +286,6 @@
     "sessionsail": "Simmer Sails SCR  7.0",
     "sessionfin": "not defined -  0",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=383533&uid=25879"
-  },
-  {
-    "rowid": "18",
-    "event_id": 732,
-    "eventname": "2022 DBO Speed Challenge",
-    "speed": 35.163924,
-    "type": "speed_alpha_racing",
-    "username": "Jesper Madsen",
-    "ageclass": "Master (36-50)",
-    "weightclass": "71-80",
-    "sexe": "Men",
-    "spotname": "Veddelev",
-    "sessionboard": "RRD X-Fire LTD V4 122",
-    "sessionsail": "Loftsails Racing Blade  7.8",
-    "sessionfin": "Z-fins SL S-  42",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=387626&uid=15727"
   },
   {
     "rowid": "19",

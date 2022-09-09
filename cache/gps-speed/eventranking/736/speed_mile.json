@@ -419,6 +419,22 @@
     "rowid": "27",
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
+    "speed": 44.916556,
+    "type": "speed_mile",
+    "username": "Florian Seitz",
+    "ageclass": "Master (36-50)",
+    "weightclass": "101-110",
+    "sexe": "Men",
+    "spotname": "Vasiliki",
+    "sessionboard": "Starboard Isonic 72 Carbon Reflex",
+    "sessionsail": "Point-7 AC-ONE   7.8",
+    "sessionfin": "NoLo 4  39",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=392642&uid=20613"
+  },
+  {
+    "rowid": "28",
+    "event_id": 736,
+    "eventname": "2022 Odyssey of Speed",
     "speed": 44.835068,
     "type": "speed_mile",
     "username": "Christian Bornemann",
@@ -432,7 +448,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390369&uid=1789"
   },
   {
-    "rowid": "28",
+    "rowid": "29",
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
     "speed": 44.414664,
@@ -446,22 +462,6 @@
     "sessionsail": "GA-sails vapor  7.1",
     "sessionfin": "Z-fins Z-SLM  37",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=392441&uid=26300"
-  },
-  {
-    "rowid": "29",
-    "event_id": 736,
-    "eventname": "2022 Odyssey of Speed",
-    "speed": 44.346140000000005,
-    "type": "speed_mile",
-    "username": "Florian Seitz",
-    "ageclass": "Master (36-50)",
-    "weightclass": "101-110",
-    "sexe": "Men",
-    "spotname": "Vasiliki",
-    "sessionboard": "Starboard Isonic 67 Carbon reflex ",
-    "sessionsail": "Point-7 AC-One  7.1",
-    "sessionfin": "- Chopper  37",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=392040&uid=20613"
   },
   {
     "rowid": "30",

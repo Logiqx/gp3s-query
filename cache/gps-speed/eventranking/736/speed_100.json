@@ -339,6 +339,22 @@
     "rowid": "22",
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
+    "speed": 61.93273200000001,
+    "type": "speed_100",
+    "username": "Konstantinos Palogos",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Akti Nirea  EVIA ISLAND",
+    "sessionboard": "FMX Invictus 98",
+    "sessionsail": "S2 Maui Venom  5.7",
+    "sessionfin": "Zulu Umbani  32",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=392534&uid=23998"
+  },
+  {
+    "rowid": "23",
+    "event_id": 736,
+    "eventname": "2022 Odyssey of Speed",
     "speed": 61.638264,
     "type": "speed_100",
     "username": "Socrates Costicoglou",
@@ -352,7 +368,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389377&uid=299"
   },
   {
-    "rowid": "23",
+    "rowid": "24",
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
     "speed": 61.517884,
@@ -368,7 +384,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=387944&uid=2117"
   },
   {
-    "rowid": "24",
+    "rowid": "25",
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
     "speed": 61.478992,
@@ -384,7 +400,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389085&uid=24816"
   },
   {
-    "rowid": "25",
+    "rowid": "26",
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
     "speed": 61.451212,
@@ -397,23 +413,7 @@
     "sessionboard": "Starboard Isonic 67 Carbon reflex ",
     "sessionsail": "Point-7 AC-One   6.2",
     "sessionfin": "NoLo 4  32",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=392340&uid=20613"
-  },
-  {
-    "rowid": "26",
-    "event_id": 736,
-    "eventname": "2022 Odyssey of Speed",
-    "speed": 61.35676000000001,
-    "type": "speed_100",
-    "username": "Konstantinos Palogos",
-    "ageclass": "Grand Master (51-60)",
-    "weightclass": "81-90",
-    "sexe": "Men",
-    "spotname": "Akti Nirea  EVIA ISLAND",
-    "sessionboard": "FMX Invictus 98",
-    "sessionsail": "S2 Maui Venom  6.3",
-    "sessionfin": "- ERD EVO  28",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386299&uid=23998"
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=392641&uid=20613"
   },
   {
     "rowid": "27",

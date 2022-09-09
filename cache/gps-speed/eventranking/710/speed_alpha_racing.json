@@ -19,6 +19,22 @@
     "rowid": "2",
     "event_id": 710,
     "eventname": "BritishSpeedChallenge2022",
+    "speed": 50.083636,
+    "type": "speed_alpha_racing",
+    "username": "Scotty Stallman",
+    "ageclass": "Senior (19-35)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Portland Harbour, Weymouth",
+    "sessionboard": "Starboard iSonic 63 Carbon Reflex",
+    "sessionsail": "Severne Mach 4  6.2",
+    "sessionfin": "F-Hot RS-3  32",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=392678&uid=5618"
+  },
+  {
+    "rowid": "3",
+    "event_id": 710,
+    "eventname": "BritishSpeedChallenge2022",
     "speed": 44.75172800000001,
     "type": "speed_alpha_racing",
     "username": "Simon Pettifer",
@@ -32,7 +48,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=377989&uid=4276"
   },
   {
-    "rowid": "3",
+    "rowid": "4",
     "event_id": 710,
     "eventname": "BritishSpeedChallenge2022",
     "speed": 44.39244,
@@ -48,7 +64,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=371505&uid=24395"
   },
   {
-    "rowid": "4",
+    "rowid": "5",
     "event_id": 710,
     "eventname": "BritishSpeedChallenge2022",
     "speed": 42.329312,
@@ -64,7 +80,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=370254&uid=4275"
   },
   {
-    "rowid": "5",
+    "rowid": "6",
     "event_id": 710,
     "eventname": "BritishSpeedChallenge2022",
     "speed": 42.247824,
@@ -80,7 +96,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=377892&uid=23129"
   },
   {
-    "rowid": "6",
+    "rowid": "7",
     "event_id": 710,
     "eventname": "BritishSpeedChallenge2022",
     "speed": 41.86446,
@@ -96,7 +112,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=370987&uid=5835"
   },
   {
-    "rowid": "7",
+    "rowid": "8",
     "event_id": 710,
     "eventname": "BritishSpeedChallenge2022",
     "speed": 40.769928,
@@ -112,7 +128,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=384025&uid=16978"
   },
   {
-    "rowid": "8",
+    "rowid": "9",
     "event_id": 710,
     "eventname": "BritishSpeedChallenge2022",
     "speed": 40.603248,
@@ -128,7 +144,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=368127&uid=2640"
   },
   {
-    "rowid": "9",
+    "rowid": "10",
     "event_id": 710,
     "eventname": "BritishSpeedChallenge2022",
     "speed": 40.534724000000004,
@@ -144,7 +160,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=369494&uid=20717"
   },
   {
-    "rowid": "10",
+    "rowid": "11",
     "event_id": 710,
     "eventname": "BritishSpeedChallenge2022",
     "speed": 40.5,
@@ -158,22 +174,6 @@
     "sessionsail": "Duotone Warp-Fin 20.21  5.0",
     "sessionfin": "- F4 foil 560-100-210  560",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=377646&uid=22769"
-  },
-  {
-    "rowid": "11",
-    "event_id": 710,
-    "eventname": "BritishSpeedChallenge2022",
-    "speed": 39.832816,
-    "type": "speed_alpha_racing",
-    "username": "Scotty Stallman",
-    "ageclass": "Senior (19-35)",
-    "weightclass": "71-80",
-    "sexe": "Men",
-    "spotname": "Portland Harbour, Weymouth",
-    "sessionboard": "Starboard iSonic 63 Carbon Reflex",
-    "sessionsail": "Severne Mach 4  5.5",
-    "sessionfin": "F-Hot RS-3  32",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=375406&uid=5618"
   },
   {
     "rowid": "12",

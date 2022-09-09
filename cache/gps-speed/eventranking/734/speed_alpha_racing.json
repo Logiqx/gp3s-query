@@ -323,6 +323,22 @@
     "rowid": "21",
     "event_id": 734,
     "eventname": "World Speed Tour - GPS POS 2022 ",
+    "speed": 16.942096,
+    "type": "speed_alpha_racing",
+    "username": "Roger \u00d6rnvang",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "91-100",
+    "sexe": "Men",
+    "spotname": "vikh\u00f6g",
+    "sessionboard": "AV Modena Speed 52",
+    "sessionsail": "Severne Mach 4  6.2",
+    "sessionfin": "Sonntag Fins GPS_6  26",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=392647&uid=22163"
+  },
+  {
+    "rowid": "22",
+    "event_id": 734,
+    "eventname": "World Speed Tour - GPS POS 2022 ",
     "speed": 6.256056000000001,
     "type": "speed_alpha_racing",
     "username": "Till Kramann",
@@ -336,7 +352,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=383146&uid=24908"
   },
   {
-    "rowid": "22",
+    "rowid": "23",
     "event_id": 734,
     "eventname": "World Speed Tour - GPS POS 2022 ",
     "speed": 0.0,
@@ -352,7 +368,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=382277&uid=23889"
   },
   {
-    "rowid": "23",
+    "rowid": "24",
     "event_id": 734,
     "eventname": "World Speed Tour - GPS POS 2022 ",
     "speed": 0.0,
@@ -368,7 +384,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389703&uid=20679"
   },
   {
-    "rowid": "24",
+    "rowid": "25",
     "event_id": 734,
     "eventname": "World Speed Tour - GPS POS 2022 ",
     "speed": 0.0,

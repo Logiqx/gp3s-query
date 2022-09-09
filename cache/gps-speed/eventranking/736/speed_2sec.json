@@ -365,7 +365,7 @@
     "sessionboard": "Starboard Isonic 67 Carbon reflex ",
     "sessionsail": "Point-7 AC-One   6.2",
     "sessionfin": "NoLo 4  32",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=392340&uid=20613"
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=392641&uid=20613"
   },
   {
     "rowid": "24",
@@ -387,6 +387,22 @@
     "rowid": "25",
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
+    "speed": 62.81058,
+    "type": "speed_2sec",
+    "username": "Konstantinos Palogos",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Akti Nirea  EVIA ISLAND",
+    "sessionboard": "FMX Invictus 98",
+    "sessionsail": "S2 Maui Venom  5.7",
+    "sessionfin": "Zulu Umbani  32",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=392534&uid=23998"
+  },
+  {
+    "rowid": "26",
+    "event_id": 736,
+    "eventname": "2022 Odyssey of Speed",
     "speed": 62.66612400000001,
     "type": "speed_2sec",
     "username": "Pavlos Kapsianis",
@@ -400,7 +416,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389085&uid=24816"
   },
   {
-    "rowid": "26",
+    "rowid": "27",
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
     "speed": 62.579080000000005,
@@ -414,22 +430,6 @@
     "sessionsail": "Gun Sails GS-R  5.6",
     "sessionfin": "Tectonics Phoenix  30",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389905&uid=299"
-  },
-  {
-    "rowid": "27",
-    "event_id": 736,
-    "eventname": "2022 Odyssey of Speed",
-    "speed": 62.3198,
-    "type": "speed_2sec",
-    "username": "Konstantinos Palogos",
-    "ageclass": "Grand Master (51-60)",
-    "weightclass": "81-90",
-    "sexe": "Men",
-    "spotname": "Akti Nirea  EVIA ISLAND",
-    "sessionboard": "FMX Invictus 98",
-    "sessionsail": "Point-7 AC-1  5.4",
-    "sessionfin": "Zulu Umbani  32",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389988&uid=23998"
   },
   {
     "rowid": "28",

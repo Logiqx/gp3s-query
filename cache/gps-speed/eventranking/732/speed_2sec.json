@@ -163,6 +163,22 @@
     "rowid": "11",
     "event_id": 732,
     "eventname": "2022 DBO Speed Challenge",
+    "speed": 62.819840000000006,
+    "type": "speed_2sec",
+    "username": "Jesper Madsen",
+    "ageclass": "Master (36-50)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Veddelev",
+    "sessionboard": "Starboard Isonic 90",
+    "sessionsail": "Loftsails Racing Blade  6.3",
+    "sessionfin": "Z-fins SL S-  31",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=392650&uid=15727"
+  },
+  {
+    "rowid": "12",
+    "event_id": 732,
+    "eventname": "2022 DBO Speed Challenge",
     "speed": 62.12534000000001,
     "type": "speed_2sec",
     "username": "Jesper Skytte",
@@ -176,7 +192,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=378308&uid=4150"
   },
   {
-    "rowid": "12",
+    "rowid": "13",
     "event_id": 732,
     "eventname": "2022 DBO Speed Challenge",
     "speed": 61.064144000000006,
@@ -192,7 +208,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=381498&uid=15707"
   },
   {
-    "rowid": "13",
+    "rowid": "14",
     "event_id": 732,
     "eventname": "2022 DBO Speed Challenge",
     "speed": 60.360384,
@@ -208,7 +224,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=378183&uid=22618"
   },
   {
-    "rowid": "14",
+    "rowid": "15",
     "event_id": 732,
     "eventname": "2022 DBO Speed Challenge",
     "speed": 60.280748,
@@ -224,7 +240,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=381298&uid=5285"
   },
   {
-    "rowid": "15",
+    "rowid": "16",
     "event_id": 732,
     "eventname": "2022 DBO Speed Challenge",
     "speed": 59.119544000000005,
@@ -240,7 +256,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=381184&uid=26157"
   },
   {
-    "rowid": "16",
+    "rowid": "17",
     "event_id": 732,
     "eventname": "2022 DBO Speed Challenge",
     "speed": 59.058428,
@@ -256,7 +272,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=380438&uid=23918"
   },
   {
-    "rowid": "17",
+    "rowid": "18",
     "event_id": 732,
     "eventname": "2022 DBO Speed Challenge",
     "speed": 56.724908000000006,
@@ -272,7 +288,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=385880&uid=1203"
   },
   {
-    "rowid": "18",
+    "rowid": "19",
     "event_id": 732,
     "eventname": "2022 DBO Speed Challenge",
     "speed": 56.55082,
@@ -288,7 +304,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=374298&uid=23079"
   },
   {
-    "rowid": "19",
+    "rowid": "20",
     "event_id": 732,
     "eventname": "2022 DBO Speed Challenge",
     "speed": 56.389696,
@@ -304,7 +320,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=378538&uid=24035"
   },
   {
-    "rowid": "20",
+    "rowid": "21",
     "event_id": 732,
     "eventname": "2022 DBO Speed Challenge",
     "speed": 55.9304,
@@ -320,7 +336,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=377300&uid=25250"
   },
   {
-    "rowid": "21",
+    "rowid": "22",
     "event_id": 732,
     "eventname": "2022 DBO Speed Challenge",
     "speed": 55.30998,
@@ -336,7 +352,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=387609&uid=2678"
   },
   {
-    "rowid": "22",
+    "rowid": "23",
     "event_id": 732,
     "eventname": "2022 DBO Speed Challenge",
     "speed": 54.748824000000006,
@@ -352,7 +368,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=379801&uid=23803"
   },
   {
-    "rowid": "23",
+    "rowid": "24",
     "event_id": 732,
     "eventname": "2022 DBO Speed Challenge",
     "speed": 54.741416,
@@ -368,7 +384,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=385931&uid=23813"
   },
   {
-    "rowid": "24",
+    "rowid": "25",
     "event_id": 732,
     "eventname": "2022 DBO Speed Challenge",
     "speed": 54.445096,
@@ -384,7 +400,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=380694&uid=25879"
   },
   {
-    "rowid": "25",
+    "rowid": "26",
     "event_id": 732,
     "eventname": "2022 DBO Speed Challenge",
     "speed": 52.950532,
@@ -398,22 +414,6 @@
     "sessionsail": "Neilpryde RS Racing EVO 9  7.0",
     "sessionfin": "not defined -  0",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386326&uid=25630"
-  },
-  {
-    "rowid": "26",
-    "event_id": 732,
-    "eventname": "2022 DBO Speed Challenge",
-    "speed": 52.937568,
-    "type": "speed_2sec",
-    "username": "Jesper Madsen",
-    "ageclass": "Master (36-50)",
-    "weightclass": "71-80",
-    "sexe": "Men",
-    "spotname": "Veddelev",
-    "sessionboard": "RRD X-Fire LTD V4 122",
-    "sessionsail": "Loftsails Racing Blade  7.8",
-    "sessionfin": "Z-fins SL S-  42",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=387626&uid=15727"
   },
   {
     "rowid": "27",

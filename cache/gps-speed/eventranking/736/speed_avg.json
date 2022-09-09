@@ -371,6 +371,22 @@
     "rowid": "24",
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
+    "speed": 58.5180144,
+    "type": "speed_avg",
+    "username": "Florian Seitz",
+    "ageclass": "Master (36-50)",
+    "weightclass": "101-110",
+    "sexe": "Men",
+    "spotname": "Vasiliki",
+    "sessionboard": "Starboard Isonic 67 Carbon reflex ",
+    "sessionsail": "Point-7 AC-One   6.2",
+    "sessionfin": "NoLo 4  32",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=392641&uid=20613"
+  },
+  {
+    "rowid": "25",
+    "event_id": 736,
+    "eventname": "2022 Odyssey of Speed",
     "speed": 58.448008800000004,
     "type": "speed_avg",
     "username": "Ilias Tsekouras",
@@ -384,7 +400,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=385861&uid=6030"
   },
   {
-    "rowid": "25",
+    "rowid": "26",
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
     "speed": 58.29429280000001,
@@ -400,7 +416,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390220&uid=2117"
   },
   {
-    "rowid": "26",
+    "rowid": "27",
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
     "speed": 58.28614400000001,
@@ -416,7 +432,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=388439&uid=24045"
   },
   {
-    "rowid": "27",
+    "rowid": "28",
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
     "speed": 58.223176,
@@ -430,22 +446,6 @@
     "sessionsail": "Loftsails Racing Blade  6.3",
     "sessionfin": "mXr-fin UFO Wide 30 10%  24",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=391266&uid=6342"
-  },
-  {
-    "rowid": "28",
-    "event_id": 736,
-    "eventname": "2022 Odyssey of Speed",
-    "speed": 57.8220328,
-    "type": "speed_avg",
-    "username": "Florian Seitz",
-    "ageclass": "Master (36-50)",
-    "weightclass": "101-110",
-    "sexe": "Men",
-    "spotname": "Vasiliki",
-    "sessionboard": "Starboard Isonic 67 Carbon reflex ",
-    "sessionsail": "Point-7 AC-One   6.2",
-    "sessionfin": "NoLo 4  32",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=392340&uid=20613"
   },
   {
     "rowid": "29",

@@ -179,6 +179,22 @@
     "rowid": "12",
     "event_id": 737,
     "eventname": "2022 Spanish Speed Challenge",
+    "speed": 56.80454400000001,
+    "type": "speed_500",
+    "username": "Anne Schindler",
+    "ageclass": "Master (36-50)",
+    "weightclass": "71-80",
+    "sexe": "Woman",
+    "spotname": "Gran Canaria, Bah\u00eda de Formas (Salinas de Arinaga)",
+    "sessionboard": "Starboard I-Sonic Speed 54",
+    "sessionsail": "Severne Mach3 Luderitz Special   5.0",
+    "sessionfin": "Zulu Shaka  25",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=392632&uid=16739"
+  },
+  {
+    "rowid": "13",
+    "event_id": 737,
+    "eventname": "2022 Spanish Speed Challenge",
     "speed": 56.771208,
     "type": "speed_500",
     "username": "Raimundo Sala Albert",
@@ -192,7 +208,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386525&uid=22440"
   },
   {
-    "rowid": "13",
+    "rowid": "14",
     "event_id": 737,
     "eventname": "2022 Spanish Speed Challenge",
     "speed": 56.084116,
@@ -208,7 +224,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386982&uid=26053"
   },
   {
-    "rowid": "14",
+    "rowid": "15",
     "event_id": 737,
     "eventname": "2022 Spanish Speed Challenge",
     "speed": 55.98225600000001,
@@ -222,22 +238,6 @@
     "sessionsail": "Loftsails Speed blade   5.1",
     "sessionfin": "Gasoil Fins ELS Asy Speed tribord  21",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=373706&uid=19419"
-  },
-  {
-    "rowid": "15",
-    "event_id": 737,
-    "eventname": "2022 Spanish Speed Challenge",
-    "speed": 55.554444000000004,
-    "type": "speed_500",
-    "username": "Anne Schindler",
-    "ageclass": "Master (36-50)",
-    "weightclass": "71-80",
-    "sexe": "Woman",
-    "spotname": "Gran Canaria, Bah\u00eda de Formas (Salinas de Arinaga)",
-    "sessionboard": "AV Modena Speed 52",
-    "sessionsail": "Severne Mach 1 Speed  5.2",
-    "sessionfin": "Zulu Shaka  25",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=385754&uid=16739"
   },
   {
     "rowid": "16",
