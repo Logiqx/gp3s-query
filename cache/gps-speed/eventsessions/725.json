@@ -1038,5 +1038,31 @@
     "sessionsail": "Ezzy Cheetah 7.5,  2019",
     "sessionfin": "MFC RC2  44",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=392603&uid=4475"
+  },
+  {
+    "session_id": 392882,
+    "session_date": "9/9/2022 12:00:00 AM",
+    "event_id": 725,
+    "eventname": "Singlis-Speedchallenge 2022",
+    "speed_avg": 34.4460888,
+    "speed_2sec": 37.277056,
+    "speed_10sec": 36.558479999999996,
+    "speed_100": 36.558479999999996,
+    "speed_250": 33.943456,
+    "speed_500": 31.761799999999997,
+    "speed_mile": 0.0,
+    "speed_hour": 13.962228,
+    "speed_halfhour": 14.790072,
+    "speed_24hour": 0.0,
+    "speed_alpha_racing": 24.3075,
+    "session_distance": 21.5403,
+    "username": "Annette Reinhardt",
+    "flag": "DE",
+    "sexe": "Woman",
+    "spotname": "Singliser See",
+    "sessionboard": "Tabou Rocket 135,  2011",
+    "sessionsail": "Ezzy Legacy 7.5,  2014",
+    "sessionfin": "not defined -  0",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=392882&uid=24138"
   }
 ]

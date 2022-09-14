@@ -62,5 +62,21 @@
     "sessionsail": "Phantom IRIS X  5.0",
     "sessionfin": "Phantom IRIS R FW550-Fuselage100-BW200  550",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386008&uid=24593"
+  },
+  {
+    "rowid": "5",
+    "event_id": 735,
+    "eventname": "World Speed Tour - GPS POS 2022",
+    "speed": 5.715272,
+    "type": "speed_hour",
+    "username": "Marc Kappes",
+    "ageclass": "Master (36-50)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Porto Pollo",
+    "sessionboard": "Tabou Air Ride 81",
+    "sessionsail": "Duotone Warp_Foil 2022  7.9",
+    "sessionfin": "Phantom IRIS R FW730-Fuselage100-BW200  730",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=392904&uid=5575"
   }
 ]

@@ -3976,5 +3976,31 @@
     "sessionsail": "KA Sails Race 8.7,  2016",
     "sessionfin": "Tribal Fin Slalom MK2  43",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=392369&uid=7440"
+  },
+  {
+    "session_id": 392756,
+    "session_date": "9/9/2022 12:00:00 AM",
+    "event_id": 730,
+    "eventname": "Surf like a dude Zuidlaardermeer Speed Challenge 2022",
+    "speed_avg": 49.658416800000005,
+    "speed_2sec": 52.131948,
+    "speed_10sec": 50.648496,
+    "speed_100": 51.131868000000004,
+    "speed_250": 50.174384,
+    "speed_500": 46.516684000000005,
+    "speed_mile": 35.025024,
+    "speed_hour": 12.126896,
+    "speed_halfhour": 19.410812,
+    "speed_24hour": 0.0,
+    "speed_alpha_racing": 30.50244,
+    "session_distance": 17.426501000000002,
+    "username": "Bert Bodde",
+    "flag": "NL",
+    "sexe": "Men",
+    "spotname": "Zuidlaardermeer",
+    "sessionboard": "Starboard iSonic Race Slalom 127 UltraCore Reflex Carbon,  2017",
+    "sessionsail": "Point-7 AC1 9.2,  2022",
+    "sessionfin": "Sonntag Fins SL-X  44",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=392756&uid=20514"
   }
 ]

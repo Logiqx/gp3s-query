@@ -30,5 +30,21 @@
     "sessionsail": "Severne Reflex 5  7.0",
     "sessionfin": "- AFS 105 S740  105",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390199&uid=11625"
+  },
+  {
+    "rowid": "3",
+    "event_id": 728,
+    "eventname": "2022 FFF Speed Challenge",
+    "speed": 52.407896,
+    "type": "speed_2sec",
+    "username": "Hans-Peter Schmidt",
+    "ageclass": "Master (36-50)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "La Palme - Plage du Rouet",
+    "sessionboard": "FMX Hyperion 178LR",
+    "sessionsail": "Phantom IRIS R mk2  5.5",
+    "sessionfin": "Phantom IRIS R FW430-Fuselage100-BW200  430",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=392811&uid=25710"
   }
 ]

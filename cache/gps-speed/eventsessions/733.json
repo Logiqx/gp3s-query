@@ -2156,5 +2156,31 @@
     "sessionsail": "S2 Maui VENOM 7.5,  2021",
     "sessionfin": "Tribal Fin Slalom MK2 Carbon  38",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=392512&uid=22394"
+  },
+  {
+    "session_id": 392722,
+    "session_date": "9/9/2022 12:00:00 AM",
+    "event_id": 733,
+    "eventname": "2022 ",
+    "speed_avg": 55.5022176,
+    "speed_2sec": 58.580612,
+    "speed_10sec": 57.79166,
+    "speed_100": 58.139836,
+    "speed_250": 56.49896400000001,
+    "speed_500": 53.81912,
+    "speed_mile": 44.618384,
+    "speed_hour": 19.910852,
+    "speed_halfhour": 25.994672,
+    "speed_24hour": 0.0,
+    "speed_alpha_racing": 22.224,
+    "session_distance": 20.89098,
+    "username": "Regis Lesieur",
+    "flag": "FR",
+    "sexe": "Men",
+    "spotname": "Le Morne",
+    "sessionboard": "Future Fly Dark Horse 107,  2022",
+    "sessionsail": "S2 Maui VENOM 7.5,  2021",
+    "sessionfin": "Tribal Fin Slalom MK2 Carbon  38",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=392722&uid=22394"
   }
 ]

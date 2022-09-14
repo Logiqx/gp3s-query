@@ -179,6 +179,22 @@
     "rowid": "12",
     "event_id": 726,
     "eventname": "WSCA Westeinder Speedking 2022",
+    "speed": 28.12262,
+    "type": "speed_halfhour",
+    "username": "Bertus Baas",
+    "ageclass": "Master (36-50)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Westeinder Plassen",
+    "sessionboard": "Starboard Isonic 130 Carbon",
+    "sessionsail": "Gun Sails Sunray  8.6",
+    "sessionfin": "Sonntag Fins SLP  45",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=392743&uid=23373"
+  },
+  {
+    "rowid": "13",
+    "event_id": 726,
+    "eventname": "WSCA Westeinder Speedking 2022",
     "speed": 26.60398,
     "type": "speed_halfhour",
     "username": "Remco Stolp",
@@ -192,7 +208,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=384027&uid=384"
   },
   {
-    "rowid": "13",
+    "rowid": "14",
     "event_id": 726,
     "eventname": "WSCA Westeinder Speedking 2022",
     "speed": 24.931624,
@@ -206,22 +222,6 @@
     "sessionsail": "Gun Sails GS-R  8.7",
     "sessionfin": "Z-fins Z SLM 44 s-  44",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=384289&uid=23965"
-  },
-  {
-    "rowid": "14",
-    "event_id": 726,
-    "eventname": "WSCA Westeinder Speedking 2022",
-    "speed": 24.450104,
-    "type": "speed_halfhour",
-    "username": "Bertus Baas",
-    "ageclass": "Master (36-50)",
-    "weightclass": "81-90",
-    "sexe": "Men",
-    "spotname": "Westeinder Plassen",
-    "sessionboard": "Starboard Isonic 130 Carbon",
-    "sessionsail": "Gun Sails Sunray  8.6",
-    "sessionfin": "not defined -  0",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=383965&uid=23373"
   },
   {
     "rowid": "15",
