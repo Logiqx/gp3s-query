@@ -336,5 +336,31 @@
     "sessionsail": "Demon Design VG7 95.0,  2015",
     "sessionfin": "Select Rhino  51",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390617&uid=23634"
+  },
+  {
+    "session_id": 393144,
+    "session_date": "9/16/2022 12:00:00 AM",
+    "event_id": 722,
+    "eventname": "Lysakerfjorden 2022",
+    "speed_avg": 41.0203184,
+    "speed_2sec": 49.389136,
+    "speed_10sec": 47.603808,
+    "speed_100": 47.916796000000005,
+    "speed_250": 47.14080800000001,
+    "speed_500": 45.261028,
+    "speed_mile": 27.46516,
+    "speed_hour": 3.9947640000000004,
+    "speed_halfhour": 9.03776,
+    "speed_24hour": 0.0,
+    "speed_alpha_racing": 16.845792,
+    "session_distance": 8.737285,
+    "username": "Jan Erik Ringvold",
+    "flag": "NO",
+    "sexe": "Men",
+    "spotname": "Lysakerfjorden",
+    "sessionboard": "PATRIK f-ride,  2022",
+    "sessionsail": "Severne Turbo 7.5,  2017",
+    "sessionfin": "not defined -  0",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=393144&uid=24766"
   }
 ]

@@ -1,0 +1,18 @@
+[
+  {
+    "rowid": "1",
+    "event_id": 757,
+    "eventname": "2022 Auckland Windsurfing Association Speed Challenge",
+    "speed": 38.743840000000006,
+    "type": "speed_100",
+    "username": "Rainer Cramme",
+    "ageclass": "Youth (0-10)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Nelson Harbour",
+    "sessionboard": "Fanatic Falcon Slalom TE 136",
+    "sessionsail": "Neilpryde RS Racing EVO X  7.8",
+    "sessionfin": "Starboard Race Pro Fuselage 115 Plus Fr 800 T 255  95",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=394288&uid=26454"
+  }
+]

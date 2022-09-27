@@ -170,13 +170,29 @@
     "weightclass": "71-80",
     "sexe": "Men",
     "spotname": "Veddelev",
-    "sessionboard": "Starboard Isonic 90",
-    "sessionsail": "Loftsails Racing Blade  6.3",
-    "sessionfin": "Z-fins SL S-  31",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=392650&uid=15727"
+    "sessionboard": "RRD X-Fire LTD V8 108",
+    "sessionsail": "Loftsails Racing Blade  7.0",
+    "sessionfin": "Z-fins SL S-  36",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=393869&uid=15727"
   },
   {
     "rowid": "12",
+    "event_id": 732,
+    "eventname": "2022 DBO Speed Challenge",
+    "speed": 62.769836000000005,
+    "type": "speed_2sec",
+    "username": "Kim Sorensen",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "61-70",
+    "sexe": "Men",
+    "spotname": "Knebel Vig",
+    "sessionboard": "PATRIK Slalom 100",
+    "sessionsail": "Gun Sails GS-R  7.1",
+    "sessionfin": "Gasoil Fins CHR-L soft  34",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=393810&uid=22618"
+  },
+  {
+    "rowid": "13",
     "event_id": 732,
     "eventname": "2022 DBO Speed Challenge",
     "speed": 62.12534000000001,
@@ -192,7 +208,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=378308&uid=4150"
   },
   {
-    "rowid": "13",
+    "rowid": "14",
     "event_id": 732,
     "eventname": "2022 DBO Speed Challenge",
     "speed": 61.064144000000006,
@@ -206,22 +222,6 @@
     "sessionsail": "Loftsails RacingBlade  6.3",
     "sessionfin": "Z-fins slm   32",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=381498&uid=15707"
-  },
-  {
-    "rowid": "14",
-    "event_id": 732,
-    "eventname": "2022 DBO Speed Challenge",
-    "speed": 60.360384,
-    "type": "speed_2sec",
-    "username": "Kim Sorensen",
-    "ageclass": "Grand Master (51-60)",
-    "weightclass": "61-70",
-    "sexe": "Men",
-    "spotname": "Knebel Vig",
-    "sessionboard": "Tiga  Hyper X 85",
-    "sessionsail": "Gun Sails GS-R  5.6",
-    "sessionfin": "Gasoil Fins CHR-M medium  30",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=378183&uid=22618"
   },
   {
     "rowid": "15",

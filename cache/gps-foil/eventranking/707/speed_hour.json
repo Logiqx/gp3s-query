@@ -11,7 +11,7 @@
     "sexe": "Men",
     "spotname": "Portland Harbour, Weymouth",
     "sessionboard": "JP Hydrofoil 150 PRO",
-    "sessionsail": "Neilpryde RS RACING EVO XII  6.6",
+    "sessionsail": "Neilpryde RS Racing EVO XII  6.6",
     "sessionfin": "Starboard Race Plus Carbon Fuselage 115 Plus Fr 650 T 255  95",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386170&uid=2640"
   },
@@ -99,6 +99,22 @@
     "rowid": "7",
     "event_id": 707,
     "eventname": "British Foil Speed Challenge 2022",
+    "speed": 27.887416,
+    "type": "speed_hour",
+    "username": "Richard Beaman",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "101-110",
+    "sexe": "Men",
+    "spotname": "St Mawes, Cornwall",
+    "sessionboard": "Severne Alien",
+    "sessionsail": "Severne Foilglide 2  7.0",
+    "sessionfin": "Starboard Starboard Race Carbon (550-255)  95",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=393998&uid=4236"
+  },
+  {
+    "rowid": "8",
+    "event_id": 707,
+    "eventname": "British Foil Speed Challenge 2022",
     "speed": 27.222548,
     "type": "speed_hour",
     "username": "Shaun Cook",
@@ -112,7 +128,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=371013&uid=20717"
   },
   {
-    "rowid": "8",
+    "rowid": "9",
     "event_id": 707,
     "eventname": "British Foil Speed Challenge 2022",
     "speed": 25.76132,
@@ -128,7 +144,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386147&uid=18265"
   },
   {
-    "rowid": "9",
+    "rowid": "10",
     "event_id": 707,
     "eventname": "British Foil Speed Challenge 2022",
     "speed": 22.181404,
@@ -144,7 +160,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=385118&uid=25474"
   },
   {
-    "rowid": "10",
+    "rowid": "11",
     "event_id": 707,
     "eventname": "British Foil Speed Challenge 2022",
     "speed": 20.833148,
@@ -160,7 +176,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=385969&uid=23129"
   },
   {
-    "rowid": "11",
+    "rowid": "12",
     "event_id": 707,
     "eventname": "British Foil Speed Challenge 2022",
     "speed": 19.931224,
@@ -176,7 +192,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=379611&uid=3111"
   },
   {
-    "rowid": "12",
+    "rowid": "13",
     "event_id": 707,
     "eventname": "British Foil Speed Challenge 2022",
     "speed": 19.360808000000002,
@@ -192,7 +208,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=373526&uid=5835"
   },
   {
-    "rowid": "13",
+    "rowid": "14",
     "event_id": 707,
     "eventname": "British Foil Speed Challenge 2022",
     "speed": 12.923256,
@@ -208,7 +224,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=370453&uid=4728"
   },
   {
-    "rowid": "14",
+    "rowid": "15",
     "event_id": 707,
     "eventname": "British Foil Speed Challenge 2022",
     "speed": 10.591588000000002,

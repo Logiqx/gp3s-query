@@ -311,7 +311,7 @@
     "type": "speed_250",
     "username": "Luis Vierna",
     "ageclass": "Master (36-50)",
-    "weightclass": "91-100",
+    "weightclass": "81-90",
     "sexe": "Men",
     "spotname": "Embalse de Pedrezuela",
     "sessionboard": "i-99 NoveNove WCSL 139",
@@ -321,6 +321,22 @@
   },
   {
     "rowid": "21",
+    "event_id": 737,
+    "eventname": "2022 Spanish Speed Challenge",
+    "speed": 54.63585200000001,
+    "type": "speed_250",
+    "username": "Sico Barber",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Fornells",
+    "sessionboard": "PATRIK slalom 95",
+    "sessionsail": "Loftsails |Switch Blade  6.3",
+    "sessionfin": "Select HOT ROD  33",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=393360&uid=25284"
+  },
+  {
+    "rowid": "22",
     "event_id": 737,
     "eventname": "2022 Spanish Speed Challenge",
     "speed": 54.287676,
@@ -336,7 +352,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389102&uid=23336"
   },
   {
-    "rowid": "22",
+    "rowid": "23",
     "event_id": 737,
     "eventname": "2022 Spanish Speed Challenge",
     "speed": 53.313524,
@@ -352,7 +368,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386571&uid=25589"
   },
   {
-    "rowid": "23",
+    "rowid": "24",
     "event_id": 737,
     "eventname": "2022 Spanish Speed Challenge",
     "speed": 51.922672000000006,
@@ -366,22 +382,6 @@
     "sessionsail": "RRD Firewing MK5  6.3",
     "sessionfin": "iFins Fight Club  30",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=377437&uid=24813"
-  },
-  {
-    "rowid": "24",
-    "event_id": 737,
-    "eventname": "2022 Spanish Speed Challenge",
-    "speed": 51.885632,
-    "type": "speed_250",
-    "username": "Sico Barber",
-    "ageclass": "Grand Master (51-60)",
-    "weightclass": "81-90",
-    "sexe": "Men",
-    "spotname": "Fornells",
-    "sessionboard": "Tabou Manta FR 79",
-    "sessionsail": "Loftsails navaja de muelle  7.8",
-    "sessionfin": "Sonntag Fins SL - PRO - 45  45",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=385382&uid=25284"
   },
   {
     "rowid": "25",

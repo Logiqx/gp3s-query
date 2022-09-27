@@ -99,23 +99,23 @@
     "rowid": "7",
     "event_id": 726,
     "eventname": "WSCA Westeinder Speedking 2022",
-    "speed": 54.94143200000001,
+    "speed": 55.47740080000001,
     "type": "speed_avg",
     "username": "David van den Toorn",
     "ageclass": "Senior (19-35)",
     "weightclass": "71-80",
     "sexe": "Men",
     "spotname": "Westeinder Plassen",
-    "sessionboard": "Angulo Magnum 115",
+    "sessionboard": "PATRIK Slalom 125",
     "sessionsail": "Loftsails Racing Blade  7.0",
-    "sessionfin": "Deboichet SL2   34",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=373618&uid=22950"
+    "sessionfin": "Sonntag Fins SL-R  37",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=393509&uid=22950"
   },
   {
     "rowid": "8",
     "event_id": 726,
     "eventname": "WSCA Westeinder Speedking 2022",
-    "speed": 54.898095200000014,
+    "speed": 55.276644000000005,
     "type": "speed_avg",
     "username": "Max Shytikov",
     "ageclass": "Master (36-50)",
@@ -123,9 +123,9 @@
     "sexe": "Men",
     "spotname": "Westeinder Plassen",
     "sessionboard": "Future Fly Dark Horse FR 107",
-    "sessionsail": "Duotone Warp_fin 20.22  7.8",
-    "sessionfin": "Sonntag Fins SL-X 360  36",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=384186&uid=25266"
+    "sessionsail": "Duotone Warp_fin 20.22  6.8",
+    "sessionfin": "Finish First V2   32",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=393574&uid=25266"
   },
   {
     "rowid": "9",

@@ -171,7 +171,7 @@
     "sexe": "Men",
     "spotname": "Southend-on-Sea",
     "sessionboard": "JP Speed 45",
-    "sessionsail": "Neilpryde RS RACING EVO XII  5.8",
+    "sessionsail": "Neilpryde RS Racing EVO XII  5.8",
     "sessionfin": "Z-fins Z Speed ASY  21",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=375964&uid=2911"
   },
@@ -691,6 +691,22 @@
     "rowid": "44",
     "event_id": 710,
     "eventname": "BritishSpeedChallenge2022",
+    "speed": 46.635212,
+    "type": "speed_250",
+    "username": "Chris Vasey",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "91-100",
+    "sexe": "Men",
+    "spotname": "North Lincs Sailing Club",
+    "sessionboard": "Tiga  Flash 74",
+    "sessionsail": "North Sails Natural  6.2",
+    "sessionfin": "Curtis Race   58",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=393318&uid=5487"
+  },
+  {
+    "rowid": "45",
+    "event_id": 710,
+    "eventname": "BritishSpeedChallenge2022",
     "speed": 46.120356,
     "type": "speed_250",
     "username": "Dean Hutchinson",
@@ -704,7 +720,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=372369&uid=22284"
   },
   {
-    "rowid": "45",
+    "rowid": "46",
     "event_id": 710,
     "eventname": "BritishSpeedChallenge2022",
     "speed": 44.407256000000004,
@@ -720,7 +736,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389891&uid=6358"
   },
   {
-    "rowid": "46",
+    "rowid": "47",
     "event_id": 710,
     "eventname": "BritishSpeedChallenge2022",
     "speed": 44.053524,
@@ -736,7 +752,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=368337&uid=18240"
   },
   {
-    "rowid": "47",
+    "rowid": "48",
     "event_id": 710,
     "eventname": "BritishSpeedChallenge2022",
     "speed": 43.692384,
@@ -752,7 +768,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=388516&uid=26104"
   },
   {
-    "rowid": "48",
+    "rowid": "49",
     "event_id": 710,
     "eventname": "BritishSpeedChallenge2022",
     "speed": 42.0404,
@@ -768,7 +784,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=391146&uid=26389"
   },
   {
-    "rowid": "49",
+    "rowid": "50",
     "event_id": 710,
     "eventname": "BritishSpeedChallenge2022",
     "speed": 40.940312000000006,
@@ -782,22 +798,6 @@
     "sessionsail": "Tushingham X-15  7.0",
     "sessionfin": "Stix sabre race  37",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=383781&uid=5687"
-  },
-  {
-    "rowid": "50",
-    "event_id": 710,
-    "eventname": "BritishSpeedChallenge2022",
-    "speed": 40.9292,
-    "type": "speed_250",
-    "username": "Chris Vasey",
-    "ageclass": "Grand Master (51-60)",
-    "weightclass": "91-100",
-    "sexe": "Men",
-    "spotname": "North Lincs Sailing Club",
-    "sessionboard": "Tiga  Flash 74",
-    "sessionsail": "North Sails Ram F8  7.3",
-    "sessionfin": "Curtis Race   58",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=384788&uid=5487"
   },
   {
     "rowid": "51",

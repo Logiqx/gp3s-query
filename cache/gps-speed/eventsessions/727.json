@@ -336,5 +336,31 @@
     "sessionsail": "Challenger Sails Aero+ 6.4,  2010",
     "sessionfin": "Gasoil Fins CHR X  36",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=391372&uid=5566"
+  },
+  {
+    "session_id": 393889,
+    "session_date": "9/19/2022 12:00:00 AM",
+    "event_id": 727,
+    "eventname": "2022 FFF SPEED CHALLENGE",
+    "speed_avg": 64.66258000000002,
+    "speed_2sec": 68.1073,
+    "speed_10sec": 65.283,
+    "speed_100": 67.28501200000001,
+    "speed_250": 65.07928000000001,
+    "speed_500": 64.294032,
+    "speed_mile": 60.765972000000005,
+    "speed_hour": 8.745144000000002,
+    "speed_halfhour": 33.256364000000005,
+    "speed_24hour": 0.0,
+    "speed_alpha_racing": 41.131068,
+    "session_distance": 34.827224,
+    "username": "Michel Cyril",
+    "flag": "FR",
+    "sexe": "Men",
+    "spotname": "Fos, 13",
+    "sessionboard": "Tabou Manta 59,  2006",
+    "sessionsail": "Simmer Sails SCR 5.8,  2020",
+    "sessionfin": "Z-fins S FS  30",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=393889&uid=5566"
   }
 ]

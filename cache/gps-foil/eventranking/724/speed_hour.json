@@ -35,7 +35,7 @@
     "rowid": "3",
     "event_id": 724,
     "eventname": "Lysakerfjorden Foil 2022",
-    "speed": 13.415888,
+    "speed": 18.81632,
     "type": "speed_hour",
     "username": "Christian Hilmersen",
     "ageclass": "Grand Master (51-60)",
@@ -43,25 +43,25 @@
     "sexe": "Men",
     "spotname": "Lysakerfjorden",
     "sessionboard": "PATRIK Foil-Comp 100 v2",
-    "sessionsail": "Loft Sails Skyblade   10.0",
+    "sessionsail": "Severne HGO  8.0",
     "sessionfin": "- SABFoil(1000-1150-420)  107",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=385963&uid=23634"
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=393710&uid=23634"
   },
   {
     "rowid": "4",
     "event_id": 724,
     "eventname": "Lysakerfjorden Foil 2022",
-    "speed": 12.389880000000002,
+    "speed": 15.206772,
     "type": "speed_hour",
     "username": "Axel Espeli Blankholm",
     "ageclass": "Junior (11-14)",
     "weightclass": "0-40",
     "sexe": "Men",
-    "spotname": "Lysakerfjorden",
+    "spotname": "Asker Seilklubb",
     "sessionboard": "Starboard iQFOIL 85 ",
     "sessionsail": "Severne FGO IQ foil  7.0",
     "sessionfin": "Starboard IQ Foil Jr 95 - 800FW-255BW-0,5  800",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=381887&uid=25451"
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=393713&uid=25451"
   },
   {
     "rowid": "5",

@@ -99,6 +99,22 @@
     "rowid": "7",
     "event_id": 734,
     "eventname": "World Speed Tour - GPS POS 2022 ",
+    "speed": 25.255724,
+    "type": "speed_hour",
+    "username": "Blanca Alabau",
+    "ageclass": "Senior (19-35)",
+    "weightclass": "51-60",
+    "sexe": "Woman",
+    "spotname": "La Palme - Plage du Rouet",
+    "sessionboard": "not defined ",
+    "sessionsail": "Severne Mach5 L\u00fcderitz Edition  5.2",
+    "sessionfin": "not defined -  0",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=393697&uid=26200"
+  },
+  {
+    "rowid": "8",
+    "event_id": 734,
+    "eventname": "World Speed Tour - GPS POS 2022 ",
     "speed": 25.085340000000002,
     "type": "speed_hour",
     "username": "Laurent Fesquet",
@@ -112,7 +128,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=382219&uid=4597"
   },
   {
-    "rowid": "8",
+    "rowid": "9",
     "event_id": 734,
     "eventname": "World Speed Tour - GPS POS 2022 ",
     "speed": 23.555588,
@@ -128,7 +144,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=391023&uid=2042"
   },
   {
-    "rowid": "9",
+    "rowid": "10",
     "event_id": 734,
     "eventname": "World Speed Tour - GPS POS 2022 ",
     "speed": 22.151772,
@@ -144,7 +160,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=377957&uid=2343"
   },
   {
-    "rowid": "10",
+    "rowid": "11",
     "event_id": 734,
     "eventname": "World Speed Tour - GPS POS 2022 ",
     "speed": 21.770260000000004,
@@ -160,7 +176,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=383385&uid=2035"
   },
   {
-    "rowid": "11",
+    "rowid": "12",
     "event_id": 734,
     "eventname": "World Speed Tour - GPS POS 2022 ",
     "speed": 20.1405,
@@ -176,7 +192,23 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=382223&uid=2352"
   },
   {
-    "rowid": "12",
+    "rowid": "13",
+    "event_id": 734,
+    "eventname": "World Speed Tour - GPS POS 2022 ",
+    "speed": 19.56638,
+    "type": "speed_hour",
+    "username": "Roger \u00d6rnvang",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "91-100",
+    "sexe": "Men",
+    "spotname": "Habo Ljung",
+    "sessionboard": "Carbon Art Sp 53",
+    "sessionsail": "Severne Mach 4  6.2",
+    "sessionfin": "Sonntag Fins GPS-Weed  25",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=393088&uid=22163"
+  },
+  {
+    "rowid": "14",
     "event_id": 734,
     "eventname": "World Speed Tour - GPS POS 2022 ",
     "speed": 17.764384000000003,
@@ -192,7 +224,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=373640&uid=6135"
   },
   {
-    "rowid": "13",
+    "rowid": "15",
     "event_id": 734,
     "eventname": "World Speed Tour - GPS POS 2022 ",
     "speed": 17.681044000000004,
@@ -208,7 +240,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389297&uid=19419"
   },
   {
-    "rowid": "14",
+    "rowid": "16",
     "event_id": 734,
     "eventname": "World Speed Tour - GPS POS 2022 ",
     "speed": 15.786448,
@@ -224,7 +256,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=381882&uid=23889"
   },
   {
-    "rowid": "15",
+    "rowid": "17",
     "event_id": 734,
     "eventname": "World Speed Tour - GPS POS 2022 ",
     "speed": 14.717844000000001,
@@ -240,23 +272,23 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=374586&uid=5223"
   },
   {
-    "rowid": "16",
+    "rowid": "18",
     "event_id": 734,
     "eventname": "World Speed Tour - GPS POS 2022 ",
-    "speed": 14.377076,
+    "speed": 14.60302,
     "type": "speed_hour",
     "username": "Enrique del valle",
     "ageclass": "Master (36-50)",
     "weightclass": "81-90",
     "sexe": "Men",
     "spotname": "La Palme - Plage du Rouet",
-    "sessionboard": "Mistral Mistral 112",
-    "sessionsail": "Neilpryde RS Racing EVO XII  7.4",
-    "sessionfin": "Sonntag Fins GPS_6  33",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=373798&uid=23714"
+    "sessionboard": "PATRIK Speed 53",
+    "sessionsail": "KA Sails Race  6.3",
+    "sessionfin": "Tribal Fin ASY Speed Carbon   23",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=393288&uid=23714"
   },
   {
-    "rowid": "17",
+    "rowid": "19",
     "event_id": 734,
     "eventname": "World Speed Tour - GPS POS 2022 ",
     "speed": 13.545528000000001,
@@ -272,7 +304,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=374702&uid=22819"
   },
   {
-    "rowid": "18",
+    "rowid": "20",
     "event_id": 734,
     "eventname": "World Speed Tour - GPS POS 2022 ",
     "speed": 12.619528,
@@ -288,7 +320,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=382164&uid=2554"
   },
   {
-    "rowid": "19",
+    "rowid": "21",
     "event_id": 734,
     "eventname": "World Speed Tour - GPS POS 2022 ",
     "speed": 12.613972,
@@ -304,7 +336,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=374580&uid=5203"
   },
   {
-    "rowid": "20",
+    "rowid": "22",
     "event_id": 734,
     "eventname": "World Speed Tour - GPS POS 2022 ",
     "speed": 12.19542,
@@ -320,7 +352,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=391037&uid=4588"
   },
   {
-    "rowid": "21",
+    "rowid": "23",
     "event_id": 734,
     "eventname": "World Speed Tour - GPS POS 2022 ",
     "speed": 11.550924,
@@ -336,7 +368,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=384310&uid=4470"
   },
   {
-    "rowid": "22",
+    "rowid": "24",
     "event_id": 734,
     "eventname": "World Speed Tour - GPS POS 2022 ",
     "speed": 8.598836,
@@ -352,7 +384,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=392844&uid=24908"
   },
   {
-    "rowid": "23",
+    "rowid": "25",
     "event_id": 734,
     "eventname": "World Speed Tour - GPS POS 2022 ",
     "speed": 8.382152,
@@ -368,7 +400,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=380146&uid=25149"
   },
   {
-    "rowid": "24",
+    "rowid": "26",
     "event_id": 734,
     "eventname": "World Speed Tour - GPS POS 2022 ",
     "speed": 6.26902,

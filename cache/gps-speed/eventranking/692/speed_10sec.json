@@ -51,17 +51,17 @@
     "rowid": "4",
     "event_id": 692,
     "eventname": "Surf like a dude Zuidlaardermeer speed challenge 2021",
-    "speed": 61.732716,
+    "speed": 61.83087200000001,
     "type": "speed_10sec",
     "username": "Tim Heeringa",
     "ageclass": "Master (36-50)",
     "weightclass": "81-90",
     "sexe": "Men",
     "spotname": "Zuidlaardermeer",
-    "sessionboard": "Exocet RS 3",
-    "sessionsail": "S2 Maui Venom  7.0",
-    "sessionfin": "F-Hot RS-3  34",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=374289&uid=23642"
+    "sessionboard": "AHD GT 75",
+    "sessionsail": "S2 Maui Venom  7.7",
+    "sessionfin": "Finish Speed Slalom  37",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=393413&uid=23642"
   },
   {
     "rowid": "5",
@@ -99,6 +99,22 @@
     "rowid": "7",
     "event_id": 692,
     "eventname": "Surf like a dude Zuidlaardermeer speed challenge 2021",
+    "speed": 57.519416,
+    "type": "speed_10sec",
+    "username": "Jakob Snip",
+    "ageclass": "Ultimate Master (71-99)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Zuidlaardermeer",
+    "sessionboard": "Fanatic Falcon",
+    "sessionsail": "North Sails Warp  7.0",
+    "sessionfin": "Z-fins z slm  38",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=393167&uid=25848"
+  },
+  {
+    "rowid": "8",
+    "event_id": 692,
+    "eventname": "Surf like a dude Zuidlaardermeer speed challenge 2021",
     "speed": 57.456448,
     "type": "speed_10sec",
     "username": "Dennis Beumer",
@@ -112,7 +128,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=380996&uid=22984"
   },
   {
-    "rowid": "8",
+    "rowid": "9",
     "event_id": 692,
     "eventname": "Surf like a dude Zuidlaardermeer speed challenge 2021",
     "speed": 57.399036,
@@ -126,22 +142,6 @@
     "sessionsail": "Neilpryde RS Racing Evo 7  6.4",
     "sessionfin": "Select V-Max 4.0  31",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=361100&uid=23914"
-  },
-  {
-    "rowid": "9",
-    "event_id": 692,
-    "eventname": "Surf like a dude Zuidlaardermeer speed challenge 2021",
-    "speed": 57.336068000000004,
-    "type": "speed_10sec",
-    "username": "Jakob Snip",
-    "ageclass": "Ultimate Master (71-99)",
-    "weightclass": "81-90",
-    "sexe": "Men",
-    "spotname": "Zuidlaardermeer",
-    "sessionboard": "Fanatic Falcon",
-    "sessionsail": "Duotone Warp 7.7  7.7",
-    "sessionfin": "not defined -  0",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=376222&uid=25848"
   },
   {
     "rowid": "10",

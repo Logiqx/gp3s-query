@@ -147,7 +147,7 @@
     "rowid": "10",
     "event_id": 732,
     "eventname": "2022 DBO Speed Challenge",
-    "speed": 62.182752,
+    "speed": 63.25506000000001,
     "type": "speed_100",
     "username": "S\u00f8ren Kj\u00e6r",
     "ageclass": "Super Master (61-70)",
@@ -155,9 +155,9 @@
     "sexe": "Men",
     "spotname": "Veddelev",
     "sessionboard": "Starboard iSonic Speed Slalom 80",
-    "sessionsail": "Simmer Sails RCS  5.4",
+    "sessionsail": "Loft Sails Racing Blade  6.3",
     "sessionfin": "Hurricane SSM-  31",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=392703&uid=18137"
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=393128&uid=18137"
   },
   {
     "rowid": "11",
@@ -170,13 +170,29 @@
     "weightclass": "71-80",
     "sexe": "Men",
     "spotname": "Veddelev",
-    "sessionboard": "Starboard Isonic 90",
-    "sessionsail": "Loftsails Racing Blade  6.3",
-    "sessionfin": "Z-fins SL S-  31",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=392650&uid=15727"
+    "sessionboard": "RRD X-Fire LTD V8 108",
+    "sessionsail": "Loftsails Racing Blade  7.0",
+    "sessionfin": "Z-fins SL S-  36",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=393869&uid=15727"
   },
   {
     "rowid": "12",
+    "event_id": 732,
+    "eventname": "2022 DBO Speed Challenge",
+    "speed": 61.999404,
+    "type": "speed_100",
+    "username": "Kim Sorensen",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "61-70",
+    "sexe": "Men",
+    "spotname": "Knebel Vig",
+    "sessionboard": "PATRIK Slalom 100",
+    "sessionsail": "Gun Sails GS-R  7.1",
+    "sessionfin": "Gasoil Fins CHR-L soft  34",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=393810&uid=22618"
+  },
+  {
+    "rowid": "13",
     "event_id": 732,
     "eventname": "2022 DBO Speed Challenge",
     "speed": 61.806796,
@@ -192,7 +208,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=378308&uid=4150"
   },
   {
-    "rowid": "13",
+    "rowid": "14",
     "event_id": 732,
     "eventname": "2022 DBO Speed Challenge",
     "speed": 59.54920800000001,
@@ -206,22 +222,6 @@
     "sessionsail": "Loftsails RacingBlade  6.3",
     "sessionfin": "Z-fins slm   32",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=381498&uid=15707"
-  },
-  {
-    "rowid": "14",
-    "event_id": 732,
-    "eventname": "2022 DBO Speed Challenge",
-    "speed": 59.517724,
-    "type": "speed_100",
-    "username": "Kim Sorensen",
-    "ageclass": "Grand Master (51-60)",
-    "weightclass": "61-70",
-    "sexe": "Men",
-    "spotname": "Knebel Vig",
-    "sessionboard": "Tiga  Hyper X 85",
-    "sessionsail": "Gun Sails GS-R  5.6",
-    "sessionfin": "Gasoil Fins CHR-M medium  30",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=378183&uid=22618"
   },
   {
     "rowid": "15",

@@ -75,12 +75,44 @@
     "sexe": "Men",
     "spotname": "Portland Harbour, Weymouth",
     "sessionboard": "JP Hydrofoil 150 PRO",
-    "sessionsail": "Neilpryde RS RACING EVO XII  6.6",
+    "sessionsail": "Neilpryde RS Racing EVO XII  6.6",
     "sessionfin": "Neilpryde Flight SLR 70  95",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390999&uid=2640"
   },
   {
     "rowid": "6",
+    "event_id": 707,
+    "eventname": "British Foil Speed Challenge 2022",
+    "speed": 45.62957600000001,
+    "type": "speed_250",
+    "username": "Richard Beaman",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "101-110",
+    "sexe": "Men",
+    "spotname": "St Mawes, Cornwall",
+    "sessionboard": "Severne Alien",
+    "sessionsail": "Severne Foilglide 2  7.0",
+    "sessionfin": "Starboard Starboard Race Carbon (550-255)  95",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=393285&uid=4236"
+  },
+  {
+    "rowid": "7",
+    "event_id": 707,
+    "eventname": "British Foil Speed Challenge 2022",
+    "speed": 45.48512,
+    "type": "speed_250",
+    "username": "Simon Chippington ",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Bradfield",
+    "sessionboard": "RRD H-fire 91 PRO LTD Y25",
+    "sessionsail": "RRD X-Wing Y27  6.2",
+    "sessionfin": "Phantom IRIS R (FW 730 R - fuselage 100 - BW 250)  100",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=394196&uid=21720"
+  },
+  {
+    "rowid": "8",
     "event_id": 707,
     "eventname": "British Foil Speed Challenge 2022",
     "speed": 45.475860000000004,
@@ -96,23 +128,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=368356&uid=20717"
   },
   {
-    "rowid": "7",
-    "event_id": 707,
-    "eventname": "British Foil Speed Challenge 2022",
-    "speed": 42.668228000000006,
-    "type": "speed_250",
-    "username": "Simon Chippington ",
-    "ageclass": "Grand Master (51-60)",
-    "weightclass": "81-90",
-    "sexe": "Men",
-    "spotname": "Poole Bay (Sandbanks/Branksome)",
-    "sessionboard": "RRD H-fire 91 PRO LTD Y25",
-    "sessionsail": "RRD X-Wing Y27  6.2",
-    "sessionfin": "F-Hot Speed  20",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386192&uid=21720"
-  },
-  {
-    "rowid": "8",
+    "rowid": "9",
     "event_id": 707,
     "eventname": "British Foil Speed Challenge 2022",
     "speed": 39.145724,
@@ -128,7 +144,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=384642&uid=3111"
   },
   {
-    "rowid": "9",
+    "rowid": "10",
     "event_id": 707,
     "eventname": "British Foil Speed Challenge 2022",
     "speed": 38.840144,
@@ -144,7 +160,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=385969&uid=23129"
   },
   {
-    "rowid": "10",
+    "rowid": "11",
     "event_id": 707,
     "eventname": "British Foil Speed Challenge 2022",
     "speed": 38.627164,
@@ -160,7 +176,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=371233&uid=5835"
   },
   {
-    "rowid": "11",
+    "rowid": "12",
     "event_id": 707,
     "eventname": "British Foil Speed Challenge 2022",
     "speed": 38.586420000000004,
@@ -176,7 +192,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=370453&uid=4728"
   },
   {
-    "rowid": "12",
+    "rowid": "13",
     "event_id": 707,
     "eventname": "British Foil Speed Challenge 2022",
     "speed": 36.501068000000004,
@@ -192,7 +208,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386091&uid=25474"
   },
   {
-    "rowid": "13",
+    "rowid": "14",
     "event_id": 707,
     "eventname": "British Foil Speed Challenge 2022",
     "speed": 35.806568,
@@ -208,7 +224,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=372985&uid=3532"
   },
   {
-    "rowid": "14",
+    "rowid": "15",
     "event_id": 707,
     "eventname": "British Foil Speed Challenge 2022",
     "speed": 26.292844,

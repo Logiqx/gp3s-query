@@ -147,6 +147,22 @@
     "rowid": "10",
     "event_id": 732,
     "eventname": "2022 DBO Speed Challenge",
+    "speed": 59.991836000000006,
+    "type": "speed_avg",
+    "username": "S\u00f8ren Kj\u00e6r",
+    "ageclass": "Super Master (61-70)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Veddelev",
+    "sessionboard": "Starboard iSonic Speed Slalom 80",
+    "sessionsail": "Loft Sails Racing Blade  6.3",
+    "sessionfin": "Hurricane SSM-  31",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=393128&uid=18137"
+  },
+  {
+    "rowid": "11",
+    "event_id": 732,
+    "eventname": "2022 DBO Speed Challenge",
     "speed": 59.151398400000005,
     "type": "speed_avg",
     "username": "Jesper Skytte",
@@ -160,7 +176,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=378308&uid=4150"
   },
   {
-    "rowid": "11",
+    "rowid": "12",
     "event_id": 732,
     "eventname": "2022 DBO Speed Challenge",
     "speed": 58.29799680000001,
@@ -174,22 +190,6 @@
     "sessionsail": "Gun Sails GS-R  5.6",
     "sessionfin": "Gasoil Fins CHR-M medium  30",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=378183&uid=22618"
-  },
-  {
-    "rowid": "12",
-    "event_id": 732,
-    "eventname": "2022 DBO Speed Challenge",
-    "speed": 58.275031999999996,
-    "type": "speed_avg",
-    "username": "S\u00f8ren Kj\u00e6r",
-    "ageclass": "Super Master (61-70)",
-    "weightclass": "71-80",
-    "sexe": "Men",
-    "spotname": "Herslev",
-    "sessionboard": "Starboard Isonic 63 Carbon reflex",
-    "sessionsail": "Loft Sails Racing Blade  6.3",
-    "sessionfin": "Z-fins ZSL S-  33",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=374929&uid=18137"
   },
   {
     "rowid": "13",
@@ -218,10 +218,10 @@
     "weightclass": "71-80",
     "sexe": "Men",
     "spotname": "Veddelev",
-    "sessionboard": "Starboard Isonic 90",
-    "sessionsail": "Loftsails Racing Blade  6.3",
-    "sessionfin": "Z-fins SL S-  31",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=392650&uid=15727"
+    "sessionboard": "RRD X-Fire LTD V8 108",
+    "sessionsail": "Loftsails Racing Blade  7.0",
+    "sessionfin": "Z-fins SL S-  36",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=393869&uid=15727"
   },
   {
     "rowid": "15",

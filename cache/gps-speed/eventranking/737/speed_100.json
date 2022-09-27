@@ -275,6 +275,22 @@
     "rowid": "18",
     "event_id": 737,
     "eventname": "2022 Spanish Speed Challenge",
+    "speed": 58.39356000000001,
+    "type": "speed_100",
+    "username": "Sico Barber",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Fornells",
+    "sessionboard": "PATRIK slalom 95",
+    "sessionsail": "Loftsails |Switch Blade  6.3",
+    "sessionfin": "Select HOT ROD  33",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=393360&uid=25284"
+  },
+  {
+    "rowid": "19",
+    "event_id": 737,
+    "eventname": "2022 Spanish Speed Challenge",
     "speed": 57.104568,
     "type": "speed_100",
     "username": "Alberto Marugan",
@@ -288,7 +304,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=381739&uid=25183"
   },
   {
-    "rowid": "19",
+    "rowid": "20",
     "event_id": 737,
     "eventname": "2022 Spanish Speed Challenge",
     "speed": 57.006412,
@@ -304,7 +320,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=385147&uid=22584"
   },
   {
-    "rowid": "20",
+    "rowid": "21",
     "event_id": 737,
     "eventname": "2022 Spanish Speed Challenge",
     "speed": 56.513780000000004,
@@ -320,7 +336,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=388170&uid=23336"
   },
   {
-    "rowid": "21",
+    "rowid": "22",
     "event_id": 737,
     "eventname": "2022 Spanish Speed Challenge",
     "speed": 56.113748,
@@ -336,14 +352,14 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386571&uid=25589"
   },
   {
-    "rowid": "22",
+    "rowid": "23",
     "event_id": 737,
     "eventname": "2022 Spanish Speed Challenge",
     "speed": 55.81002000000001,
     "type": "speed_100",
     "username": "Luis Vierna",
     "ageclass": "Master (36-50)",
-    "weightclass": "91-100",
+    "weightclass": "81-90",
     "sexe": "Men",
     "spotname": "Embalse de Pedrezuela",
     "sessionboard": "i-99 NoveNove WCSL 139",
@@ -352,7 +368,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=385433&uid=22002"
   },
   {
-    "rowid": "23",
+    "rowid": "24",
     "event_id": 737,
     "eventname": "2022 Spanish Speed Challenge",
     "speed": 54.380276,
@@ -366,22 +382,6 @@
     "sessionsail": "RRD Firewing MK5  6.3",
     "sessionfin": "iFins Fight Club  30",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=377437&uid=24813"
-  },
-  {
-    "rowid": "24",
-    "event_id": 737,
-    "eventname": "2022 Spanish Speed Challenge",
-    "speed": 54.230264000000005,
-    "type": "speed_100",
-    "username": "Sico Barber",
-    "ageclass": "Grand Master (51-60)",
-    "weightclass": "81-90",
-    "sexe": "Men",
-    "spotname": "Fornells",
-    "sessionboard": "Goya PROTON IV",
-    "sessionsail": "Loftsails Racing Blade  7.0",
-    "sessionfin": "Z-fins ZFINS SE-S 37  37",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386080&uid=25284"
   },
   {
     "rowid": "25",

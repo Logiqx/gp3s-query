@@ -3,6 +3,22 @@
     "rowid": "1",
     "event_id": 735,
     "eventname": "World Speed Tour - GPS POS 2022",
+    "speed": 39.217952,
+    "type": "speed_hour",
+    "username": "Pierre Mortefon",
+    "ageclass": "Senior (19-35)",
+    "weightclass": "91-100",
+    "sexe": "Men",
+    "spotname": "La Palme - Plage du Rouet",
+    "sessionboard": "Fanatic Falcon Foil TE 177 ",
+    "sessionsail": "Duotone Warp Foil 2022  4.5",
+    "sessionfin": "Phantom IRIS R FW350-Fuselage100-BW175  350",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=393569&uid=26434"
+  },
+  {
+    "rowid": "2",
+    "event_id": 735,
+    "eventname": "World Speed Tour - GPS POS 2022",
     "speed": 38.78088,
     "type": "speed_hour",
     "username": "Andy Laufer",
@@ -16,7 +32,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=382029&uid=5149"
   },
   {
-    "rowid": "2",
+    "rowid": "3",
     "event_id": 735,
     "eventname": "World Speed Tour - GPS POS 2022",
     "speed": 37.50485200000001,
@@ -32,7 +48,23 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=391087&uid=25710"
   },
   {
-    "rowid": "3",
+    "rowid": "4",
+    "event_id": 735,
+    "eventname": "World Speed Tour - GPS POS 2022",
+    "speed": 23.475952000000003,
+    "type": "speed_hour",
+    "username": "Blanca Alabau",
+    "ageclass": "Senior (19-35)",
+    "weightclass": "51-60",
+    "sexe": "Woman",
+    "spotname": "La Palme - Plage du Rouet",
+    "sessionboard": "not defined ",
+    "sessionsail": "Severne Overdrive M4  4.6",
+    "sessionfin": "not defined -  0",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=393662&uid=26200"
+  },
+  {
+    "rowid": "5",
     "event_id": 735,
     "eventname": "World Speed Tour - GPS POS 2022",
     "speed": 22.959244,
@@ -48,7 +80,23 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389933&uid=24023"
   },
   {
-    "rowid": "4",
+    "rowid": "6",
+    "event_id": 735,
+    "eventname": "World Speed Tour - GPS POS 2022",
+    "speed": 15.456792,
+    "type": "speed_hour",
+    "username": "Marc Kappes",
+    "ageclass": "Master (36-50)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": " Bodensee, Radolfzell",
+    "sessionboard": "Tabou Air Ride 81 LTD",
+    "sessionsail": "Duotone Warp_Foil 2022  7.9",
+    "sessionfin": "Phantom IRIS R FW730-Fuselage100-BW200  730",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=393727&uid=5575"
+  },
+  {
+    "rowid": "7",
     "event_id": 735,
     "eventname": "World Speed Tour - GPS POS 2022",
     "speed": 13.249208000000001,
@@ -62,21 +110,5 @@
     "sessionsail": "Phantom IRIS X  5.0",
     "sessionfin": "Phantom IRIS R FW550-Fuselage100-BW200  550",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386008&uid=24593"
-  },
-  {
-    "rowid": "5",
-    "event_id": 735,
-    "eventname": "World Speed Tour - GPS POS 2022",
-    "speed": 5.715272,
-    "type": "speed_hour",
-    "username": "Marc Kappes",
-    "ageclass": "Master (36-50)",
-    "weightclass": "81-90",
-    "sexe": "Men",
-    "spotname": "Porto Pollo",
-    "sessionboard": "Tabou Air Ride 81",
-    "sessionsail": "Duotone Warp_Foil 2022  7.9",
-    "sessionfin": "Phantom IRIS R FW730-Fuselage100-BW200  730",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=392904&uid=5575"
   }
 ]

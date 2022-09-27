@@ -3,32 +3,32 @@
     "rowid": "1",
     "event_id": 746,
     "eventname": "2022 Desafio Brasileiro de Windsurf Speed",
-    "speed": 29.48384,
+    "speed": 35.713968,
     "type": "speed_halfhour",
     "username": "Marvin Nessi Maurer",
     "ageclass": "Master (36-50)",
     "weightclass": "81-90",
     "sexe": "Men",
     "spotname": "Porto Alegre - Raia1",
-    "sessionboard": "JP Slalom 85 Pro Edition",
-    "sessionsail": "Duotone Warp 2019  8.4",
-    "sessionfin": "Z-fins SLM  45",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=392578&uid=24195"
+    "sessionboard": "JP Slalom 71 Pro Edition",
+    "sessionsail": "Point-7 AC1  7.8",
+    "sessionfin": "Z-fins SLM  37",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=393561&uid=24195"
   },
   {
     "rowid": "2",
     "event_id": 746,
     "eventname": "2022 Desafio Brasileiro de Windsurf Speed",
-    "speed": 22.89072,
+    "speed": 23.053696000000002,
     "type": "speed_halfhour",
-    "username": "luis egidio",
+    "username": "Luis Egidio",
     "ageclass": "Master (36-50)",
     "weightclass": "71-80",
     "sexe": "Men",
     "spotname": "Porto Alegre - Raia1",
-    "sessionboard": "not defined ",
+    "sessionboard": "Starboard Isonic",
     "sessionsail": "Gaastra Vapor  7.9",
     "sessionfin": "- Z slaalom proto  45",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=391275&uid=25869"
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=393321&uid=25869"
   }
 ]

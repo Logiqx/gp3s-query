@@ -83,6 +83,22 @@
     "rowid": "6",
     "event_id": 732,
     "eventname": "2022 DBO Speed Challenge",
+    "speed": 41.158848,
+    "type": "speed_alpha_racing",
+    "username": "Brian Rogild",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "91-100",
+    "sexe": "Men",
+    "spotname": "Veddelev",
+    "sessionboard": "Future Fly Dark Horse 97",
+    "sessionsail": "Loftsails Racingblade  6.3",
+    "sessionfin": "Z-fins SLM S-  31",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=393103&uid=2809"
+  },
+  {
+    "rowid": "7",
+    "event_id": 732,
+    "eventname": "2022 DBO Speed Challenge",
     "speed": 40.795856,
     "type": "speed_alpha_racing",
     "username": "S\u00f8ren Christensen",
@@ -96,7 +112,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=387183&uid=24692"
   },
   {
-    "rowid": "7",
+    "rowid": "8",
     "event_id": 732,
     "eventname": "2022 DBO Speed Challenge",
     "speed": 40.29026,
@@ -110,22 +126,6 @@
     "sessionsail": "Gun Sails GS-R  7.1",
     "sessionfin": "Gasoil Fins CHR-L soft  34",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=377436&uid=22618"
-  },
-  {
-    "rowid": "8",
-    "event_id": 732,
-    "eventname": "2022 DBO Speed Challenge",
-    "speed": 39.918008,
-    "type": "speed_alpha_racing",
-    "username": "Brian Rogild",
-    "ageclass": "Grand Master (51-60)",
-    "weightclass": "91-100",
-    "sexe": "Men",
-    "spotname": "Gedser lystb\u00e5dehavn",
-    "sessionboard": "Future Fly Dark Horse 107",
-    "sessionsail": "Loftsails Racingblade  6.9",
-    "sessionfin": "Z-fins SL S-  36",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=374049&uid=2809"
   },
   {
     "rowid": "9",
@@ -250,10 +250,10 @@
     "weightclass": "71-80",
     "sexe": "Men",
     "spotname": "Veddelev",
-    "sessionboard": "Starboard Isonic 90",
-    "sessionsail": "Loftsails Racing Blade  6.3",
-    "sessionfin": "Z-fins SL S-  31",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=392650&uid=15727"
+    "sessionboard": "RRD X-Fire LTD V8 108",
+    "sessionsail": "Loftsails Racing Blade  7.0",
+    "sessionfin": "Z-fins SL S-  36",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=393869&uid=15727"
   },
   {
     "rowid": "17",
@@ -403,6 +403,22 @@
     "rowid": "26",
     "event_id": 732,
     "eventname": "2022 DBO Speed Challenge",
+    "speed": 27.196620000000003,
+    "type": "speed_alpha_racing",
+    "username": "Benny Plambeck",
+    "ageclass": "Ultimate Master (71-99)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Veddelev",
+    "sessionboard": "Starboard Foil 177",
+    "sessionsail": "Gun Sails Raise  8.0",
+    "sessionfin": "Starboard Starboard Race (115 - 800 - 255)  95",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=393993&uid=1203"
+  },
+  {
+    "rowid": "27",
+    "event_id": 732,
+    "eventname": "2022 DBO Speed Challenge",
     "speed": 27.042904000000004,
     "type": "speed_alpha_racing",
     "username": "Martin Lamm",
@@ -416,7 +432,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386326&uid=25630"
   },
   {
-    "rowid": "27",
+    "rowid": "28",
     "event_id": 732,
     "eventname": "2022 DBO Speed Challenge",
     "speed": 26.348404000000002,
@@ -430,22 +446,6 @@
     "sessionsail": "Severne Overdrive M1  7.8",
     "sessionfin": "not defined -  0",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=374023&uid=23773"
-  },
-  {
-    "rowid": "28",
-    "event_id": 732,
-    "eventname": "2022 DBO Speed Challenge",
-    "speed": 25.227944,
-    "type": "speed_alpha_racing",
-    "username": "Benny Plambeck",
-    "ageclass": "Ultimate Master (71-99)",
-    "weightclass": "71-80",
-    "sexe": "Men",
-    "spotname": "Veddelev",
-    "sessionboard": "Starboard Formula 159",
-    "sessionsail": "Gun Sails Raise  8.0",
-    "sessionfin": "Bugfins Freerace foil  850",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=374174&uid=1203"
   },
   {
     "rowid": "29",

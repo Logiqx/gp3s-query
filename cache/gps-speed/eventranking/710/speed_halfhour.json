@@ -27,7 +27,7 @@
     "sexe": "Men",
     "spotname": "Portland Harbour, Weymouth",
     "sessionboard": "JP Speed 54 Pro Edition",
-    "sessionsail": "Neilpryde RS RACING EVO XII  5.8",
+    "sessionsail": "Neilpryde RS Racing EVO XII  5.8",
     "sessionfin": "Z-fins Speed Delta  25",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=368127&uid=2640"
   },
@@ -91,7 +91,7 @@
     "sexe": "Men",
     "spotname": "Poole Harbour",
     "sessionboard": "JP Slalom 62 Pro Edition",
-    "sessionsail": "Neilpryde RS RACING EVO XII  5.8",
+    "sessionsail": "Neilpryde RS Racing EVO XII  5.8",
     "sessionfin": "Z-fins SL S-  32",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=375035&uid=2911"
   },
@@ -739,7 +739,7 @@
     "rowid": "47",
     "event_id": 710,
     "eventname": "BritishSpeedChallenge2022",
-    "speed": 5.71342,
+    "speed": 6.304208,
     "type": "speed_halfhour",
     "username": "Chris Vasey",
     "ageclass": "Grand Master (51-60)",
@@ -747,9 +747,9 @@
     "sexe": "Men",
     "spotname": "North Lincs Sailing Club",
     "sessionboard": "Tiga  Flash 74",
-    "sessionsail": "North Sails Ram F8  7.3",
+    "sessionsail": "North Sails Natural  6.2",
     "sessionfin": "Curtis Race   58",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=385965&uid=5487"
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=393318&uid=5487"
   },
   {
     "rowid": "48",

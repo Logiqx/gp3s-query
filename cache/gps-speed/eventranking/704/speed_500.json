@@ -35,6 +35,22 @@
     "rowid": "3",
     "event_id": 704,
     "eventname": "Schildmeer Speed Challenge 2021-2022",
+    "speed": 56.73602,
+    "type": "speed_500",
+    "username": "Sven Hulst",
+    "ageclass": "Senior (19-35)",
+    "weightclass": "91-100",
+    "sexe": "Men",
+    "spotname": "schildmeer",
+    "sessionboard": "Custom Severne Fox",
+    "sessionsail": "Gun Sails GSR  7.1",
+    "sessionfin": "Finish Speed/Slalom  32",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=393424&uid=23299"
+  },
+  {
+    "rowid": "4",
+    "event_id": 704,
+    "eventname": "Schildmeer Speed Challenge 2021-2022",
     "speed": 56.600824,
     "type": "speed_500",
     "username": "Ingolf van Oostveen",
@@ -48,7 +64,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=368211&uid=3874"
   },
   {
-    "rowid": "4",
+    "rowid": "5",
     "event_id": 704,
     "eventname": "Schildmeer Speed Challenge 2021-2022",
     "speed": 56.376732000000004,
@@ -64,7 +80,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=374319&uid=20514"
   },
   {
-    "rowid": "5",
+    "rowid": "6",
     "event_id": 704,
     "eventname": "Schildmeer Speed Challenge 2021-2022",
     "speed": 56.043372,
@@ -80,7 +96,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=369381&uid=5376"
   },
   {
-    "rowid": "6",
+    "rowid": "7",
     "event_id": 704,
     "eventname": "Schildmeer Speed Challenge 2021-2022",
     "speed": 55.630376000000005,
@@ -96,7 +112,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=382947&uid=15691"
   },
   {
-    "rowid": "7",
+    "rowid": "8",
     "event_id": 704,
     "eventname": "Schildmeer Speed Challenge 2021-2022",
     "speed": 55.502588,
@@ -110,22 +126,6 @@
     "sessionsail": "Severne Mach 5  7.0",
     "sessionfin": "Sonntag Fins SL-pro  34",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389993&uid=5650"
-  },
-  {
-    "rowid": "8",
-    "event_id": 704,
-    "eventname": "Schildmeer Speed Challenge 2021-2022",
-    "speed": 55.469252000000004,
-    "type": "speed_500",
-    "username": "Sven Hulst",
-    "ageclass": "Senior (19-35)",
-    "weightclass": "91-100",
-    "sexe": "Men",
-    "spotname": "schildmeer",
-    "sessionboard": "Starboard iSonic 72 Carbon Reflex ",
-    "sessionsail": "Gun Sails GS-R  7.8",
-    "sessionfin": "Finish Speed Slalom  38",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=381684&uid=23299"
   },
   {
     "rowid": "9",
