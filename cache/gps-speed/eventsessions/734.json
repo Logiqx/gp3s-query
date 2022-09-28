@@ -3820,5 +3820,31 @@
     "sessionsail": "Point-7 AC1 7.1,  2022",
     "sessionfin": "NoLo 4  32",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=394213&uid=24163"
+  },
+  {
+    "session_id": 394299,
+    "session_date": "9/27/2022 12:00:00 AM",
+    "event_id": 734,
+    "eventname": "World Speed Tour - GPS POS 2022 ",
+    "speed_avg": 74.5630016,
+    "speed_2sec": 77.333964,
+    "speed_10sec": 75.94681600000001,
+    "speed_100": 76.919116,
+    "speed_250": 75.5616,
+    "speed_500": 74.000364,
+    "speed_mile": 65.50524,
+    "speed_hour": 14.482640000000002,
+    "speed_halfhour": 22.309192,
+    "speed_24hour": 0.0,
+    "speed_alpha_racing": 0.0,
+    "session_distance": 44.455729,
+    "username": "Laurent Fesquet",
+    "flag": "FR",
+    "sexe": "Men",
+    "spotname": "La Palme - Plage du Rouet",
+    "sessionboard": "Carbon Art SPEED LeRouet limited edition,  2020",
+    "sessionsail": "Neilpryde RS Racing Evo XII 5.2,  2020",
+    "sessionfin": "Gasoil Fins ELS Tr h 20P 421  21",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=394299&uid=4597"
   }
 ]
