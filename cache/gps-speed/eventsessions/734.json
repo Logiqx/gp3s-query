@@ -3872,5 +3872,31 @@
     "sessionsail": "Severne Mach 4 7.0,  2021",
     "sessionfin": "Hurricane SR 7 S+  32",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=394318&uid=4470"
+  },
+  {
+    "session_id": 394339,
+    "session_date": "9/28/2022 12:00:00 AM",
+    "event_id": 734,
+    "eventname": "World Speed Tour - GPS POS 2022 ",
+    "speed_avg": 69.913,
+    "speed_2sec": 79.732304,
+    "speed_10sec": 74.02073600000001,
+    "speed_100": 78.509984,
+    "speed_250": 72.78359999999999,
+    "speed_500": 67.077588,
+    "speed_mile": 56.20264400000001,
+    "speed_hour": 19.873812,
+    "speed_halfhour": 24.539,
+    "speed_24hour": 0.0,
+    "speed_alpha_racing": 45.449932000000004,
+    "session_distance": 72.399768,
+    "username": "Thomas Moldenhauer",
+    "flag": "DE",
+    "sexe": "Men",
+    "spotname": "La Palme - Plage du Rouet",
+    "sessionboard": "AV Modena Slalom 62,  2022",
+    "sessionsail": "Point-7 AC1 7.1,  2022",
+    "sessionfin": "NoLo 4  32",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=394339&uid=24163"
   }
 ]

@@ -13128,5 +13128,31 @@
     "sessionsail": "Point-7 ACX 7.9,  2021",
     "sessionfin": "Starboard Drake ready to race DW  42",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=394281&uid=3592"
+  },
+  {
+    "session_id": 394336,
+    "session_date": "9/28/2022 12:00:00 AM",
+    "event_id": 710,
+    "eventname": "BritishSpeedChallenge2022",
+    "speed_avg": 32.830404,
+    "speed_2sec": 34.650920000000006,
+    "speed_10sec": 34.017536,
+    "speed_100": 33.945308000000004,
+    "speed_250": 31.46548,
+    "speed_500": 29.319012,
+    "speed_mile": 25.322396,
+    "speed_hour": 14.845632,
+    "speed_halfhour": 0.0,
+    "speed_24hour": 0.0,
+    "speed_alpha_racing": 27.957792,
+    "session_distance": 18.14293,
+    "username": "Stephen Squirrell",
+    "flag": "UK",
+    "sexe": "Men",
+    "spotname": "Levington",
+    "sessionboard": "Starboard Foil Freeride 150  WS,  2021",
+    "sessionsail": "Sailworks Retro 7.5,  2001",
+    "sessionfin": "Starboard Evolution Freeride ( 95 - 1100 - 500 - 95 )  95",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=394336&uid=3532"
   }
 ]
