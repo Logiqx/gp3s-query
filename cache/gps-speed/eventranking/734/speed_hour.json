@@ -307,6 +307,22 @@
     "rowid": "20",
     "event_id": 734,
     "eventname": "World Speed Tour - GPS POS 2022 ",
+    "speed": 12.945480000000002,
+    "type": "speed_hour",
+    "username": "Rainer Motloch",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "91-100",
+    "sexe": "Men",
+    "spotname": "La Palme - Plage du Rouet",
+    "sessionboard": "Starboard  iSonic 63 Carbon Reflex ",
+    "sessionsail": "Severne Mach 4  7.0",
+    "sessionfin": "Hurricane SR 7 S+  32",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=394318&uid=4470"
+  },
+  {
+    "rowid": "21",
+    "event_id": 734,
+    "eventname": "World Speed Tour - GPS POS 2022 ",
     "speed": 12.619528,
     "type": "speed_hour",
     "username": "Tim Otte",
@@ -320,7 +336,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=382164&uid=2554"
   },
   {
-    "rowid": "21",
+    "rowid": "22",
     "event_id": 734,
     "eventname": "World Speed Tour - GPS POS 2022 ",
     "speed": 12.613972,
@@ -336,7 +352,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=374580&uid=5203"
   },
   {
-    "rowid": "22",
+    "rowid": "23",
     "event_id": 734,
     "eventname": "World Speed Tour - GPS POS 2022 ",
     "speed": 12.19542,
@@ -350,22 +366,6 @@
     "sessionsail": "Neilpryde Evo x111  5.2",
     "sessionfin": "Z-fins Speed asy 21 S  21",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=391037&uid=4588"
-  },
-  {
-    "rowid": "23",
-    "event_id": 734,
-    "eventname": "World Speed Tour - GPS POS 2022 ",
-    "speed": 11.550924,
-    "type": "speed_hour",
-    "username": "Rainer Motloch",
-    "ageclass": "Grand Master (51-60)",
-    "weightclass": "91-100",
-    "sexe": "Men",
-    "spotname": "La Palme - Plage du Rouet",
-    "sessionboard": "Starboard  iSonic 63 Carbon Reflex ",
-    "sessionsail": "Severne Mach 4  7.0",
-    "sessionfin": "Hurricane SR 7 S  33",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=384310&uid=4470"
   },
   {
     "rowid": "24",

@@ -2,7 +2,7 @@
 
 Summary of issues detected in the GP3S event rankings.
 
-Last refreshed 2022-09-28 09:47:35 UTC.
+Last refreshed 2022-09-28 17:31:43 UTC.
 
 | Event Name | Event ID | Date Issues | Duplicates | Ghosts | Missing | Incorrect | Actions |
 | ---------- | :------: | :---------: | :--------: | :----: | :-----: | :-------: | :-----: |
@@ -10,7 +10,7 @@ Last refreshed 2022-09-28 09:47:35 UTC.
 | [2022 Auckland Windsurfing Association Speed Challenge](757.md) | 757 | 0 | 0 | 0 | 0 | 0 | 0 |
 | [2022 Desafio Brasileiro de Windsurf Speed](746.md) | 746 | 0 | 0 | 0 | 0 | 0 | 0 |
 | [2022 Funsport Makkum GPS Speed Challenge](740.md) | 740 | 0 | 0 | 10 | 0 | 0 | 1 |
-| [2022 Estonian Speed King](739.md) | 739 | 0 | 1 | 0 | 0 | 1 | 2 |
+| [2022 Estonian Speed King](739.md) | 739 | 0 | 1 | 0 | 0 | 5 | 3 |
 | [2022 Spanish Speed Challenge](737.md) | 737 | 0 | 1 | 0 | 0 | 0 | 1 |
 | [2022 Odyssey of Speed](736.md) | 736 | 0 | 1 | 10 | 0 | 0 | 2 |
 | [World Speed Tour - GPS POS 2022 ](734.md) | 734 | 0 | 1 | 9 | 0 | 4 | 2 |
@@ -25,8 +25,8 @@ Last refreshed 2022-09-28 09:47:35 UTC.
 | [2022 Gps Kraaij Challenge](721.md) | 721 | 0 | 0 | 0 | 0 | 0 | 0 |
 | [Norwegian speedmaster - 2022](719.md) | 719 | 0 | 1 | 0 | 0 | 0 | 1 |
 | [2022 Irish Speed Masters](717.md) | 717 | 0 | 0 | 0 | 0 | 0 | 0 |
-| [SSS Go big or go Home 2021-2022](715.md) | 715 | 0 | 5 | 2 | 38 | 13 | 8 |
-| [BritishSpeedChallenge2022](710.md) | 710 | 0 | 5 | 0 | 0 | 0 | 2 |
-| [Schildmeer Speed Challenge 2021-2022](704.md) | 704 | 0 | 1 | 0 | 0 | 0 | 1 |
+| [SSS Go big or go Home 2021-2022](715.md) | 715 | 0 | 5 | 15 | 0 | 0 | 6 |
+| [BritishSpeedChallenge2022](710.md) | 710 | 0 | 0 | 0 | 0 | 0 | 0 |
+| [Schildmeer Speed Challenge 2021-2022](704.md) | 704 | 0 | 0 | 0 | 0 | 0 | 0 |
 | [Surf like a dude Zuidlaardermeer speed challenge 2021](692.md) | 692 | 0 | 0 | 0 | 0 | 0 | 0 |
-| TOTAL | - | 0 | 19 | 49 | 38 | 18 | 25 |
+| TOTAL | - | 0 | 13 | 62 | 0 | 9 | 21 |

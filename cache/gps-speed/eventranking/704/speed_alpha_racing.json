@@ -227,22 +227,6 @@
     "rowid": "15",
     "event_id": 704,
     "eventname": "Schildmeer Speed Challenge 2021-2022",
-    "speed": 15.062316,
-    "type": "speed_alpha_racing",
-    "username": "Saar Schuling ",
-    "ageclass": "Master (36-50)",
-    "weightclass": "51-60",
-    "sexe": "Woman",
-    "spotname": "schildmeer",
-    "sessionboard": "Starboard iQFOIL 85 ",
-    "sessionsail": "Neilpryde V8  6.7",
-    "sessionfin": "RRD WH-FLIGHT ALU 85  85",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=394259&uid=25189"
-  },
-  {
-    "rowid": "16",
-    "event_id": 704,
-    "eventname": "Schildmeer Speed Challenge 2021-2022",
     "speed": 12.376916,
     "type": "speed_alpha_racing",
     "username": "Stefan Bijmolt",
@@ -256,7 +240,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=393639&uid=25577"
   },
   {
-    "rowid": "17",
+    "rowid": "16",
     "event_id": 704,
     "eventname": "Schildmeer Speed Challenge 2021-2022",
     "speed": 0.0,

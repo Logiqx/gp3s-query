@@ -3846,5 +3846,31 @@
     "sessionsail": "Neilpryde RS Racing Evo XII 5.2,  2020",
     "sessionfin": "Gasoil Fins ELS Tr h 20P 421  21",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=394299&uid=4597"
+  },
+  {
+    "session_id": 394318,
+    "session_date": "9/28/2022 12:00:00 AM",
+    "event_id": 734,
+    "eventname": "World Speed Tour - GPS POS 2022 ",
+    "speed_avg": 63.02726400000001,
+    "speed_2sec": 67.853576,
+    "speed_10sec": 64.69406400000001,
+    "speed_100": 66.79793599999999,
+    "speed_250": 64.62554000000002,
+    "speed_500": 63.303211999999995,
+    "speed_mile": 0.0,
+    "speed_hour": 12.945480000000002,
+    "speed_halfhour": 25.659460000000003,
+    "speed_24hour": 0.0,
+    "speed_alpha_racing": 0.0,
+    "session_distance": 25.454939,
+    "username": "Rainer Motloch",
+    "flag": "DE",
+    "sexe": "Men",
+    "spotname": "La Palme - Plage du Rouet",
+    "sessionboard": "Starboard  iSonic 63 Carbon Reflex ,  2022",
+    "sessionsail": "Severne Mach 4 7.0,  2021",
+    "sessionfin": "Hurricane SR 7 S+  32",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=394318&uid=4470"
   }
 ]
