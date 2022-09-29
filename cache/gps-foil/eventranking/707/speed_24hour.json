@@ -5,6 +5,22 @@
     "eventname": "British Foil Speed Challenge 2022",
     "speed": 0.0,
     "type": "speed_24hour",
+    "username": "Richard Beaman",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "101-110",
+    "sexe": "Men",
+    "spotname": "St Mawes, Cornwall",
+    "sessionboard": "Severne Alien",
+    "sessionsail": "Severne Foilglide 2  7.0",
+    "sessionfin": "JP Freeride  48",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=394365&uid=4236"
+  },
+  {
+    "rowid": "2",
+    "event_id": 707,
+    "eventname": "British Foil Speed Challenge 2022",
+    "speed": 0.0,
+    "type": "speed_24hour",
     "username": "Nik Barnes",
     "ageclass": "Master (36-50)",
     "weightclass": "81-90",
@@ -16,7 +32,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386091&uid=25474"
   },
   {
-    "rowid": "2",
+    "rowid": "3",
     "event_id": 707,
     "eventname": "British Foil Speed Challenge 2022",
     "speed": 0.0,
@@ -32,7 +48,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=385969&uid=23129"
   },
   {
-    "rowid": "3",
+    "rowid": "4",
     "event_id": 707,
     "eventname": "British Foil Speed Challenge 2022",
     "speed": 0.0,
@@ -48,7 +64,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=374439&uid=22769"
   },
   {
-    "rowid": "4",
+    "rowid": "5",
     "event_id": 707,
     "eventname": "British Foil Speed Challenge 2022",
     "speed": 0.0,
@@ -64,7 +80,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=377993&uid=21720"
   },
   {
-    "rowid": "5",
+    "rowid": "6",
     "event_id": 707,
     "eventname": "British Foil Speed Challenge 2022",
     "speed": 0.0,
@@ -80,7 +96,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=371284&uid=20717"
   },
   {
-    "rowid": "6",
+    "rowid": "7",
     "event_id": 707,
     "eventname": "British Foil Speed Challenge 2022",
     "speed": 0.0,
@@ -96,7 +112,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=374040&uid=18265"
   },
   {
-    "rowid": "7",
+    "rowid": "8",
     "event_id": 707,
     "eventname": "British Foil Speed Challenge 2022",
     "speed": 0.0,
@@ -112,7 +128,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386475&uid=16978"
   },
   {
-    "rowid": "8",
+    "rowid": "9",
     "event_id": 707,
     "eventname": "British Foil Speed Challenge 2022",
     "speed": 0.0,
@@ -128,7 +144,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=373526&uid=5835"
   },
   {
-    "rowid": "9",
+    "rowid": "10",
     "event_id": 707,
     "eventname": "British Foil Speed Challenge 2022",
     "speed": 0.0,
@@ -144,7 +160,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=370283&uid=5618"
   },
   {
-    "rowid": "10",
+    "rowid": "11",
     "event_id": 707,
     "eventname": "British Foil Speed Challenge 2022",
     "speed": 0.0,
@@ -160,7 +176,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=370453&uid=4728"
   },
   {
-    "rowid": "11",
+    "rowid": "12",
     "event_id": 707,
     "eventname": "British Foil Speed Challenge 2022",
     "speed": 0.0,
@@ -174,22 +190,6 @@
     "sessionsail": "Duotone Warp Foil Slalom   8.8",
     "sessionfin": "Starboard Starboard race carbon ( 800-225)  95",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=368928&uid=4276"
-  },
-  {
-    "rowid": "12",
-    "event_id": 707,
-    "eventname": "British Foil Speed Challenge 2022",
-    "speed": 0.0,
-    "type": "speed_24hour",
-    "username": "Richard Beaman",
-    "ageclass": "Grand Master (51-60)",
-    "weightclass": "101-110",
-    "sexe": "Men",
-    "spotname": "St Mawes, Cornwall",
-    "sessionboard": "Severne Alien",
-    "sessionsail": "Severne Foilglide 2  7.0",
-    "sessionfin": "Starboard Starboard Race Carbon (550-255)  95",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=393285&uid=4236"
   },
   {
     "rowid": "13",

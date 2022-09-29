@@ -20928,5 +20928,31 @@
     "sessionsail": "Point-7 AC-1 5.4,  2008",
     "sessionfin": "Zulu Umbani  32",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=394277&uid=23998"
+  },
+  {
+    "session_id": 394371,
+    "session_date": "9/29/2022 12:00:00 AM",
+    "event_id": 736,
+    "eventname": "2022 Odyssey of Speed",
+    "speed_avg": 61.23675040000001,
+    "speed_2sec": 63.851403999999995,
+    "speed_10sec": 62.590192,
+    "speed_100": 63.36062400000001,
+    "speed_250": 61.70678800000001,
+    "speed_500": 57.606460000000006,
+    "speed_mile": 42.673784000000005,
+    "speed_hour": 30.819132,
+    "speed_halfhour": 35.38986800000001,
+    "speed_24hour": 0.0,
+    "speed_alpha_racing": 38.284544000000004,
+    "session_distance": 42.794527,
+    "username": "Minos Efstathiadis",
+    "flag": "GR",
+    "sexe": "Men",
+    "spotname": "Lampiri",
+    "sessionboard": "Tabou Manta71,  2018",
+    "sessionsail": "Loft Sails Racing blade 6.9,  2022",
+    "sessionfin": "King Fins E5  37",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=394371&uid=962"
   }
 ]

@@ -67,22 +67,6 @@
     "rowid": "5",
     "event_id": 707,
     "eventname": "British Foil Speed Challenge 2022",
-    "speed": 33.860116000000005,
-    "type": "speed_halfhour",
-    "username": "Richard Beaman",
-    "ageclass": "Grand Master (51-60)",
-    "weightclass": "101-110",
-    "sexe": "Men",
-    "spotname": "St Mawes, Cornwall",
-    "sessionboard": "Severne Alien",
-    "sessionsail": "Severne Foilglide 2  7.0",
-    "sessionfin": "Starboard Starboard Race Carbon (550-255)  95",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=393285&uid=4236"
-  },
-  {
-    "rowid": "6",
-    "event_id": 707,
-    "eventname": "British Foil Speed Challenge 2022",
     "speed": 32.01367200000001,
     "type": "speed_halfhour",
     "username": "Garry Connell",
@@ -96,7 +80,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389424&uid=18265"
   },
   {
-    "rowid": "7",
+    "rowid": "6",
     "event_id": 707,
     "eventname": "British Foil Speed Challenge 2022",
     "speed": 31.896995999999998,
@@ -110,6 +94,22 @@
     "sessionsail": "RRD X-Wing Y27  7.0",
     "sessionfin": "Phantom IRIS R (FW 730 R - fuselage 100 - BW 250)  100",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=392217&uid=21720"
+  },
+  {
+    "rowid": "7",
+    "event_id": 707,
+    "eventname": "British Foil Speed Challenge 2022",
+    "speed": 29.430132,
+    "type": "speed_halfhour",
+    "username": "Richard Beaman",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "101-110",
+    "sexe": "Men",
+    "spotname": "St Mawes, Cornwall",
+    "sessionboard": "Severne Alien",
+    "sessionsail": "Severne Foilglide 2  7.0",
+    "sessionfin": "JP Freeride  48",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=394365&uid=4236"
   },
   {
     "rowid": "8",

@@ -2,7 +2,7 @@
 
 Summary of issues detected in the GP3S event rankings.
 
-Last refreshed 2022-09-29 09:04:38 UTC.
+Last refreshed 2022-09-29 20:04:43 UTC.
 
 | Event Name | Event ID | Date Issues | Duplicates | Ghosts | Missing | Incorrect | Actions |
 | ---------- | :------: | :---------: | :--------: | :----: | :-----: | :-------: | :-----: |
@@ -11,7 +11,7 @@ Last refreshed 2022-09-29 09:04:38 UTC.
 | [2022 Desafio Brasileiro de Windsurf Speed](746.md) | 746 | 0 | 0 | 0 | 0 | 0 | 0 |
 | [2022 Funsport Makkum GPS Speed Challenge](740.md) | 740 | 0 | 0 | 10 | 0 | 0 | 1 |
 | [2022 Estonian Speed King](739.md) | 739 | 0 | 1 | 0 | 0 | 5 | 3 |
-| [2022 Spanish Speed Challenge](737.md) | 737 | 0 | 1 | 0 | 0 | 0 | 1 |
+| [2022 Spanish Speed Challenge](737.md) | 737 | 0 | 1 | 0 | 0 | 1 | 2 |
 | [2022 Odyssey of Speed](736.md) | 736 | 0 | 1 | 10 | 0 | 0 | 2 |
 | [World Speed Tour - GPS POS 2022 ](734.md) | 734 | 0 | 1 | 9 | 0 | 4 | 2 |
 | [2022 ](733.md) | 733 | 0 | 0 | 9 | 0 | 0 | 1 |
@@ -29,4 +29,4 @@ Last refreshed 2022-09-29 09:04:38 UTC.
 | [BritishSpeedChallenge2022](710.md) | 710 | 0 | 0 | 0 | 0 | 0 | 0 |
 | [Schildmeer Speed Challenge 2021-2022](704.md) | 704 | 0 | 0 | 0 | 0 | 0 | 0 |
 | [Surf like a dude Zuidlaardermeer speed challenge 2021](692.md) | 692 | 0 | 0 | 0 | 0 | 0 | 0 |
-| TOTAL | - | 0 | 13 | 62 | 0 | 9 | 21 |
+| TOTAL | - | 0 | 13 | 62 | 0 | 10 | 22 |

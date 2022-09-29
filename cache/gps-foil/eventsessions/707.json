@@ -6938,7 +6938,7 @@
     "spotname": "St Mawes, Cornwall",
     "sessionboard": "Severne Alien,  2021",
     "sessionsail": "Severne Foilglide 2 7.0,  2022",
-    "sessionfin": "Starboard Starboard Race Carbon (550-255)  95",
+    "sessionfin": "JP Freeride  48",
     "sessionurl": "https://www.gps-foilsurfing.com/?mnu=user&val=393285&uid=4236"
   },
   {
@@ -7252,32 +7252,6 @@
     "sessionsail": "Tushingham Thunderbird 3 6.5,  2009",
     "sessionfin": "Starboard Evolution Freeride ( 95 - 1100 - 500 - 95 )  95",
     "sessionurl": "https://www.gps-foilsurfing.com/?mnu=user&val=394231&uid=3532"
-  },
-  {
-    "session_id": 394260,
-    "session_date": "9/27/2022 12:00:00 AM",
-    "event_id": 707,
-    "eventname": "British Foil Speed Challenge 2022",
-    "speed_avg": 44.836920000000006,
-    "speed_2sec": 46.846340000000005,
-    "speed_10sec": 46.351856,
-    "speed_100": 46.518536,
-    "speed_250": 44.659128,
-    "speed_500": 42.940472,
-    "speed_mile": 37.390028,
-    "speed_hour": 0.0,
-    "speed_halfhour": 23.596332,
-    "speed_24hour": 0.0,
-    "speed_alpha_racing": 33.663804,
-    "session_distance": 18.347863,
-    "username": "Richard Beaman",
-    "flag": "UK",
-    "sexe": "Men",
-    "spotname": "St Mawes, Cornwall",
-    "sessionboard": "Severne Alien,  2021",
-    "sessionsail": "Severne Foilglide 2 7.0,  2022",
-    "sessionfin": "Starboard Starboard Race Carbon (550-255)  95",
-    "sessionurl": "https://www.gps-foilsurfing.com/?mnu=user&val=394260&uid=4236"
   },
   {
     "session_id": 394265,
