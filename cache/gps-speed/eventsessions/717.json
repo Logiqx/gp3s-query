@@ -986,5 +986,31 @@
     "sessionsail": "Loftsails Purelip 5.7,  2016",
     "sessionfin": "Starboard Freeslalom Swift  34",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=391109&uid=24483"
+  },
+  {
+    "session_id": 394397,
+    "session_date": "9/30/2022 12:00:00 AM",
+    "event_id": 717,
+    "eventname": "2022 Irish Speed Masters",
+    "speed_avg": 66.325676,
+    "speed_2sec": 75.67272,
+    "speed_10sec": 72.22614800000001,
+    "speed_100": 75.02452,
+    "speed_250": 70.69639600000001,
+    "speed_500": 62.562412,
+    "speed_mile": 0.0,
+    "speed_hour": 6.928332,
+    "speed_halfhour": 10.615664,
+    "speed_24hour": 0.0,
+    "speed_alpha_racing": 0.0,
+    "session_distance": 8.91442,
+    "username": "Marc Roosli",
+    "flag": "IE",
+    "sexe": "Men",
+    "spotname": "Dungarvan",
+    "sessionboard": "AV Modena Speed 45,  2021",
+    "sessionsail": "Severne Mach 5 Luderitz Edition  5.5,  2022",
+    "sessionfin": "Z-fins SPA S  21",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=394397&uid=11613"
   }
 ]
