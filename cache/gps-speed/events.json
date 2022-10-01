@@ -1,4 +1,14 @@
 {
+  "762": {
+    "eventname": "2022 SSS Go reasonable big or go Home 2022-2023",
+    "start_date": "2022-10-01T00:00:00",
+    "end_date": "2023-09-30T00:00:00"
+  },
+  "761": {
+    "eventname": "2022 Schildmeer Speed Challenge 2022-2023",
+    "start_date": "2022-10-01T00:00:00",
+    "end_date": "2023-09-30T00:00:00"
+  },
   "760": {
     "eventname": "2022 \"The Third\" period of the Dunkerbeck Speed Challenge 2022",
     "start_date": "2022-10-01T00:00:00",
@@ -93,11 +103,6 @@
     "eventname": "2022 Irish Speed Masters",
     "start_date": "2021-11-01T00:00:00",
     "end_date": "2022-10-31T00:00:00"
-  },
-  "710": {
-    "eventname": "BritishSpeedChallenge2022",
-    "start_date": "2021-10-01T00:00:00",
-    "end_date": "2022-10-01T00:00:00"
   },
   "692": {
     "eventname": "Surf like a dude Zuidlaardermeer speed challenge 2021",

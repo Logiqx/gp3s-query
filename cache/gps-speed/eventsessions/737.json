@@ -9618,5 +9618,31 @@
     "sessionsail": "KA Sails Race 6.3,  2022",
     "sessionfin": "Tribal Fin Slalom mk2  30",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=394372&uid=23714"
+  },
+  {
+    "session_id": 394422,
+    "session_date": "9/30/2022 12:00:00 AM",
+    "event_id": 737,
+    "eventname": "2022 Spanish Speed Challenge",
+    "speed_avg": 56.32820960000001,
+    "speed_2sec": 62.129044,
+    "speed_10sec": 59.421420000000005,
+    "speed_100": 60.47520800000001,
+    "speed_250": 57.293472,
+    "speed_500": 51.26336,
+    "speed_mile": 37.899328,
+    "speed_hour": 21.51098,
+    "speed_halfhour": 25.081636,
+    "speed_24hour": 0.0,
+    "speed_alpha_racing": 34.347192,
+    "session_distance": 22.506867999999997,
+    "username": "Dani Coca Serra",
+    "flag": "ES",
+    "sexe": "Men",
+    "spotname": "Fornells",
+    "sessionboard": "Starboard Isonic 90 Carbon,  2016",
+    "sessionsail": "KA Sails Koncept 6.6,  2021",
+    "sessionfin": "Sonntag Fins GPS-6  30",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=394422&uid=19419"
   }
 ]

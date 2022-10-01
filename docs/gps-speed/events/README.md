@@ -2,10 +2,12 @@
 
 Summary of issues detected in the GP3S event rankings.
 
-Last refreshed 2022-09-30 17:21:31 UTC.
+Last refreshed 2022-10-01 07:02:28 UTC.
 
 | Event Name | Event ID | Date Issues | Duplicates | Ghosts | Missing | Incorrect | Actions |
 | ---------- | :------: | :---------: | :--------: | :----: | :-----: | :-------: | :-----: |
+| [2022 SSS Go reasonable big or go Home 2022-2023](762.md) | 762 | 0 | 0 | 0 | 0 | 0 | 0 |
+| [2022 Schildmeer Speed Challenge 2022-2023](761.md) | 761 | 0 | 0 | 0 | 0 | 0 | 0 |
 | [2022 "The Third" period of the Dunkerbeck Speed Challenge 2022](760.md) | 760 | 0 | 0 | 0 | 0 | 0 | 0 |
 | [2022 Auckland Windsurfing Association Speed Challenge](757.md) | 757 | 0 | 0 | 0 | 0 | 0 | 0 |
 | [2022 Desafio Brasileiro de Windsurf Speed](746.md) | 746 | 0 | 0 | 0 | 0 | 0 | 0 |
@@ -25,6 +27,5 @@ Last refreshed 2022-09-30 17:21:31 UTC.
 | [2022 Gps Kraaij Challenge](721.md) | 721 | 0 | 0 | 0 | 0 | 0 | 0 |
 | [Norwegian speedmaster - 2022](719.md) | 719 | 0 | 1 | 0 | 0 | 0 | 1 |
 | [2022 Irish Speed Masters](717.md) | 717 | 0 | 0 | 0 | 0 | 0 | 0 |
-| [BritishSpeedChallenge2022](710.md) | 710 | 0 | 0 | 0 | 0 | 0 | 0 |
 | [Surf like a dude Zuidlaardermeer speed challenge 2021](692.md) | 692 | 0 | 0 | 0 | 0 | 0 | 0 |
 | TOTAL | - | 0 | 8 | 47 | 0 | 10 | 16 |

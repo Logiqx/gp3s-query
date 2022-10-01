@@ -259,6 +259,22 @@
     "rowid": "17",
     "event_id": 730,
     "eventname": "Surf like a dude Zuidlaardermeer Speed Challenge 2022",
+    "speed": 29.64126,
+    "type": "speed_mile",
+    "username": "Saar Schuling ",
+    "ageclass": "Master (36-50)",
+    "weightclass": "51-60",
+    "sexe": "Woman",
+    "spotname": "Zuidlaardermeer",
+    "sessionboard": "AV Modena Slalom 72,5",
+    "sessionsail": "Neilpryde V8  6.7",
+    "sessionfin": "Sonntag Fins SL-Pro  36",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=376962&uid=25189"
+  },
+  {
+    "rowid": "18",
+    "event_id": 730,
+    "eventname": "Surf like a dude Zuidlaardermeer Speed Challenge 2022",
     "speed": 16.249447999999997,
     "type": "speed_mile",
     "username": "Marleen Boer",
@@ -272,7 +288,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=377158&uid=24486"
   },
   {
-    "rowid": "18",
+    "rowid": "19",
     "event_id": 730,
     "eventname": "Surf like a dude Zuidlaardermeer Speed Challenge 2022",
     "speed": 0.0,
