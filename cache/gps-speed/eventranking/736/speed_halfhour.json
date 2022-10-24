@@ -419,22 +419,6 @@
     "rowid": "27",
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
-    "speed": 31.374731999999998,
-    "type": "speed_halfhour",
-    "username": "Till Kramann",
-    "ageclass": "Master (36-50)",
-    "weightclass": "81-90",
-    "sexe": "Men",
-    "spotname": "Drepano",
-    "sessionboard": "Custom Winheller/Slalom",
-    "sessionsail": "Severne Overdrive  9.4",
-    "sessionfin": "Z-fins SLM S-  47",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=392401&uid=24908"
-  },
-  {
-    "rowid": "28",
-    "event_id": 736,
-    "eventname": "2022 Odyssey of Speed",
     "speed": 30.869136,
     "type": "speed_halfhour",
     "username": "Walter Tofalvi",
@@ -448,7 +432,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=394119&uid=21849"
   },
   {
-    "rowid": "29",
+    "rowid": "28",
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
     "speed": 30.380208,
@@ -464,7 +448,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390706&uid=23748"
   },
   {
-    "rowid": "30",
+    "rowid": "29",
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
     "speed": 30.307979999999997,
@@ -480,7 +464,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390986&uid=1504"
   },
   {
-    "rowid": "31",
+    "rowid": "30",
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
     "speed": 30.248715999999998,
@@ -496,7 +480,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389166&uid=299"
   },
   {
-    "rowid": "32",
+    "rowid": "31",
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
     "speed": 29.811644000000005,
@@ -512,7 +496,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=380027&uid=3182"
   },
   {
-    "rowid": "33",
+    "rowid": "32",
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
     "speed": 29.365312000000003,
@@ -528,7 +512,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=393502&uid=6342"
   },
   {
-    "rowid": "34",
+    "rowid": "33",
     "event_id": 736,
     "eventname": "2022 Odyssey of Speed",
     "speed": 29.026396000000002,
@@ -542,6 +526,22 @@
     "sessionsail": "S2 Maui Venom 2020  6.3",
     "sessionfin": "Finish Fast 29 Speed/Slalom  29",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=385566&uid=23407"
+  },
+  {
+    "rowid": "34",
+    "event_id": 736,
+    "eventname": "2022 Odyssey of Speed",
+    "speed": 28.418940000000003,
+    "type": "speed_halfhour",
+    "username": "Babis Sakadaris",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "91-100",
+    "sexe": "Men",
+    "spotname": "Kokkari, Samos",
+    "sessionboard": "Tabou Manta 71",
+    "sessionsail": "GA-sails slalom  7.2",
+    "sessionfin": "Z-fins SL S-  36",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=395934&uid=2576"
   },
   {
     "rowid": "35",

@@ -1,1 +1,66 @@
-[]
+[
+  {
+    "rowid": "1",
+    "event_id": 757,
+    "eventname": "2022 Auckland Windsurfing Association Speed Challenge",
+    "speed": 44.066488,
+    "type": "speed_mile",
+    "username": "Daniel Thomas",
+    "ageclass": "Master (36-50)",
+    "weightclass": "101-110",
+    "sexe": "Men",
+    "spotname": "Shoal Bay, Auckland",
+    "sessionboard": "Carbon Art Slalom Pro 72",
+    "sessionsail": "Duotone Warp_fin 20.22  7.8",
+    "sessionfin": "- Team10 Slalom  38",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=396794&uid=4364"
+  },
+  {
+    "rowid": "2",
+    "event_id": 757,
+    "eventname": "2022 Auckland Windsurfing Association Speed Challenge",
+    "speed": 43.710904,
+    "type": "speed_mile",
+    "username": "Dave Harnett",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "91-100",
+    "sexe": "Men",
+    "spotname": "Tamaki River, Auckland",
+    "sessionboard": "PATRIK Slalom 115 V5",
+    "sessionsail": "Severne Mach 4  7.0",
+    "sessionfin": "Meanline KRF Rebel Slalom/Speed  39",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=396108&uid=881"
+  },
+  {
+    "rowid": "3",
+    "event_id": 757,
+    "eventname": "2022 Auckland Windsurfing Association Speed Challenge",
+    "speed": 37.469664,
+    "type": "speed_mile",
+    "username": "Rainer Cramme",
+    "ageclass": "Super Master (61-70)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Nelson Harbour",
+    "sessionboard": "Fanatic 112",
+    "sessionsail": "Neilpryde RS Racing EVO X  7.0",
+    "sessionfin": "Black Project Fins Epic Thruster  20",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=396786&uid=26454"
+  },
+  {
+    "rowid": "4",
+    "event_id": 757,
+    "eventname": "2022 Auckland Windsurfing Association Speed Challenge",
+    "speed": 0.0,
+    "type": "speed_mile",
+    "username": "Brett Wyatt",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "91-100",
+    "sexe": "Men",
+    "spotname": "Manukau Harbour, Clarks Beach",
+    "sessionboard": "Starboard Foil 147 UltraCore Reflex Carbon",
+    "sessionsail": "Severne Mach2  8.6",
+    "sessionfin": "C3 Drake Venom  54",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389596&uid=23731"
+  }
+]

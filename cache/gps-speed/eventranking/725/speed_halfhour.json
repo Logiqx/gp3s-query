@@ -19,7 +19,7 @@
     "rowid": "2",
     "event_id": 725,
     "eventname": "Singlis-Speedchallenge 2022",
-    "speed": 23.174076,
+    "speed": 27.144764000000002,
     "type": "speed_halfhour",
     "username": "Andreas Schaefer",
     "ageclass": "Grand Master (51-60)",
@@ -28,8 +28,8 @@
     "spotname": "Singliser See",
     "sessionboard": "Starboard Isonic 124 Carbon",
     "sessionsail": "Severne Mach3  8.6",
-    "sessionfin": "F-Hot RWS-3  44",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=380637&uid=2399"
+    "sessionfin": "Sonntag Fins SL-X  44",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=394902&uid=2399"
   },
   {
     "rowid": "3",
@@ -51,7 +51,7 @@
     "rowid": "4",
     "event_id": 725,
     "eventname": "Singlis-Speedchallenge 2022",
-    "speed": 17.443988,
+    "speed": 22.181404,
     "type": "speed_halfhour",
     "username": "Ralf Hansel",
     "ageclass": "Grand Master (51-60)",
@@ -61,7 +61,7 @@
     "sessionboard": "PATRIK Slalom 122 ll",
     "sessionsail": "Loftsails RacingBlade  8.6",
     "sessionfin": "C-Fins 4.4  43",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=377930&uid=10573"
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=396329&uid=10573"
   },
   {
     "rowid": "5",

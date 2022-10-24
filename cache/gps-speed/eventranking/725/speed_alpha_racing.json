@@ -3,17 +3,17 @@
     "rowid": "1",
     "event_id": 725,
     "eventname": "Singlis-Speedchallenge 2022",
-    "speed": 36.106592,
+    "speed": 38.395664000000004,
     "type": "speed_alpha_racing",
     "username": "Michel Gutbier",
     "ageclass": "Senior (19-35)",
     "weightclass": "71-80",
     "sexe": "Men",
     "spotname": "Singliser See",
-    "sessionboard": "Starboard iSonic 85 Carbon Reflex ",
-    "sessionsail": "Severne Mach 4  8.6",
-    "sessionfin": "Hurricane Speed Slalom 2  44",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=375139&uid=7491"
+    "sessionboard": "Starboard iSonic 63 Carbon Reflex",
+    "sessionsail": "Severne Mach 5  7.8",
+    "sessionfin": "Feine Finnen Biting Beast 2.0  34",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=394500&uid=7491"
   },
   {
     "rowid": "2",
@@ -35,7 +35,7 @@
     "rowid": "3",
     "event_id": 725,
     "eventname": "Singlis-Speedchallenge 2022",
-    "speed": 31.372880000000006,
+    "speed": 32.184056000000005,
     "type": "speed_alpha_racing",
     "username": "Andreas Schaefer",
     "ageclass": "Grand Master (51-60)",
@@ -44,14 +44,14 @@
     "spotname": "Singliser See",
     "sessionboard": "Starboard Isonic 124 Carbon",
     "sessionsail": "Severne Mach3  8.6",
-    "sessionfin": "F-Hot RWS-3  44",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=380637&uid=2399"
+    "sessionfin": "Sonntag Fins SL-X  44",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=394902&uid=2399"
   },
   {
     "rowid": "4",
     "event_id": 725,
     "eventname": "Singlis-Speedchallenge 2022",
-    "speed": 29.70608,
+    "speed": 29.754232,
     "type": "speed_alpha_racing",
     "username": "Ralf Hansel",
     "ageclass": "Grand Master (51-60)",
@@ -61,7 +61,7 @@
     "sessionboard": "PATRIK Slalom 122 ll",
     "sessionsail": "Loftsails RacingBlade  8.6",
     "sessionfin": "C-Fins 4.4  43",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=377930&uid=10573"
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=396329&uid=10573"
   },
   {
     "rowid": "5",

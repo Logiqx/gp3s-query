@@ -387,6 +387,22 @@
     "rowid": "25",
     "event_id": 719,
     "eventname": "Norwegian speedmaster - 2022",
+    "speed": 31.033964000000005,
+    "type": "speed_mile",
+    "username": "Jan Erik Ringvold",
+    "ageclass": "Master (36-50)",
+    "weightclass": "91-100",
+    "sexe": "Men",
+    "spotname": "Lysakerfjorden",
+    "sessionboard": "PATRIK f-ride",
+    "sessionsail": "Severne Turbo  7.5",
+    "sessionfin": "not defined -  0",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=395784&uid=24766"
+  },
+  {
+    "rowid": "26",
+    "event_id": 719,
+    "eventname": "Norwegian speedmaster - 2022",
     "speed": 28.683776,
     "type": "speed_mile",
     "username": "Tore Hvideberg",
@@ -398,22 +414,6 @@
     "sessionsail": "S2 Maui Baanshe  6.4",
     "sessionfin": "Choco Fins Fanatic Jag LTD  38",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386310&uid=25617"
-  },
-  {
-    "rowid": "26",
-    "event_id": 719,
-    "eventname": "Norwegian speedmaster - 2022",
-    "speed": 27.46516,
-    "type": "speed_mile",
-    "username": "Jan Erik Ringvold",
-    "ageclass": "Master (36-50)",
-    "weightclass": "91-100",
-    "sexe": "Men",
-    "spotname": "Lysakerfjorden",
-    "sessionboard": "PATRIK f-ride",
-    "sessionsail": "Severne Turbo  7.5",
-    "sessionfin": "not defined -  0",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=393144&uid=24766"
   },
   {
     "rowid": "27",
@@ -467,6 +467,22 @@
     "rowid": "30",
     "event_id": 719,
     "eventname": "Norwegian speedmaster - 2022",
+    "speed": 22.99258,
+    "type": "speed_mile",
+    "username": "Torbj\u00f8rn W Fossest\u00f8l",
+    "ageclass": "Senior (19-35)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Hafrsfjord Sj\u00f8flyhavn",
+    "sessionboard": "PATRIK F-Ride",
+    "sessionsail": "Patrik Race+  6.4",
+    "sessionfin": "Starboard Drake Slalom DW Ready to Race  44",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=395889&uid=26213"
+  },
+  {
+    "rowid": "31",
+    "event_id": 719,
+    "eventname": "Norwegian speedmaster - 2022",
     "speed": 19.218204000000004,
     "type": "speed_mile",
     "username": "Dag Hansen",
@@ -480,7 +496,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=385993&uid=26303"
   },
   {
-    "rowid": "31",
+    "rowid": "32",
     "event_id": 719,
     "eventname": "Norwegian speedmaster - 2022",
     "speed": 9.074800000000002,
@@ -496,7 +512,23 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=382606&uid=21904"
   },
   {
-    "rowid": "32",
+    "rowid": "33",
+    "event_id": 719,
+    "eventname": "Norwegian speedmaster - 2022",
+    "speed": 0.0,
+    "type": "speed_mile",
+    "username": "Lars Edvardsen",
+    "ageclass": "Master (36-50)",
+    "weightclass": "91-100",
+    "sexe": "Men",
+    "spotname": "Omre",
+    "sessionboard": "Angulo Magnum 115",
+    "sessionsail": "KA Sails Kross  7.5",
+    "sessionfin": "Starboard Drake Slalom DW  38",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=383542&uid=23189"
+  },
+  {
+    "rowid": "34",
     "event_id": 719,
     "eventname": "Norwegian speedmaster - 2022",
     "speed": 0.0,
@@ -512,7 +544,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=393243&uid=16942"
   },
   {
-    "rowid": "33",
+    "rowid": "35",
     "event_id": 719,
     "eventname": "Norwegian speedmaster - 2022",
     "speed": 0.0,
@@ -528,7 +560,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389875&uid=25451"
   },
   {
-    "rowid": "34",
+    "rowid": "36",
     "event_id": 719,
     "eventname": "Norwegian speedmaster - 2022",
     "speed": 0.0,

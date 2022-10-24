@@ -51,7 +51,7 @@
     "rowid": "4",
     "event_id": 730,
     "eventname": "Surf like a dude Zuidlaardermeer Speed Challenge 2022",
-    "speed": 60.3600136,
+    "speed": 61.18933919999999,
     "type": "speed_avg",
     "username": "Tim Heeringa",
     "ageclass": "Master (36-50)",
@@ -61,10 +61,26 @@
     "sessionboard": "AHD GT 75",
     "sessionsail": "S2 Maui Venom  7.7",
     "sessionfin": "Finish Speed Slalom  37",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=393413&uid=23642"
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=395122&uid=23642"
   },
   {
     "rowid": "5",
+    "event_id": 730,
+    "eventname": "Surf like a dude Zuidlaardermeer Speed Challenge 2022",
+    "speed": 58.7895176,
+    "type": "speed_avg",
+    "username": "Richard Hilgers",
+    "ageclass": "Master (36-50)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Zuidlaardermeer",
+    "sessionboard": "Starboard  iSonic 73 Carbon Reflex ",
+    "sessionsail": "Duotone warp-vin  7.8",
+    "sessionfin": "Finish First  36",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=396138&uid=24414"
+  },
+  {
+    "rowid": "6",
     "event_id": 730,
     "eventname": "Surf like a dude Zuidlaardermeer Speed Challenge 2022",
     "speed": 58.3228136,
@@ -78,22 +94,6 @@
     "sessionsail": "Severne Mach3  7.0",
     "sessionfin": "Finish First V2  33",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=393425&uid=4690"
-  },
-  {
-    "rowid": "6",
-    "event_id": 730,
-    "eventname": "Surf like a dude Zuidlaardermeer Speed Challenge 2022",
-    "speed": 58.0535328,
-    "type": "speed_avg",
-    "username": "Richard Hilgers",
-    "ageclass": "Master (36-50)",
-    "weightclass": "81-90",
-    "sexe": "Men",
-    "spotname": "Zuidlaardermeer",
-    "sessionboard": "Starboard iSonic Carbon Reflex 72",
-    "sessionsail": "Duotone warp-vin  7.8",
-    "sessionfin": "Finish First  36",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=382404&uid=24414"
   },
   {
     "rowid": "7",

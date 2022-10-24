@@ -227,6 +227,22 @@
     "rowid": "15",
     "event_id": 740,
     "eventname": "2022 Funsport Makkum GPS Speed Challenge",
+    "speed": 23.596332,
+    "type": "speed_alpha_racing",
+    "username": "Edu Hoekstra",
+    "ageclass": "Master (36-50)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "IJsselmeer - Makkum",
+    "sessionboard": "Fanatic Falcon Slalom TE 136",
+    "sessionsail": "Severne Mach 2  9.4",
+    "sessionfin": "Hurricane Weed 3  38",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=396652&uid=22225"
+  },
+  {
+    "rowid": "16",
+    "event_id": 740,
+    "eventname": "2022 Funsport Makkum GPS Speed Challenge",
     "speed": 22.775896,
     "type": "speed_alpha_racing",
     "username": "Luc Salomons",
@@ -240,7 +256,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=388555&uid=596"
   },
   {
-    "rowid": "16",
+    "rowid": "17",
     "event_id": 740,
     "eventname": "2022 Funsport Makkum GPS Speed Challenge",
     "speed": 20.555348000000002,
@@ -254,22 +270,6 @@
     "sessionsail": "North Sails Warp F2018  7.0",
     "sessionfin": "Select hotrod  31",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=388769&uid=1437"
-  },
-  {
-    "rowid": "17",
-    "event_id": 740,
-    "eventname": "2022 Funsport Makkum GPS Speed Challenge",
-    "speed": 16.942096,
-    "type": "speed_alpha_racing",
-    "username": "Edu Hoekstra",
-    "ageclass": "Master (36-50)",
-    "weightclass": "71-80",
-    "sexe": "Men",
-    "spotname": "IJsselmeer - Makkum",
-    "sessionboard": "Fanatic Falcon 114 TE",
-    "sessionsail": "Severne Mach 1  7.0",
-    "sessionfin": "Hurricane Weed 1  31",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=379170&uid=22225"
   },
   {
     "rowid": "18",

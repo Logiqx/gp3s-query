@@ -67,6 +67,38 @@
     "rowid": "5",
     "event_id": 732,
     "eventname": "2022 DBO Speed Challenge",
+    "speed": 60.927096000000006,
+    "type": "speed_500",
+    "username": "Hans Frydendal",
+    "ageclass": "Super Master (61-70)",
+    "weightclass": "101-110",
+    "sexe": "Men",
+    "spotname": "Velling",
+    "sessionboard": "Tabou Manta 54",
+    "sessionsail": "Duotone Warp 20.20  6.2",
+    "sessionfin": "Hurricane Weed2  28",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=395443&uid=6075"
+  },
+  {
+    "rowid": "6",
+    "event_id": 732,
+    "eventname": "2022 DBO Speed Challenge",
+    "speed": 60.275192000000004,
+    "type": "speed_500",
+    "username": "S\u00f8ren Kj\u00e6r",
+    "ageclass": "Super Master (61-70)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Herslev",
+    "sessionboard": "Starboard iSonic Speed Slalom 80",
+    "sessionsail": "Loft Sails Racing Blade  6.3",
+    "sessionfin": "Hurricane SSM-  31",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=395733&uid=18137"
+  },
+  {
+    "rowid": "7",
+    "event_id": 732,
+    "eventname": "2022 DBO Speed Challenge",
     "speed": 60.04184000000001,
     "type": "speed_500",
     "username": "Kasper Thrane",
@@ -80,7 +112,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=378435&uid=18149"
   },
   {
-    "rowid": "6",
+    "rowid": "8",
     "event_id": 732,
     "eventname": "2022 DBO Speed Challenge",
     "speed": 59.688108,
@@ -96,23 +128,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=374190&uid=23069"
   },
   {
-    "rowid": "7",
-    "event_id": 732,
-    "eventname": "2022 DBO Speed Challenge",
-    "speed": 59.299188,
-    "type": "speed_500",
-    "username": "Hans Frydendal",
-    "ageclass": "Super Master (61-70)",
-    "weightclass": "101-110",
-    "sexe": "Men",
-    "spotname": "Kloster",
-    "sessionboard": "Future Fly Dark Horse 97",
-    "sessionsail": "Duotone Warp 20.20  6.2",
-    "sessionfin": "Custom weed  22",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=392970&uid=6075"
-  },
-  {
-    "rowid": "8",
+    "rowid": "9",
     "event_id": 732,
     "eventname": "2022 DBO Speed Challenge",
     "speed": 58.263920000000006,
@@ -128,7 +144,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=374420&uid=7434"
   },
   {
-    "rowid": "9",
+    "rowid": "10",
     "event_id": 732,
     "eventname": "2022 DBO Speed Challenge",
     "speed": 57.87129600000001,
@@ -144,7 +160,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=393869&uid=15727"
   },
   {
-    "rowid": "10",
+    "rowid": "11",
     "event_id": 732,
     "eventname": "2022 DBO Speed Challenge",
     "speed": 57.730544,
@@ -160,23 +176,23 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=393810&uid=22618"
   },
   {
-    "rowid": "11",
+    "rowid": "12",
     "event_id": 732,
     "eventname": "2022 DBO Speed Challenge",
-    "speed": 57.52312,
+    "speed": 57.54164,
     "type": "speed_500",
-    "username": "S\u00f8ren Kj\u00e6r",
-    "ageclass": "Super Master (61-70)",
-    "weightclass": "71-80",
+    "username": "Daniel Lund",
+    "ageclass": "Master (36-50)",
+    "weightclass": "81-90",
     "sexe": "Men",
-    "spotname": "Veddelev",
-    "sessionboard": "Starboard iSonic Speed Slalom 80",
-    "sessionsail": "Loft Sails Racing Blade  6.3",
-    "sessionfin": "Hurricane SSM-  31",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=393128&uid=18137"
+    "spotname": "Westwind Nord - Hvide Sande Ringk\u00f8bing Fjord",
+    "sessionboard": "Tabou Manta 61",
+    "sessionsail": "Point-7 AC1  7.1",
+    "sessionfin": "Z-fins SLM  33",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=396559&uid=26157"
   },
   {
-    "rowid": "12",
+    "rowid": "13",
     "event_id": 732,
     "eventname": "2022 DBO Speed Challenge",
     "speed": 56.999004000000006,
@@ -192,7 +208,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=387183&uid=24692"
   },
   {
-    "rowid": "13",
+    "rowid": "14",
     "event_id": 732,
     "eventname": "2022 DBO Speed Challenge",
     "speed": 56.79158,
@@ -208,7 +224,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=378308&uid=4150"
   },
   {
-    "rowid": "14",
+    "rowid": "15",
     "event_id": 732,
     "eventname": "2022 DBO Speed Challenge",
     "speed": 54.667336000000006,
@@ -222,22 +238,6 @@
     "sessionsail": "Severne Mach 4  6.2",
     "sessionfin": "Maui Ultra Fins Slalom Pro Carbon  36",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=381298&uid=5285"
-  },
-  {
-    "rowid": "15",
-    "event_id": 732,
-    "eventname": "2022 DBO Speed Challenge",
-    "speed": 54.546956,
-    "type": "speed_500",
-    "username": "Daniel Lund",
-    "ageclass": "Master (36-50)",
-    "weightclass": "81-90",
-    "sexe": "Men",
-    "spotname": "Bork Havn",
-    "sessionboard": "Tabou Manta 61",
-    "sessionsail": "Point-7 AC1  6.2",
-    "sessionfin": "Z-fins SLM  31",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=387379&uid=26157"
   },
   {
     "rowid": "16",
@@ -259,6 +259,22 @@
     "rowid": "17",
     "event_id": 732,
     "eventname": "2022 DBO Speed Challenge",
+    "speed": 53.909868,
+    "type": "speed_500",
+    "username": "Martin Lamhauge Anker",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Bork Havn",
+    "sessionboard": "RRD X-Fire 114 V11 LTD",
+    "sessionsail": "Gun Sails GS-R  8.2",
+    "sessionfin": "Z-fins SLM  375",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=394937&uid=23803"
+  },
+  {
+    "rowid": "18",
+    "event_id": 732,
+    "eventname": "2022 DBO Speed Challenge",
     "speed": 53.37464000000001,
     "type": "speed_500",
     "username": "Thomas Oberhofer",
@@ -272,7 +288,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=380438&uid=23918"
   },
   {
-    "rowid": "18",
+    "rowid": "19",
     "event_id": 732,
     "eventname": "2022 DBO Speed Challenge",
     "speed": 53.34315600000001,
@@ -288,7 +304,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=387989&uid=24035"
   },
   {
-    "rowid": "19",
+    "rowid": "20",
     "event_id": 732,
     "eventname": "2022 DBO Speed Challenge",
     "speed": 52.526424,
@@ -302,22 +318,6 @@
     "sessionsail": "Gun Sails Rapid  7.2",
     "sessionfin": "Maui Ultra Fins Slalom Pro  38",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=392974&uid=23813"
-  },
-  {
-    "rowid": "20",
-    "event_id": 732,
-    "eventname": "2022 DBO Speed Challenge",
-    "speed": 52.187508,
-    "type": "speed_500",
-    "username": "Martin Lamhauge Anker",
-    "ageclass": "Grand Master (51-60)",
-    "weightclass": "81-90",
-    "sexe": "Men",
-    "spotname": "Hvide Sande",
-    "sessionboard": "RRD X-Fire 114 V11 LTD",
-    "sessionsail": "Gun Sails GS-R  8.2",
-    "sessionfin": "Z-fins SLM  375",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=379801&uid=23803"
   },
   {
     "rowid": "21",
@@ -403,6 +403,22 @@
     "rowid": "26",
     "event_id": 732,
     "eventname": "2022 DBO Speed Challenge",
+    "speed": 47.514912,
+    "type": "speed_500",
+    "username": "Pernille Sanderhoff",
+    "ageclass": "Master (36-50)",
+    "weightclass": "51-60",
+    "sexe": "Woman",
+    "spotname": "Herslev",
+    "sessionboard": "Future Fly Dark Horse 97",
+    "sessionsail": "Loftsails Racingblade  5.0",
+    "sessionfin": "Z-fins SLM  30",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=395390&uid=23079"
+  },
+  {
+    "rowid": "27",
+    "event_id": 732,
+    "eventname": "2022 DBO Speed Challenge",
     "speed": 46.927828,
     "type": "speed_500",
     "username": "Benny Plambeck",
@@ -416,7 +432,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=385880&uid=1203"
   },
   {
-    "rowid": "27",
+    "rowid": "28",
     "event_id": 732,
     "eventname": "2022 DBO Speed Challenge",
     "speed": 46.662992,
@@ -432,7 +448,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=375058&uid=718"
   },
   {
-    "rowid": "28",
+    "rowid": "29",
     "event_id": 732,
     "eventname": "2022 DBO Speed Challenge",
     "speed": 45.786996,
@@ -448,26 +464,10 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=392931&uid=26395"
   },
   {
-    "rowid": "29",
-    "event_id": 732,
-    "eventname": "2022 DBO Speed Challenge",
-    "speed": 45.742548000000006,
-    "type": "speed_500",
-    "username": "Pernille Sanderhoff",
-    "ageclass": "Master (36-50)",
-    "weightclass": "51-60",
-    "sexe": "Woman",
-    "spotname": "Veddelev",
-    "sessionboard": "Starboard Isonic 80 Carbon",
-    "sessionsail": "Loftsails Racingblade  5.0",
-    "sessionfin": "Z-fins SLM  30",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=378381&uid=23079"
-  },
-  {
     "rowid": "30",
     "event_id": 732,
     "eventname": "2022 DBO Speed Challenge",
-    "speed": 43.451624,
+    "speed": 43.684976000000006,
     "type": "speed_500",
     "username": "Jacob Friis Saxberg",
     "ageclass": "Grand Master (51-60)",
@@ -477,7 +477,7 @@
     "sessionboard": "Starboard iSonic",
     "sessionsail": "Loft Sails Switchblade  7.0",
     "sessionfin": "Z-fins Z SLM 34 s-  34",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386570&uid=24434"
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=395709&uid=24434"
   },
   {
     "rowid": "31",

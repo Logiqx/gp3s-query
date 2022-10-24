@@ -19,6 +19,22 @@
     "rowid": "2",
     "event_id": 722,
     "eventname": "Lysakerfjorden 2022",
+    "speed": 26.170612000000002,
+    "type": "speed_alpha_racing",
+    "username": "Roald Lande",
+    "ageclass": "Master (36-50)",
+    "weightclass": "61-70",
+    "sexe": "Men",
+    "spotname": "Lysakerfjorden",
+    "sessionboard": "Starboard Carve",
+    "sessionsail": "Severne Gator  5.5",
+    "sessionfin": "not defined -  0",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=395607&uid=26414"
+  },
+  {
+    "rowid": "3",
+    "event_id": 722,
+    "eventname": "Lysakerfjorden 2022",
     "speed": 23.02962,
     "type": "speed_alpha_racing",
     "username": "Jan Erik Ringvold",
@@ -32,7 +48,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=378084&uid=24766"
   },
   {
-    "rowid": "3",
+    "rowid": "4",
     "event_id": 722,
     "eventname": "Lysakerfjorden 2022",
     "speed": 20.13124,
@@ -48,7 +64,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390617&uid=23634"
   },
   {
-    "rowid": "4",
+    "rowid": "5",
     "event_id": 722,
     "eventname": "Lysakerfjorden 2022",
     "speed": 8.874784,
@@ -64,7 +80,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=382231&uid=23900"
   },
   {
-    "rowid": "5",
+    "rowid": "6",
     "event_id": 722,
     "eventname": "Lysakerfjorden 2022",
     "speed": 0.0,
@@ -80,7 +96,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=385993&uid=26303"
   },
   {
-    "rowid": "6",
+    "rowid": "7",
     "event_id": 722,
     "eventname": "Lysakerfjorden 2022",
     "speed": 0.0,

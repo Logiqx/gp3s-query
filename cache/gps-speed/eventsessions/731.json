@@ -1220,5 +1220,31 @@
     "sessionsail": "Gun Sails GSR 7.1,  2019",
     "sessionfin": "Lessacher Rake 30  35",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=391643&uid=10607"
+  },
+  {
+    "session_id": 395614,
+    "session_date": "10/2/2022 12:00:00 AM",
+    "event_id": 731,
+    "eventname": "Wurster ONE hour",
+    "speed_avg": 26.700283999999996,
+    "speed_2sec": 42.570072,
+    "speed_10sec": 41.22552,
+    "speed_100": 41.499616,
+    "speed_250": 40.07728,
+    "speed_500": 39.621688,
+    "speed_mile": 10.971248000000001,
+    "speed_hour": 0.0,
+    "speed_halfhour": 0.0,
+    "speed_24hour": 0.0,
+    "speed_alpha_racing": 22.911092000000004,
+    "session_distance": 3.526932,
+    "username": "Paul Stich",
+    "flag": "DE",
+    "sexe": "Men",
+    "spotname": "Dorum, Bremerhaven",
+    "sessionboard": "RRD X-Fire LTD V7 105,  2014",
+    "sessionsail": "Gun Sails GSR 7.1,  2019",
+    "sessionfin": "Lessacher Duo Speed Weed  32",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=395614&uid=10607"
   }
 ]

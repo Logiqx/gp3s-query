@@ -3,6 +3,22 @@
     "rowid": "1",
     "event_id": 717,
     "eventname": "2022 Irish Speed Masters",
+    "speed": 82.851072,
+    "type": "speed_10sec",
+    "username": "Oisin van Gelderen",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Dungarvan",
+    "sessionboard": "JP Speed 45 Pro Edition",
+    "sessionsail": "Neilpryde Rs Racing EVO XIII  5.2",
+    "sessionfin": "Z-fins SPA 21.5 S  21",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=396090&uid=3440"
+  },
+  {
+    "rowid": "2",
+    "event_id": 717,
+    "eventname": "2022 Irish Speed Masters",
     "speed": 80.11381600000001,
     "type": "speed_10sec",
     "username": "Marc Roosli",
@@ -16,39 +32,39 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=375586&uid=11613"
   },
   {
-    "rowid": "2",
-    "event_id": 717,
-    "eventname": "2022 Irish Speed Masters",
-    "speed": 66.177516,
-    "type": "speed_10sec",
-    "username": "Oisin van Gelderen",
-    "ageclass": "Grand Master (51-60)",
-    "weightclass": "81-90",
-    "sexe": "Men",
-    "spotname": "Malahide Estuary",
-    "sessionboard": "JP Speed 45 Pro Edition",
-    "sessionsail": "Neilpryde RS Racing EVO X  5.6",
-    "sessionfin": "Z-fins SPA 21.5 S  21",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=383971&uid=3440"
-  },
-  {
     "rowid": "3",
     "event_id": 717,
     "eventname": "2022 Irish Speed Masters",
-    "speed": 59.62328800000001,
+    "speed": 68.501776,
     "type": "speed_10sec",
     "username": "Mark Cullinane",
     "ageclass": "Master (36-50)",
     "weightclass": "81-90",
     "sexe": "Men",
     "spotname": "Dungarvan",
-    "sessionboard": "F2 Slalom ",
+    "sessionboard": "Starboard iSonic Speed Special W-44",
     "sessionsail": "Neilpryde rs  evo 1  5.8",
     "sessionfin": "Black Project Fins XLS asy SB  18",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=373226&uid=25543"
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=396296&uid=25543"
   },
   {
     "rowid": "4",
+    "event_id": 717,
+    "eventname": "2022 Irish Speed Masters",
+    "speed": 58.958420000000004,
+    "type": "speed_10sec",
+    "username": "Steve Williams",
+    "ageclass": "Master (36-50)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Bunbeg",
+    "sessionboard": "Exocet Turbo Boost 2 58",
+    "sessionsail": "Neilpryde Combat Pro  5.0",
+    "sessionfin": "Maui Fin Co slalom  28",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=396507&uid=26514"
+  },
+  {
+    "rowid": "5",
     "event_id": 717,
     "eventname": "2022 Irish Speed Masters",
     "speed": 57.480524,
@@ -64,7 +80,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=377028&uid=23887"
   },
   {
-    "rowid": "5",
+    "rowid": "6",
     "event_id": 717,
     "eventname": "2022 Irish Speed Masters",
     "speed": 54.00432,
@@ -80,7 +96,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=373276&uid=25174"
   },
   {
-    "rowid": "6",
+    "rowid": "7",
     "event_id": 717,
     "eventname": "2022 Irish Speed Masters",
     "speed": 52.594948,
@@ -96,7 +112,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=375095&uid=3671"
   },
   {
-    "rowid": "7",
+    "rowid": "8",
     "event_id": 717,
     "eventname": "2022 Irish Speed Masters",
     "speed": 47.86494,
@@ -110,5 +126,21 @@
     "sessionsail": "Loftsails Purelip  6.2",
     "sessionfin": "Select Edge Pro Carbon  35",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=380852&uid=24483"
+  },
+  {
+    "rowid": "9",
+    "event_id": 717,
+    "eventname": "2022 Irish Speed Masters",
+    "speed": 37.249276,
+    "type": "speed_10sec",
+    "username": "Martin Pelikan",
+    "ageclass": "Master (36-50)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Ballyholme (Northern Ireland)",
+    "sessionboard": "Starboard Formula 177",
+    "sessionsail": "Severne Hyper Glide 2  10.0",
+    "sessionfin": "Starboard Race {95, 115, 1000, 255)  95",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=396780&uid=25175"
   }
 ]

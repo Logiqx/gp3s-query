@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "rowid": "1",
+    "event_id": 757,
+    "eventname": "2022 Auckland Windsurfing Association Speed Challenge",
+    "speed": 0.0,
+    "type": "speed_24hour",
+    "username": "Dave Harnett",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "91-100",
+    "sexe": "Men",
+    "spotname": "Musick Point",
+    "sessionboard": "PATRIK Slalom 115 V5",
+    "sessionsail": "Severne Mach 4  7.0",
+    "sessionfin": "Meanline KRF Rebel Slalom/Speed  39",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=387434&uid=881"
+  },
+  {
+    "rowid": "2",
+    "event_id": 757,
+    "eventname": "2022 Auckland Windsurfing Association Speed Challenge",
+    "speed": 0.0,
+    "type": "speed_24hour",
+    "username": "Brett Wyatt",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "91-100",
+    "sexe": "Men",
+    "spotname": "Manukau Harbour, Clarks Beach",
+    "sessionboard": "Starboard Foil 147 UltraCore Reflex Carbon",
+    "sessionsail": "Severne Mach2  8.6",
+    "sessionfin": "C3 Drake Venom  54",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389596&uid=23731"
+  }
+]

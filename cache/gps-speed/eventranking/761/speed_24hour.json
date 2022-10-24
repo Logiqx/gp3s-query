@@ -1,0 +1,34 @@
+[
+  {
+    "rowid": "1",
+    "event_id": 761,
+    "eventname": "2022 Schildmeer Speed Challenge 2022-2023",
+    "speed": 0.0,
+    "type": "speed_24hour",
+    "username": "Reinder de Vries",
+    "ageclass": "Master (36-50)",
+    "weightclass": "91-100",
+    "sexe": "Men",
+    "spotname": "schildmeer",
+    "sessionboard": "AV Modena Slalom 72,5",
+    "sessionsail": "Point-7 AC1  7.8",
+    "sessionfin": "iFins Fight Club  38",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=395325&uid=22320"
+  },
+  {
+    "rowid": "2",
+    "event_id": 761,
+    "eventname": "2022 Schildmeer Speed Challenge 2022-2023",
+    "speed": 0.0,
+    "type": "speed_24hour",
+    "username": "Frans Werkman",
+    "ageclass": "Super Master (61-70)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "schildmeer",
+    "sessionboard": "AV Modena 68",
+    "sessionsail": "Severne Mach 5  7.0",
+    "sessionfin": "Sonntag Fins SL-pro  35",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=395000&uid=5650"
+  }
+]

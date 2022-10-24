@@ -51,6 +51,22 @@
     "rowid": "4",
     "event_id": 726,
     "eventname": "WSCA Westeinder Speedking 2022",
+    "speed": 62.223496000000004,
+    "type": "speed_2sec",
+    "username": "Max Shytikov",
+    "ageclass": "Master (36-50)",
+    "weightclass": "61-70",
+    "sexe": "Men",
+    "spotname": "Westeinder Plassen",
+    "sessionboard": "Future Fly Dark Horse 97",
+    "sessionsail": "Duotone Warp_fin 20.22  6.8",
+    "sessionfin": "Finish First V2   32",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=395148&uid=25266"
+  },
+  {
+    "rowid": "5",
+    "event_id": 726,
+    "eventname": "WSCA Westeinder Speedking 2022",
     "speed": 61.69012000000001,
     "type": "speed_2sec",
     "username": "Edwin Beekman",
@@ -64,14 +80,14 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=384042&uid=21797"
   },
   {
-    "rowid": "5",
+    "rowid": "6",
     "event_id": 726,
     "eventname": "WSCA Westeinder Speedking 2022",
     "speed": 61.127112000000004,
     "type": "speed_2sec",
     "username": "David van den Toorn",
     "ageclass": "Senior (19-35)",
-    "weightclass": "71-80",
+    "weightclass": "61-70",
     "sexe": "Men",
     "spotname": "Westeinder Plassen",
     "sessionboard": "PATRIK Slalom 125",
@@ -80,7 +96,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=393509&uid=22950"
   },
   {
-    "rowid": "6",
+    "rowid": "7",
     "event_id": 726,
     "eventname": "WSCA Westeinder Speedking 2022",
     "speed": 60.732636,
@@ -96,7 +112,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=379121&uid=1609"
   },
   {
-    "rowid": "7",
+    "rowid": "8",
     "event_id": 726,
     "eventname": "WSCA Westeinder Speedking 2022",
     "speed": 60.462244,
@@ -112,23 +128,23 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=383865&uid=22381"
   },
   {
-    "rowid": "8",
+    "rowid": "9",
     "event_id": 726,
     "eventname": "WSCA Westeinder Speedking 2022",
-    "speed": 59.260296000000004,
+    "speed": 59.825156,
     "type": "speed_2sec",
-    "username": "Max Shytikov",
+    "username": "Rogier Hassink",
     "ageclass": "Master (36-50)",
-    "weightclass": "61-70",
+    "weightclass": "81-90",
     "sexe": "Men",
-    "spotname": "Westeinder Plassen",
-    "sessionboard": "Future Fly Dark Horse FR 107",
-    "sessionsail": "Duotone Warp_fin 20.22  7.8",
-    "sessionfin": "Sonntag Fins SL-X 360  36",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=384186&uid=25266"
+    "spotname": "Aalsmeer-Westeinder plassen",
+    "sessionboard": "Angulo Magnum 115",
+    "sessionsail": "Gun Sails GS-R  7.1",
+    "sessionfin": "Tribal Fin Slalom MK2 carbon  36",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=394577&uid=23518"
   },
   {
-    "rowid": "9",
+    "rowid": "10",
     "event_id": 726,
     "eventname": "WSCA Westeinder Speedking 2022",
     "speed": 57.456448,
@@ -144,7 +160,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=382074&uid=23965"
   },
   {
-    "rowid": "10",
+    "rowid": "11",
     "event_id": 726,
     "eventname": "WSCA Westeinder Speedking 2022",
     "speed": 56.604528,
@@ -160,23 +176,23 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=380867&uid=25523"
   },
   {
-    "rowid": "11",
+    "rowid": "12",
     "event_id": 726,
     "eventname": "WSCA Westeinder Speedking 2022",
-    "speed": 56.289688,
+    "speed": 56.08782,
     "type": "speed_2sec",
-    "username": "Rogier Hassink",
-    "ageclass": "Master (36-50)",
-    "weightclass": "81-90",
+    "username": "Lennert Zandvliet",
+    "ageclass": "Senior (19-35)",
+    "weightclass": "71-80",
     "sexe": "Men",
-    "spotname": "Aalsmeer-Westeinder plassen",
-    "sessionboard": "Angulo Magnum 115",
-    "sessionsail": "Gun Sails gsr  7.8",
-    "sessionfin": "Tribal Fin Slalom MK2 carbon  36",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=388828&uid=23518"
+    "spotname": "Westeinder Plassen",
+    "sessionboard": "Future Fly Dark Horse 122",
+    "sessionsail": "Maui Sails TRX  6.6",
+    "sessionfin": "Sonntag Fins SLR  39",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=396678&uid=23663"
   },
   {
-    "rowid": "12",
+    "rowid": "13",
     "event_id": 726,
     "eventname": "WSCA Westeinder Speedking 2022",
     "speed": 56.067448000000006,
@@ -192,7 +208,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=384027&uid=384"
   },
   {
-    "rowid": "13",
+    "rowid": "14",
     "event_id": 726,
     "eventname": "WSCA Westeinder Speedking 2022",
     "speed": 54.269156,
@@ -206,22 +222,6 @@
     "sessionsail": "Vandal Enemy  4.7",
     "sessionfin": "North Shore Wave   23",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=374480&uid=5707"
-  },
-  {
-    "rowid": "14",
-    "event_id": 726,
-    "eventname": "WSCA Westeinder Speedking 2022",
-    "speed": 53.928388000000005,
-    "type": "speed_2sec",
-    "username": "Lennert Zandvliet",
-    "ageclass": "Senior (19-35)",
-    "weightclass": "71-80",
-    "sexe": "Men",
-    "spotname": "Westeinder Plassen",
-    "sessionboard": "Future Fly Dark Horse 122",
-    "sessionsail": "S2 Maui Venom  7.7",
-    "sessionfin": "Sonntag Fins SL-X  40",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=373443&uid=23663"
   },
   {
     "rowid": "15",

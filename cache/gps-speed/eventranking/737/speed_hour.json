@@ -195,17 +195,17 @@
     "rowid": "13",
     "event_id": 737,
     "eventname": "2022 Spanish Speed Challenge",
-    "speed": 27.191064,
+    "speed": 27.367004,
     "type": "speed_hour",
-    "username": "Antonio Funworks",
+    "username": " Antonio Mora",
     "ageclass": "Master (36-50)",
     "weightclass": "71-80",
     "sexe": "Men",
     "spotname": "Tarifa, Campo de football",
-    "sessionboard": "F2 Missile Racing 49",
-    "sessionsail": "Gun Sails GSR  5.0",
-    "sessionfin": "Sonntag Fins Gps-X2WRHF200  20",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=374285&uid=26004"
+    "sessionboard": "Custom Custom SBT",
+    "sessionsail": "Gun Sails GS-R  5.6",
+    "sessionfin": "Tribal Fin 19.5 ST  19",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=395326&uid=26004"
   },
   {
     "rowid": "14",
@@ -243,6 +243,38 @@
     "rowid": "16",
     "event_id": 737,
     "eventname": "2022 Spanish Speed Challenge",
+    "speed": 25.868736000000002,
+    "type": "speed_hour",
+    "username": "John Skye",
+    "ageclass": "Master (36-50)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Gran Canaria, Bah\u00eda de Formas (Salinas de Arinaga)",
+    "sessionboard": "RRD X-Fire 114 LTD Y25",
+    "sessionsail": "RRD X-Wing Y27  7.8",
+    "sessionfin": "F-Hot RWS S-3 #2637  36",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=381451&uid=6272"
+  },
+  {
+    "rowid": "17",
+    "event_id": 737,
+    "eventname": "2022 Spanish Speed Challenge",
+    "speed": 25.609456,
+    "type": "speed_hour",
+    "username": "Antonio Calvo Calvo",
+    "ageclass": "Senior (19-35)",
+    "weightclass": "61-70",
+    "sexe": "Men",
+    "spotname": "Tarifa, Campo de football",
+    "sessionboard": "F2 Missile Racing 49",
+    "sessionsail": "Gun Sails Vector  5.0",
+    "sessionfin": "Maui Ultra Fins Slalom-Race  24",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=394592&uid=26053"
+  },
+  {
+    "rowid": "18",
+    "event_id": 737,
+    "eventname": "2022 Spanish Speed Challenge",
     "speed": 24.563076000000002,
     "type": "speed_hour",
     "username": "Dani Coca Serra",
@@ -256,7 +288,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=377377&uid=19419"
   },
   {
-    "rowid": "17",
+    "rowid": "19",
     "event_id": 737,
     "eventname": "2022 Spanish Speed Challenge",
     "speed": 24.451956,
@@ -272,7 +304,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=377725&uid=22332"
   },
   {
-    "rowid": "18",
+    "rowid": "20",
     "event_id": 737,
     "eventname": "2022 Spanish Speed Challenge",
     "speed": 23.120368000000003,
@@ -288,23 +320,23 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390776&uid=22440"
   },
   {
-    "rowid": "19",
+    "rowid": "21",
     "event_id": 737,
     "eventname": "2022 Spanish Speed Challenge",
-    "speed": 22.327712,
+    "speed": 19.097824,
     "type": "speed_hour",
-    "username": "Antonio Calvo Calvo",
-    "ageclass": "Senior (19-35)",
-    "weightclass": "61-70",
+    "username": "Manuel Pousa ",
+    "ageclass": "Master (36-50)",
+    "weightclass": "71-80",
     "sexe": "Men",
     "spotname": "Tarifa, Campo de football",
-    "sessionboard": "RRD X-Fire 80 LTD V10",
-    "sessionsail": "Gun Sails Exceed  6.0",
-    "sessionfin": "Tarifa Fin Company TFC 28 G10  28",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=394002&uid=26053"
+    "sessionboard": "not defined ",
+    "sessionsail": "Gun Sails GSR  5.0",
+    "sessionfin": "not defined -  0",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=395031&uid=26477"
   },
   {
-    "rowid": "20",
+    "rowid": "22",
     "event_id": 737,
     "eventname": "2022 Spanish Speed Challenge",
     "speed": 18.58482,
@@ -320,7 +352,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=391707&uid=16739"
   },
   {
-    "rowid": "21",
+    "rowid": "23",
     "event_id": 737,
     "eventname": "2022 Spanish Speed Challenge",
     "speed": 16.471688,
@@ -336,7 +368,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=385151&uid=22584"
   },
   {
-    "rowid": "22",
+    "rowid": "24",
     "event_id": 737,
     "eventname": "2022 Spanish Speed Challenge",
     "speed": 15.942016000000002,
@@ -352,7 +384,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=381754&uid=22002"
   },
   {
-    "rowid": "23",
+    "rowid": "25",
     "event_id": 737,
     "eventname": "2022 Spanish Speed Challenge",
     "speed": 15.727184000000003,
@@ -368,7 +400,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=381548&uid=25284"
   },
   {
-    "rowid": "24",
+    "rowid": "26",
     "event_id": 737,
     "eventname": "2022 Spanish Speed Challenge",
     "speed": 15.462348,
@@ -384,7 +416,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=378543&uid=23336"
   },
   {
-    "rowid": "25",
+    "rowid": "27",
     "event_id": 737,
     "eventname": "2022 Spanish Speed Challenge",
     "speed": 11.582408,
@@ -398,5 +430,37 @@
     "sessionsail": "Loft Sails Racinblade  9.0",
     "sessionfin": "Sonntag Fins SL-Pro  44",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=383081&uid=25290"
+  },
+  {
+    "rowid": "28",
+    "event_id": 737,
+    "eventname": "2022 Spanish Speed Challenge",
+    "speed": 8.830336,
+    "type": "speed_hour",
+    "username": "Blanca Alabau",
+    "ageclass": "Senior (19-35)",
+    "weightclass": "51-60",
+    "sexe": "Woman",
+    "spotname": "Tarifa, Campo de football",
+    "sessionboard": "not defined ",
+    "sessionsail": "Severne Overdrive M4  4.6",
+    "sessionfin": "not defined -  0",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=384543&uid=26200"
+  },
+  {
+    "rowid": "29",
+    "event_id": 737,
+    "eventname": "2022 Spanish Speed Challenge",
+    "speed": 8.387708,
+    "type": "speed_hour",
+    "username": "Eduardo Lopez",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Tarifa, Campo de football",
+    "sessionboard": "Starboard  iSonic 63 Carbon Reflex ",
+    "sessionsail": "Severne Mach 4  6.2",
+    "sessionfin": "not defined -  0",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=396169&uid=25939"
   }
 ]

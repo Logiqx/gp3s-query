@@ -3,7 +3,23 @@
     "rowid": "1",
     "event_id": 722,
     "eventname": "Lysakerfjorden 2022",
-    "speed": 27.46516,
+    "speed": 33.906416,
+    "type": "speed_mile",
+    "username": "Roald Lande",
+    "ageclass": "Master (36-50)",
+    "weightclass": "61-70",
+    "sexe": "Men",
+    "spotname": "Lysakerfjorden",
+    "sessionboard": "Starboard Carve",
+    "sessionsail": "Severne Gator  7.0",
+    "sessionfin": "not defined -  0",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=394776&uid=26414"
+  },
+  {
+    "rowid": "2",
+    "event_id": 722,
+    "eventname": "Lysakerfjorden 2022",
+    "speed": 31.033964000000005,
     "type": "speed_mile",
     "username": "Jan Erik Ringvold",
     "ageclass": "Master (36-50)",
@@ -13,10 +29,10 @@
     "sessionboard": "PATRIK f-ride",
     "sessionsail": "Severne Turbo  7.5",
     "sessionfin": "not defined -  0",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=393144&uid=24766"
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=395784&uid=24766"
   },
   {
-    "rowid": "2",
+    "rowid": "3",
     "event_id": 722,
     "eventname": "Lysakerfjorden 2022",
     "speed": 25.492780000000003,
@@ -32,7 +48,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390617&uid=23634"
   },
   {
-    "rowid": "3",
+    "rowid": "4",
     "event_id": 722,
     "eventname": "Lysakerfjorden 2022",
     "speed": 19.218204000000004,
@@ -48,7 +64,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=385993&uid=26303"
   },
   {
-    "rowid": "4",
+    "rowid": "5",
     "event_id": 722,
     "eventname": "Lysakerfjorden 2022",
     "speed": 0.0,
@@ -64,7 +80,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=384681&uid=26228"
   },
   {
-    "rowid": "5",
+    "rowid": "6",
     "event_id": 722,
     "eventname": "Lysakerfjorden 2022",
     "speed": 0.0,
@@ -80,7 +96,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=383137&uid=26227"
   },
   {
-    "rowid": "6",
+    "rowid": "7",
     "event_id": 722,
     "eventname": "Lysakerfjorden 2022",
     "speed": 0.0,

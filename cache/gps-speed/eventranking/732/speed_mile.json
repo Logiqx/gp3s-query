@@ -83,6 +83,22 @@
     "rowid": "6",
     "event_id": 732,
     "eventname": "2022 DBO Speed Challenge",
+    "speed": 51.718952,
+    "type": "speed_mile",
+    "username": "Daniel Lund",
+    "ageclass": "Master (36-50)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Westwind Nord - Hvide Sande Ringk\u00f8bing Fjord",
+    "sessionboard": "Tabou Manta 61",
+    "sessionsail": "Point-7 AC1  7.1",
+    "sessionfin": "Z-fins SLM  33",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=396559&uid=26157"
+  },
+  {
+    "rowid": "7",
+    "event_id": 732,
+    "eventname": "2022 DBO Speed Challenge",
     "speed": 51.54116,
     "type": "speed_mile",
     "username": "S\u00f8ren Kj\u00e6r",
@@ -96,7 +112,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=387935&uid=18137"
   },
   {
-    "rowid": "7",
+    "rowid": "8",
     "event_id": 732,
     "eventname": "2022 DBO Speed Challenge",
     "speed": 51.304104,
@@ -112,7 +128,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=382880&uid=22618"
   },
   {
-    "rowid": "8",
+    "rowid": "9",
     "event_id": 732,
     "eventname": "2022 DBO Speed Challenge",
     "speed": 51.141128,
@@ -128,7 +144,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=387773&uid=24035"
   },
   {
-    "rowid": "9",
+    "rowid": "10",
     "event_id": 732,
     "eventname": "2022 DBO Speed Challenge",
     "speed": 50.620716,
@@ -144,7 +160,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=382169&uid=26059"
   },
   {
-    "rowid": "10",
+    "rowid": "11",
     "event_id": 732,
     "eventname": "2022 DBO Speed Challenge",
     "speed": 49.866952,
@@ -160,7 +176,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=381119&uid=18149"
   },
   {
-    "rowid": "11",
+    "rowid": "12",
     "event_id": 732,
     "eventname": "2022 DBO Speed Challenge",
     "speed": 49.835468,
@@ -176,7 +192,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=381298&uid=5285"
   },
   {
-    "rowid": "12",
+    "rowid": "13",
     "event_id": 732,
     "eventname": "2022 DBO Speed Challenge",
     "speed": 49.70768,
@@ -192,7 +208,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=374610&uid=4150"
   },
   {
-    "rowid": "13",
+    "rowid": "14",
     "event_id": 732,
     "eventname": "2022 DBO Speed Challenge",
     "speed": 48.905764000000005,
@@ -208,7 +224,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=380438&uid=23918"
   },
   {
-    "rowid": "14",
+    "rowid": "15",
     "event_id": 732,
     "eventname": "2022 DBO Speed Challenge",
     "speed": 47.572324,
@@ -224,7 +240,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=387626&uid=15727"
   },
   {
-    "rowid": "15",
+    "rowid": "16",
     "event_id": 732,
     "eventname": "2022 DBO Speed Challenge",
     "speed": 46.890788,
@@ -238,22 +254,6 @@
     "sessionsail": "Loftsails Racingblade proto  6.3",
     "sessionfin": "Z-fins Z-SLM  37",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=381888&uid=25250"
-  },
-  {
-    "rowid": "16",
-    "event_id": 732,
-    "eventname": "2022 DBO Speed Challenge",
-    "speed": 46.09628,
-    "type": "speed_mile",
-    "username": "Daniel Lund",
-    "ageclass": "Master (36-50)",
-    "weightclass": "81-90",
-    "sexe": "Men",
-    "spotname": "Ven\u00f8",
-    "sessionboard": "Tabou 3S 96 LTD",
-    "sessionsail": "Point-7 AC1  6.2",
-    "sessionfin": "Z-fins SLM  31",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=393098&uid=26157"
   },
   {
     "rowid": "17",
@@ -275,6 +275,22 @@
     "rowid": "18",
     "event_id": 732,
     "eventname": "2022 DBO Speed Challenge",
+    "speed": 45.011008,
+    "type": "speed_mile",
+    "username": "Martin Lamhauge Anker",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Ho Bugt",
+    "sessionboard": "RRD X-Fire 114 V11 LTD",
+    "sessionsail": "Gun Sails GS-R  8.2",
+    "sessionfin": "Z-fins SLM  375",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=394936&uid=23803"
+  },
+  {
+    "rowid": "19",
+    "event_id": 732,
+    "eventname": "2022 DBO Speed Challenge",
     "speed": 44.483188,
     "type": "speed_mile",
     "username": "Martin Lamm",
@@ -288,7 +304,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386326&uid=25630"
   },
   {
-    "rowid": "19",
+    "rowid": "20",
     "event_id": 732,
     "eventname": "2022 DBO Speed Challenge",
     "speed": 44.47578,
@@ -302,22 +318,6 @@
     "sessionsail": "Duotone Warp  6.2",
     "sessionfin": "not defined -  0",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=387183&uid=24692"
-  },
-  {
-    "rowid": "20",
-    "event_id": 732,
-    "eventname": "2022 DBO Speed Challenge",
-    "speed": 44.007224,
-    "type": "speed_mile",
-    "username": "Martin Lamhauge Anker",
-    "ageclass": "Grand Master (51-60)",
-    "weightclass": "81-90",
-    "sexe": "Men",
-    "spotname": "Hvide Sande",
-    "sessionboard": "RRD X-Fire 114 V11 LTD",
-    "sessionsail": "Gun Sails GS-R  8.2",
-    "sessionfin": "Z-fins SLM  375",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=379801&uid=23803"
   },
   {
     "rowid": "21",
@@ -451,7 +451,7 @@
     "rowid": "29",
     "event_id": 732,
     "eventname": "2022 DBO Speed Challenge",
-    "speed": 27.781852,
+    "speed": 31.102488,
     "type": "speed_mile",
     "username": "Benny Plambeck",
     "ageclass": "Ultimate Master (71-99)",
@@ -459,9 +459,9 @@
     "sexe": "Men",
     "spotname": "Veddelev",
     "sessionboard": "Starboard Foil 177",
-    "sessionsail": "Gun Sails Raise  8.0",
-    "sessionfin": "Starboard Starboard Race (115 - 800 - 255)  95",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=393993&uid=1203"
+    "sessionsail": "Gun Sails Raise  7.0",
+    "sessionfin": "Starboard Starboard Race (115 - 650 - 255)  95",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=395238&uid=1203"
   },
   {
     "rowid": "30",

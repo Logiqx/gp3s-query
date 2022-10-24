@@ -3,6 +3,22 @@
     "rowid": "1",
     "event_id": 722,
     "eventname": "Lysakerfjorden 2022",
+    "speed": 22.74256,
+    "type": "speed_halfhour",
+    "username": "Roald Lande",
+    "ageclass": "Master (36-50)",
+    "weightclass": "61-70",
+    "sexe": "Men",
+    "spotname": "Lysakerfjorden",
+    "sessionboard": "Starboard Carve",
+    "sessionsail": "Severne Gator  7.0",
+    "sessionfin": "not defined -  0",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=395799&uid=26414"
+  },
+  {
+    "rowid": "2",
+    "event_id": 722,
+    "eventname": "Lysakerfjorden 2022",
     "speed": 17.836612000000002,
     "type": "speed_halfhour",
     "username": "Tore Mollan",
@@ -16,7 +32,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=383137&uid=26227"
   },
   {
-    "rowid": "2",
+    "rowid": "3",
     "event_id": 722,
     "eventname": "Lysakerfjorden 2022",
     "speed": 16.517988000000003,
@@ -32,7 +48,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=385993&uid=26303"
   },
   {
-    "rowid": "3",
+    "rowid": "4",
     "event_id": 722,
     "eventname": "Lysakerfjorden 2022",
     "speed": 14.480788,
@@ -48,10 +64,10 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390617&uid=23634"
   },
   {
-    "rowid": "4",
+    "rowid": "5",
     "event_id": 722,
     "eventname": "Lysakerfjorden 2022",
-    "speed": 9.03776,
+    "speed": 11.995404,
     "type": "speed_halfhour",
     "username": "Jan Erik Ringvold",
     "ageclass": "Master (36-50)",
@@ -61,10 +77,10 @@
     "sessionboard": "PATRIK f-ride",
     "sessionsail": "Severne Turbo  7.5",
     "sessionfin": "not defined -  0",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=393144&uid=24766"
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=395784&uid=24766"
   },
   {
-    "rowid": "5",
+    "rowid": "6",
     "event_id": 722,
     "eventname": "Lysakerfjorden 2022",
     "speed": 6.054188000000001,
@@ -80,7 +96,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=383172&uid=26228"
   },
   {
-    "rowid": "6",
+    "rowid": "7",
     "event_id": 722,
     "eventname": "Lysakerfjorden 2022",
     "speed": 5.689344,

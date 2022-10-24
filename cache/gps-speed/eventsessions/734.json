@@ -3116,7 +3116,7 @@
     "spotname": "La Palme - Plage du Rouet",
     "sessionboard": "Starboard iSonic Speed Slalom 70 UltraCore Reflex Carbon,  2017",
     "sessionsail": "KA Sails Koncept 6.6,  2021",
-    "sessionfin": "Gasoil Fins ELS Asy Speed tribord  21",
+    "sessionfin": "Gasoil Fins serie E 8,5  25",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389604&uid=19419"
   },
   {
@@ -3976,5 +3976,31 @@
     "sessionsail": "Point-7 AC1 7.1,  2022",
     "sessionfin": "NoLo 4  27",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=394442&uid=24163"
+  },
+  {
+    "session_id": 394760,
+    "session_date": "9/30/2022 12:00:00 AM",
+    "event_id": 734,
+    "eventname": "World Speed Tour - GPS POS 2022 ",
+    "speed_avg": 70.94456400000001,
+    "speed_2sec": 74.954144,
+    "speed_10sec": 74.04851599999999,
+    "speed_100": 74.763388,
+    "speed_250": 73.572552,
+    "speed_500": 72.053912,
+    "speed_mile": 53.820972000000005,
+    "speed_hour": 13.521452000000002,
+    "speed_halfhour": 16.545768,
+    "speed_24hour": 0.0,
+    "speed_alpha_racing": 18.255164,
+    "session_distance": 23.977892,
+    "username": "Guillaume Lemoine",
+    "flag": "FR",
+    "sexe": "Men",
+    "spotname": "La Palme - Plage du Rouet",
+    "sessionboard": "PATRIK Speed 43,  2021",
+    "sessionsail": "KA Sails speed 5.2,  2020",
+    "sessionfin": "Z-fins Z SPA 21 P  21",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=394760&uid=23137"
   }
 ]
