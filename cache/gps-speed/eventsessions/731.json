@@ -1246,5 +1246,31 @@
     "sessionsail": "Gun Sails GSR 7.1,  2019",
     "sessionfin": "Lessacher Duo Speed Weed  32",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=395614&uid=10607"
+  },
+  {
+    "session_id": 396951,
+    "session_date": "10/24/2022 12:00:00 AM",
+    "event_id": 731,
+    "eventname": "Wurster ONE hour",
+    "speed_avg": 39.656876000000004,
+    "speed_2sec": 42.79046,
+    "speed_10sec": 39.92912,
+    "speed_100": 40.138396,
+    "speed_250": 39.221656,
+    "speed_500": 38.334548000000005,
+    "speed_mile": 33.837892000000004,
+    "speed_hour": 28.365232000000002,
+    "speed_halfhour": 30.395024,
+    "speed_24hour": 0.0,
+    "speed_alpha_racing": 31.732168,
+    "session_distance": 56.677824,
+    "username": "Hans-Dieter Wilshusen",
+    "flag": "DE",
+    "sexe": "Men",
+    "spotname": "Dorum, Bremerhaven",
+    "sessionboard": "RRD FreestyleWave LTD V2,  2010",
+    "sessionsail": "Loftsails PureLip 5.4,  2021",
+    "sessionfin": "Tabou Wave  22",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=396951&uid=3855"
   }
 ]

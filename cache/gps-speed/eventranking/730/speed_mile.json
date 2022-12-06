@@ -179,6 +179,22 @@
     "rowid": "12",
     "event_id": 730,
     "eventname": "Surf like a dude Zuidlaardermeer Speed Challenge 2022",
+    "speed": 43.7535,
+    "type": "speed_mile",
+    "username": "Jakob Snip",
+    "ageclass": "Ultimate Master (71-99)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Zuidlaardermeer",
+    "sessionboard": "Fanatic Falcon",
+    "sessionsail": "Duotone Warp  7.0",
+    "sessionfin": "Z-fins z sl  s-  36",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=397567&uid=25848"
+  },
+  {
+    "rowid": "13",
+    "event_id": 730,
+    "eventname": "Surf like a dude Zuidlaardermeer Speed Challenge 2022",
     "speed": 43.51274,
     "type": "speed_mile",
     "username": "Jari Dijkema",
@@ -192,7 +208,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=382330&uid=7440"
   },
   {
-    "rowid": "13",
+    "rowid": "14",
     "event_id": 730,
     "eventname": "Surf like a dude Zuidlaardermeer Speed Challenge 2022",
     "speed": 43.394212,
@@ -208,23 +224,39 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=382707&uid=24904"
   },
   {
-    "rowid": "14",
+    "rowid": "15",
     "event_id": 730,
     "eventname": "Surf like a dude Zuidlaardermeer Speed Challenge 2022",
-    "speed": 42.986772,
+    "speed": 41.636664,
     "type": "speed_mile",
-    "username": "Jakob Snip",
-    "ageclass": "Ultimate Master (71-99)",
-    "weightclass": "81-90",
+    "username": "Benjamin de Bie",
+    "ageclass": "Master (36-50)",
+    "weightclass": "71-80",
     "sexe": "Men",
     "spotname": "Zuidlaardermeer",
-    "sessionboard": "Fanatic Falcon",
-    "sessionsail": "Duotone Warp 7.7  7.7",
-    "sessionfin": "Z-fins z slm  38",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=388807&uid=25848"
+    "sessionboard": "Starboard iSonic 72 Carbon Reflex ",
+    "sessionsail": "Severne Mach 4   7.8",
+    "sessionfin": "Gasoil Fins Chr-m  365",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=398644&uid=25351"
   },
   {
-    "rowid": "15",
+    "rowid": "16",
+    "event_id": 730,
+    "eventname": "Surf like a dude Zuidlaardermeer Speed Challenge 2022",
+    "speed": 41.636664,
+    "type": "speed_mile",
+    "username": "Benjamin de Bie",
+    "ageclass": "Master (36-50)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Zuidlaardermeer",
+    "sessionboard": "Starboard iSonic 72 Carbon Reflex ",
+    "sessionsail": "Severne Mach 4   7.8",
+    "sessionfin": "Gasoil Fins Chr-m  365",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=398644&uid=25351"
+  },
+  {
+    "rowid": "17",
     "event_id": 730,
     "eventname": "Surf like a dude Zuidlaardermeer Speed Challenge 2022",
     "speed": 38.812364,
@@ -240,7 +272,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=381671&uid=23391"
   },
   {
-    "rowid": "16",
+    "rowid": "18",
     "event_id": 730,
     "eventname": "Surf like a dude Zuidlaardermeer Speed Challenge 2022",
     "speed": 36.399208,
@@ -256,7 +288,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=381666&uid=26064"
   },
   {
-    "rowid": "17",
+    "rowid": "19",
     "event_id": 730,
     "eventname": "Surf like a dude Zuidlaardermeer Speed Challenge 2022",
     "speed": 29.64126,
@@ -272,7 +304,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=376962&uid=25189"
   },
   {
-    "rowid": "18",
+    "rowid": "20",
     "event_id": 730,
     "eventname": "Surf like a dude Zuidlaardermeer Speed Challenge 2022",
     "speed": 16.249447999999997,
@@ -286,21 +318,5 @@
     "sessionsail": "Severne Mach 4  7.0",
     "sessionfin": "Bugfins Slem  35",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=377158&uid=24486"
-  },
-  {
-    "rowid": "19",
-    "event_id": 730,
-    "eventname": "Surf like a dude Zuidlaardermeer Speed Challenge 2022",
-    "speed": 0.0,
-    "type": "speed_mile",
-    "username": "Benjamin de Bie",
-    "ageclass": "Master (36-50)",
-    "weightclass": "71-80",
-    "sexe": "Men",
-    "spotname": "Zuidlaardermeer",
-    "sessionboard": "JP Supersport",
-    "sessionsail": "Severne Blade  4.2",
-    "sessionfin": "Select Smax  33",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=378020&uid=25351"
   }
 ]

@@ -19,7 +19,7 @@
     "rowid": "2",
     "event_id": 727,
     "eventname": "2022 FFF SPEED CHALLENGE",
-    "speed": 32.847072000000004,
+    "speed": 33.098944,
     "type": "speed_hour",
     "username": "Michel Cyril",
     "ageclass": "Master (36-50)",
@@ -27,9 +27,9 @@
     "sexe": "Men",
     "spotname": "Fos, 13",
     "sessionboard": "Tabou Manta 59",
-    "sessionsail": "Simmer Sails SCR  5.8",
-    "sessionfin": "Gasoil Fins chr  30",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=384489&uid=5566"
+    "sessionsail": "Simmer Sails sc speed proto FFF  5.4",
+    "sessionfin": "Z-fins S FS  30",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=398719&uid=5566"
   },
   {
     "rowid": "3",
@@ -81,6 +81,22 @@
   },
   {
     "rowid": "6",
+    "event_id": 727,
+    "eventname": "2022 FFF SPEED CHALLENGE",
+    "speed": 2.7854080000000003,
+    "type": "speed_hour",
+    "username": "Jean Charles Maes",
+    "ageclass": "Master (36-50)",
+    "weightclass": "91-100",
+    "sexe": "Men",
+    "spotname": "Fos, 13",
+    "sessionboard": "not defined ",
+    "sessionsail": "Duotone Slick   6.0",
+    "sessionfin": "Gong Veloce XLT  85",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=398666&uid=26051"
+  },
+  {
+    "rowid": "7",
     "event_id": 727,
     "eventname": "2022 FFF SPEED CHALLENGE",
     "speed": 0.0,

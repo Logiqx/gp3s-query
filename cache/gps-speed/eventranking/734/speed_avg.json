@@ -275,6 +275,22 @@
     "rowid": "18",
     "event_id": 734,
     "eventname": "World Speed Tour - GPS POS 2022 ",
+    "speed": 72.4157928,
+    "type": "speed_avg",
+    "username": "Guillaume Lemoine",
+    "ageclass": "Master (36-50)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "La Palme - Plage du Rouet",
+    "sessionboard": "PATRIK Speed 43",
+    "sessionsail": "KA Sails speed  5.2",
+    "sessionfin": "Z-fins Z SPA 21 P  21",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=398769&uid=23137"
+  },
+  {
+    "rowid": "19",
+    "event_id": 734,
+    "eventname": "World Speed Tour - GPS POS 2022 ",
     "speed": 72.1257696,
     "type": "speed_avg",
     "username": "Thierry Bielak",
@@ -288,7 +304,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389703&uid=20679"
   },
   {
-    "rowid": "19",
+    "rowid": "20",
     "event_id": 734,
     "eventname": "World Speed Tour - GPS POS 2022 ",
     "speed": 72.0653944,
@@ -304,7 +320,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=382332&uid=23889"
   },
   {
-    "rowid": "20",
+    "rowid": "21",
     "event_id": 734,
     "eventname": "World Speed Tour - GPS POS 2022 ",
     "speed": 71.76055520000001,
@@ -320,23 +336,23 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=374593&uid=23714"
   },
   {
-    "rowid": "21",
+    "rowid": "22",
     "event_id": 734,
     "eventname": "World Speed Tour - GPS POS 2022 ",
-    "speed": 70.94456400000001,
+    "speed": 69.8989248,
     "type": "speed_avg",
-    "username": "Guillaume Lemoine",
-    "ageclass": "Master (36-50)",
-    "weightclass": "71-80",
+    "username": "Koen Onderbeke",
+    "ageclass": "Super Master (61-70)",
+    "weightclass": "61-70",
     "sexe": "Men",
     "spotname": "La Palme - Plage du Rouet",
-    "sessionboard": "PATRIK Speed 43",
-    "sessionsail": "KA Sails speed  5.2",
-    "sessionfin": "Z-fins Z SPA 21 P  21",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=394760&uid=23137"
+    "sessionboard": "JP Speed 45 Pro Edition",
+    "sessionsail": "Loftsails Speed blade   5.1",
+    "sessionfin": "Z-fins Speed Delta ASY  20",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=398708&uid=2340"
   },
   {
-    "rowid": "22",
+    "rowid": "23",
     "event_id": 734,
     "eventname": "World Speed Tour - GPS POS 2022 ",
     "speed": 68.80402240000001,
@@ -350,22 +366,6 @@
     "sessionsail": "Point-7 AC1 speed  5.6",
     "sessionfin": "Z-fins speed 21 ASY SB  21",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=391066&uid=25149"
-  },
-  {
-    "rowid": "23",
-    "event_id": 734,
-    "eventname": "World Speed Tour - GPS POS 2022 ",
-    "speed": 68.76772320000002,
-    "type": "speed_avg",
-    "username": "Koen Onderbeke",
-    "ageclass": "Super Master (61-70)",
-    "weightclass": "61-70",
-    "sexe": "Men",
-    "spotname": "La Palme - Plage du Rouet",
-    "sessionboard": "JP JP Speed 50 Pro Edition",
-    "sessionsail": "Loftsails Speed blade   5.1",
-    "sessionfin": "Hurricane SR 7 M-  34",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=388978&uid=2340"
   },
   {
     "rowid": "24",
@@ -419,17 +419,17 @@
     "rowid": "27",
     "event_id": 734,
     "eventname": "World Speed Tour - GPS POS 2022 ",
-    "speed": 63.2002408,
+    "speed": 65.2322552,
     "type": "speed_avg",
     "username": "Marie-Paule Geldhof",
     "ageclass": "Super Master (61-70)",
     "weightclass": "71-80",
     "sexe": "Woman",
     "spotname": "La Palme - Plage du Rouet",
-    "sessionboard": "JP JP Speed 50 Pro Edition",
-    "sessionsail": "Neilpryde Evo 11  5.2",
-    "sessionfin": "Hurricane speed2 30   24",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=378294&uid=2343"
+    "sessionboard": "JP Speed 45 Pro Edition",
+    "sessionsail": "Neilpryde EVO XII  4.8",
+    "sessionfin": "Z-fins Speed Delta ASY  20",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=398707&uid=2343"
   },
   {
     "rowid": "28",

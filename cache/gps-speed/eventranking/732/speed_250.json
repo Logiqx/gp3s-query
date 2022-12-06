@@ -35,6 +35,22 @@
     "rowid": "3",
     "event_id": 732,
     "eventname": "2022 DBO Speed Challenge",
+    "speed": 67.84802,
+    "type": "speed_250",
+    "username": "Tommy Fjord",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "91-100",
+    "sexe": "Men",
+    "spotname": "Krik",
+    "sessionboard": "F2 Missile XS",
+    "sessionsail": "North Sails Warp F2014  5.7",
+    "sessionfin": "JP speed  24",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=398591&uid=7434"
+  },
+  {
+    "rowid": "4",
+    "event_id": 732,
+    "eventname": "2022 DBO Speed Challenge",
     "speed": 64.70702800000001,
     "type": "speed_250",
     "username": "Kasper Thrane",
@@ -48,7 +64,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=378435&uid=18149"
   },
   {
-    "rowid": "4",
+    "rowid": "5",
     "event_id": 732,
     "eventname": "2022 DBO Speed Challenge",
     "speed": 62.538336,
@@ -64,7 +80,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=378560&uid=19315"
   },
   {
-    "rowid": "5",
+    "rowid": "6",
     "event_id": 732,
     "eventname": "2022 DBO Speed Challenge",
     "speed": 62.538336,
@@ -80,7 +96,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=395443&uid=6075"
   },
   {
-    "rowid": "6",
+    "rowid": "7",
     "event_id": 732,
     "eventname": "2022 DBO Speed Challenge",
     "speed": 62.380916000000006,
@@ -96,7 +112,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=381899&uid=26059"
   },
   {
-    "rowid": "7",
+    "rowid": "8",
     "event_id": 732,
     "eventname": "2022 DBO Speed Challenge",
     "speed": 61.84754000000001,
@@ -110,22 +126,6 @@
     "sessionsail": "Point-7 AC-one  6.2",
     "sessionfin": "Maui Ultra Fins Slalom weed  26",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=387040&uid=23069"
-  },
-  {
-    "rowid": "8",
-    "event_id": 732,
-    "eventname": "2022 DBO Speed Challenge",
-    "speed": 61.810500000000005,
-    "type": "speed_250",
-    "username": "Tommy Fjord",
-    "ageclass": "Grand Master (51-60)",
-    "weightclass": "91-100",
-    "sexe": "Men",
-    "spotname": "feggesund",
-    "sessionboard": "F2 Missile XS",
-    "sessionsail": "Neilpryde RS Racing EVO 3  5.5",
-    "sessionfin": "JP speed  24",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=374420&uid=7434"
   },
   {
     "rowid": "9",

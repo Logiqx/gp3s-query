@@ -35,6 +35,22 @@
     "rowid": "3",
     "event_id": 732,
     "eventname": "2022 DBO Speed Challenge",
+    "speed": 71.35200400000001,
+    "type": "speed_100",
+    "username": "Tommy Fjord",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "91-100",
+    "sexe": "Men",
+    "spotname": "Krik",
+    "sessionboard": "F2 Missile XS",
+    "sessionsail": "North Sails Warp F2014  5.7",
+    "sessionfin": "JP speed  24",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=398591&uid=7434"
+  },
+  {
+    "rowid": "4",
+    "event_id": 732,
+    "eventname": "2022 DBO Speed Challenge",
     "speed": 67.044252,
     "type": "speed_100",
     "username": "S\u00f8ren Christensen",
@@ -48,7 +64,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=387183&uid=24692"
   },
   {
-    "rowid": "4",
+    "rowid": "5",
     "event_id": 732,
     "eventname": "2022 DBO Speed Challenge",
     "speed": 66.364568,
@@ -64,7 +80,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=374410&uid=19315"
   },
   {
-    "rowid": "5",
+    "rowid": "6",
     "event_id": 732,
     "eventname": "2022 DBO Speed Challenge",
     "speed": 66.262708,
@@ -78,22 +94,6 @@
     "sessionsail": "Avanti Sails Machine M8  6.3",
     "sessionfin": "Sonntag Fins SL Pro  32",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=378435&uid=18149"
-  },
-  {
-    "rowid": "6",
-    "event_id": 732,
-    "eventname": "2022 DBO Speed Challenge",
-    "speed": 64.890376,
-    "type": "speed_100",
-    "username": "Tommy Fjord",
-    "ageclass": "Grand Master (51-60)",
-    "weightclass": "91-100",
-    "sexe": "Men",
-    "spotname": "Oddesund-Struer",
-    "sessionboard": "F2 Missile XS",
-    "sessionsail": "North Sails Warp F2014  5.7",
-    "sessionfin": "JP speed  24",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=378384&uid=7434"
   },
   {
     "rowid": "7",
@@ -179,6 +179,22 @@
     "rowid": "12",
     "event_id": 732,
     "eventname": "2022 DBO Speed Challenge",
+    "speed": 62.17534400000001,
+    "type": "speed_100",
+    "username": "Jesper Skytte",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "61-70",
+    "sexe": "Men",
+    "spotname": "Knebel Vig",
+    "sessionboard": "PATRIK Slalom 92 V2",
+    "sessionsail": "Gun Sails GS-R  6.3",
+    "sessionfin": "Bugfins SL-R  31",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=398663&uid=4150"
+  },
+  {
+    "rowid": "13",
+    "event_id": 732,
+    "eventname": "2022 DBO Speed Challenge",
     "speed": 62.15312000000001,
     "type": "speed_100",
     "username": "Jesper Madsen",
@@ -192,7 +208,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=393869&uid=15727"
   },
   {
-    "rowid": "13",
+    "rowid": "14",
     "event_id": 732,
     "eventname": "2022 DBO Speed Challenge",
     "speed": 61.999404,
@@ -206,22 +222,6 @@
     "sessionsail": "Gun Sails GS-R  7.1",
     "sessionfin": "Gasoil Fins CHR-L soft  34",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=393810&uid=22618"
-  },
-  {
-    "rowid": "14",
-    "event_id": 732,
-    "eventname": "2022 DBO Speed Challenge",
-    "speed": 61.806796,
-    "type": "speed_100",
-    "username": "Jesper Skytte",
-    "ageclass": "Grand Master (51-60)",
-    "weightclass": "61-70",
-    "sexe": "Men",
-    "spotname": "Knebel Vig",
-    "sessionboard": "PATRIK Slalom 92 V2",
-    "sessionsail": "Gun Sails GS-R  5.6",
-    "sessionfin": "Bugfins SL-R  28",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=378308&uid=4150"
   },
   {
     "rowid": "15",

@@ -230,7 +230,7 @@
     "speed": 26.892892000000003,
     "type": "speed_hour",
     "username": "Salvador Ya\u00f1ez",
-    "ageclass": "Grand Master (51-60)",
+    "ageclass": "Ultimate Master (71-99)",
     "weightclass": "81-90",
     "sexe": "Men",
     "spotname": "Santa Teresa",
@@ -323,6 +323,22 @@
     "rowid": "21",
     "event_id": 737,
     "eventname": "2022 Spanish Speed Challenge",
+    "speed": 19.351548,
+    "type": "speed_hour",
+    "username": "Luis Vierna",
+    "ageclass": "Master (36-50)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Alarc\u00f3n",
+    "sessionboard": "Fanatic Falcon 114 TE",
+    "sessionsail": "Duotone Warp  7.0",
+    "sessionfin": "Vector Fins Volt  35",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=398399&uid=22002"
+  },
+  {
+    "rowid": "22",
+    "event_id": 737,
+    "eventname": "2022 Spanish Speed Challenge",
     "speed": 19.097824,
     "type": "speed_hour",
     "username": "Manuel Pousa ",
@@ -336,7 +352,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=395031&uid=26477"
   },
   {
-    "rowid": "22",
+    "rowid": "23",
     "event_id": 737,
     "eventname": "2022 Spanish Speed Challenge",
     "speed": 18.58482,
@@ -352,7 +368,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=391707&uid=16739"
   },
   {
-    "rowid": "23",
+    "rowid": "24",
     "event_id": 737,
     "eventname": "2022 Spanish Speed Challenge",
     "speed": 16.471688,
@@ -366,22 +382,6 @@
     "sessionsail": "Duotone Warp 2019  7.7",
     "sessionfin": "- Aletas Gregor Custom SL3 pro  37",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=385151&uid=22584"
-  },
-  {
-    "rowid": "24",
-    "event_id": 737,
-    "eventname": "2022 Spanish Speed Challenge",
-    "speed": 15.942016000000002,
-    "type": "speed_hour",
-    "username": "Luis Vierna",
-    "ageclass": "Master (36-50)",
-    "weightclass": "81-90",
-    "sexe": "Men",
-    "spotname": "Alarc\u00f3n",
-    "sessionboard": "i-99 NoveNove WCSL 139",
-    "sessionsail": "Duotone Warp F2019  8.4",
-    "sessionfin": "Z-fins sf  46",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=381754&uid=22002"
   },
   {
     "rowid": "25",

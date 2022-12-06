@@ -1,4 +1,9 @@
 {
+  "769": {
+    "eventname": "2023 Surf-Forum-One-Hour Challenge 2023",
+    "start_date": "2023-01-01T00:00:00",
+    "end_date": "2023-12-31T00:00:00"
+  },
   "764": {
     "eventname": "2022 BritishSpeedChallenge2023",
     "start_date": "2022-10-01T00:00:00",
@@ -14,40 +19,15 @@
     "start_date": "2022-10-01T00:00:00",
     "end_date": "2023-09-30T00:00:00"
   },
-  "760": {
-    "eventname": "2022 \"The Third\" period of the Dunkerbeck Speed Challenge 2022",
-    "start_date": "2022-10-01T00:00:00",
-    "end_date": "2022-12-01T00:00:00"
-  },
   "757": {
     "eventname": "2022 Auckland Windsurfing Association Speed Challenge",
     "start_date": "2022-07-01T00:00:00",
     "end_date": "2023-06-30T00:00:00"
   },
-  "746": {
-    "eventname": "2022 Desafio Brasileiro de Windsurf Speed",
-    "start_date": "2022-08-01T00:00:00",
-    "end_date": "2022-12-06T00:00:00"
-  },
-  "740": {
-    "eventname": "2022 Funsport Makkum GPS Speed Challenge",
-    "start_date": "2022-04-01T00:00:00",
-    "end_date": "2022-10-31T00:00:00"
-  },
-  "739": {
-    "eventname": "2022 Estonian Speed King",
-    "start_date": "2022-04-01T00:00:00",
-    "end_date": "2022-12-01T00:00:00"
-  },
   "737": {
     "eventname": "2022 Spanish Speed Challenge",
     "start_date": "2022-01-01T00:00:00",
     "end_date": "2023-01-01T00:00:00"
-  },
-  "736": {
-    "eventname": "2022 Odyssey of Speed",
-    "start_date": "2022-03-01T00:00:00",
-    "end_date": "2022-10-31T00:00:00"
   },
   "734": {
     "eventname": "World Speed Tour - GPS POS 2022 ",
@@ -103,11 +83,6 @@
     "eventname": "Norwegian speedmaster - 2022",
     "start_date": "2022-01-01T00:00:00",
     "end_date": "2022-12-31T00:00:00"
-  },
-  "717": {
-    "eventname": "2022 Irish Speed Masters",
-    "start_date": "2021-11-01T00:00:00",
-    "end_date": "2022-10-31T00:00:00"
   },
   "692": {
     "eventname": "Surf like a dude Zuidlaardermeer speed challenge 2021",

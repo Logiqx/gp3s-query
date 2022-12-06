@@ -94,5 +94,21 @@
     "sessionsail": "North Sails Hero HD  4.7",
     "sessionfin": "MFC Freewave  30",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=392906&uid=5575"
+  },
+  {
+    "rowid": "7",
+    "event_id": 727,
+    "eventname": "2022 FFF SPEED CHALLENGE",
+    "speed": 31.245832800000002,
+    "type": "speed_avg",
+    "username": "Jean Charles Maes",
+    "ageclass": "Master (36-50)",
+    "weightclass": "91-100",
+    "sexe": "Men",
+    "spotname": "Fos, 13",
+    "sessionboard": "not defined ",
+    "sessionsail": "Duotone Slick   6.0",
+    "sessionfin": "Gong Veloce XLT  85",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=398666&uid=26051"
   }
 ]

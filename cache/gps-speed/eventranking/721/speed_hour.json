@@ -35,6 +35,22 @@
     "rowid": "3",
     "event_id": 721,
     "eventname": "2022 Gps Kraaij Challenge",
+    "speed": 28.635624,
+    "type": "speed_hour",
+    "username": "Juul Wulms",
+    "ageclass": "Senior (19-35)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Kraaijenbergse plassen",
+    "sessionboard": "Fanatic falcon slalom TE 129",
+    "sessionsail": "North Sails Warp F2017  7.7",
+    "sessionfin": "Sonntag Fins SL-X  44",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=398186&uid=25108"
+  },
+  {
+    "rowid": "4",
+    "event_id": 721,
+    "eventname": "2022 Gps Kraaij Challenge",
     "speed": 27.118836,
     "type": "speed_hour",
     "username": "Jeroen Ari\u00ebns",
@@ -46,22 +62,6 @@
     "sessionsail": "Severne OverdriveR8  7.8",
     "sessionfin": "Tectonics Goldwing  37",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=384113&uid=21736"
-  },
-  {
-    "rowid": "4",
-    "event_id": 721,
-    "eventname": "2022 Gps Kraaij Challenge",
-    "speed": 27.029940000000003,
-    "type": "speed_hour",
-    "username": "Juul Wulms",
-    "ageclass": "Senior (19-35)",
-    "weightclass": "71-80",
-    "sexe": "Men",
-    "spotname": "Kraaijenbergse plassen",
-    "sessionboard": "Fanatic falcon slalom TE 129",
-    "sessionsail": "North Sails Warp F2017  7.7",
-    "sessionfin": "Sonntag Fins SL-X  44",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=387036&uid=25108"
   },
   {
     "rowid": "5",
@@ -275,7 +275,7 @@
     "rowid": "18",
     "event_id": 721,
     "eventname": "2022 Gps Kraaij Challenge",
-    "speed": 8.848856,
+    "speed": 9.62114,
     "type": "speed_hour",
     "username": "Ronald Verriet",
     "ageclass": "Master (36-50)",
@@ -283,9 +283,9 @@
     "sexe": "Men",
     "spotname": "Kraaijenbergse plassen",
     "sessionboard": "Starboard iSonic 130 Carbon",
-    "sessionsail": "Neilpryde RS6  7.8",
-    "sessionfin": "Select Vmax 4.0  47",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=385038&uid=3588"
+    "sessionsail": "Neilpryde RS Racing LT1  8.6",
+    "sessionfin": "Sonntag Fins Sonntag SL-X   45",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=398133&uid=3588"
   },
   {
     "rowid": "19",

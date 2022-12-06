@@ -3,6 +3,22 @@
     "rowid": "1",
     "event_id": 761,
     "eventname": "2022 Schildmeer Speed Challenge 2022-2023",
+    "speed": 40.425456000000004,
+    "type": "speed_mile",
+    "username": "Edwin Buruma",
+    "ageclass": "Master (36-50)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "schildmeer",
+    "sessionboard": "Starboard iSonic 107 Carbon",
+    "sessionsail": "Severne Mach 2  7.0",
+    "sessionfin": "Sonntag Fins GPS-6  35",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=396818&uid=23550"
+  },
+  {
+    "rowid": "2",
+    "event_id": 761,
+    "eventname": "2022 Schildmeer Speed Challenge 2022-2023",
     "speed": 40.408788,
     "type": "speed_mile",
     "username": "Alwin Visker",
@@ -16,7 +32,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=395302&uid=15697"
   },
   {
-    "rowid": "2",
+    "rowid": "3",
     "event_id": 761,
     "eventname": "2022 Schildmeer Speed Challenge 2022-2023",
     "speed": 39.540200000000006,
@@ -30,22 +46,6 @@
     "sessionsail": "Point-7 AC-One  8.6",
     "sessionfin": "King Fins Slalom  44",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=396170&uid=5376"
-  },
-  {
-    "rowid": "3",
-    "event_id": 761,
-    "eventname": "2022 Schildmeer Speed Challenge 2022-2023",
-    "speed": 37.528928,
-    "type": "speed_mile",
-    "username": "Edwin Buruma",
-    "ageclass": "Master (36-50)",
-    "weightclass": "71-80",
-    "sexe": "Men",
-    "spotname": "schildmeer",
-    "sessionboard": "Starboard iSonic 107 Carbon",
-    "sessionsail": "Severne Mach 3  7.8",
-    "sessionfin": "Finish Fast speed  36",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=394514&uid=23550"
   },
   {
     "rowid": "4",
@@ -110,5 +110,37 @@
     "sessionsail": "Point-7 AC-K Pro am Racing  8.5",
     "sessionfin": "Finish Fast - speed/slalom  44",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=395669&uid=21711"
+  },
+  {
+    "rowid": "8",
+    "event_id": 761,
+    "eventname": "2022 Schildmeer Speed Challenge 2022-2023",
+    "speed": 18.297760000000004,
+    "type": "speed_mile",
+    "username": "Stefan Bijmolt",
+    "ageclass": "Master (36-50)",
+    "weightclass": "91-100",
+    "sexe": "Men",
+    "spotname": "schildmeer",
+    "sessionboard": "Severne Fox V2 140",
+    "sessionsail": "Severne Overdrive M4  8.6",
+    "sessionfin": "- Severne F-series  44",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=397855&uid=25577"
+  },
+  {
+    "rowid": "9",
+    "event_id": 761,
+    "eventname": "2022 Schildmeer Speed Challenge 2022-2023",
+    "speed": 15.727184000000003,
+    "type": "speed_mile",
+    "username": "Saar Schuling ",
+    "ageclass": "Master (36-50)",
+    "weightclass": "51-60",
+    "sexe": "Woman",
+    "spotname": "schildmeer",
+    "sessionboard": "JP Slalom 62 Pro Edition",
+    "sessionsail": "Ezzy Elite  4.7",
+    "sessionfin": "not defined -  0",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=396833&uid=25189"
   }
 ]

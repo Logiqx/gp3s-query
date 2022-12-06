@@ -67,6 +67,22 @@
     "rowid": "5",
     "event_id": 726,
     "eventname": "WSCA Westeinder Speedking 2022",
+    "speed": 42.831204,
+    "type": "speed_alpha_racing",
+    "username": "David van den Toorn",
+    "ageclass": "Senior (19-35)",
+    "weightclass": "61-70",
+    "sexe": "Men",
+    "spotname": "Westeinder Plassen",
+    "sessionboard": "PATRIK Slalom 125",
+    "sessionsail": "Loftsails Racing Blade  7.8",
+    "sessionfin": "BOSS 6.0 S  40",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=397633&uid=22950"
+  },
+  {
+    "rowid": "6",
+    "event_id": 726,
+    "eventname": "WSCA Westeinder Speedking 2022",
     "speed": 42.801572,
     "type": "speed_alpha_racing",
     "username": "Max Shytikov",
@@ -80,7 +96,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=380502&uid=25266"
   },
   {
-    "rowid": "6",
+    "rowid": "7",
     "event_id": 726,
     "eventname": "WSCA Westeinder Speedking 2022",
     "speed": 42.708972,
@@ -94,22 +110,6 @@
     "sessionsail": "Gun Sails GS-R  6.3",
     "sessionfin": "Tectonics Falcon  32",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=375849&uid=21797"
-  },
-  {
-    "rowid": "7",
-    "event_id": 726,
-    "eventname": "WSCA Westeinder Speedking 2022",
-    "speed": 42.421912,
-    "type": "speed_alpha_racing",
-    "username": "David van den Toorn",
-    "ageclass": "Senior (19-35)",
-    "weightclass": "61-70",
-    "sexe": "Men",
-    "spotname": "Westeinder Plassen",
-    "sessionboard": "Fanatic Falcon Slalom TE 99",
-    "sessionsail": "Loftsails Racing Blade  7.0",
-    "sessionfin": "Deboichet SL2   34",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=380562&uid=22950"
   },
   {
     "rowid": "8",

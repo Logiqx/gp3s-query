@@ -67,6 +67,22 @@
     "rowid": "5",
     "event_id": 734,
     "eventname": "World Speed Tour - GPS POS 2022 ",
+    "speed": 42.070032000000005,
+    "type": "speed_alpha_racing",
+    "username": "S\u00e9bastien Bourgeois",
+    "ageclass": "Senior (19-35)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "La Palme - Plage du Rouet",
+    "sessionboard": "Phil Carbon Concept Speed",
+    "sessionsail": "KA Sails speed  5.2",
+    "sessionfin": "Tribal Fin ASY Speed Carbon  19",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=398811&uid=5223"
+  },
+  {
+    "rowid": "6",
+    "event_id": 734,
+    "eventname": "World Speed Tour - GPS POS 2022 ",
     "speed": 41.0681,
     "type": "speed_alpha_racing",
     "username": "Gautier Bourgeois",
@@ -80,7 +96,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=374580&uid=5203"
   },
   {
-    "rowid": "6",
+    "rowid": "7",
     "event_id": 734,
     "eventname": "World Speed Tour - GPS POS 2022 ",
     "speed": 40.999576000000005,
@@ -91,12 +107,12 @@
     "sexe": "Men",
     "spotname": "La Palme - Plage du Rouet",
     "sessionboard": "JP Speed 45 Pro Edition",
-    "sessionsail": "Neilpryde Rs Racing EVO XIII  5.8",
+    "sessionsail": "Neilpryde RS Racing EVO XIII  5.8",
     "sessionfin": "Z-fins SPA S  21",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=391023&uid=2042"
   },
   {
-    "rowid": "7",
+    "rowid": "8",
     "event_id": 734,
     "eventname": "World Speed Tour - GPS POS 2022 ",
     "speed": 40.458792,
@@ -112,7 +128,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=382049&uid=20629"
   },
   {
-    "rowid": "8",
+    "rowid": "9",
     "event_id": 734,
     "eventname": "World Speed Tour - GPS POS 2022 ",
     "speed": 40.210624,
@@ -128,7 +144,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=382023&uid=4516"
   },
   {
-    "rowid": "9",
+    "rowid": "10",
     "event_id": 734,
     "eventname": "World Speed Tour - GPS POS 2022 ",
     "speed": 39.984680000000004,
@@ -144,7 +160,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389604&uid=19419"
   },
   {
-    "rowid": "10",
+    "rowid": "11",
     "event_id": 734,
     "eventname": "World Speed Tour - GPS POS 2022 ",
     "speed": 38.608644000000005,
@@ -160,7 +176,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=382214&uid=23977"
   },
   {
-    "rowid": "11",
+    "rowid": "12",
     "event_id": 734,
     "eventname": "World Speed Tour - GPS POS 2022 ",
     "speed": 36.482548,
@@ -176,7 +192,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=374600&uid=22819"
   },
   {
-    "rowid": "12",
+    "rowid": "13",
     "event_id": 734,
     "eventname": "World Speed Tour - GPS POS 2022 ",
     "speed": 35.293563999999996,
@@ -192,23 +208,23 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=380097&uid=25149"
   },
   {
-    "rowid": "13",
+    "rowid": "14",
     "event_id": 734,
     "eventname": "World Speed Tour - GPS POS 2022 ",
-    "speed": 33.77122,
+    "speed": 33.973088000000004,
     "type": "speed_alpha_racing",
     "username": "Till Kramann",
     "ageclass": "Master (36-50)",
     "weightclass": "81-90",
     "sexe": "Men",
     "spotname": "Beauduc",
-    "sessionboard": "Tabou Manta 71",
-    "sessionsail": "GA-sails Vapor  8.0",
-    "sessionfin": "Z-fins SLM s-  37",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=396399&uid=24908"
+    "sessionboard": "Tabou Manta 85",
+    "sessionsail": "Severne Mach 4  9.4",
+    "sessionfin": "Z-fins SLM S-  47",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=397106&uid=24908"
   },
   {
-    "rowid": "14",
+    "rowid": "15",
     "event_id": 734,
     "eventname": "World Speed Tour - GPS POS 2022 ",
     "speed": 32.719284,
@@ -224,7 +240,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=378302&uid=2343"
   },
   {
-    "rowid": "15",
+    "rowid": "16",
     "event_id": 734,
     "eventname": "World Speed Tour - GPS POS 2022 ",
     "speed": 32.098864000000006,
@@ -240,7 +256,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=373798&uid=23714"
   },
   {
-    "rowid": "16",
+    "rowid": "17",
     "event_id": 734,
     "eventname": "World Speed Tour - GPS POS 2022 ",
     "speed": 31.574748,
@@ -254,22 +270,6 @@
     "sessionsail": "Severne Mach5 L\u00fcderitz Edition  5.2",
     "sessionfin": "not defined -  0",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=393697&uid=26200"
-  },
-  {
-    "rowid": "17",
-    "event_id": 734,
-    "eventname": "World Speed Tour - GPS POS 2022 ",
-    "speed": 28.648588,
-    "type": "speed_alpha_racing",
-    "username": "S\u00e9bastien Bourgeois",
-    "ageclass": "Senior (19-35)",
-    "weightclass": "71-80",
-    "sexe": "Men",
-    "spotname": "La Palme - Plage du Rouet",
-    "sessionboard": "JP Speed 45 Pro Edition",
-    "sessionsail": "KA Sails speed  4.7",
-    "sessionfin": "Tribal Fin Asy Speed Carbon  21",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=374586&uid=5223"
   },
   {
     "rowid": "18",
@@ -307,6 +307,22 @@
     "rowid": "20",
     "event_id": 734,
     "eventname": "World Speed Tour - GPS POS 2022 ",
+    "speed": 21.027608,
+    "type": "speed_alpha_racing",
+    "username": "Guillaume Lemoine",
+    "ageclass": "Master (36-50)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "La Palme - Plage du Rouet",
+    "sessionboard": "PATRIK Speed 43",
+    "sessionsail": "KA Sails speed  5.2",
+    "sessionfin": "Z-fins Z SPA 21 P  21",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=398769&uid=23137"
+  },
+  {
+    "rowid": "21",
+    "event_id": 734,
+    "eventname": "World Speed Tour - GPS POS 2022 ",
     "speed": 20.849816,
     "type": "speed_alpha_racing",
     "username": "Gerwin Slingerland",
@@ -320,7 +336,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=391037&uid=4588"
   },
   {
-    "rowid": "21",
+    "rowid": "22",
     "event_id": 734,
     "eventname": "World Speed Tour - GPS POS 2022 ",
     "speed": 19.092268,
@@ -334,22 +350,6 @@
     "sessionsail": "Challenger Sails PSL line Proto.  5.6",
     "sessionfin": "Black Project Fins x45  21",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=382765&uid=2035"
-  },
-  {
-    "rowid": "22",
-    "event_id": 734,
-    "eventname": "World Speed Tour - GPS POS 2022 ",
-    "speed": 18.255164,
-    "type": "speed_alpha_racing",
-    "username": "Guillaume Lemoine",
-    "ageclass": "Master (36-50)",
-    "weightclass": "71-80",
-    "sexe": "Men",
-    "spotname": "La Palme - Plage du Rouet",
-    "sessionboard": "PATRIK Speed 43",
-    "sessionsail": "KA Sails speed  5.2",
-    "sessionfin": "Z-fins Z SPA 21 P  21",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=394760&uid=23137"
   },
   {
     "rowid": "23",

@@ -19,6 +19,22 @@
     "rowid": "2",
     "event_id": 732,
     "eventname": "2022 DBO Speed Challenge",
+    "speed": 65.492276,
+    "type": "speed_500",
+    "username": "Tommy Fjord",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "91-100",
+    "sexe": "Men",
+    "spotname": "Krik",
+    "sessionboard": "F2 Missile XS",
+    "sessionsail": "North Sails Warp F2014  5.7",
+    "sessionfin": "JP speed  24",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=398591&uid=7434"
+  },
+  {
+    "rowid": "3",
+    "event_id": 732,
+    "eventname": "2022 DBO Speed Challenge",
     "speed": 63.91622400000001,
     "type": "speed_500",
     "username": "Anders Boje",
@@ -32,7 +48,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=374352&uid=5832"
   },
   {
-    "rowid": "3",
+    "rowid": "4",
     "event_id": 732,
     "eventname": "2022 DBO Speed Challenge",
     "speed": 61.232676000000005,
@@ -48,7 +64,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=381899&uid=26059"
   },
   {
-    "rowid": "4",
+    "rowid": "5",
     "event_id": 732,
     "eventname": "2022 DBO Speed Challenge",
     "speed": 60.93265200000001,
@@ -64,7 +80,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=375274&uid=19315"
   },
   {
-    "rowid": "5",
+    "rowid": "6",
     "event_id": 732,
     "eventname": "2022 DBO Speed Challenge",
     "speed": 60.927096000000006,
@@ -80,7 +96,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=395443&uid=6075"
   },
   {
-    "rowid": "6",
+    "rowid": "7",
     "event_id": 732,
     "eventname": "2022 DBO Speed Challenge",
     "speed": 60.275192000000004,
@@ -96,7 +112,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=395733&uid=18137"
   },
   {
-    "rowid": "7",
+    "rowid": "8",
     "event_id": 732,
     "eventname": "2022 DBO Speed Challenge",
     "speed": 60.04184000000001,
@@ -112,7 +128,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=378435&uid=18149"
   },
   {
-    "rowid": "8",
+    "rowid": "9",
     "event_id": 732,
     "eventname": "2022 DBO Speed Challenge",
     "speed": 59.688108,
@@ -128,23 +144,23 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=374190&uid=23069"
   },
   {
-    "rowid": "9",
+    "rowid": "10",
     "event_id": 732,
     "eventname": "2022 DBO Speed Challenge",
-    "speed": 58.263920000000006,
+    "speed": 59.395492,
     "type": "speed_500",
-    "username": "Tommy Fjord",
+    "username": "Kim Sorensen",
     "ageclass": "Grand Master (51-60)",
-    "weightclass": "91-100",
+    "weightclass": "61-70",
     "sexe": "Men",
-    "spotname": "feggesund",
-    "sessionboard": "F2 Missile XS",
-    "sessionsail": "Neilpryde RS Racing EVO 3  5.5",
-    "sessionfin": "JP speed  24",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=374420&uid=7434"
+    "spotname": "Knebel Vig",
+    "sessionboard": "PATRIK Slalom 100",
+    "sessionsail": "Gun Sails GS-R  7.1",
+    "sessionfin": "Gasoil Fins CHR-L medium  32",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=398651&uid=22618"
   },
   {
-    "rowid": "10",
+    "rowid": "11",
     "event_id": 732,
     "eventname": "2022 DBO Speed Challenge",
     "speed": 57.87129600000001,
@@ -158,22 +174,6 @@
     "sessionsail": "Loftsails Racing Blade  7.0",
     "sessionfin": "Z-fins SL S-  36",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=393869&uid=15727"
-  },
-  {
-    "rowid": "11",
-    "event_id": 732,
-    "eventname": "2022 DBO Speed Challenge",
-    "speed": 57.730544,
-    "type": "speed_500",
-    "username": "Kim Sorensen",
-    "ageclass": "Grand Master (51-60)",
-    "weightclass": "61-70",
-    "sexe": "Men",
-    "spotname": "Knebel Vig",
-    "sessionboard": "PATRIK Slalom 100",
-    "sessionsail": "Gun Sails GS-R  7.1",
-    "sessionfin": "Gasoil Fins CHR-L soft  34",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=393810&uid=22618"
   },
   {
     "rowid": "12",

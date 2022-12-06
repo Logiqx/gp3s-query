@@ -5,6 +5,22 @@
     "eventname": "2022 FFF SPEED CHALLENGE",
     "speed": 0.0,
     "type": "speed_24hour",
+    "username": "Jean Charles Maes",
+    "ageclass": "Master (36-50)",
+    "weightclass": "91-100",
+    "sexe": "Men",
+    "spotname": "Fos, 13",
+    "sessionboard": "not defined ",
+    "sessionsail": "Duotone Slick   6.0",
+    "sessionfin": "Gong Veloce XLT  85",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=398666&uid=26051"
+  },
+  {
+    "rowid": "2",
+    "event_id": 727,
+    "eventname": "2022 FFF SPEED CHALLENGE",
+    "speed": 0.0,
+    "type": "speed_24hour",
     "username": "Francois Robles",
     "ageclass": "Grand Master (51-60)",
     "weightclass": "71-80",
@@ -16,7 +32,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=378274&uid=25318"
   },
   {
-    "rowid": "2",
+    "rowid": "3",
     "event_id": 727,
     "eventname": "2022 FFF SPEED CHALLENGE",
     "speed": 0.0,
@@ -32,7 +48,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=383287&uid=6118"
   },
   {
-    "rowid": "3",
+    "rowid": "4",
     "event_id": 727,
     "eventname": "2022 FFF SPEED CHALLENGE",
     "speed": 0.0,
@@ -48,7 +64,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=374719&uid=5566"
   },
   {
-    "rowid": "4",
+    "rowid": "5",
     "event_id": 727,
     "eventname": "2022 FFF SPEED CHALLENGE",
     "speed": 0.0,
@@ -64,7 +80,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386969&uid=5223"
   },
   {
-    "rowid": "5",
+    "rowid": "6",
     "event_id": 727,
     "eventname": "2022 FFF SPEED CHALLENGE",
     "speed": 0.0,

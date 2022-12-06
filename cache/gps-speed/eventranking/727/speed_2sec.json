@@ -94,5 +94,21 @@
     "sessionsail": "Duotone Warp_fin 5.5  5.5",
     "sessionfin": "- Chopper CHC   31",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=384522&uid=25318"
+  },
+  {
+    "rowid": "7",
+    "event_id": 727,
+    "eventname": "2022 FFF SPEED CHALLENGE",
+    "speed": 35.775084,
+    "type": "speed_2sec",
+    "username": "Jean Charles Maes",
+    "ageclass": "Master (36-50)",
+    "weightclass": "91-100",
+    "sexe": "Men",
+    "spotname": "Fos, 13",
+    "sessionboard": "not defined ",
+    "sessionsail": "Duotone Slick   6.0",
+    "sessionfin": "Gong Veloce XLT  85",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=398666&uid=26051"
   }
 ]

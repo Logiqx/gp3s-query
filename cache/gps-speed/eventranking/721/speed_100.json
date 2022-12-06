@@ -19,6 +19,22 @@
     "rowid": "2",
     "event_id": 721,
     "eventname": "2022 Gps Kraaij Challenge",
+    "speed": 58.926936000000005,
+    "type": "speed_100",
+    "username": "Juul Wulms",
+    "ageclass": "Senior (19-35)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Kraaijenbergse plassen",
+    "sessionboard": "Fanatic falcon slalom TE 129",
+    "sessionsail": "North Sails Warp F2017  7.7",
+    "sessionfin": "Sonntag Fins SL-X  44",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=398186&uid=25108"
+  },
+  {
+    "rowid": "3",
+    "event_id": 721,
+    "eventname": "2022 Gps Kraaij Challenge",
     "speed": 58.623208000000005,
     "type": "speed_100",
     "username": "Jeroen Ari\u00ebns",
@@ -30,22 +46,6 @@
     "sessionsail": "Severne OverdriveR8  7.8",
     "sessionfin": "Tectonics Goldwing  37",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=379160&uid=21736"
-  },
-  {
-    "rowid": "3",
-    "event_id": 721,
-    "eventname": "2022 Gps Kraaij Challenge",
-    "speed": 58.58802000000001,
-    "type": "speed_100",
-    "username": "Juul Wulms",
-    "ageclass": "Senior (19-35)",
-    "weightclass": "71-80",
-    "sexe": "Men",
-    "spotname": "Kraaijenbergse plassen",
-    "sessionboard": "Fanatic falcon slalom TE 129",
-    "sessionsail": "North Sails Warp F2017  7.7",
-    "sessionfin": "Sonntag Fins SL-X  44",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=387036&uid=25108"
   },
   {
     "rowid": "4",
@@ -83,6 +83,22 @@
     "rowid": "6",
     "event_id": 721,
     "eventname": "2022 Gps Kraaij Challenge",
+    "speed": 55.821132,
+    "type": "speed_100",
+    "username": "Erwin Rovers",
+    "ageclass": "Master (36-50)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Kraaijenbergse plassen",
+    "sessionboard": "Fanatic Falcon 130",
+    "sessionsail": "Duotone warp  7.7",
+    "sessionfin": "F-Hot rws-3  42",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=398168&uid=5095"
+  },
+  {
+    "rowid": "7",
+    "event_id": 721,
+    "eventname": "2022 Gps Kraaij Challenge",
     "speed": 55.589632,
     "type": "speed_100",
     "username": "Aaron van den Elsen",
@@ -96,23 +112,23 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=379290&uid=25570"
   },
   {
-    "rowid": "7",
+    "rowid": "8",
     "event_id": 721,
     "eventname": "2022 Gps Kraaij Challenge",
-    "speed": 55.219232,
+    "speed": 54.313604000000005,
     "type": "speed_100",
-    "username": "Erwin Rovers",
+    "username": "Bas de Vries",
     "ageclass": "Master (36-50)",
-    "weightclass": "81-90",
+    "weightclass": "71-80",
     "sexe": "Men",
     "spotname": "Kraaijenbergse plassen",
-    "sessionboard": "Fanatic Falcon Slalom TE 114",
-    "sessionsail": "Duotone Warp  7.0",
-    "sessionfin": "F-Hot S3  38",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=374351&uid=5095"
+    "sessionboard": "Mistral Slalom",
+    "sessionsail": "Neilpryde RS Racing EVO 5  7.0",
+    "sessionfin": "Sonntag Fins SL-X  37",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=397433&uid=24851"
   },
   {
-    "rowid": "8",
+    "rowid": "9",
     "event_id": 721,
     "eventname": "2022 Gps Kraaij Challenge",
     "speed": 54.287676,
@@ -128,7 +144,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=375845&uid=4390"
   },
   {
-    "rowid": "9",
+    "rowid": "10",
     "event_id": 721,
     "eventname": "2022 Gps Kraaij Challenge",
     "speed": 52.696808000000004,
@@ -144,7 +160,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=395854&uid=22382"
   },
   {
-    "rowid": "10",
+    "rowid": "11",
     "event_id": 721,
     "eventname": "2022 Gps Kraaij Challenge",
     "speed": 52.544944,
@@ -158,22 +174,6 @@
     "sessionsail": "North Sails Warp F2017  8.4",
     "sessionfin": "Maui Ultra Fins Slalom Race Carbon  48",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=384088&uid=1797"
-  },
-  {
-    "rowid": "11",
-    "event_id": 721,
-    "eventname": "2022 Gps Kraaij Challenge",
-    "speed": 52.400488,
-    "type": "speed_100",
-    "username": "Bas de Vries",
-    "ageclass": "Master (36-50)",
-    "weightclass": "71-80",
-    "sexe": "Men",
-    "spotname": "Kraaijenbergse plassen",
-    "sessionboard": "Mistral Slalom 123",
-    "sessionsail": "Neilpryde RS Racing EVO 6  8.6",
-    "sessionfin": "Sonntag Fins SL-X  37",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=384090&uid=24851"
   },
   {
     "rowid": "12",
@@ -275,17 +275,17 @@
     "rowid": "18",
     "event_id": 721,
     "eventname": "2022 Gps Kraaij Challenge",
-    "speed": 44.720244,
+    "speed": 45.455488,
     "type": "speed_100",
     "username": "Patricia Verduyn Lunel",
     "ageclass": "Master (36-50)",
     "weightclass": "51-60",
     "sexe": "Woman",
     "spotname": "Kraaijenbergse plassen",
-    "sessionboard": "JP Supersport",
-    "sessionsail": "Neilpryde Search  4.5",
-    "sessionfin": "Concrete Wave Slalom  32",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=377988&uid=25571"
+    "sessionboard": "JP Slalom",
+    "sessionsail": "XO-Sails Gold  5.7",
+    "sessionfin": "not defined -  0",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=398849&uid=25571"
   },
   {
     "rowid": "19",
@@ -323,7 +323,7 @@
     "rowid": "21",
     "event_id": 721,
     "eventname": "2022 Gps Kraaij Challenge",
-    "speed": 30.902472000000003,
+    "speed": 32.213688,
     "type": "speed_100",
     "username": "Nicole Skodda",
     "ageclass": "Master (36-50)",
@@ -331,8 +331,8 @@
     "sexe": "Woman",
     "spotname": "Kraaijenbergse plassen",
     "sessionboard": "i-99 Stylewave 104l  cvk",
-    "sessionsail": "Loftsails Pure Lip  5.0",
+    "sessionsail": "Loftsails Pure Lip  5.4",
     "sessionfin": "Maui Fin Co FSW  28",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=382882&uid=6348"
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=397397&uid=6348"
   }
 ]
