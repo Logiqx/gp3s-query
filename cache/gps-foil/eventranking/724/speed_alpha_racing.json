@@ -35,17 +35,17 @@
     "rowid": "3",
     "event_id": 724,
     "eventname": "Lysakerfjorden Foil 2022",
-    "speed": 27.054016,
+    "speed": 30.372799999999998,
     "type": "speed_alpha_racing",
     "username": "Christian Hilmersen",
     "ageclass": "Grand Master (51-60)",
     "weightclass": "81-90",
     "sexe": "Men",
-    "spotname": "Rolfstangen, Lysaker, Oslo",
+    "spotname": "Lysakerfjorden",
     "sessionboard": "PATRIK Foil-Comp 100 v2",
-    "sessionsail": "Gun Sails Vector  7.5",
-    "sessionfin": "- SABFoil(800-1150-420)  107",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386278&uid=23634"
+    "sessionsail": "Severne HGO  8.0",
+    "sessionfin": "- SABFOIL (671-1005-450)  107",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=395763&uid=23634"
   },
   {
     "rowid": "4",

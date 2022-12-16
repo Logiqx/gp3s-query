@@ -1,1 +1,28 @@
-[]
+[
+  {
+    "session_id": 399192,
+    "session_date": "12/10/2022 12:00:00 AM",
+    "event_id": 771,
+    "eventname": "2022 KING OF THE ICE 2022/2023",
+    "speed_avg": 39.8691152,
+    "speed_2sec": 45.10731200000001,
+    "speed_10sec": 43.059000000000005,
+    "speed_100": 43.223828,
+    "speed_250": 40.538428,
+    "speed_500": 37.275204,
+    "speed_mile": 33.411932,
+    "speed_hour": 0.0,
+    "speed_halfhour": 15.317892000000002,
+    "speed_24hour": 0.0,
+    "speed_alpha_racing": 40.860676,
+    "session_distance": 8.742479999999999,
+    "username": "Tommy Gustavsson",
+    "flag": "SE",
+    "sexe": "Men",
+    "spotname": "Brunnbybaden",
+    "sessionboard": "Hiberna 4 runner,  2009",
+    "sessionsail": "XO-Sails Shark 4.7,  2010",
+    "sessionfin": "Custom ice blade  0",
+    "sessionurl": "https://www.gps-icesailing.com/?mnu=user&val=399192&uid=24740"
+  }
+]

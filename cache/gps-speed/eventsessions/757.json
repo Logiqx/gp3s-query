@@ -1922,5 +1922,31 @@
     "sessionsail": "Neilpryde RS slalom mk6 7.8,  2014",
     "sessionfin": "not defined -  0",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=399107&uid=23755"
+  },
+  {
+    "session_id": 399150,
+    "session_date": "12/8/2022 12:00:00 AM",
+    "event_id": 757,
+    "eventname": "2022 Auckland Windsurfing Association Speed Challenge",
+    "speed_avg": 43.9694432,
+    "speed_2sec": 52.685696,
+    "speed_10sec": 50.691092,
+    "speed_100": 50.963336000000005,
+    "speed_250": 50.01696400000001,
+    "speed_500": 43.097892,
+    "speed_mile": 0.0,
+    "speed_hour": 7.483932000000001,
+    "speed_halfhour": 7.4728200000000005,
+    "speed_24hour": 0.0,
+    "speed_alpha_racing": 0.0,
+    "session_distance": 8.51985,
+    "username": "Dave Harnett",
+    "flag": "NZ",
+    "sexe": "Men",
+    "spotname": "Kohimarama Beach, Waitemata Ha",
+    "sessionboard": "Starboard Isonic 67  Carbon,  2021",
+    "sessionsail": "Severne Mach3 6.2,  2020",
+    "sessionfin": "Big World Fins nZ 6-3  36",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=399150&uid=881"
   }
 ]

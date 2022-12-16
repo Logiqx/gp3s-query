@@ -1,4 +1,9 @@
 {
+  "775": {
+    "eventname": "2023 Irish Speed Masters",
+    "start_date": "2023-01-01T00:00:00",
+    "end_date": "2023-12-31T00:00:00"
+  },
   "769": {
     "eventname": "2023 Surf-Forum-One-Hour Challenge 2023",
     "start_date": "2023-01-01T00:00:00",
@@ -82,6 +87,11 @@
   "719": {
     "eventname": "Norwegian speedmaster - 2022",
     "start_date": "2022-01-01T00:00:00",
+    "end_date": "2022-12-31T00:00:00"
+  },
+  "717": {
+    "eventname": "2022 Irish Speed Masters",
+    "start_date": "2021-11-01T00:00:00",
     "end_date": "2022-12-31T00:00:00"
   },
   "692": {

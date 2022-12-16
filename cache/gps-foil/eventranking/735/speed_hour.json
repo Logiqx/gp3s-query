@@ -3,6 +3,22 @@
     "rowid": "1",
     "event_id": 735,
     "eventname": "World Speed Tour - GPS POS 2022",
+    "speed": 42.742308,
+    "type": "speed_hour",
+    "username": "Daniel Riegler AUT 7",
+    "ageclass": "Youth (0-10)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Achensee",
+    "sessionboard": "JP Hydrofoil",
+    "sessionsail": "Neilpryde RS Flight Evo 3  7.8",
+    "sessionfin": "not defined -  0",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=395047&uid=26479"
+  },
+  {
+    "rowid": "2",
+    "event_id": 735,
+    "eventname": "World Speed Tour - GPS POS 2022",
     "speed": 39.217952,
     "type": "speed_hour",
     "username": "Pierre Mortefon",
@@ -16,7 +32,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=393569&uid=26434"
   },
   {
-    "rowid": "2",
+    "rowid": "3",
     "event_id": 735,
     "eventname": "World Speed Tour - GPS POS 2022",
     "speed": 38.78088,
@@ -32,7 +48,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=382029&uid=5149"
   },
   {
-    "rowid": "3",
+    "rowid": "4",
     "event_id": 735,
     "eventname": "World Speed Tour - GPS POS 2022",
     "speed": 37.50485200000001,
@@ -48,7 +64,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=391087&uid=25710"
   },
   {
-    "rowid": "4",
+    "rowid": "5",
     "event_id": 735,
     "eventname": "World Speed Tour - GPS POS 2022",
     "speed": 23.475952000000003,
@@ -64,7 +80,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=393662&uid=26200"
   },
   {
-    "rowid": "5",
+    "rowid": "6",
     "event_id": 735,
     "eventname": "World Speed Tour - GPS POS 2022",
     "speed": 22.959244,
@@ -80,7 +96,23 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389933&uid=24023"
   },
   {
-    "rowid": "6",
+    "rowid": "7",
+    "event_id": 735,
+    "eventname": "World Speed Tour - GPS POS 2022",
+    "speed": 16.567992,
+    "type": "speed_hour",
+    "username": "PierreAdam PierreAdam",
+    "ageclass": "Senior (19-35)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "La Tonnara",
+    "sessionboard": "Fanatic Falcon Foil ",
+    "sessionsail": "Challenger Sails Aero  7.0",
+    "sessionfin": "- AFS 105 570 / 200  105",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=395885&uid=26339"
+  },
+  {
+    "rowid": "8",
     "event_id": 735,
     "eventname": "World Speed Tour - GPS POS 2022",
     "speed": 15.456792,
@@ -96,7 +128,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=393727&uid=5575"
   },
   {
-    "rowid": "7",
+    "rowid": "9",
     "event_id": 735,
     "eventname": "World Speed Tour - GPS POS 2022",
     "speed": 13.249208000000001,

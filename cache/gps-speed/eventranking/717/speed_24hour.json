@@ -5,18 +5,50 @@
     "eventname": "2022 Irish Speed Masters",
     "speed": 0.0,
     "type": "speed_24hour",
+    "username": "Steve Williams",
+    "ageclass": "Master (36-50)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Bunbeg",
+    "sessionboard": "Exocet Turbo Boost 2 58",
+    "sessionsail": "Neilpryde Combat Pro  5.0",
+    "sessionfin": "Maui Fin Co slalom  28",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=396507&uid=26514"
+  },
+  {
+    "rowid": "2",
+    "event_id": 717,
+    "eventname": "2022 Irish Speed Masters",
+    "speed": 0.0,
+    "type": "speed_24hour",
     "username": "Mark Cullinane",
     "ageclass": "Master (36-50)",
     "weightclass": "81-90",
     "sexe": "Men",
-    "spotname": "Courtmacsherry",
+    "spotname": "Dungarvan",
     "sessionboard": "F2 Slalom ",
     "sessionsail": "Neilpryde rs  evo 1  5.8",
     "sessionfin": "F2 SX 56 29GPS Choco  29",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=373789&uid=25543"
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=375117&uid=25543"
   },
   {
-    "rowid": "2",
+    "rowid": "3",
+    "event_id": 717,
+    "eventname": "2022 Irish Speed Masters",
+    "speed": 0.0,
+    "type": "speed_24hour",
+    "username": "Martin Pelikan",
+    "ageclass": "Master (36-50)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Ballyholme (Northern Ireland)",
+    "sessionboard": "Starboard Formula 177",
+    "sessionsail": "Severne Hyper Glide 2  10.0",
+    "sessionfin": "Starboard Race {95, 115, 1000, 255)  95",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=396780&uid=25175"
+  },
+  {
+    "rowid": "4",
     "event_id": 717,
     "eventname": "2022 Irish Speed Masters",
     "speed": 0.0,
@@ -32,7 +64,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=373276&uid=25174"
   },
   {
-    "rowid": "3",
+    "rowid": "5",
     "event_id": 717,
     "eventname": "2022 Irish Speed Masters",
     "speed": 0.0,
@@ -45,10 +77,10 @@
     "sessionboard": "Starboard Futura 101 wood",
     "sessionsail": "Gaastra Matrix  6.7",
     "sessionfin": "Select Edge Pro Carbon  37",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=372729&uid=24483"
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=372730&uid=24483"
   },
   {
-    "rowid": "4",
+    "rowid": "6",
     "event_id": 717,
     "eventname": "2022 Irish Speed Masters",
     "speed": 0.0,
@@ -58,13 +90,13 @@
     "weightclass": "61-70",
     "sexe": "Men",
     "spotname": "Sligo Bay",
-    "sessionboard": "Fanatic Falcon 90",
-    "sessionsail": "Neilpryde Combat HD  4.5",
-    "sessionfin": "JP Slalom 30 g-10 cnc  30",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=377028&uid=23887"
+    "sessionboard": "F2 SX XS",
+    "sessionsail": "Neilpryde Combat HD  5.0",
+    "sessionfin": "Choco Fins Choco Fin SX XS 29  29",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=398944&uid=23887"
   },
   {
-    "rowid": "5",
+    "rowid": "7",
     "event_id": 717,
     "eventname": "2022 Irish Speed Masters",
     "speed": 0.0,
@@ -73,14 +105,14 @@
     "ageclass": "Master (36-50)",
     "weightclass": "81-90",
     "sexe": "Men",
-    "spotname": "Courtmacsherry",
+    "spotname": "Ballynamona",
     "sessionboard": "Starboard iSonic 87 Carbon",
     "sessionsail": "Severne Mach 4  6.2",
     "sessionfin": "Z-fins slm  32",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=373733&uid=11613"
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=388507&uid=11613"
   },
   {
-    "rowid": "6",
+    "rowid": "8",
     "event_id": 717,
     "eventname": "2022 Irish Speed Masters",
     "speed": 0.0,
@@ -93,10 +125,10 @@
     "sessionboard": "Mistral Slalom 95",
     "sessionsail": "Gun Sails GSR  5.6",
     "sessionfin": "Gasoil Fins ELS L Asy tribord  20",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=373194&uid=3671"
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=372885&uid=3671"
   },
   {
-    "rowid": "7",
+    "rowid": "9",
     "event_id": 717,
     "eventname": "2022 Irish Speed Masters",
     "speed": 0.0,
@@ -105,10 +137,10 @@
     "ageclass": "Grand Master (51-60)",
     "weightclass": "81-90",
     "sexe": "Men",
-    "spotname": "Malahide Estuary",
+    "spotname": "Bunbeg",
     "sessionboard": "JP Speed 45 Pro Edition",
-    "sessionsail": "Neilpryde RS Racing EVO X  5.6",
+    "sessionsail": "Neilpryde RS Racing EVO XIII  5.2",
     "sessionfin": "Z-fins SPA 21.5 S  21",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=383971&uid=3440"
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=394740&uid=3440"
   }
 ]

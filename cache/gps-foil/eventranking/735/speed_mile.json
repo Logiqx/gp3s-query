@@ -51,6 +51,22 @@
     "rowid": "4",
     "event_id": 735,
     "eventname": "World Speed Tour - GPS POS 2022",
+    "speed": 47.288968,
+    "type": "speed_mile",
+    "username": "Daniel Riegler AUT 7",
+    "ageclass": "Youth (0-10)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Torbole, Lake Garda",
+    "sessionboard": "JP Hydrofoil",
+    "sessionsail": "Neilpryde RS Flight Evo 3  7.8",
+    "sessionfin": "not defined -  0",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=395045&uid=26479"
+  },
+  {
+    "rowid": "5",
+    "event_id": 735,
+    "eventname": "World Speed Tour - GPS POS 2022",
     "speed": 46.931532000000004,
     "type": "speed_mile",
     "username": "Hans-Peter Schmidt",
@@ -64,7 +80,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389965&uid=25710"
   },
   {
-    "rowid": "5",
+    "rowid": "6",
     "event_id": 735,
     "eventname": "World Speed Tour - GPS POS 2022",
     "speed": 42.6423,
@@ -80,7 +96,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=393662&uid=26200"
   },
   {
-    "rowid": "6",
+    "rowid": "7",
     "event_id": 735,
     "eventname": "World Speed Tour - GPS POS 2022",
     "speed": 35.513951999999996,
@@ -96,7 +112,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389775&uid=24023"
   },
   {
-    "rowid": "7",
+    "rowid": "8",
     "event_id": 735,
     "eventname": "World Speed Tour - GPS POS 2022",
     "speed": 34.404604000000006,
@@ -112,7 +128,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386008&uid=24593"
   },
   {
-    "rowid": "8",
+    "rowid": "9",
     "event_id": 735,
     "eventname": "World Speed Tour - GPS POS 2022",
     "speed": 33.691584,
@@ -128,7 +144,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=385518&uid=24023"
   },
   {
-    "rowid": "9",
+    "rowid": "10",
     "event_id": 735,
     "eventname": "World Speed Tour - GPS POS 2022",
     "speed": 31.189532000000003,

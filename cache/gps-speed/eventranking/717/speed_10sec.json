@@ -11,7 +11,7 @@
     "sexe": "Men",
     "spotname": "Dungarvan",
     "sessionboard": "JP Speed 45 Pro Edition",
-    "sessionsail": "Neilpryde Rs Racing EVO XIII  5.2",
+    "sessionsail": "Neilpryde RS Racing EVO XIII  5.2",
     "sessionfin": "Z-fins SPA 21.5 S  21",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=396090&uid=3440"
   },
@@ -45,10 +45,26 @@
     "sessionboard": "Starboard iSonic Speed Special W-44",
     "sessionsail": "Neilpryde rs  evo 1  5.8",
     "sessionfin": "Black Project Fins XLS asy SB  18",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=396296&uid=25543"
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=396281&uid=25543"
   },
   {
     "rowid": "4",
+    "event_id": 717,
+    "eventname": "2022 Irish Speed Masters",
+    "speed": 59.08250400000001,
+    "type": "speed_10sec",
+    "username": "Roman Szypura",
+    "ageclass": "Master (36-50)",
+    "weightclass": "61-70",
+    "sexe": "Men",
+    "spotname": "Sligo Bay",
+    "sessionboard": "F2 SX XS",
+    "sessionsail": "Neilpryde Combat HD  5.0",
+    "sessionfin": "Choco Fins Choco Fin SX XS 29  29",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=398944&uid=23887"
+  },
+  {
+    "rowid": "5",
     "event_id": 717,
     "eventname": "2022 Irish Speed Masters",
     "speed": 58.958420000000004,
@@ -62,22 +78,6 @@
     "sessionsail": "Neilpryde Combat Pro  5.0",
     "sessionfin": "Maui Fin Co slalom  28",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=396507&uid=26514"
-  },
-  {
-    "rowid": "5",
-    "event_id": 717,
-    "eventname": "2022 Irish Speed Masters",
-    "speed": 57.480524,
-    "type": "speed_10sec",
-    "username": "Roman Szypura",
-    "ageclass": "Master (36-50)",
-    "weightclass": "61-70",
-    "sexe": "Men",
-    "spotname": "Sligo Bay",
-    "sessionboard": "Fanatic Falcon 90",
-    "sessionsail": "Neilpryde Combat HD  4.5",
-    "sessionfin": "JP Slalom 30 g-10 cnc  30",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=377028&uid=23887"
   },
   {
     "rowid": "6",
