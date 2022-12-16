@@ -2,10 +2,11 @@
 
 Summary of issues detected in the GP3S event rankings.
 
-Last refreshed 2022-12-06 10:57:26 UTC.
+Last refreshed 2022-12-16 17:53:30 UTC.
 
 | Event Name | Event ID | Date Issues | Duplicates | Ghosts | Missing | Incorrect | Actions |
 | ---------- | :------: | :---------: | :--------: | :----: | :-----: | :-------: | :-----: |
+| [2023 Irish Speed Masters](775.md) | 775 | 0 | 0 | 0 | 0 | 0 | 0 |
 | [2023 Surf-Forum-One-Hour Challenge 2023](769.md) | 769 | 0 | 0 | 0 | 0 | 0 | 0 |
 | [2022 BritishSpeedChallenge2023](764.md) | 764 | 0 | 2 | 0 | 0 | 1 | 2 |
 | [2022 SSS Go reasonable big or go Home 2022-2023](762.md) | 762 | 0 | 0 | 0 | 0 | 6 | 2 |
@@ -23,5 +24,6 @@ Last refreshed 2022-12-06 10:57:26 UTC.
 | [Lysakerfjorden 2022](722.md) | 722 | 0 | 1 | 0 | 0 | 0 | 1 |
 | [2022 Gps Kraaij Challenge](721.md) | 721 | 0 | 0 | 0 | 0 | 9 | 1 |
 | [Norwegian speedmaster - 2022](719.md) | 719 | 0 | 1 | 0 | 0 | 0 | 1 |
+| [2022 Irish Speed Masters](717.md) | 717 | 0 | 0 | 0 | 0 | 0 | 0 |
 | [Surf like a dude Zuidlaardermeer speed challenge 2021](692.md) | 692 | 0 | 0 | 0 | 0 | 0 | 0 |
 | TOTAL | - | 0 | 16 | 46 | 5 | 29 | 30 |

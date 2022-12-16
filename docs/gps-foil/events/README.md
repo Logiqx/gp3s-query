@@ -2,13 +2,13 @@
 
 Summary of issues detected in the GP3S event rankings.
 
-Last refreshed 2022-12-06 10:57:26 UTC.
+Last refreshed 2022-12-16 17:53:30 UTC.
 
 | Event Name | Event ID | Date Issues | Duplicates | Ghosts | Missing | Incorrect | Actions |
 | ---------- | :------: | :---------: | :--------: | :----: | :-----: | :-------: | :-----: |
-| [2022 BritishWindfoilSpeedChallenge2023](766.md) | 766 | 0 | 0 | 0 | 0 | 0 | 0 |
+| [2022 BritishWindfoilSpeedChallenge2023](766.md) | 766 | 0 | 0 | 29 | 0 | 16 | 7 |
 | [2023 BritishFoilS](765.md) | 765 | 0 | 0 | 0 | 0 | 0 | 0 |
-| [World Speed Tour - GPS POS 2022](735.md) | 735 | 0 | 2 | 90 | 0 | 0 | 9 |
-| [2022 FFF Speed Challenge](728.md) | 728 | 0 | 0 | 42 | 0 | 0 | 4 |
-| [Lysakerfjorden Foil 2022](724.md) | 724 | 0 | 0 | 66 | 0 | 0 | 6 |
-| TOTAL | - | 0 | 2 | 198 | 0 | 0 | 19 |
+| [World Speed Tour - GPS POS 2022](735.md) | 735 | 0 | 6 | 67 | 0 | 0 | 8 |
+| [2022 FFF Speed Challenge](728.md) | 728 | 0 | 0 | 20 | 0 | 6 | 3 |
+| [Lysakerfjorden Foil 2022](724.md) | 724 | 0 | 0 | 0 | 0 | 27 | 4 |
+| TOTAL | - | 0 | 6 | 116 | 0 | 49 | 22 |
