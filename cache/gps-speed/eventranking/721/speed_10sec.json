@@ -147,22 +147,6 @@
     "rowid": "10",
     "event_id": 721,
     "eventname": "2022 Gps Kraaij Challenge",
-    "speed": 52.18936,
-    "type": "speed_10sec",
-    "username": "Stijn Stoekenbroek",
-    "ageclass": "Senior (19-35)",
-    "weightclass": "71-80",
-    "sexe": "Men",
-    "spotname": "Grevelingenmeer - Herkingen",
-    "sessionboard": "Starboard iSonic Race Slalom 127 UltraCore Reflex Carbon",
-    "sessionsail": "Severne Mach 2  7.8",
-    "sessionfin": "Sonntag Fins SL-X  43",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=395854&uid=22382"
-  },
-  {
-    "rowid": "11",
-    "event_id": 721,
-    "eventname": "2022 Gps Kraaij Challenge",
     "speed": 51.99304800000001,
     "type": "speed_10sec",
     "username": "Peter Magnee",
@@ -176,7 +160,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=384088&uid=1797"
   },
   {
-    "rowid": "12",
+    "rowid": "11",
     "event_id": 721,
     "eventname": "2022 Gps Kraaij Challenge",
     "speed": 50.072524,
@@ -192,7 +176,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=374873&uid=18056"
   },
   {
-    "rowid": "13",
+    "rowid": "12",
     "event_id": 721,
     "eventname": "2022 Gps Kraaij Challenge",
     "speed": 49.8188,
@@ -208,7 +192,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=388785&uid=5174"
   },
   {
-    "rowid": "14",
+    "rowid": "13",
     "event_id": 721,
     "eventname": "2022 Gps Kraaij Challenge",
     "speed": 49.665084,
@@ -222,6 +206,22 @@
     "sessionsail": "Neilpryde RS6  7.8",
     "sessionfin": "Select Vmax 4.0  47",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=385038&uid=3588"
+  },
+  {
+    "rowid": "14",
+    "event_id": 721,
+    "eventname": "2022 Gps Kraaij Challenge",
+    "speed": 48.648336,
+    "type": "speed_10sec",
+    "username": "Stijn Stoekenbroek",
+    "ageclass": "Senior (19-35)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Kraaijenbergse plassen",
+    "sessionboard": "Starboard iSonic Race Slalom 127 UltraCore Reflex Carbon",
+    "sessionsail": "Severne Mach 2  7.8",
+    "sessionfin": "Sonntag Fins SL-X  43",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=394769&uid=22382"
   },
   {
     "rowid": "15",

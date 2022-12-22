@@ -85,18 +85,34 @@
     "eventname": "2022 Auckland Windsurfing Association Speed Challenge",
     "speed": 0.0,
     "type": "speed_mile",
-    "username": "Bryan Morrison",
+    "username": "Stephen Westwood",
     "ageclass": "Grand Master (51-60)",
-    "weightclass": "71-80",
+    "weightclass": "81-90",
     "sexe": "Men",
-    "spotname": "Tamaki River, Auckland",
-    "sessionboard": "Starboard iSonic 87 Carbon",
-    "sessionsail": "Neilpryde RS Racing EVO 8  6.4",
-    "sessionfin": "Select Hotrod  29",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389360&uid=5968"
+    "spotname": "Shoal Bay",
+    "sessionboard": "Carbon Art SL 58",
+    "sessionsail": "Maui Sails TR4  5.5",
+    "sessionfin": "Tectonics F1 Falcon  30",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=395254&uid=25194"
   },
   {
     "rowid": "7",
+    "event_id": 757,
+    "eventname": "2022 Auckland Windsurfing Association Speed Challenge",
+    "speed": 0.0,
+    "type": "speed_mile",
+    "username": "Brendan van Diepen",
+    "ageclass": "Super Master (61-70)",
+    "weightclass": "91-100",
+    "sexe": "Men",
+    "spotname": "McLeods Bay",
+    "sessionboard": "Starboard Futura Wood",
+    "sessionsail": "Neilpryde RS Race EVO8  7.0",
+    "sessionfin": "not defined -  0",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=399106&uid=23755"
+  },
+  {
+    "rowid": "8",
     "event_id": 757,
     "eventname": "2022 Auckland Windsurfing Association Speed Challenge",
     "speed": 0.0,
@@ -110,5 +126,21 @@
     "sessionsail": "Severne Mach2  8.6",
     "sessionfin": "C3 Drake Venom  54",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389596&uid=23731"
+  },
+  {
+    "rowid": "9",
+    "event_id": 757,
+    "eventname": "2022 Auckland Windsurfing Association Speed Challenge",
+    "speed": 0.0,
+    "type": "speed_mile",
+    "username": "Bryan Morrison",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Shoal Bay, Auckland",
+    "sessionboard": "Starboard iSonic 87 Carbon",
+    "sessionsail": "Neilpryde RS Racing EVO 5  5.8",
+    "sessionfin": "Select Hotrod  29",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=388860&uid=5968"
   }
 ]

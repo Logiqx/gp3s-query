@@ -19,17 +19,17 @@
     "rowid": "2",
     "event_id": 724,
     "eventname": "Lysakerfjorden Foil 2022",
-    "speed": 32.117384,
+    "speed": 31.272872,
     "type": "speed_alpha_racing",
     "username": "Thomas Karterud",
     "ageclass": "Master (36-50)",
     "weightclass": "91-100",
     "sexe": "Men",
-    "spotname": "Asker Seilklubb",
-    "sessionboard": "Starboard FOIL SLALOM 91",
-    "sessionsail": "Severne HGO  10.0",
-    "sessionfin": "Starboard Race foil plus (1000-225-115plus)  95",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=393705&uid=23163"
+    "spotname": "Rolfstangen, Lysaker, Oslo",
+    "sessionboard": "Starboard FOIL 177",
+    "sessionsail": "Severne HGO  9.0",
+    "sessionfin": "Starboard Race Carbon (1000 225)  95",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=384873&uid=23163"
   },
   {
     "rowid": "3",
@@ -51,7 +51,7 @@
     "rowid": "4",
     "event_id": 724,
     "eventname": "Lysakerfjorden Foil 2022",
-    "speed": 25.772432000000002,
+    "speed": 26.539160000000003,
     "type": "speed_alpha_racing",
     "username": "Axel Espeli Blankholm",
     "ageclass": "Junior (11-14)",
@@ -61,7 +61,7 @@
     "sessionboard": "Starboard iQFOIL 85 ",
     "sessionsail": "Severne FGO IQ foil  7.0",
     "sessionfin": "Starboard IQ Foil Jr 95 - 800FW-255BW-0,5  800",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=392876&uid=25451"
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=393965&uid=25451"
   },
   {
     "rowid": "5",

@@ -15650,5 +15650,31 @@
     "sessionsail": "Loft Sails Racing Blade 6.3,  2019",
     "sessionfin": "not defined -  0",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=399147&uid=18137"
+  },
+  {
+    "session_id": 399325,
+    "session_date": "12/21/2022 12:00:00 AM",
+    "event_id": 732,
+    "eventname": "2022 DBO Speed Challenge",
+    "speed_avg": 38.35677200000001,
+    "speed_2sec": 40.65510400000001,
+    "speed_10sec": 39.940232,
+    "speed_100": 39.940232,
+    "speed_250": 38.7068,
+    "speed_500": 37.543744,
+    "speed_mile": 26.822516000000004,
+    "speed_hour": 0.0,
+    "speed_halfhour": 0.0,
+    "speed_24hour": 0.0,
+    "speed_alpha_racing": 17.134704000000003,
+    "session_distance": 6.329351,
+    "username": "Bertil Folke",
+    "flag": "DK",
+    "sexe": "Men",
+    "spotname": "Ven\u00f8",
+    "sessionboard": "Fanatic Falcon Foil TE 200,  2021",
+    "sessionsail": "Point-7 F1 Slalom 8.0,  2022",
+    "sessionfin": "Phantom IRIS R FW730-Fuselage100-BW200  730",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=399325&uid=23069"
   }
 ]

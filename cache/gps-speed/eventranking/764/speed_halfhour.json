@@ -108,7 +108,7 @@
     "spotname": "Portland Harbour, Weymouth",
     "sessionboard": "Tabou  Roket Wide 108",
     "sessionsail": "Naish Grand Prix Ltd  6.4",
-    "sessionfin": "Select SL7  39",
+    "sessionfin": "AB+ Slalom  30",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=395372&uid=2307"
   },
   {
@@ -204,7 +204,7 @@
     "spotname": "Portland Harbour, Weymouth",
     "sessionboard": "Starboard iSonic 107 Carbon",
     "sessionsail": "Severne NCX  7.0",
-    "sessionfin": "Black Project Fins Type - R  37",
+    "sessionfin": "Black Project Fins Type S  21",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=394749&uid=4824"
   },
   {
@@ -220,7 +220,7 @@
     "spotname": "Langstone Harbour",
     "sessionboard": "Carbon Art SP53pro",
     "sessionsail": "Gun Sails GS-R  7.1",
-    "sessionfin": "Z-fins SPA 27 S  27",
+    "sessionfin": "C3 SLINGSHOT  22",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=396077&uid=1605"
   },
   {
@@ -259,6 +259,22 @@
     "rowid": "17",
     "event_id": 764,
     "eventname": "2022 BritishSpeedChallenge2023",
+    "speed": 22.433276,
+    "type": "speed_halfhour",
+    "username": "Ian Richards",
+    "ageclass": "Super Master (61-70)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Southend-on-Sea",
+    "sessionboard": "JP Speed 45",
+    "sessionsail": "Neilpryde RS Racing EVO 6  5.4",
+    "sessionfin": "Z-fins SPA 21 S  21",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=399298&uid=2363"
+  },
+  {
+    "rowid": "18",
+    "event_id": 764,
+    "eventname": "2022 BritishSpeedChallenge2023",
     "speed": 21.407268,
     "type": "speed_halfhour",
     "username": "Chris Pankhurst ",
@@ -272,7 +288,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=396101&uid=5368"
   },
   {
-    "rowid": "18",
+    "rowid": "19",
     "event_id": 764,
     "eventname": "2022 BritishSpeedChallenge2023",
     "speed": 19.959004,
@@ -286,22 +302,6 @@
     "sessionsail": "GA-sails Vapor  6.4",
     "sessionfin": "F-Hot RS-3  32",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=395557&uid=4776"
-  },
-  {
-    "rowid": "19",
-    "event_id": 764,
-    "eventname": "2022 BritishSpeedChallenge2023",
-    "speed": 19.405256,
-    "type": "speed_halfhour",
-    "username": "Ian Richards",
-    "ageclass": "Super Master (61-70)",
-    "weightclass": "71-80",
-    "sexe": "Men",
-    "spotname": "Southend-on-Sea",
-    "sessionboard": "JP Speed 45",
-    "sessionsail": "Neilpryde RS Racing EVO 6  5.4",
-    "sessionfin": "Z-fins SPA 21 S  21",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=397467&uid=2363"
   },
   {
     "rowid": "20",
@@ -323,6 +323,22 @@
     "rowid": "21",
     "event_id": 764,
     "eventname": "2022 BritishSpeedChallenge2023",
+    "speed": 18.410732000000003,
+    "type": "speed_halfhour",
+    "username": "Martin Byford",
+    "ageclass": "Master (36-50)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Southend-on-Sea",
+    "sessionboard": "Starboard Isonic speed special W49",
+    "sessionsail": "Point-7 AC-X 5G   5.8",
+    "sessionfin": "not defined -  0",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=399287&uid=22480"
+  },
+  {
+    "rowid": "22",
+    "event_id": 764,
+    "eventname": "2022 BritishSpeedChallenge2023",
     "speed": 17.949584,
     "type": "speed_halfhour",
     "username": "Nic Dodd",
@@ -336,7 +352,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=397058&uid=3111"
   },
   {
-    "rowid": "22",
+    "rowid": "23",
     "event_id": 764,
     "eventname": "2022 BritishSpeedChallenge2023",
     "speed": 15.551244,
@@ -352,7 +368,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=395028&uid=2485"
   },
   {
-    "rowid": "23",
+    "rowid": "24",
     "event_id": 764,
     "eventname": "2022 BritishSpeedChallenge2023",
     "speed": 14.845632,
@@ -368,7 +384,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=396061&uid=23443"
   },
   {
-    "rowid": "24",
+    "rowid": "25",
     "event_id": 764,
     "eventname": "2022 BritishSpeedChallenge2023",
     "speed": 14.367816000000001,
@@ -384,7 +400,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=396062&uid=25070"
   },
   {
-    "rowid": "25",
+    "rowid": "26",
     "event_id": 764,
     "eventname": "2022 BritishSpeedChallenge2023",
     "speed": 14.295588,
@@ -400,7 +416,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=397071&uid=24107"
   },
   {
-    "rowid": "26",
+    "rowid": "27",
     "event_id": 764,
     "eventname": "2022 BritishSpeedChallenge2023",
     "speed": 13.365884,
@@ -416,7 +432,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=396322&uid=960"
   },
   {
-    "rowid": "27",
+    "rowid": "28",
     "event_id": 764,
     "eventname": "2022 BritishSpeedChallenge2023",
     "speed": 12.752872,
@@ -430,22 +446,6 @@
     "sessionsail": "Simmer Sails SCR 2018  8.6",
     "sessionfin": "Gasoil Fins CHR X  44",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=396299&uid=4312"
-  },
-  {
-    "rowid": "28",
-    "event_id": 764,
-    "eventname": "2022 BritishSpeedChallenge2023",
-    "speed": 9.415568,
-    "type": "speed_halfhour",
-    "username": "Martin Byford",
-    "ageclass": "Master (36-50)",
-    "weightclass": "71-80",
-    "sexe": "Men",
-    "spotname": "Southend-on-Sea",
-    "sessionboard": "Starboard Isonic speed special W49",
-    "sessionsail": "Point-7 AC-X 5G   5.8",
-    "sessionfin": "not defined -  0",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=398566&uid=22480"
   },
   {
     "rowid": "29",
@@ -473,10 +473,10 @@
     "ageclass": "Super Master (61-70)",
     "weightclass": "91-100",
     "sexe": "Men",
-    "spotname": "Levington",
+    "spotname": "Felixstowe",
     "sessionboard": "Starboard Foil Freeride 150  WS",
     "sessionsail": "Tushingham Thunderbird 3  6.5",
     "sessionfin": "Starboard Evolution Freeride ( 95 - 1100 - 500 - 95 )  95",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=395791&uid=3532"
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=395015&uid=3532"
   }
 ]

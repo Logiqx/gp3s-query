@@ -115,22 +115,6 @@
     "rowid": "8",
     "event_id": 721,
     "eventname": "2022 Gps Kraaij Challenge",
-    "speed": 23.016656,
-    "type": "speed_hour",
-    "username": "Stijn Stoekenbroek",
-    "ageclass": "Senior (19-35)",
-    "weightclass": "71-80",
-    "sexe": "Men",
-    "spotname": "Grevelingenmeer - Herkingen",
-    "sessionboard": "Starboard iSonic Race Slalom 127 UltraCore Reflex Carbon",
-    "sessionsail": "Severne Mach 2  7.8",
-    "sessionfin": "Sonntag Fins SL-X  43",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=395854&uid=22382"
-  },
-  {
-    "rowid": "9",
-    "event_id": 721,
-    "eventname": "2022 Gps Kraaij Challenge",
     "speed": 22.97406,
     "type": "speed_hour",
     "username": "Bas Keijsers",
@@ -144,7 +128,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386655&uid=20620"
   },
   {
-    "rowid": "10",
+    "rowid": "9",
     "event_id": 721,
     "eventname": "2022 Gps Kraaij Challenge",
     "speed": 22.76108,
@@ -160,7 +144,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=373725&uid=24851"
   },
   {
-    "rowid": "11",
+    "rowid": "10",
     "event_id": 721,
     "eventname": "2022 Gps Kraaij Challenge",
     "speed": 20.399780000000003,
@@ -174,6 +158,22 @@
     "sessionsail": "Severne ReflexR7  7.8",
     "sessionfin": "Sonntag Fins sl-x  47",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=373285&uid=23759"
+  },
+  {
+    "rowid": "11",
+    "event_id": 721,
+    "eventname": "2022 Gps Kraaij Challenge",
+    "speed": 17.299532,
+    "type": "speed_hour",
+    "username": "Stijn Stoekenbroek",
+    "ageclass": "Senior (19-35)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Kraaijenbergse plassen",
+    "sessionboard": "Starboard iSonic Race Slalom 127 UltraCore Reflex Carbon",
+    "sessionsail": "Severne Mach 2  7.8",
+    "sessionfin": "Sonntag Fins SL-X  43",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=394769&uid=22382"
   },
   {
     "rowid": "12",

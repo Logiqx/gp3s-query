@@ -44,7 +44,7 @@
     "spotname": "Gran Canaria, Bah\u00eda de Formas (Salinas de Arinaga)",
     "sessionboard": "RRD X-Fire 114 LTD Y25",
     "sessionsail": "RRD X-Wing Y27  7.0",
-    "sessionfin": "F-Hot RWS S-3 #2637  36",
+    "sessionfin": "F-Hot Speed  22",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=395960&uid=6272"
   },
   {
@@ -201,7 +201,7 @@
     "ageclass": "Master (36-50)",
     "weightclass": "71-80",
     "sexe": "Men",
-    "spotname": "Deveses",
+    "spotname": "Fornells",
     "sessionboard": "Starboard Isonic 90 Carbon",
     "sessionsail": "KA Sails Koncept  6.6",
     "sessionfin": "Sonntag Fins GPS-6  30",
@@ -253,7 +253,7 @@
     "sessionboard": "Custom Custom SBT",
     "sessionsail": "Gun Sails GS-R  5.6",
     "sessionfin": "Tribal Fin 19.5 ST  19",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=395326&uid=26004"
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=395324&uid=26004"
   },
   {
     "rowid": "17",
@@ -444,7 +444,7 @@
     "spotname": "Tarifa, Campo de football",
     "sessionboard": "Starboard  iSonic 63 Carbon Reflex ",
     "sessionsail": "Severne Mach 4  6.2",
-    "sessionfin": "not defined -  0",
+    "sessionfin": "- Chopper CHC   31",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=396169&uid=25939"
   },
   {
@@ -457,10 +457,10 @@
     "ageclass": "Super Master (61-70)",
     "weightclass": "71-80",
     "sexe": "Men",
-    "spotname": "Alarc\u00f3n",
+    "spotname": "Valmayor Lake, Madrid",
     "sessionboard": "Fanatic Falcon TE 140 ",
-    "sessionsail": "Duotone Warp 2019  8.4",
-    "sessionfin": "- Gregor Custom Fins SL2 S-  44",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=382016&uid=22584"
+    "sessionsail": "Duotone Warp  F 2021   9.0",
+    "sessionfin": "- The Boss 4.31 S--  52",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=378451&uid=22584"
   }
 ]

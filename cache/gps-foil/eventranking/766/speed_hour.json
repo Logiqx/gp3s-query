@@ -93,6 +93,22 @@
     "sessionboard": "Phantom IRIS X mk2 85",
     "sessionsail": "Phantom IRIS X  7.0",
     "sessionfin": "Phantom IRISX FW550-Fuselage100-BW250  95",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=396320&uid=23493"
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=396906&uid=23493"
+  },
+  {
+    "rowid": "7",
+    "event_id": 766,
+    "eventname": "2022 BritishWindfoilSpeedChallenge2023",
+    "speed": 0.0,
+    "type": "speed_hour",
+    "username": "Scotty Stallman",
+    "ageclass": "Senior (19-35)",
+    "weightclass": "91-100",
+    "sexe": "Men",
+    "spotname": "Portland Harbour, Weymouth",
+    "sessionboard": "Tabou AIRRIDE+ 81 TEAM",
+    "sessionsail": "Severne HG5  8.0",
+    "sessionfin": "- F4 97Mast 560Front + 190Rear  560",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=396259&uid=5618"
   }
 ]

@@ -30,37 +30,5 @@
     "sessionsail": "Phantom IRIS X  5.0",
     "sessionfin": "- AFS 100 - 105 - 570 / 200  100",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=399168&uid=11625"
-  },
-  {
-    "rowid": "3",
-    "event_id": 728,
-    "eventname": "2022 FFF Speed Challenge",
-    "speed": 39.29944,
-    "type": "speed_alpha_racing",
-    "username": "PierreAdam PierreAdam",
-    "ageclass": "Senior (19-35)",
-    "weightclass": "71-80",
-    "sexe": "Men",
-    "spotname": "Rade de Brest 29",
-    "sessionboard": "Fanatic Falcon Foil ",
-    "sessionsail": "Challenger Sails Aero+  6.2",
-    "sessionfin": "- AFS 105 570 / 200  105",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=393154&uid=26339"
-  },
-  {
-    "rowid": "4",
-    "event_id": 728,
-    "eventname": "2022 FFF Speed Challenge",
-    "speed": 27.944828,
-    "type": "speed_alpha_racing",
-    "username": "Hans-Peter Schmidt",
-    "ageclass": "Master (36-50)",
-    "weightclass": "71-80",
-    "sexe": "Men",
-    "spotname": "La Palme - Plage du Rouet",
-    "sessionboard": "FMX Hyperion 178LR",
-    "sessionsail": "Phantom IRIS R mk2  5.5",
-    "sessionfin": "Phantom IRIS R FW430-Fuselage100-BW200  430",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=392811&uid=25710"
   }
 ]

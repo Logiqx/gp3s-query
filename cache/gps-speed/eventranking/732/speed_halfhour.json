@@ -167,7 +167,7 @@
     "type": "speed_halfhour",
     "username": "Bertil Folke",
     "ageclass": "Grand Master (51-60)",
-    "weightclass": "101-110",
+    "weightclass": "111-150",
     "sexe": "Men",
     "spotname": "Ejsingholm",
     "sessionboard": "Tabou 3S",
@@ -419,7 +419,7 @@
     "rowid": "27",
     "event_id": 732,
     "eventname": "2022 DBO Speed Challenge",
-    "speed": 21.985092,
+    "speed": 21.503572000000002,
     "type": "speed_halfhour",
     "username": "Benny Plambeck",
     "ageclass": "Ultimate Master (71-99)",
@@ -428,8 +428,8 @@
     "spotname": "Veddelev",
     "sessionboard": "Starboard Foil 177",
     "sessionsail": "Gun Sails Raise  7.0",
-    "sessionfin": "Starboard Starboard Race (115 - 650 - 255)  95",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=395238&uid=1203"
+    "sessionfin": "Bugfins SLEM  31",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=391092&uid=1203"
   },
   {
     "rowid": "28",
@@ -541,6 +541,6 @@
     "sessionboard": "Starboard Isonic Carbon Reflex 83",
     "sessionsail": "Gun Sails GSR  8.6",
     "sessionfin": "Maui Ultra Fins Slalom pro Carbon   42",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=380372&uid=23918"
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=380243&uid=23918"
   }
 ]

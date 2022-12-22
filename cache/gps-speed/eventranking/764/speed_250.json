@@ -3,17 +3,17 @@
     "rowid": "1",
     "event_id": 764,
     "eventname": "2022 BritishSpeedChallenge2023",
-    "speed": 90.76281600000002,
+    "speed": 79.011876,
     "type": "speed_250",
     "username": "Jim Crossley",
     "ageclass": "Master (36-50)",
     "weightclass": "91-100",
     "sexe": "Men",
-    "spotname": "Luderitz Speed Canal",
-    "sessionboard": "PATRIK Speed",
+    "spotname": "Diaz Point, Luderitz",
+    "sessionboard": "JP Speed 45 Pro Edition",
     "sessionsail": "Loftsails Racing Blade  5.2",
-    "sessionfin": "F-Hot Asy speed Luderitz proto  19",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=398427&uid=4275"
+    "sessionfin": "Z-fins  asy  spa 21 s  21",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=398543&uid=4275"
   },
   {
     "rowid": "2",
@@ -35,7 +35,7 @@
     "rowid": "3",
     "event_id": 764,
     "eventname": "2022 BritishSpeedChallenge2023",
-    "speed": 72.900276,
+    "speed": 73.78368,
     "type": "speed_250",
     "username": "Ian Richards",
     "ageclass": "Super Master (61-70)",
@@ -45,7 +45,7 @@
     "sessionboard": "JP Speed 45",
     "sessionsail": "Neilpryde RS Racing EVO 6  5.4",
     "sessionfin": "Z-fins SPA 21 S  21",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=397467&uid=2363"
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=399298&uid=2363"
   },
   {
     "rowid": "4",
@@ -71,7 +71,7 @@
     "type": "speed_250",
     "username": "Martin Byford",
     "ageclass": "Master (36-50)",
-    "weightclass": "71-80",
+    "weightclass": "81-90",
     "sexe": "Men",
     "spotname": "Southend-on-Sea",
     "sessionboard": "Starboard Isonic speed special W49",
@@ -99,6 +99,22 @@
     "rowid": "7",
     "event_id": 764,
     "eventname": "2022 BritishSpeedChallenge2023",
+    "speed": 68.42028800000001,
+    "type": "speed_250",
+    "username": "Michael George",
+    "ageclass": "Master (36-50)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Southend-on-Sea",
+    "sessionboard": "JP Speed 45 Pro Edition",
+    "sessionsail": "Neilpryde RS Racing EVO XII  5.2",
+    "sessionfin": "C3 SLINGSHOT   22",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=399284&uid=2640"
+  },
+  {
+    "rowid": "8",
+    "event_id": 764,
+    "eventname": "2022 BritishSpeedChallenge2023",
     "speed": 67.138704,
     "type": "speed_250",
     "username": "Simon Chippington ",
@@ -112,7 +128,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=397359&uid=21720"
   },
   {
-    "rowid": "8",
+    "rowid": "9",
     "event_id": 764,
     "eventname": "2022 BritishSpeedChallenge2023",
     "speed": 66.516432,
@@ -126,22 +142,6 @@
     "sessionsail": "Duotone Warp-Fin  5.8",
     "sessionfin": "F-Hot RS-3  32",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=396096&uid=4276"
-  },
-  {
-    "rowid": "9",
-    "event_id": 764,
-    "eventname": "2022 BritishSpeedChallenge2023",
-    "speed": 65.24596,
-    "type": "speed_250",
-    "username": "Michael George",
-    "ageclass": "Master (36-50)",
-    "weightclass": "71-80",
-    "sexe": "Men",
-    "spotname": "Portland Harbour, Weymouth",
-    "sessionboard": "JP Speed 50 Pro Edition",
-    "sessionsail": "Neilpryde RS Racing EVO XII  5.2",
-    "sessionfin": "Z-fins Speed Delta  25",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=398057&uid=2640"
   },
   {
     "rowid": "10",
@@ -172,7 +172,7 @@
     "spotname": "Portland Harbour, Weymouth",
     "sessionboard": "Fanatic Falcon 80",
     "sessionsail": "Severne Reflex R7  5.6",
-    "sessionfin": "Select S10  33",
+    "sessionfin": "Black Project Fins Type S  21",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=395055&uid=4824"
   },
   {
@@ -300,7 +300,7 @@
     "spotname": "Langstone Harbour",
     "sessionboard": "Carbon Art SP53pro",
     "sessionsail": "Gun Sails GS-R  7.1",
-    "sessionfin": "Z-fins SPA 27 S  27",
+    "sessionfin": "C3 SLINGSHOT  22",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=396077&uid=1605"
   },
   {

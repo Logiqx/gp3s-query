@@ -3,22 +3,6 @@
     "rowid": "1",
     "event_id": 737,
     "eventname": "2022 Spanish Speed Challenge",
-    "speed": 106.11034000000001,
-    "type": "speed_2sec",
-    "username": "Kai Kaufmann",
-    "ageclass": "Master (36-50)",
-    "weightclass": "91-100",
-    "sexe": "Men",
-    "spotname": "Gran Canaria, Bah\u00eda de Formas (Salinas de Arinaga)",
-    "sessionboard": "RRD X-Fire 98 V8 LTD",
-    "sessionsail": "RRD X-Wing Y25  6.2",
-    "sessionfin": "Hurricane SS 3 M-  32",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=380217&uid=16746"
-  },
-  {
-    "rowid": "2",
-    "event_id": 737,
-    "eventname": "2022 Spanish Speed Challenge",
     "speed": 81.597268,
     "type": "speed_2sec",
     "username": " Antonio Mora",
@@ -30,6 +14,22 @@
     "sessionsail": "Gun Sails proto  4.5",
     "sessionfin": "Tribal Fin 19.5 ST  19",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=385785&uid=26004"
+  },
+  {
+    "rowid": "2",
+    "event_id": 737,
+    "eventname": "2022 Spanish Speed Challenge",
+    "speed": 79.62859200000001,
+    "type": "speed_2sec",
+    "username": "Kai Kaufmann",
+    "ageclass": "Master (36-50)",
+    "weightclass": "91-100",
+    "sexe": "Men",
+    "spotname": "Fuerteventura, Sotavento",
+    "sessionboard": "Starboard iSonic Speed Special W54",
+    "sessionsail": "RRD X-Wing Y25  5.6",
+    "sessionfin": "Black Project Fins Type S  24",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=387433&uid=16746"
   },
   {
     "rowid": "3",
@@ -188,7 +188,7 @@
     "spotname": "Tarifa, Campo de football",
     "sessionboard": "Custom SBT",
     "sessionsail": "Gun Sails GSR  5.0",
-    "sessionfin": "Sonntag Fins SLpro  21",
+    "sessionfin": "- Chopperfins  30",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=395384&uid=23059"
   },
   {
@@ -300,7 +300,7 @@
     "spotname": "Tarifa, Campo de football",
     "sessionboard": "Starboard  iSonic 63 Carbon Reflex ",
     "sessionsail": "Severne Mach 4  6.2",
-    "sessionfin": "not defined -  0",
+    "sessionfin": "- Chopper CHC   31",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=396169&uid=25939"
   },
   {

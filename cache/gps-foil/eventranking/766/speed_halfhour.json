@@ -83,17 +83,17 @@
     "rowid": "6",
     "event_id": 766,
     "eventname": "2022 BritishWindfoilSpeedChallenge2023",
-    "speed": 14.104832,
+    "speed": 16.19574,
     "type": "speed_halfhour",
     "username": "Tim Laine",
     "ageclass": "Grand Master (51-60)",
     "weightclass": "71-80",
     "sexe": "Men",
-    "spotname": "Portland Harbour, Weymouth",
+    "spotname": "Guernsey Grande Havre",
     "sessionboard": "Phantom IRIS X mk2 85",
     "sessionsail": "Phantom IRIS X  7.0",
     "sessionfin": "Phantom IRISX FW550-Fuselage100-BW250  95",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=396916&uid=23493"
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=398407&uid=23493"
   },
   {
     "rowid": "7",
@@ -105,10 +105,10 @@
     "ageclass": "Super Master (61-70)",
     "weightclass": "91-100",
     "sexe": "Men",
-    "spotname": "Levington",
+    "spotname": "Felixstowe",
     "sessionboard": "Starboard Foil Freeride 150  WS",
     "sessionsail": "Tushingham Thunderbird 3  6.5",
     "sessionfin": "Starboard Evolution Freeride ( 95 - 1100 - 500 - 95 )  95",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=395790&uid=3532"
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=395009&uid=3532"
   }
 ]

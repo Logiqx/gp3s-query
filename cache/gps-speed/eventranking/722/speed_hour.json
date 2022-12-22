@@ -51,22 +51,6 @@
     "rowid": "4",
     "event_id": 722,
     "eventname": "Lysakerfjorden 2022",
-    "speed": 10.337864,
-    "type": "speed_hour",
-    "username": "Jan Erik Ringvold",
-    "ageclass": "Master (36-50)",
-    "weightclass": "91-100",
-    "sexe": "Men",
-    "spotname": "Lysakerfjorden",
-    "sessionboard": "PATRIK f-ride",
-    "sessionsail": "Severne Turbo  7.5",
-    "sessionfin": "not defined -  0",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=395784&uid=24766"
-  },
-  {
-    "rowid": "5",
-    "event_id": 722,
-    "eventname": "Lysakerfjorden 2022",
     "speed": 6.22272,
     "type": "speed_hour",
     "username": "Christian Hilmersen",
@@ -80,7 +64,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=380843&uid=23634"
   },
   {
-    "rowid": "6",
+    "rowid": "5",
     "event_id": 722,
     "eventname": "Lysakerfjorden 2022",
     "speed": 5.094852,
@@ -96,7 +80,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=384681&uid=26228"
   },
   {
-    "rowid": "7",
+    "rowid": "6",
     "event_id": 722,
     "eventname": "Lysakerfjorden 2022",
     "speed": 0.0,
@@ -112,7 +96,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=383137&uid=26227"
   },
   {
-    "rowid": "8",
+    "rowid": "7",
     "event_id": 722,
     "eventname": "Lysakerfjorden 2022",
     "speed": 0.0,

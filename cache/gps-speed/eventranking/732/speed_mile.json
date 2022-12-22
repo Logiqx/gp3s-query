@@ -55,7 +55,7 @@
     "type": "speed_mile",
     "username": "Bertil Folke",
     "ageclass": "Grand Master (51-60)",
-    "weightclass": "101-110",
+    "weightclass": "111-150",
     "sexe": "Men",
     "spotname": "R\u00f6nbjerg",
     "sessionboard": "Starboard Isonic 72 Carbon Reflex",
@@ -451,7 +451,7 @@
     "rowid": "29",
     "event_id": 732,
     "eventname": "2022 DBO Speed Challenge",
-    "speed": 31.102488,
+    "speed": 27.781852,
     "type": "speed_mile",
     "username": "Benny Plambeck",
     "ageclass": "Ultimate Master (71-99)",
@@ -459,9 +459,9 @@
     "sexe": "Men",
     "spotname": "Veddelev",
     "sessionboard": "Starboard Foil 177",
-    "sessionsail": "Gun Sails Raise  7.0",
-    "sessionfin": "Starboard Starboard Race (115 - 650 - 255)  95",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=395238&uid=1203"
+    "sessionsail": "Gun Sails Raise  8.0",
+    "sessionfin": "Starboard Starboard Race (115 - 800 - 255)  95",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=393993&uid=1203"
   },
   {
     "rowid": "30",
@@ -473,11 +473,11 @@
     "ageclass": "Ultimate Master (71-99)",
     "weightclass": "61-70",
     "sexe": "Men",
-    "spotname": "Ejsingholm",
-    "sessionboard": "JP Freestyle/Wave 101",
+    "spotname": "Westwind Nord - Hvide Sande Ringk\u00f8bing Fjord",
+    "sessionboard": "Tabou 3S",
     "sessionsail": "Simmer Sails Blacktip  4.7",
     "sessionfin": "not defined -  0",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=380156&uid=26126"
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=392789&uid=26126"
   },
   {
     "rowid": "31",
@@ -521,11 +521,11 @@
     "ageclass": "Grand Master (51-60)",
     "weightclass": "71-80",
     "sexe": "Men",
-    "spotname": "Lyn\u00e6s",
-    "sessionboard": "RRD Firemove Ltd V2 140",
-    "sessionsail": "Severne Overdrive R6  8.6",
+    "spotname": "Veddelev",
+    "sessionboard": "Starboard Futura 127 Carbon Reflex",
+    "sessionsail": "Severne Overdrive M1  7.8",
     "sessionfin": "not defined -  0",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=376405&uid=23773"
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=376404&uid=23773"
   },
   {
     "rowid": "34",

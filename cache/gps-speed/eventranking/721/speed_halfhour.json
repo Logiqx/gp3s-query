@@ -83,22 +83,6 @@
     "rowid": "6",
     "event_id": 721,
     "eventname": "2022 Gps Kraaij Challenge",
-    "speed": 30.698752000000002,
-    "type": "speed_halfhour",
-    "username": "Stijn Stoekenbroek",
-    "ageclass": "Senior (19-35)",
-    "weightclass": "71-80",
-    "sexe": "Men",
-    "spotname": "Grevelingenmeer - Herkingen",
-    "sessionboard": "Starboard iSonic Race Slalom 127 UltraCore Reflex Carbon",
-    "sessionsail": "Severne Mach 2  7.8",
-    "sessionfin": "Sonntag Fins SL-X  43",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=395854&uid=22382"
-  },
-  {
-    "rowid": "7",
-    "event_id": 721,
-    "eventname": "2022 Gps Kraaij Challenge",
     "speed": 26.246544000000004,
     "type": "speed_halfhour",
     "username": "Erwin Rovers",
@@ -112,7 +96,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386808&uid=5095"
   },
   {
-    "rowid": "8",
+    "rowid": "7",
     "event_id": 721,
     "eventname": "2022 Gps Kraaij Challenge",
     "speed": 26.052084,
@@ -128,7 +112,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=382996&uid=20620"
   },
   {
-    "rowid": "9",
+    "rowid": "8",
     "event_id": 721,
     "eventname": "2022 Gps Kraaij Challenge",
     "speed": 26.022452,
@@ -144,7 +128,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=376200&uid=4524"
   },
   {
-    "rowid": "10",
+    "rowid": "9",
     "event_id": 721,
     "eventname": "2022 Gps Kraaij Challenge",
     "speed": 24.589004,
@@ -160,7 +144,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=373725&uid=24851"
   },
   {
-    "rowid": "11",
+    "rowid": "10",
     "event_id": 721,
     "eventname": "2022 Gps Kraaij Challenge",
     "speed": 23.740788000000002,
@@ -176,7 +160,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=379151&uid=1797"
   },
   {
-    "rowid": "12",
+    "rowid": "11",
     "event_id": 721,
     "eventname": "2022 Gps Kraaij Challenge",
     "speed": 22.722188000000003,
@@ -192,7 +176,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=373285&uid=23759"
   },
   {
-    "rowid": "13",
+    "rowid": "12",
     "event_id": 721,
     "eventname": "2022 Gps Kraaij Challenge",
     "speed": 21.820264,
@@ -208,7 +192,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=388785&uid=5174"
   },
   {
-    "rowid": "14",
+    "rowid": "13",
     "event_id": 721,
     "eventname": "2022 Gps Kraaij Challenge",
     "speed": 20.333108,
@@ -224,7 +208,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390051&uid=4058"
   },
   {
-    "rowid": "15",
+    "rowid": "14",
     "event_id": 721,
     "eventname": "2022 Gps Kraaij Challenge",
     "speed": 18.92744,
@@ -238,6 +222,22 @@
     "sessionsail": "Neilpryde RS Racing LT1  8.6",
     "sessionfin": "Sonntag Fins Sonntag SL-X   45",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=398133&uid=3588"
+  },
+  {
+    "rowid": "15",
+    "event_id": 721,
+    "eventname": "2022 Gps Kraaij Challenge",
+    "speed": 18.549632000000003,
+    "type": "speed_halfhour",
+    "username": "Stijn Stoekenbroek",
+    "ageclass": "Senior (19-35)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Kraaijenbergse plassen",
+    "sessionboard": "Starboard iSonic Race Slalom 127 UltraCore Reflex Carbon",
+    "sessionsail": "Severne Mach 2  7.8",
+    "sessionfin": "Sonntag Fins SL-X  43",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=394769&uid=22382"
   },
   {
     "rowid": "16",

@@ -13,7 +13,7 @@
     "sessionboard": "Custom Custom SBT",
     "sessionsail": "Gun Sails GS-R  5.6",
     "sessionfin": "Tribal Fin 19.5 ST  19",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=395326&uid=26004"
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=395324&uid=26004"
   },
   {
     "rowid": "2",
@@ -140,7 +140,7 @@
     "spotname": "Tarifa, Campo de football",
     "sessionboard": "Custom SBT",
     "sessionsail": "Gun Sails GSR  5.0",
-    "sessionfin": "Sonntag Fins SLpro  21",
+    "sessionfin": "- Chopperfins  30",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=395384&uid=23059"
   },
   {
@@ -313,7 +313,7 @@
     "ageclass": "Master (36-50)",
     "weightclass": "71-80",
     "sexe": "Men",
-    "spotname": "Deveses",
+    "spotname": "Fornells",
     "sessionboard": "Starboard Isonic 90 Carbon",
     "sessionsail": "KA Sails Koncept  6.6",
     "sessionfin": "Sonntag Fins GPS-6  30",
@@ -446,5 +446,21 @@
     "sessionsail": "Severne Mach5 L\u00fcderitz Edition  5.2",
     "sessionfin": "not defined -  0",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=395411&uid=26200"
+  },
+  {
+    "rowid": "29",
+    "event_id": 737,
+    "eventname": "2022 Spanish Speed Challenge",
+    "speed": 0.0,
+    "type": "speed_mile",
+    "username": "Eduardo Lopez",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Tarifa, Campo de football",
+    "sessionboard": "Starboard  iSonic 63 Carbon Reflex ",
+    "sessionsail": "Severne Mach 4  6.2",
+    "sessionfin": "- Chopper CHC   31",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=396169&uid=25939"
   }
 ]

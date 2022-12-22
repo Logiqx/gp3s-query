@@ -42,7 +42,7 @@
     "weightclass": "91-100",
     "sexe": "Men",
     "spotname": "Tamaki River, Auckland",
-    "sessionboard": "PATRIK Slalom 115 V2",
+    "sessionboard": "PATRIK Slalom 115 V5",
     "sessionsail": "Severne Mach 4  7.0",
     "sessionfin": "Meanline KRF Rebel Slalom/Speed  39",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=396792&uid=881"
@@ -99,6 +99,22 @@
     "rowid": "7",
     "event_id": 757,
     "eventname": "2022 Auckland Windsurfing Association Speed Challenge",
+    "speed": 53.42464400000001,
+    "type": "speed_500",
+    "username": "Rainer Cramme",
+    "ageclass": "Super Master (61-70)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Nelson Harbour",
+    "sessionboard": "Fanatic Falcon 89",
+    "sessionsail": "Neilpryde RS Racing Evo X  5.2",
+    "sessionfin": "Select Hotrod  27",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=399320&uid=26454"
+  },
+  {
+    "rowid": "8",
+    "event_id": 757,
+    "eventname": "2022 Auckland Windsurfing Association Speed Challenge",
     "speed": 53.093136,
     "type": "speed_500",
     "username": "Brett Wyatt",
@@ -112,7 +128,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=397926&uid=23731"
   },
   {
-    "rowid": "8",
+    "rowid": "9",
     "event_id": 757,
     "eventname": "2022 Auckland Windsurfing Association Speed Challenge",
     "speed": 52.32640800000001,
@@ -126,21 +142,5 @@
     "sessionsail": "Severne Overdrive M3  7.0",
     "sessionfin": "Tectonics F1 Falcon  32",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=397784&uid=26016"
-  },
-  {
-    "rowid": "9",
-    "event_id": 757,
-    "eventname": "2022 Auckland Windsurfing Association Speed Challenge",
-    "speed": 48.933544000000005,
-    "type": "speed_500",
-    "username": "Rainer Cramme",
-    "ageclass": "Super Master (61-70)",
-    "weightclass": "71-80",
-    "sexe": "Men",
-    "spotname": "Nelson Harbour",
-    "sessionboard": "Fanatic Falcon Slalom TE 136",
-    "sessionsail": "Neilpryde RS Racing EVO X  7.8",
-    "sessionfin": "Select Vmax V4  43",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=395725&uid=26454"
   }
 ]

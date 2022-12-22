@@ -5,22 +5,6 @@
     "eventname": "Surf like a dude Zuidlaardermeer Speed Challenge 2022",
     "speed": 0.0,
     "type": "speed_24hour",
-    "username": "Saar Schuling ",
-    "ageclass": "Master (36-50)",
-    "weightclass": "51-60",
-    "sexe": "Woman",
-    "spotname": "Zuidlaardermeer",
-    "sessionboard": "AV Modena Slalom 72,5",
-    "sessionsail": "Neilpryde V8  6.7",
-    "sessionfin": "Sonntag Fins SL-Pro  36",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=376962&uid=25189"
-  },
-  {
-    "rowid": "2",
-    "event_id": 730,
-    "eventname": "Surf like a dude Zuidlaardermeer Speed Challenge 2022",
-    "speed": 0.0,
-    "type": "speed_24hour",
     "username": "Martinez wind",
     "ageclass": "Master (36-50)",
     "weightclass": "71-80",
@@ -32,7 +16,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=381666&uid=26064"
   },
   {
-    "rowid": "3",
+    "rowid": "2",
     "event_id": 730,
     "eventname": "Surf like a dude Zuidlaardermeer Speed Challenge 2022",
     "speed": 0.0,
@@ -48,7 +32,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=375919&uid=25848"
   },
   {
-    "rowid": "4",
+    "rowid": "3",
     "event_id": 730,
     "eventname": "Surf like a dude Zuidlaardermeer Speed Challenge 2022",
     "speed": 0.0,
@@ -58,10 +42,26 @@
     "weightclass": "71-80",
     "sexe": "Men",
     "spotname": "Zuidlaardermeer",
-    "sessionboard": "JP Supersport",
-    "sessionsail": "Severne Blade  4.2",
-    "sessionfin": "Select Smax  33",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=378020&uid=25351"
+    "sessionboard": "Starboard iSonic 72 Carbon Reflex ",
+    "sessionsail": "Severne Mach 4   7.8",
+    "sessionfin": "Gasoil Fins Chr-m  365",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=398644&uid=25351"
+  },
+  {
+    "rowid": "4",
+    "event_id": 730,
+    "eventname": "Surf like a dude Zuidlaardermeer Speed Challenge 2022",
+    "speed": 0.0,
+    "type": "speed_24hour",
+    "username": "Saar Schuling ",
+    "ageclass": "Master (36-50)",
+    "weightclass": "51-60",
+    "sexe": "Woman",
+    "spotname": "Zuidlaardermeer",
+    "sessionboard": "AV Modena Slalom 72,5",
+    "sessionsail": "Neilpryde V8  6.7",
+    "sessionfin": "Sonntag Fins SL-Pro  36",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=376962&uid=25189"
   },
   {
     "rowid": "5",

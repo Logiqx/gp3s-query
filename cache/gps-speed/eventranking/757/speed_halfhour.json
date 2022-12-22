@@ -3,6 +3,22 @@
     "rowid": "1",
     "event_id": 757,
     "eventname": "2022 Auckland Windsurfing Association Speed Challenge",
+    "speed": 35.651,
+    "type": "speed_halfhour",
+    "username": "Hugo Ellis",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Meola Reef, Auckland",
+    "sessionboard": "Starboard Isonic 87 Wood",
+    "sessionsail": "KA Sails Koncept  6.2",
+    "sessionfin": "Select select vmax  31",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=398816&uid=25923"
+  },
+  {
+    "rowid": "2",
+    "event_id": 757,
+    "eventname": "2022 Auckland Windsurfing Association Speed Challenge",
     "speed": 33.134132,
     "type": "speed_halfhour",
     "username": "Rainer Cramme",
@@ -16,7 +32,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=398790&uid=26454"
   },
   {
-    "rowid": "2",
+    "rowid": "3",
     "event_id": 757,
     "eventname": "2022 Auckland Windsurfing Association Speed Challenge",
     "speed": 32.130348000000005,
@@ -32,7 +48,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=398900&uid=4364"
   },
   {
-    "rowid": "3",
+    "rowid": "4",
     "event_id": 757,
     "eventname": "2022 Auckland Windsurfing Association Speed Challenge",
     "speed": 31.778468,
@@ -48,7 +64,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=396977&uid=23731"
   },
   {
-    "rowid": "4",
+    "rowid": "5",
     "event_id": 757,
     "eventname": "2022 Auckland Windsurfing Association Speed Challenge",
     "speed": 28.926388,
@@ -64,7 +80,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=397727&uid=881"
   },
   {
-    "rowid": "5",
+    "rowid": "6",
     "event_id": 757,
     "eventname": "2022 Auckland Windsurfing Association Speed Challenge",
     "speed": 26.98364,
@@ -80,7 +96,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=397721&uid=5968"
   },
   {
-    "rowid": "6",
+    "rowid": "7",
     "event_id": 757,
     "eventname": "2022 Auckland Windsurfing Association Speed Challenge",
     "speed": 19.221908,
@@ -96,7 +112,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=399106&uid=23755"
   },
   {
-    "rowid": "7",
+    "rowid": "8",
     "event_id": 757,
     "eventname": "2022 Auckland Windsurfing Association Speed Challenge",
     "speed": 15.5568,
@@ -112,7 +128,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=395254&uid=25194"
   },
   {
-    "rowid": "8",
+    "rowid": "9",
     "event_id": 757,
     "eventname": "2022 Auckland Windsurfing Association Speed Challenge",
     "speed": 0.0,

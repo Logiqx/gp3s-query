@@ -19,23 +19,7 @@
     "rowid": "2",
     "event_id": 728,
     "eventname": "2022 FFF Speed Challenge",
-    "speed": 54.996992000000006,
-    "type": "speed_10sec",
-    "username": "PierreAdam PierreAdam",
-    "ageclass": "Senior (19-35)",
-    "weightclass": "71-80",
-    "sexe": "Men",
-    "spotname": "ile grande(22)",
-    "sessionboard": "Exocet RF81",
-    "sessionsail": "Challenger Sails Force 1  5.0",
-    "sessionfin": "- AFS 105 370 / 200  105",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=396660&uid=26339"
-  },
-  {
-    "rowid": "3",
-    "event_id": 728,
-    "eventname": "2022 FFF Speed Challenge",
-    "speed": 53.557988,
+    "speed": 53.954316,
     "type": "speed_10sec",
     "username": "Alexandre Broussier",
     "ageclass": "Senior (19-35)",
@@ -45,22 +29,6 @@
     "sessionboard": "PATRIK Foil-ride 145",
     "sessionsail": "Phantom IRIS X  5.0",
     "sessionfin": "- AFS 100 - 105 - 570 / 200  100",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=399168&uid=11625"
-  },
-  {
-    "rowid": "4",
-    "event_id": 728,
-    "eventname": "2022 FFF Speed Challenge",
-    "speed": 50.424404,
-    "type": "speed_10sec",
-    "username": "Hans-Peter Schmidt",
-    "ageclass": "Master (36-50)",
-    "weightclass": "71-80",
-    "sexe": "Men",
-    "spotname": "La Palme - Plage du Rouet",
-    "sessionboard": "FMX Hyperion 178LR",
-    "sessionsail": "Phantom IRIS R mk2  5.5",
-    "sessionfin": "Phantom IRIS R FW430-Fuselage100-BW200  430",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=392811&uid=25710"
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=398759&uid=11625"
   }
 ]

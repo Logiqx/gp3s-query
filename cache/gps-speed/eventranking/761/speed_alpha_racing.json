@@ -158,5 +158,21 @@
     "sessionsail": "Point-7 AC-K Pro am Racing  8.5",
     "sessionfin": "Finish Fast - speed/slalom  44",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=395669&uid=21711"
+  },
+  {
+    "rowid": "11",
+    "event_id": 761,
+    "eventname": "2022 Schildmeer Speed Challenge 2022-2023",
+    "speed": 0.0,
+    "type": "speed_alpha_racing",
+    "username": "Dennis Metaal",
+    "ageclass": "Master (36-50)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "schildmeer",
+    "sessionboard": "T1 RS 74",
+    "sessionsail": "Sailloft Hamburg ultimate  8.6",
+    "sessionfin": "not defined -  0",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=395409&uid=26110"
   }
 ]

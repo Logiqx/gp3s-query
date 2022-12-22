@@ -3,6 +3,22 @@
     "rowid": "1",
     "event_id": 757,
     "eventname": "2022 Auckland Windsurfing Association Speed Challenge",
+    "speed": 67.65911600000001,
+    "type": "speed_2sec",
+    "username": "Hugo Ellis",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Meola Reef, Auckland",
+    "sessionboard": "Starboard Isonic 87 Wood",
+    "sessionsail": "KA Sails Koncept  6.2",
+    "sessionfin": "Select select vmax  31",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=398816&uid=25923"
+  },
+  {
+    "rowid": "2",
+    "event_id": 757,
+    "eventname": "2022 Auckland Windsurfing Association Speed Challenge",
     "speed": 67.446136,
     "type": "speed_2sec",
     "username": "Dave Harnett",
@@ -16,7 +32,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=399074&uid=881"
   },
   {
-    "rowid": "2",
+    "rowid": "3",
     "event_id": 757,
     "eventname": "2022 Auckland Windsurfing Association Speed Challenge",
     "speed": 65.484868,
@@ -32,7 +48,23 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=398820&uid=5968"
   },
   {
-    "rowid": "3",
+    "rowid": "4",
+    "event_id": 757,
+    "eventname": "2022 Auckland Windsurfing Association Speed Challenge",
+    "speed": 62.399436,
+    "type": "speed_2sec",
+    "username": "Rainer Cramme",
+    "ageclass": "Super Master (61-70)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Nelson Harbour",
+    "sessionboard": "Fanatic Falcon 89",
+    "sessionsail": "Neilpryde RS Racing Evo X  5.2",
+    "sessionfin": "Select Hotrod  27",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=399320&uid=26454"
+  },
+  {
+    "rowid": "5",
     "event_id": 757,
     "eventname": "2022 Auckland Windsurfing Association Speed Challenge",
     "speed": 61.110444,
@@ -48,7 +80,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=398863&uid=4364"
   },
   {
-    "rowid": "4",
+    "rowid": "6",
     "event_id": 757,
     "eventname": "2022 Auckland Windsurfing Association Speed Challenge",
     "speed": 60.906724000000004,
@@ -64,7 +96,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=397784&uid=26016"
   },
   {
-    "rowid": "5",
+    "rowid": "7",
     "event_id": 757,
     "eventname": "2022 Auckland Windsurfing Association Speed Challenge",
     "speed": 58.817668000000005,
@@ -80,7 +112,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=397926&uid=23731"
   },
   {
-    "rowid": "6",
+    "rowid": "8",
     "event_id": 757,
     "eventname": "2022 Auckland Windsurfing Association Speed Challenge",
     "speed": 58.410228000000004,
@@ -96,7 +128,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=395254&uid=25194"
   },
   {
-    "rowid": "7",
+    "rowid": "9",
     "event_id": 757,
     "eventname": "2022 Auckland Windsurfing Association Speed Challenge",
     "speed": 57.499044000000005,
@@ -110,21 +142,5 @@
     "sessionsail": "Neilpryde RS Race EVO8  7.0",
     "sessionfin": "not defined -  0",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=399105&uid=23755"
-  },
-  {
-    "rowid": "8",
-    "event_id": 757,
-    "eventname": "2022 Auckland Windsurfing Association Speed Challenge",
-    "speed": 54.889576000000005,
-    "type": "speed_2sec",
-    "username": "Rainer Cramme",
-    "ageclass": "Super Master (61-70)",
-    "weightclass": "71-80",
-    "sexe": "Men",
-    "spotname": "Tahunanui beach",
-    "sessionboard": "Fanatic Falcon 89",
-    "sessionsail": "Neilpryde RS Racing EVO X  7.0",
-    "sessionfin": "Select S1 slam evo  33",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=397687&uid=26454"
   }
 ]
