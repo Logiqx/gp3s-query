@@ -115,6 +115,22 @@
     "rowid": "8",
     "event_id": 730,
     "eventname": "Surf like a dude Zuidlaardermeer Speed Challenge 2022",
+    "speed": 29.663484,
+    "type": "speed_hour",
+    "username": "Edwin Buruma",
+    "ageclass": "Master (36-50)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Zuidlaardermeer",
+    "sessionboard": "Starboard iSonic 107 Carbon",
+    "sessionsail": "Severne Mach 1  6.2",
+    "sessionfin": "Sonntag Fins GPS-6  35",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=382728&uid=23550"
+  },
+  {
+    "rowid": "9",
+    "event_id": 730,
+    "eventname": "Surf like a dude Zuidlaardermeer Speed Challenge 2022",
     "speed": 29.485692,
     "type": "speed_hour",
     "username": "Bert Bodde",
@@ -128,7 +144,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=384834&uid=20514"
   },
   {
-    "rowid": "9",
+    "rowid": "10",
     "event_id": 730,
     "eventname": "Surf like a dude Zuidlaardermeer Speed Challenge 2022",
     "speed": 27.568872,
@@ -144,7 +160,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=392168&uid=22984"
   },
   {
-    "rowid": "10",
+    "rowid": "11",
     "event_id": 730,
     "eventname": "Surf like a dude Zuidlaardermeer Speed Challenge 2022",
     "speed": 24.696420000000003,
@@ -160,7 +176,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=379490&uid=7440"
   },
   {
-    "rowid": "11",
+    "rowid": "12",
     "event_id": 730,
     "eventname": "Surf like a dude Zuidlaardermeer Speed Challenge 2022",
     "speed": 20.992420000000003,
@@ -176,7 +192,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=393425&uid=4690"
   },
   {
-    "rowid": "12",
+    "rowid": "13",
     "event_id": 730,
     "eventname": "Surf like a dude Zuidlaardermeer Speed Challenge 2022",
     "speed": 20.26088,
@@ -192,7 +208,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=376962&uid=25189"
   },
   {
-    "rowid": "13",
+    "rowid": "14",
     "event_id": 730,
     "eventname": "Surf like a dude Zuidlaardermeer Speed Challenge 2022",
     "speed": 17.940324,
@@ -208,7 +224,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=382691&uid=184"
   },
   {
-    "rowid": "14",
+    "rowid": "15",
     "event_id": 730,
     "eventname": "Surf like a dude Zuidlaardermeer Speed Challenge 2022",
     "speed": 16.730968,
@@ -224,7 +240,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=382707&uid=24904"
   },
   {
-    "rowid": "15",
+    "rowid": "16",
     "event_id": 730,
     "eventname": "Surf like a dude Zuidlaardermeer Speed Challenge 2022",
     "speed": 14.51042,
@@ -240,7 +256,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=381671&uid=23391"
   },
   {
-    "rowid": "16",
+    "rowid": "17",
     "event_id": 730,
     "eventname": "Surf like a dude Zuidlaardermeer Speed Challenge 2022",
     "speed": 14.05668,
@@ -256,7 +272,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=398644&uid=25351"
   },
   {
-    "rowid": "17",
+    "rowid": "18",
     "event_id": 730,
     "eventname": "Surf like a dude Zuidlaardermeer Speed Challenge 2022",
     "speed": 12.56582,
@@ -272,7 +288,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=382701&uid=1343"
   },
   {
-    "rowid": "18",
+    "rowid": "19",
     "event_id": 730,
     "eventname": "Surf like a dude Zuidlaardermeer Speed Challenge 2022",
     "speed": 8.376596,
@@ -288,7 +304,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=399023&uid=24486"
   },
   {
-    "rowid": "19",
+    "rowid": "20",
     "event_id": 730,
     "eventname": "Surf like a dude Zuidlaardermeer Speed Challenge 2022",
     "speed": 6.033816000000001,

@@ -492,5 +492,31 @@
     "sessionsail": "Severne Overdrive M4 8.6,  2021",
     "sessionfin": "- Severne F-series  44",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=397855&uid=25577"
+  },
+  {
+    "session_id": 399667,
+    "session_date": "12/29/2022 12:00:00 AM",
+    "event_id": 762,
+    "eventname": "2022 SSS Go reasonable big or go Home 2022-2023",
+    "speed_avg": 53.3735288,
+    "speed_2sec": 56.845288000000004,
+    "speed_10sec": 55.274792000000005,
+    "speed_100": 55.267384,
+    "speed_250": 52.959792,
+    "speed_500": 47.57788000000001,
+    "speed_mile": 20.796108,
+    "speed_hour": 9.450756,
+    "speed_halfhour": 14.849336000000003,
+    "speed_24hour": 0.0,
+    "speed_alpha_racing": 28.307820000000003,
+    "session_distance": 9.450610000000001,
+    "username": "Alwin Visker",
+    "flag": "NL",
+    "sexe": "Men",
+    "spotname": "schildmeer",
+    "sessionboard": "AV Modena Slalom 62,  2022",
+    "sessionsail": "Point-7 AC1 7.1,  2022",
+    "sessionfin": "- Chopper CHC  32",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=399667&uid=15697"
   }
 ]
