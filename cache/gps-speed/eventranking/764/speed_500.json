@@ -19,22 +19,6 @@
     "rowid": "2",
     "event_id": 764,
     "eventname": "2022 BritishSpeedChallenge2023",
-    "speed": 74.213344,
-    "type": "speed_500",
-    "username": "Jim Crossley",
-    "ageclass": "Master (36-50)",
-    "weightclass": "91-100",
-    "sexe": "Men",
-    "spotname": "Diaz Point, Luderitz",
-    "sessionboard": "JP Speed 45 Pro Edition",
-    "sessionsail": "Loftsails Racing Blade  5.2",
-    "sessionfin": "Z-fins  asy  spa 21 s  21",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=398543&uid=4275"
-  },
-  {
-    "rowid": "3",
-    "event_id": 764,
-    "eventname": "2022 BritishSpeedChallenge2023",
     "speed": 70.344516,
     "type": "speed_500",
     "username": "Ian Richards",
@@ -48,7 +32,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=397467&uid=2363"
   },
   {
-    "rowid": "4",
+    "rowid": "3",
     "event_id": 764,
     "eventname": "2022 BritishSpeedChallenge2023",
     "speed": 68.81661600000001,
@@ -64,7 +48,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=399775&uid=4276"
   },
   {
-    "rowid": "5",
+    "rowid": "4",
     "event_id": 764,
     "eventname": "2022 BritishSpeedChallenge2023",
     "speed": 67.027584,
@@ -80,7 +64,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=399703&uid=2485"
   },
   {
-    "rowid": "6",
+    "rowid": "5",
     "event_id": 764,
     "eventname": "2022 BritishSpeedChallenge2023",
     "speed": 66.684964,
@@ -94,6 +78,22 @@
     "sessionsail": "Duotone Warp 20.19  5.4",
     "sessionfin": "Sonntag Fins GPS-5  21",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=396322&uid=960"
+  },
+  {
+    "rowid": "6",
+    "event_id": 764,
+    "eventname": "2022 BritishSpeedChallenge2023",
+    "speed": 66.340492,
+    "type": "speed_500",
+    "username": "Jim Crossley",
+    "ageclass": "Master (36-50)",
+    "weightclass": "91-100",
+    "sexe": "Men",
+    "spotname": "Portland Harbour, Weymouth",
+    "sessionboard": "RRD X-Fire 98 LTD Y25",
+    "sessionsail": "Loftsails Racingblade  6.3",
+    "sessionfin": "F-Hot RS-3  32",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=396064&uid=4275"
   },
   {
     "rowid": "7",

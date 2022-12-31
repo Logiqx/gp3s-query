@@ -39,10 +39,20 @@
     "start_date": "2022-01-01T00:00:00",
     "end_date": "2023-01-01T00:00:00"
   },
+  "733": {
+    "eventname": "2022 ",
+    "start_date": "2022-01-01T00:00:00",
+    "end_date": "2022-12-31T00:00:00"
+  },
   "732": {
     "eventname": "2022 DBO Speed Challenge",
     "start_date": "2022-01-01T00:00:00",
     "end_date": "2023-01-01T00:00:00"
+  },
+  "731": {
+    "eventname": "Wurster ONE hour",
+    "start_date": "2022-02-01T00:00:00",
+    "end_date": "2022-12-31T00:00:00"
   },
   "730": {
     "eventname": "Surf like a dude Zuidlaardermeer Speed Challenge 2022",
@@ -54,9 +64,39 @@
     "start_date": "2022-01-01T00:00:00",
     "end_date": "2023-01-01T00:00:00"
   },
+  "726": {
+    "eventname": "WSCA Westeinder Speedking 2022",
+    "start_date": "2022-01-01T00:00:00",
+    "end_date": "2022-12-31T00:00:00"
+  },
+  "725": {
+    "eventname": "Singlis-Speedchallenge 2022",
+    "start_date": "2022-01-01T00:00:00",
+    "end_date": "2022-12-31T00:00:00"
+  },
   "722": {
     "eventname": "Lysakerfjorden 2022",
     "start_date": "2022-01-01T00:00:00",
     "end_date": "2023-01-01T00:00:00"
+  },
+  "721": {
+    "eventname": "2022 Gps Kraaij Challenge",
+    "start_date": "2022-01-01T00:00:00",
+    "end_date": "2022-12-31T00:00:00"
+  },
+  "719": {
+    "eventname": "Norwegian speedmaster - 2022",
+    "start_date": "2022-01-01T00:00:00",
+    "end_date": "2022-12-31T00:00:00"
+  },
+  "717": {
+    "eventname": "2022 Irish Speed Masters",
+    "start_date": "2021-11-01T00:00:00",
+    "end_date": "2022-12-31T00:00:00"
+  },
+  "692": {
+    "eventname": "Surf like a dude Zuidlaardermeer speed challenge 2021",
+    "start_date": "2021-05-10T00:00:00",
+    "end_date": "2022-12-31T00:00:00"
   }
 }

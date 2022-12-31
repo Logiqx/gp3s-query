@@ -5,6 +5,22 @@
     "eventname": "2022 BritishSpeedChallenge2023",
     "speed": 0.0,
     "type": "speed_24hour",
+    "username": "Jim Crossley",
+    "ageclass": "Master (36-50)",
+    "weightclass": "91-100",
+    "sexe": "Men",
+    "spotname": "Portland Harbour, Weymouth",
+    "sessionboard": "RRD X-Fire 98 LTD Y25",
+    "sessionsail": "Loftsails Racingblade  6.3",
+    "sessionfin": "F-Hot RS-3  32",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=396064&uid=4275"
+  },
+  {
+    "rowid": "2",
+    "event_id": 764,
+    "eventname": "2022 BritishSpeedChallenge2023",
+    "speed": 0.0,
+    "type": "speed_24hour",
     "username": "Steve Brown",
     "ageclass": "Ultimate Master (71-99)",
     "weightclass": "61-70",
@@ -16,7 +32,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=397505&uid=25106"
   },
   {
-    "rowid": "2",
+    "rowid": "3",
     "event_id": 764,
     "eventname": "2022 BritishSpeedChallenge2023",
     "speed": 0.0,
@@ -32,7 +48,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=396041&uid=26359"
   },
   {
-    "rowid": "3",
+    "rowid": "4",
     "event_id": 764,
     "eventname": "2022 BritishSpeedChallenge2023",
     "speed": 0.0,
@@ -48,7 +64,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=394632&uid=26304"
   },
   {
-    "rowid": "4",
+    "rowid": "5",
     "event_id": 764,
     "eventname": "2022 BritishSpeedChallenge2023",
     "speed": 0.0,
@@ -64,7 +80,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=396251&uid=26104"
   },
   {
-    "rowid": "5",
+    "rowid": "6",
     "event_id": 764,
     "eventname": "2022 BritishSpeedChallenge2023",
     "speed": 0.0,
@@ -80,7 +96,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=394932&uid=26062"
   },
   {
-    "rowid": "6",
+    "rowid": "7",
     "event_id": 764,
     "eventname": "2022 BritishSpeedChallenge2023",
     "speed": 0.0,
@@ -96,7 +112,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=396062&uid=25070"
   },
   {
-    "rowid": "7",
+    "rowid": "8",
     "event_id": 764,
     "eventname": "2022 BritishSpeedChallenge2023",
     "speed": 0.0,
@@ -112,7 +128,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=397071&uid=24107"
   },
   {
-    "rowid": "8",
+    "rowid": "9",
     "event_id": 764,
     "eventname": "2022 BritishSpeedChallenge2023",
     "speed": 0.0,
@@ -128,7 +144,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=396061&uid=23443"
   },
   {
-    "rowid": "9",
+    "rowid": "10",
     "event_id": 764,
     "eventname": "2022 BritishSpeedChallenge2023",
     "speed": 0.0,
@@ -144,7 +160,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=396046&uid=23129"
   },
   {
-    "rowid": "10",
+    "rowid": "11",
     "event_id": 764,
     "eventname": "2022 BritishSpeedChallenge2023",
     "speed": 0.0,
@@ -160,7 +176,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=394510&uid=23091"
   },
   {
-    "rowid": "11",
+    "rowid": "12",
     "event_id": 764,
     "eventname": "2022 BritishSpeedChallenge2023",
     "speed": 0.0,
@@ -176,7 +192,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=399287&uid=22480"
   },
   {
-    "rowid": "12",
+    "rowid": "13",
     "event_id": 764,
     "eventname": "2022 BritishSpeedChallenge2023",
     "speed": 0.0,
@@ -192,7 +208,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=396051&uid=21720"
   },
   {
-    "rowid": "13",
+    "rowid": "14",
     "event_id": 764,
     "eventname": "2022 BritishSpeedChallenge2023",
     "speed": 0.0,
@@ -208,7 +224,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=395037&uid=21715"
   },
   {
-    "rowid": "14",
+    "rowid": "15",
     "event_id": 764,
     "eventname": "2022 BritishSpeedChallenge2023",
     "speed": 0.0,
@@ -224,7 +240,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=395544&uid=18265"
   },
   {
-    "rowid": "15",
+    "rowid": "16",
     "event_id": 764,
     "eventname": "2022 BritishSpeedChallenge2023",
     "speed": 0.0,
@@ -240,7 +256,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=395062&uid=16978"
   },
   {
-    "rowid": "16",
+    "rowid": "17",
     "event_id": 764,
     "eventname": "2022 BritishSpeedChallenge2023",
     "speed": 0.0,
@@ -256,7 +272,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=396261&uid=5618"
   },
   {
-    "rowid": "17",
+    "rowid": "18",
     "event_id": 764,
     "eventname": "2022 BritishSpeedChallenge2023",
     "speed": 0.0,
@@ -272,7 +288,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=396102&uid=5368"
   },
   {
-    "rowid": "18",
+    "rowid": "19",
     "event_id": 764,
     "eventname": "2022 BritishSpeedChallenge2023",
     "speed": 0.0,
@@ -288,7 +304,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=395055&uid=4824"
   },
   {
-    "rowid": "19",
+    "rowid": "20",
     "event_id": 764,
     "eventname": "2022 BritishSpeedChallenge2023",
     "speed": 0.0,
@@ -304,7 +320,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=396137&uid=4776"
   },
   {
-    "rowid": "20",
+    "rowid": "21",
     "event_id": 764,
     "eventname": "2022 BritishSpeedChallenge2023",
     "speed": 0.0,
@@ -320,7 +336,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=396050&uid=4312"
   },
   {
-    "rowid": "21",
+    "rowid": "22",
     "event_id": 764,
     "eventname": "2022 BritishSpeedChallenge2023",
     "speed": 0.0,
@@ -334,22 +350,6 @@
     "sessionsail": "Duotone Warp-Fin  5.8",
     "sessionfin": "F-Hot RS-3  32",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=396096&uid=4276"
-  },
-  {
-    "rowid": "22",
-    "event_id": 764,
-    "eventname": "2022 BritishSpeedChallenge2023",
-    "speed": 0.0,
-    "type": "speed_24hour",
-    "username": "Jim Crossley",
-    "ageclass": "Master (36-50)",
-    "weightclass": "91-100",
-    "sexe": "Men",
-    "spotname": "Portland Harbour, Weymouth",
-    "sessionboard": "RRD X-Fire 98 LTD Y25",
-    "sessionsail": "Loftsails Racingblade  6.3",
-    "sessionfin": "F-Hot RS-3  32",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=396064&uid=4275"
   },
   {
     "rowid": "23",

@@ -211,6 +211,22 @@
     "rowid": "14",
     "event_id": 721,
     "eventname": "2022 Gps Kraaij Challenge",
+    "speed": 49.415064,
+    "type": "speed_10sec",
+    "username": "Bart VD Bogaart",
+    "ageclass": "Junior plus (15-18)",
+    "weightclass": "61-70",
+    "sexe": "Men",
+    "spotname": "Kraaijenbergse plassen",
+    "sessionboard": "Starboard iQ Foil 85",
+    "sessionsail": "Severne HGO  11.0",
+    "sessionfin": "Starboard Carbon SlalomRace + EVO (800 - 115 - 255)  95",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=399456&uid=25794"
+  },
+  {
+    "rowid": "15",
+    "event_id": 721,
+    "eventname": "2022 Gps Kraaij Challenge",
     "speed": 48.648336,
     "type": "speed_10sec",
     "username": "Stijn Stoekenbroek",
@@ -224,7 +240,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=394769&uid=22382"
   },
   {
-    "rowid": "15",
+    "rowid": "16",
     "event_id": 721,
     "eventname": "2022 Gps Kraaij Challenge",
     "speed": 48.416836,
@@ -240,7 +256,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=384530&uid=24952"
   },
   {
-    "rowid": "16",
+    "rowid": "17",
     "event_id": 721,
     "eventname": "2022 Gps Kraaij Challenge",
     "speed": 47.42972,
@@ -256,7 +272,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=373285&uid=23759"
   },
   {
-    "rowid": "17",
+    "rowid": "18",
     "event_id": 721,
     "eventname": "2022 Gps Kraaij Challenge",
     "speed": 45.183244,
@@ -272,7 +288,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=398849&uid=25571"
   },
   {
-    "rowid": "18",
+    "rowid": "19",
     "event_id": 721,
     "eventname": "2022 Gps Kraaij Challenge",
     "speed": 44.41836800000001,
@@ -288,7 +304,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=387133&uid=20620"
   },
   {
-    "rowid": "19",
+    "rowid": "20",
     "event_id": 721,
     "eventname": "2022 Gps Kraaij Challenge",
     "speed": 44.042412,
@@ -304,7 +320,23 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=384296&uid=23371"
   },
   {
-    "rowid": "20",
+    "rowid": "21",
+    "event_id": 721,
+    "eventname": "2022 Gps Kraaij Challenge",
+    "speed": 42.960844,
+    "type": "speed_10sec",
+    "username": "Frank Heinen",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "61-70",
+    "sexe": "Men",
+    "spotname": "Kraaijenbergse plassen",
+    "sessionboard": "i-99 StyleWave 104 GLS",
+    "sessionsail": "S2 Maui Hornet  5.7",
+    "sessionfin": "Select Edge Free Slam  34",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=399467&uid=82"
+  },
+  {
+    "rowid": "22",
     "event_id": 721,
     "eventname": "2022 Gps Kraaij Challenge",
     "speed": 40.903272,
@@ -320,10 +352,10 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390051&uid=4058"
   },
   {
-    "rowid": "21",
+    "rowid": "23",
     "event_id": 721,
     "eventname": "2022 Gps Kraaij Challenge",
-    "speed": 32.304436,
+    "speed": 32.478524,
     "type": "speed_10sec",
     "username": "Nicole Skodda",
     "ageclass": "Master (36-50)",
@@ -331,8 +363,8 @@
     "sexe": "Woman",
     "spotname": "Kraaijenbergse plassen",
     "sessionboard": "i-99 Stylewave 104l  cvk",
-    "sessionsail": "Loftsails Pure Lip  5.4",
+    "sessionsail": "Loftsails Pure Lip  5.0",
     "sessionfin": "Maui Fin Co FSW  28",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=397397&uid=6348"
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=399658&uid=6348"
   }
 ]

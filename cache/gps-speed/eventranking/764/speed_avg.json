@@ -3,22 +3,6 @@
     "rowid": "1",
     "event_id": 764,
     "eventname": "2022 BritishSpeedChallenge2023",
-    "speed": 77.83474480000001,
-    "type": "speed_avg",
-    "username": "Jim Crossley",
-    "ageclass": "Master (36-50)",
-    "weightclass": "91-100",
-    "sexe": "Men",
-    "spotname": "Diaz Point, Luderitz",
-    "sessionboard": "JP Speed 45 Pro Edition",
-    "sessionsail": "Loftsails Racing Blade  5.2",
-    "sessionfin": "Z-fins  asy  spa 21 s  21",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=398543&uid=4275"
-  },
-  {
-    "rowid": "2",
-    "event_id": 764,
-    "eventname": "2022 BritishSpeedChallenge2023",
     "speed": 76.3687016,
     "type": "speed_avg",
     "username": "Scotty Stallman",
@@ -32,7 +16,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=399574&uid=5618"
   },
   {
-    "rowid": "3",
+    "rowid": "2",
     "event_id": 764,
     "eventname": "2022 BritishSpeedChallenge2023",
     "speed": 72.0405776,
@@ -48,7 +32,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=399298&uid=2363"
   },
   {
-    "rowid": "4",
+    "rowid": "3",
     "event_id": 764,
     "eventname": "2022 BritishSpeedChallenge2023",
     "speed": 69.253688,
@@ -64,7 +48,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=399775&uid=4276"
   },
   {
-    "rowid": "5",
+    "rowid": "4",
     "event_id": 764,
     "eventname": "2022 BritishSpeedChallenge2023",
     "speed": 68.70808880000001,
@@ -80,7 +64,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=396322&uid=960"
   },
   {
-    "rowid": "6",
+    "rowid": "5",
     "event_id": 764,
     "eventname": "2022 BritishSpeedChallenge2023",
     "speed": 68.35620880000002,
@@ -96,7 +80,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=398566&uid=22480"
   },
   {
-    "rowid": "7",
+    "rowid": "6",
     "event_id": 764,
     "eventname": "2022 BritishSpeedChallenge2023",
     "speed": 68.001736,
@@ -112,7 +96,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=399284&uid=2640"
   },
   {
-    "rowid": "8",
+    "rowid": "7",
     "event_id": 764,
     "eventname": "2022 BritishSpeedChallenge2023",
     "speed": 67.027584,
@@ -126,6 +110,22 @@
     "sessionsail": "Point-7 AC1  5.6",
     "sessionfin": "not defined -  0",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=398583&uid=23129"
+  },
+  {
+    "rowid": "8",
+    "event_id": 764,
+    "eventname": "2022 BritishSpeedChallenge2023",
+    "speed": 66.7605256,
+    "type": "speed_avg",
+    "username": "Jim Crossley",
+    "ageclass": "Master (36-50)",
+    "weightclass": "91-100",
+    "sexe": "Men",
+    "spotname": "Portland Harbour, Weymouth",
+    "sessionboard": "RRD X-Fire 98 LTD Y25",
+    "sessionsail": "Loftsails Racingblade  6.3",
+    "sessionfin": "F-Hot RS-3  32",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=396064&uid=4275"
   },
   {
     "rowid": "9",

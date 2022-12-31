@@ -67,17 +67,17 @@
     "rowid": "5",
     "event_id": 730,
     "eventname": "Surf like a dude Zuidlaardermeer Speed Challenge 2022",
-    "speed": 37.399288,
+    "speed": 37.449292,
     "type": "speed_alpha_racing",
     "username": "Marco Bos",
     "ageclass": "Grand Master (51-60)",
     "weightclass": "81-90",
     "sexe": "Men",
     "spotname": "Zuidlaardermeer",
-    "sessionboard": "Starboard Isonic Carbon Reflex 67",
-    "sessionsail": "S2 Maui VENOM  7.5",
-    "sessionfin": "Custom Carpenter Fins  34",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=376715&uid=8545"
+    "sessionboard": "Starboard Isonic 63 Carbon reflex",
+    "sessionsail": "S2 Maui Venom  6.8",
+    "sessionfin": "Finish First V2   32",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=399823&uid=8545"
   },
   {
     "rowid": "6",
@@ -195,6 +195,22 @@
     "rowid": "13",
     "event_id": 730,
     "eventname": "Surf like a dude Zuidlaardermeer Speed Challenge 2022",
+    "speed": 31.145084,
+    "type": "speed_alpha_racing",
+    "username": "Benjamin de Bie",
+    "ageclass": "Master (36-50)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Zuidlaardermeer",
+    "sessionboard": "JP FSW",
+    "sessionsail": "Severne Blade  5.3",
+    "sessionfin": "Select Wave X1 v4  21",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=399819&uid=25351"
+  },
+  {
+    "rowid": "14",
+    "event_id": 730,
+    "eventname": "Surf like a dude Zuidlaardermeer Speed Challenge 2022",
     "speed": 29.063436,
     "type": "speed_alpha_racing",
     "username": "Robert Heikens",
@@ -208,7 +224,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=382701&uid=1343"
   },
   {
-    "rowid": "14",
+    "rowid": "15",
     "event_id": 730,
     "eventname": "Surf like a dude Zuidlaardermeer Speed Challenge 2022",
     "speed": 28.806008000000002,
@@ -224,7 +240,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=376962&uid=25189"
   },
   {
-    "rowid": "15",
+    "rowid": "16",
     "event_id": 730,
     "eventname": "Surf like a dude Zuidlaardermeer Speed Challenge 2022",
     "speed": 28.144844,
@@ -238,22 +254,6 @@
     "sessionsail": "Neilpryde RS Racing Evo XI  7.0",
     "sessionfin": "Z-fins SL S-  37",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=382691&uid=184"
-  },
-  {
-    "rowid": "16",
-    "event_id": 730,
-    "eventname": "Surf like a dude Zuidlaardermeer Speed Challenge 2022",
-    "speed": 27.481828000000004,
-    "type": "speed_alpha_racing",
-    "username": "Benjamin de Bie",
-    "ageclass": "Master (36-50)",
-    "weightclass": "71-80",
-    "sexe": "Men",
-    "spotname": "Zuidlaardermeer",
-    "sessionboard": "Starboard iSonic 72 Carbon Reflex ",
-    "sessionsail": "Severne Mach 4   7.8",
-    "sessionfin": "Gasoil Fins Chr-m  365",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=398644&uid=25351"
   },
   {
     "rowid": "17",

@@ -5,6 +5,22 @@
     "eventname": "2022 Gps Kraaij Challenge",
     "speed": 0.0,
     "type": "speed_24hour",
+    "username": "Frank Heinen",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "61-70",
+    "sexe": "Men",
+    "spotname": "Kraaijenbergse plassen",
+    "sessionboard": "i-99 StyleWave 104 GLS",
+    "sessionsail": "S2 Maui Hornet  5.7",
+    "sessionfin": "Select Edge Free Slam  34",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=399467&uid=82"
+  },
+  {
+    "rowid": "2",
+    "event_id": 721,
+    "eventname": "2022 Gps Kraaij Challenge",
+    "speed": 0.0,
+    "type": "speed_24hour",
     "username": "Mark Hoogstrate",
     "ageclass": "Master (36-50)",
     "weightclass": "61-70",
@@ -16,7 +32,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=374471&uid=26026"
   },
   {
-    "rowid": "2",
+    "rowid": "3",
     "event_id": 721,
     "eventname": "2022 Gps Kraaij Challenge",
     "speed": 0.0,
@@ -32,7 +48,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=374926&uid=25571"
   },
   {
-    "rowid": "3",
+    "rowid": "4",
     "event_id": 721,
     "eventname": "2022 Gps Kraaij Challenge",
     "speed": 0.0,
@@ -48,7 +64,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=374744&uid=25570"
   },
   {
-    "rowid": "4",
+    "rowid": "5",
     "event_id": 721,
     "eventname": "2022 Gps Kraaij Challenge",
     "speed": 0.0,
@@ -64,7 +80,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=387036&uid=25108"
   },
   {
-    "rowid": "5",
+    "rowid": "6",
     "event_id": 721,
     "eventname": "2022 Gps Kraaij Challenge",
     "speed": 0.0,
@@ -80,7 +96,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=384530&uid=24952"
   },
   {
-    "rowid": "6",
+    "rowid": "7",
     "event_id": 721,
     "eventname": "2022 Gps Kraaij Challenge",
     "speed": 0.0,
@@ -96,7 +112,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=373725&uid=24851"
   },
   {
-    "rowid": "7",
+    "rowid": "8",
     "event_id": 721,
     "eventname": "2022 Gps Kraaij Challenge",
     "speed": 0.0,
@@ -112,7 +128,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=379635&uid=23759"
   },
   {
-    "rowid": "8",
+    "rowid": "9",
     "event_id": 721,
     "eventname": "2022 Gps Kraaij Challenge",
     "speed": 0.0,
@@ -128,7 +144,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=384296&uid=23371"
   },
   {
-    "rowid": "9",
+    "rowid": "10",
     "event_id": 721,
     "eventname": "2022 Gps Kraaij Challenge",
     "speed": 0.0,
@@ -144,7 +160,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=394769&uid=22382"
   },
   {
-    "rowid": "10",
+    "rowid": "11",
     "event_id": 721,
     "eventname": "2022 Gps Kraaij Challenge",
     "speed": 0.0,
@@ -160,7 +176,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=375492&uid=21736"
   },
   {
-    "rowid": "11",
+    "rowid": "12",
     "event_id": 721,
     "eventname": "2022 Gps Kraaij Challenge",
     "speed": 0.0,
@@ -176,7 +192,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=385026&uid=20620"
   },
   {
-    "rowid": "12",
+    "rowid": "13",
     "event_id": 721,
     "eventname": "2022 Gps Kraaij Challenge",
     "speed": 0.0,
@@ -192,7 +208,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386500&uid=18091"
   },
   {
-    "rowid": "13",
+    "rowid": "14",
     "event_id": 721,
     "eventname": "2022 Gps Kraaij Challenge",
     "speed": 0.0,
@@ -208,7 +224,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=374775&uid=18056"
   },
   {
-    "rowid": "14",
+    "rowid": "15",
     "event_id": 721,
     "eventname": "2022 Gps Kraaij Challenge",
     "speed": 0.0,
@@ -224,7 +240,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=382882&uid=6348"
   },
   {
-    "rowid": "15",
+    "rowid": "16",
     "event_id": 721,
     "eventname": "2022 Gps Kraaij Challenge",
     "speed": 0.0,
@@ -240,7 +256,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=388785&uid=5174"
   },
   {
-    "rowid": "16",
+    "rowid": "17",
     "event_id": 721,
     "eventname": "2022 Gps Kraaij Challenge",
     "speed": 0.0,
@@ -256,7 +272,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=375164&uid=5095"
   },
   {
-    "rowid": "17",
+    "rowid": "18",
     "event_id": 721,
     "eventname": "2022 Gps Kraaij Challenge",
     "speed": 0.0,
@@ -272,7 +288,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=374784&uid=4524"
   },
   {
-    "rowid": "18",
+    "rowid": "19",
     "event_id": 721,
     "eventname": "2022 Gps Kraaij Challenge",
     "speed": 0.0,
@@ -288,7 +304,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=375845&uid=4390"
   },
   {
-    "rowid": "19",
+    "rowid": "20",
     "event_id": 721,
     "eventname": "2022 Gps Kraaij Challenge",
     "speed": 0.0,
@@ -304,7 +320,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=388843&uid=4058"
   },
   {
-    "rowid": "20",
+    "rowid": "21",
     "event_id": 721,
     "eventname": "2022 Gps Kraaij Challenge",
     "speed": 0.0,
@@ -320,7 +336,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=396768&uid=3588"
   },
   {
-    "rowid": "21",
+    "rowid": "22",
     "event_id": 721,
     "eventname": "2022 Gps Kraaij Challenge",
     "speed": 0.0,
