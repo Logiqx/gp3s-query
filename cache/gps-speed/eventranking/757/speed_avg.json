@@ -67,6 +67,22 @@
     "rowid": "5",
     "event_id": 757,
     "eventname": "2022 Auckland Windsurfing Association Speed Challenge",
+    "speed": 57.4653376,
+    "type": "speed_avg",
+    "username": "Brendan van Diepen",
+    "ageclass": "Super Master (61-70)",
+    "weightclass": "91-100",
+    "sexe": "Men",
+    "spotname": "McLeods Bay",
+    "sessionboard": "Starboard Futura Wood",
+    "sessionsail": "Neilpryde RS Slalom MK6  6.4",
+    "sessionfin": "not defined -  0",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400606&uid=23755"
+  },
+  {
+    "rowid": "6",
+    "event_id": 757,
+    "eventname": "2022 Auckland Windsurfing Association Speed Challenge",
     "speed": 56.484148000000005,
     "type": "speed_avg",
     "username": "Onno le Roy",
@@ -80,7 +96,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=397784&uid=26016"
   },
   {
-    "rowid": "6",
+    "rowid": "7",
     "event_id": 757,
     "eventname": "2022 Auckland Windsurfing Association Speed Challenge",
     "speed": 56.1000432,
@@ -96,7 +112,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=395254&uid=25194"
   },
   {
-    "rowid": "7",
+    "rowid": "8",
     "event_id": 757,
     "eventname": "2022 Auckland Windsurfing Association Speed Challenge",
     "speed": 54.029877600000006,
@@ -110,22 +126,6 @@
     "sessionsail": "Severne Mach2  8.6",
     "sessionfin": "C3 Drake Venom  54",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=397926&uid=23731"
-  },
-  {
-    "rowid": "8",
-    "event_id": 757,
-    "eventname": "2022 Auckland Windsurfing Association Speed Challenge",
-    "speed": 53.77985760000001,
-    "type": "speed_avg",
-    "username": "Brendan van Diepen",
-    "ageclass": "Super Master (61-70)",
-    "weightclass": "91-100",
-    "sexe": "Men",
-    "spotname": "McLeods Bay",
-    "sessionboard": "Starboard Futura Wood",
-    "sessionsail": "Neilpryde RS Race EVO8  7.0",
-    "sessionfin": "not defined -  0",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=399105&uid=23755"
   },
   {
     "rowid": "9",

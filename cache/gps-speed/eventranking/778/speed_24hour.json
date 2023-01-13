@@ -1,0 +1,50 @@
+[
+  {
+    "rowid": "1",
+    "event_id": 778,
+    "eventname": "2023 WSCA Westeinder Speedking 2023",
+    "speed": 0.0,
+    "type": "speed_24hour",
+    "username": "Nick van der Hoorn",
+    "ageclass": "Senior (19-35)",
+    "weightclass": "61-70",
+    "sexe": "Men",
+    "spotname": "Westeinder Plassen",
+    "sessionboard": "FMX Invictus 118",
+    "sessionsail": "Maui Sails TR-X   7.7",
+    "sessionfin": "Bugfins slem  37",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=399981&uid=22381"
+  },
+  {
+    "rowid": "2",
+    "event_id": 778,
+    "eventname": "2023 WSCA Westeinder Speedking 2023",
+    "speed": 0.0,
+    "type": "speed_24hour",
+    "username": "Kirsten Baas",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "71-80",
+    "sexe": "Woman",
+    "spotname": "Westeinder Plassen",
+    "sessionboard": "Starboard Futura 63",
+    "sessionsail": "North Sails X-Over  4.2",
+    "sessionfin": "Tribal Fin Powermax  28",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400110&uid=22540"
+  },
+  {
+    "rowid": "3",
+    "event_id": 778,
+    "eventname": "2023 WSCA Westeinder Speedking 2023",
+    "speed": 0.0,
+    "type": "speed_24hour",
+    "username": "Max Shytikov",
+    "ageclass": "Master (36-50)",
+    "weightclass": "61-70",
+    "sexe": "Men",
+    "spotname": "Westeinder Plassen",
+    "sessionboard": "Future Fly Dark Horse 117",
+    "sessionsail": "Duotone Warp_fin 20.22  7.8",
+    "sessionfin": "Finish First V2  35",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=399978&uid=25266"
+  }
+]

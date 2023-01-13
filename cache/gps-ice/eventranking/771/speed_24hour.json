@@ -5,6 +5,22 @@
     "eventname": "2022 KING OF THE ICE 2022/2023",
     "speed": 0.0,
     "type": "speed_24hour",
+    "username": "Raido Ruse",
+    "ageclass": "Master (36-50)",
+    "weightclass": "91-100",
+    "sexe": "Men",
+    "spotname": "P\u00e4rnu rand",
+    "sessionboard": "not defined ",
+    "sessionsail": "Ensis WiNG  5.2",
+    "sessionfin": "Custom ice blade  0",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400653&uid=26620"
+  },
+  {
+    "rowid": "2",
+    "event_id": 771,
+    "eventname": "2022 KING OF THE ICE 2022/2023",
+    "speed": 0.0,
+    "type": "speed_24hour",
     "username": "Jakub Salek",
     "ageclass": "Master (36-50)",
     "weightclass": "81-90",
@@ -16,7 +32,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=399270&uid=25179"
   },
   {
-    "rowid": "2",
+    "rowid": "3",
     "event_id": 771,
     "eventname": "2022 KING OF THE ICE 2022/2023",
     "speed": 0.0,
@@ -32,7 +48,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=399195&uid=24740"
   },
   {
-    "rowid": "3",
+    "rowid": "4",
     "event_id": 771,
     "eventname": "2022 KING OF THE ICE 2022/2023",
     "speed": 0.0,
@@ -48,7 +64,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=399282&uid=23164"
   },
   {
-    "rowid": "4",
+    "rowid": "5",
     "event_id": 771,
     "eventname": "2022 KING OF THE ICE 2022/2023",
     "speed": 0.0,
@@ -64,7 +80,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=399295&uid=18026"
   },
   {
-    "rowid": "5",
+    "rowid": "6",
     "event_id": 771,
     "eventname": "2022 KING OF THE ICE 2022/2023",
     "speed": 0.0,
@@ -80,7 +96,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=399238&uid=6348"
   },
   {
-    "rowid": "6",
+    "rowid": "7",
     "event_id": 771,
     "eventname": "2022 KING OF THE ICE 2022/2023",
     "speed": 0.0,
@@ -96,7 +112,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=399214&uid=4058"
   },
   {
-    "rowid": "7",
+    "rowid": "8",
     "event_id": 771,
     "eventname": "2022 KING OF THE ICE 2022/2023",
     "speed": 0.0,
@@ -112,7 +128,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=399260&uid=994"
   },
   {
-    "rowid": "8",
+    "rowid": "9",
     "event_id": 771,
     "eventname": "2022 KING OF THE ICE 2022/2023",
     "speed": 0.0,
@@ -128,7 +144,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=399251&uid=102"
   },
   {
-    "rowid": "9",
+    "rowid": "10",
     "event_id": 771,
     "eventname": "2022 KING OF THE ICE 2022/2023",
     "speed": 0.0,

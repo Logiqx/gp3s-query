@@ -1,0 +1,34 @@
+[
+  {
+    "rowid": "1",
+    "event_id": 729,
+    "eventname": "2022 FFF SPEED CHALLENGE",
+    "speed": 73.652188,
+    "type": "speed_2sec",
+    "username": "Michel Cyril",
+    "ageclass": "Master (36-50)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Fos, 13",
+    "sessionboard": "- TFB tarifa foil board  KITEFOIL",
+    "sessionsail": "Duotone rebel sls  8.0",
+    "sessionfin": "Custom kite fin  10",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389348&uid=5566"
+  },
+  {
+    "rowid": "2",
+    "event_id": 729,
+    "eventname": "2022 FFF SPEED CHALLENGE",
+    "speed": 69.85744,
+    "type": "speed_2sec",
+    "username": "Enzo Perez",
+    "ageclass": "Senior (19-35)",
+    "weightclass": "61-70",
+    "sexe": "Men",
+    "spotname": "Fos, 13",
+    "sessionboard": "- DUOTONE indy",
+    "sessionsail": "",
+    "sessionfin": "Custom kite fin  10",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=380734&uid=24328"
+  }
+]

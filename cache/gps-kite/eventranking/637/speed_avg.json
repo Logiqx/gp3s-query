@@ -1,0 +1,18 @@
+[
+  {
+    "rowid": "1",
+    "event_id": 637,
+    "eventname": "2020 Prince of Speed GPS Trial World Speed Tour - Kite",
+    "speed": 69.3729568,
+    "type": "speed_avg",
+    "username": "Roger \u00d6rnvang",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "91-100",
+    "sexe": "Men",
+    "spotname": "Lund\u00e5krabukten",
+    "sessionboard": "F-One Speedgun",
+    "sessionsail": "- F one Fuertive  10.0",
+    "sessionfin": "Custom kite fin  10",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=339539&uid=22163"
+  }
+]

@@ -83,6 +83,22 @@
     "rowid": "6",
     "event_id": 771,
     "eventname": "2022 KING OF THE ICE 2022/2023",
+    "speed": 31.158048000000004,
+    "type": "speed_alpha_racing",
+    "username": "Raido Ruse",
+    "ageclass": "Master (36-50)",
+    "weightclass": "91-100",
+    "sexe": "Men",
+    "spotname": "Kahala j\u00e4rv",
+    "sessionboard": "not defined ",
+    "sessionsail": "Cabrinha Wing  6.0",
+    "sessionfin": "Custom ice blade  0",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400652&uid=26620"
+  },
+  {
+    "rowid": "7",
+    "event_id": 771,
+    "eventname": "2022 KING OF THE ICE 2022/2023",
     "speed": 25.787248,
     "type": "speed_alpha_racing",
     "username": "Nils Duindam",
@@ -96,7 +112,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=399214&uid=4058"
   },
   {
-    "rowid": "7",
+    "rowid": "8",
     "event_id": 771,
     "eventname": "2022 KING OF THE ICE 2022/2023",
     "speed": 0.0,
@@ -112,7 +128,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=399238&uid=6348"
   },
   {
-    "rowid": "8",
+    "rowid": "9",
     "event_id": 771,
     "eventname": "2022 KING OF THE ICE 2022/2023",
     "speed": 0.0,
@@ -128,7 +144,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=399251&uid=102"
   },
   {
-    "rowid": "9",
+    "rowid": "10",
     "event_id": 771,
     "eventname": "2022 KING OF THE ICE 2022/2023",
     "speed": 0.0,

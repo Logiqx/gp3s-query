@@ -3,5 +3,35 @@
     "eventname": "2022 FFF SPEED CHALLENGE",
     "start_date": "2022-01-01T00:00:00",
     "end_date": "2023-01-01T00:00:00"
+  },
+  "713": {
+    "eventname": "2021Red Bull Bora Challenge",
+    "start_date": "2021-09-04T00:00:00",
+    "end_date": "2022-09-05T00:00:00"
+  },
+  "669": {
+    "eventname": "2021 FFF SPEED CHALLENGE ",
+    "start_date": "2021-01-01T00:00:00",
+    "end_date": "2022-01-01T00:00:00"
+  },
+  "653": {
+    "eventname": "Young Solar Challenge Online 2020",
+    "start_date": "2020-10-02T00:00:00",
+    "end_date": "2020-10-12T00:00:00"
+  },
+  "652": {
+    "eventname": "Young Solar Challenge Online Test",
+    "start_date": "2020-10-01T00:00:00",
+    "end_date": "2020-10-04T00:00:00"
+  },
+  "643": {
+    "eventname": "Young Solar Test 2020",
+    "start_date": "2020-08-24T00:00:00",
+    "end_date": "2020-10-02T00:00:00"
+  },
+  "637": {
+    "eventname": "2020 Prince of Speed GPS Trial World Speed Tour - Kite",
+    "start_date": "2020-01-01T00:00:00",
+    "end_date": "2021-01-01T00:00:00"
   }
 }

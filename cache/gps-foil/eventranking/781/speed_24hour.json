@@ -1,0 +1,18 @@
+[
+  {
+    "rowid": "1",
+    "event_id": 781,
+    "eventname": "2023 FoilSurfing gpskraaijchallenge",
+    "speed": 0.0,
+    "type": "speed_24hour",
+    "username": "Stijn Stoekenbroek",
+    "ageclass": "Senior (19-35)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Kraaijenbergse plassen",
+    "sessionboard": "Starboard iSonic Race Slalom 127 UltraCore Reflex Carbon",
+    "sessionsail": "Severne Mach 2  7.0",
+    "sessionfin": "Starboard IQfoil Alu Fuselage 115 Plus Fr 900 T -255  95",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400472&uid=22382"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "rowid": "1",
+    "event_id": 652,
+    "eventname": "Young Solar Challenge Online Test",
+    "speed": 55.650748,
+    "type": "speed_100",
+    "username": "Dennis Carton",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "IJsselmeer - Makkum",
+    "sessionboard": "Custom Young Solar Class : V5",
+    "sessionsail": "Custom Torqueedo Cruise 2.0  2.0",
+    "sessionfin": "Custom kite fin  10",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=339446&uid=22214"
+  },
+  {
+    "rowid": "2",
+    "event_id": 652,
+    "eventname": "Young Solar Challenge Online Test",
+    "speed": 18.490368,
+    "type": "speed_100",
+    "username": "Stellingwerfcollege SolarteamSWC",
+    "ageclass": "Senior (19-35)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Tjonger/Kuinder",
+    "sessionboard": "Custom Young Solar Class : V5",
+    "sessionsail": "Custom Torqueedo Cruise 2.0  2.0",
+    "sessionfin": "Custom kite fin  10",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=339525&uid=24955"
+  },
+  {
+    "rowid": "3",
+    "event_id": 652,
+    "eventname": "Young Solar Challenge Online Test",
+    "speed": 17.486584,
+    "type": "speed_100",
+    "username": "Team Da Vinci Young Solar",
+    "ageclass": "Senior (19-35)",
+    "weightclass": "51-60",
+    "sexe": "Men",
+    "spotname": "Kagerplassen",
+    "sessionboard": "Custom Young Solar Class : V5",
+    "sessionsail": "Custom Torqueedo Cruise 2.0  2.0",
+    "sessionfin": "Custom kite fin  10",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=339506&uid=24983"
+  }
+]

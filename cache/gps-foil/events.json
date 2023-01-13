@@ -1,27 +1,12 @@
 {
+  "781": {
+    "eventname": "2023 FoilSurfing gpskraaijchallenge",
+    "start_date": "2023-01-01T00:00:00",
+    "end_date": "2023-12-31T00:00:00"
+  },
   "766": {
     "eventname": "2022 BritishWindfoilSpeedChallenge2023",
     "start_date": "2022-10-01T00:00:00",
     "end_date": "2023-09-30T00:00:00"
-  },
-  "765": {
-    "eventname": "2023 BritishFoilS",
-    "start_date": "2023-01-01T00:00:00",
-    "end_date": "2023-01-01T00:00:00"
-  },
-  "735": {
-    "eventname": "World Speed Tour - GPS POS 2022",
-    "start_date": "2022-01-01T00:00:00",
-    "end_date": "2023-01-01T00:00:00"
-  },
-  "728": {
-    "eventname": "2022 FFF Speed Challenge",
-    "start_date": "2022-01-01T00:00:00",
-    "end_date": "2023-01-01T00:00:00"
-  },
-  "724": {
-    "eventname": "Lysakerfjorden Foil 2022",
-    "start_date": "2022-01-01T00:00:00",
-    "end_date": "2023-01-01T00:00:00"
   }
 }

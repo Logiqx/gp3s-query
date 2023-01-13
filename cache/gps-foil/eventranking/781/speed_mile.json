@@ -1,0 +1,50 @@
+[
+  {
+    "rowid": "1",
+    "event_id": 781,
+    "eventname": "2023 FoilSurfing gpskraaijchallenge",
+    "speed": 28.68748,
+    "type": "speed_mile",
+    "username": "Nils Duindam",
+    "ageclass": "Super Master (61-70)",
+    "weightclass": "61-70",
+    "sexe": "Men",
+    "spotname": "Kraaijenbergse plassen",
+    "sessionboard": "Fanatic Falcon Foil TE 190",
+    "sessionsail": "Phantom RF  8.0",
+    "sessionfin": "Starboard Race Plus Carbon Lo-wind (1000-115-225)  95",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400476&uid=4058"
+  },
+  {
+    "rowid": "2",
+    "event_id": 781,
+    "eventname": "2023 FoilSurfing gpskraaijchallenge",
+    "speed": 20.212728000000002,
+    "type": "speed_mile",
+    "username": "Chris F\u00f6cking",
+    "ageclass": "Master (36-50)",
+    "weightclass": "91-100",
+    "sexe": "Men",
+    "spotname": "Kraaijenbergse plassen",
+    "sessionboard": "F2 FX VI",
+    "sessionsail": "Loft Sails Oxygen  9.5",
+    "sessionfin": "Neilpryde RS:Flight NP F4 Foil  100",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400592&uid=4524"
+  },
+  {
+    "rowid": "3",
+    "event_id": 781,
+    "eventname": "2023 FoilSurfing gpskraaijchallenge",
+    "speed": 0.0,
+    "type": "speed_mile",
+    "username": "Stijn Stoekenbroek",
+    "ageclass": "Senior (19-35)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Kraaijenbergse plassen",
+    "sessionboard": "Starboard iSonic Race Slalom 127 UltraCore Reflex Carbon",
+    "sessionsail": "Severne Mach 2  7.0",
+    "sessionfin": "Starboard IQfoil Alu Fuselage 115 Plus Fr 900 T -255  95",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400472&uid=22382"
+  }
+]

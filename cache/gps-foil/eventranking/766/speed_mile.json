@@ -51,6 +51,22 @@
     "rowid": "4",
     "event_id": 766,
     "eventname": "2022 BritishWindfoilSpeedChallenge2023",
+    "speed": 39.501308,
+    "type": "speed_mile",
+    "username": "Michael George",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Portland Harbour, Weymouth",
+    "sessionboard": "JP Hydrofoil 150 PRO",
+    "sessionsail": "Neilpryde RS Racing EVO XII  5.2",
+    "sessionfin": "Neilpryde Flight SLR 70  95",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400270&uid=2640"
+  },
+  {
+    "rowid": "5",
+    "event_id": 766,
+    "eventname": "2022 BritishWindfoilSpeedChallenge2023",
     "speed": 39.193876,
     "type": "speed_mile",
     "username": "Richard Beaman",
@@ -64,7 +80,23 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=397179&uid=4236"
   },
   {
-    "rowid": "5",
+    "rowid": "6",
+    "event_id": 766,
+    "eventname": "2022 BritishWindfoilSpeedChallenge2023",
+    "speed": 33.776776,
+    "type": "speed_mile",
+    "username": "Sophie Blaydes",
+    "ageclass": "Junior plus (15-18)",
+    "weightclass": "51-60",
+    "sexe": "Woman",
+    "spotname": "Hayling Island",
+    "sessionboard": "Starboard iQFOIL 85 ",
+    "sessionsail": "Severne HGO  8.0",
+    "sessionfin": "Starboard IQFoil Carbon Fuselage 115 Plus Fr 900 T 255-2   95",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400501&uid=26661"
+  },
+  {
+    "rowid": "7",
     "event_id": 766,
     "eventname": "2022 BritishWindfoilSpeedChallenge2023",
     "speed": 33.161912,
@@ -80,7 +112,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=398181&uid=3532"
   },
   {
-    "rowid": "6",
+    "rowid": "8",
     "event_id": 766,
     "eventname": "2022 BritishWindfoilSpeedChallenge2023",
     "speed": 31.874772,
@@ -96,7 +128,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=394970&uid=21720"
   },
   {
-    "rowid": "7",
+    "rowid": "9",
     "event_id": 766,
     "eventname": "2022 BritishWindfoilSpeedChallenge2023",
     "speed": 0.0,

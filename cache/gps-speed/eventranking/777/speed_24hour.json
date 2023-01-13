@@ -1,0 +1,34 @@
+[
+  {
+    "rowid": "1",
+    "event_id": 777,
+    "eventname": "2023 gpskraaijchallenge",
+    "speed": 0.0,
+    "type": "speed_24hour",
+    "username": "Bart VD Bogaart",
+    "ageclass": "Junior plus (15-18)",
+    "weightclass": "61-70",
+    "sexe": "Men",
+    "spotname": "Kraaijenbergse plassen",
+    "sessionboard": "Starboard iQ Foil 85",
+    "sessionsail": "Severne HGO  11.0",
+    "sessionfin": "Starboard Carbon SlalomRace + EVO (800 - 115 - 255)  95",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400502&uid=25794"
+  },
+  {
+    "rowid": "2",
+    "event_id": 777,
+    "eventname": "2023 gpskraaijchallenge",
+    "speed": 0.0,
+    "type": "speed_24hour",
+    "username": "Chris F\u00f6cking",
+    "ageclass": "Master (36-50)",
+    "weightclass": "91-100",
+    "sexe": "Men",
+    "spotname": "Brouwersdam - Zeezijde",
+    "sessionboard": "F2 FX VI",
+    "sessionsail": "North Sails Warp F2006  11.9",
+    "sessionfin": "Deboichet Custom R18 S 6+  70",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400056&uid=4524"
+  }
+]

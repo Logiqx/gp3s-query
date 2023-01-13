@@ -1,4 +1,29 @@
 {
+  "780": {
+    "eventname": "2023 2023\u00a0Mauritius Speed Challenge",
+    "start_date": "2023-01-01T00:00:00",
+    "end_date": "2023-12-31T00:00:00"
+  },
+  "779": {
+    "eventname": "2023 Singlis Speedchallenge 2023",
+    "start_date": "2023-01-01T00:00:00",
+    "end_date": "2023-12-31T00:00:00"
+  },
+  "778": {
+    "eventname": "2023 WSCA Westeinder Speedking 2023",
+    "start_date": "2023-01-01T00:00:00",
+    "end_date": "2023-12-31T00:00:00"
+  },
+  "777": {
+    "eventname": "2023 gpskraaijchallenge",
+    "start_date": "2023-01-01T00:00:00",
+    "end_date": "2023-12-31T00:00:00"
+  },
+  "776": {
+    "eventname": "2023 Norwegian speedmaster - 2023",
+    "start_date": "2023-01-01T00:00:00",
+    "end_date": "2023-12-31T00:00:00"
+  },
   "775": {
     "eventname": "2023 Irish Speed Masters",
     "start_date": "2023-01-01T00:00:00",
@@ -28,75 +53,5 @@
     "eventname": "2022 Auckland Windsurfing Association Speed Challenge",
     "start_date": "2022-07-01T00:00:00",
     "end_date": "2023-06-30T00:00:00"
-  },
-  "737": {
-    "eventname": "2022 Spanish Speed Challenge",
-    "start_date": "2022-01-01T00:00:00",
-    "end_date": "2023-01-01T00:00:00"
-  },
-  "734": {
-    "eventname": "World Speed Tour - GPS POS 2022 ",
-    "start_date": "2022-01-01T00:00:00",
-    "end_date": "2023-01-01T00:00:00"
-  },
-  "733": {
-    "eventname": "2022 ",
-    "start_date": "2022-01-01T00:00:00",
-    "end_date": "2022-12-31T00:00:00"
-  },
-  "732": {
-    "eventname": "2022 DBO Speed Challenge",
-    "start_date": "2022-01-01T00:00:00",
-    "end_date": "2023-01-01T00:00:00"
-  },
-  "731": {
-    "eventname": "Wurster ONE hour",
-    "start_date": "2022-02-01T00:00:00",
-    "end_date": "2022-12-31T00:00:00"
-  },
-  "730": {
-    "eventname": "Surf like a dude Zuidlaardermeer Speed Challenge 2022",
-    "start_date": "2022-01-01T00:00:00",
-    "end_date": "2023-01-01T00:00:00"
-  },
-  "727": {
-    "eventname": "2022 FFF SPEED CHALLENGE",
-    "start_date": "2022-01-01T00:00:00",
-    "end_date": "2023-01-01T00:00:00"
-  },
-  "726": {
-    "eventname": "WSCA Westeinder Speedking 2022",
-    "start_date": "2022-01-01T00:00:00",
-    "end_date": "2022-12-31T00:00:00"
-  },
-  "725": {
-    "eventname": "Singlis-Speedchallenge 2022",
-    "start_date": "2022-01-01T00:00:00",
-    "end_date": "2022-12-31T00:00:00"
-  },
-  "722": {
-    "eventname": "Lysakerfjorden 2022",
-    "start_date": "2022-01-01T00:00:00",
-    "end_date": "2023-01-01T00:00:00"
-  },
-  "721": {
-    "eventname": "2022 Gps Kraaij Challenge",
-    "start_date": "2022-01-01T00:00:00",
-    "end_date": "2022-12-31T00:00:00"
-  },
-  "719": {
-    "eventname": "Norwegian speedmaster - 2022",
-    "start_date": "2022-01-01T00:00:00",
-    "end_date": "2022-12-31T00:00:00"
-  },
-  "717": {
-    "eventname": "2022 Irish Speed Masters",
-    "start_date": "2021-11-01T00:00:00",
-    "end_date": "2022-12-31T00:00:00"
-  },
-  "692": {
-    "eventname": "Surf like a dude Zuidlaardermeer speed challenge 2021",
-    "start_date": "2021-05-10T00:00:00",
-    "end_date": "2022-12-31T00:00:00"
   }
 }
