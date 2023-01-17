@@ -3,20 +3,36 @@
     "rowid": "1",
     "event_id": 776,
     "eventname": "2023 Norwegian speedmaster - 2023",
-    "speed": 33.241548,
+    "speed": 39.245732,
+    "type": "speed_alpha_racing",
+    "username": "Stian Johnsen",
+    "ageclass": "Master (36-50)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "\u00c5shavn",
+    "sessionboard": "JP 85",
+    "sessionsail": "S2 Maui Venom  8.2",
+    "sessionfin": "Select Rhino  45",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=401048&uid=25696"
+  },
+  {
+    "rowid": "2",
+    "event_id": 776,
+    "eventname": "2023 Norwegian speedmaster - 2023",
+    "speed": 34.0305,
     "type": "speed_alpha_racing",
     "username": "K\u00e5re Christoffer Vestrheim",
     "ageclass": "Grand Master (51-60)",
     "weightclass": "81-90",
     "sexe": "Men",
-    "spotname": "M\u00f8vik",
+    "spotname": "\u00d8rekroken",
     "sessionboard": "RRD Freestyle Wave LTD Y26",
-    "sessionsail": "Gaastra matrix  6.5",
-    "sessionfin": "Black Project Fins Epic Freewave Thruster  185",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400457&uid=24361"
+    "sessionsail": "Gaastra Wave  5.4",
+    "sessionfin": "Maui Fin Co Multi fin/ thruster  19",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400842&uid=24361"
   },
   {
-    "rowid": "2",
+    "rowid": "3",
     "event_id": 776,
     "eventname": "2023 Norwegian speedmaster - 2023",
     "speed": 31.500668,
@@ -32,7 +48,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400624&uid=23594"
   },
   {
-    "rowid": "3",
+    "rowid": "4",
     "event_id": 776,
     "eventname": "2023 Norwegian speedmaster - 2023",
     "speed": 28.109656000000005,
@@ -48,7 +64,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400458&uid=26414"
   },
   {
-    "rowid": "4",
+    "rowid": "5",
     "event_id": 776,
     "eventname": "2023 Norwegian speedmaster - 2023",
     "speed": 27.237364000000003,
@@ -64,7 +80,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400317&uid=25195"
   },
   {
-    "rowid": "5",
+    "rowid": "6",
     "event_id": 776,
     "eventname": "2023 Norwegian speedmaster - 2023",
     "speed": 23.988956,

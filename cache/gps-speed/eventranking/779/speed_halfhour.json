@@ -3,6 +3,22 @@
     "rowid": "1",
     "event_id": 779,
     "eventname": "2023 Singlis Speedchallenge 2023",
+    "speed": 29.515324,
+    "type": "speed_halfhour",
+    "username": "Michel Gutbier",
+    "ageclass": "Senior (19-35)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Singliser See",
+    "sessionboard": "Starboard iSonic 73 Carbon Reflex",
+    "sessionsail": "Severne Mach 5  7.8",
+    "sessionfin": "Feine Finnen Biting Beast 2.0  37",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=401013&uid=7491"
+  },
+  {
+    "rowid": "2",
+    "event_id": 779,
+    "eventname": "2023 Singlis Speedchallenge 2023",
     "speed": 23.655596,
     "type": "speed_halfhour",
     "username": "Ralf Hansel",
@@ -14,5 +30,21 @@
     "sessionsail": "Loftsails Racingblade  7.8",
     "sessionfin": "C-Fins 4.4  43",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400133&uid=10573"
+  },
+  {
+    "rowid": "3",
+    "event_id": 779,
+    "eventname": "2023 Singlis Speedchallenge 2023",
+    "speed": 20.996124000000002,
+    "type": "speed_halfhour",
+    "username": "Andreas Schaefer",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Singliser See",
+    "sessionboard": "Starboard Isonic 124 Carbon",
+    "sessionsail": "North Sails Warp F2017  7.7",
+    "sessionfin": "Winheller LWS-9  42",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=401002&uid=2399"
   }
 ]

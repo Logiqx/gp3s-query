@@ -110,5 +110,53 @@
     "sessionsail": "North Sails X-Over  4.2",
     "sessionfin": "Tribal Fin Powermax  28",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400110&uid=22540"
+  },
+  {
+    "rowid": "8",
+    "event_id": 778,
+    "eventname": "2023 WSCA Westeinder Speedking 2023",
+    "speed": 12.556560000000001,
+    "type": "speed_hour",
+    "username": "Erwin Coster",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Westeinder Plassen",
+    "sessionboard": "RRD Firewave LTD",
+    "sessionsail": "Neilpryde Combat HD  4.7",
+    "sessionfin": "MFC AR WAVE  26",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400886&uid=21778"
+  },
+  {
+    "rowid": "9",
+    "event_id": 778,
+    "eventname": "2023 WSCA Westeinder Speedking 2023",
+    "speed": 10.484172,
+    "type": "speed_hour",
+    "username": "Bert Kuiper",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Westeinder Plassen",
+    "sessionboard": "Angulo SuperGu",
+    "sessionsail": "Vandal Riot  5.3",
+    "sessionfin": "Hurricane Speed Slalom  30",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400772&uid=5707"
+  },
+  {
+    "rowid": "10",
+    "event_id": 778,
+    "eventname": "2023 WSCA Westeinder Speedking 2023",
+    "speed": 2.9706080000000004,
+    "type": "speed_hour",
+    "username": "Edwin Beekman",
+    "ageclass": "Master (36-50)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Westeinder Plassen",
+    "sessionboard": "RRD XiFire LTD V6 90",
+    "sessionsail": "Gun Sails Mega XS  5.2",
+    "sessionfin": "Finish First  30",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400915&uid=21797"
   }
 ]

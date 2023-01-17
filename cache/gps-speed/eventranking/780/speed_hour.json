@@ -3,7 +3,23 @@
     "rowid": "1",
     "event_id": 780,
     "eventname": "2023 2023\u00a0Mauritius Speed Challenge",
-    "speed": 22.564768,
+    "speed": 35.054656,
+    "type": "speed_hour",
+    "username": "Christopher Tyack",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Le Morne",
+    "sessionboard": "PATRIK Slalom 115 V3",
+    "sessionsail": "S2 Maui Venom  7.6",
+    "sessionfin": "not defined -  0",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400803&uid=22404"
+  },
+  {
+    "rowid": "2",
+    "event_id": 780,
+    "eventname": "2023 2023\u00a0Mauritius Speed Challenge",
+    "speed": 22.820344,
     "type": "speed_hour",
     "username": "Regis Lesieur",
     "ageclass": "Grand Master (51-60)",
@@ -13,10 +29,10 @@
     "sessionboard": "Future Fly Dark Horse 107",
     "sessionsail": "S2 Maui VENOM  7.5",
     "sessionfin": "Tribal Fin Slalom MK2 Carbon  38",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400449&uid=22394"
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400808&uid=22394"
   },
   {
-    "rowid": "2",
+    "rowid": "3",
     "event_id": 780,
     "eventname": "2023 2023\u00a0Mauritius Speed Challenge",
     "speed": 19.675648000000002,
@@ -32,7 +48,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400308&uid=25066"
   },
   {
-    "rowid": "3",
+    "rowid": "4",
     "event_id": 780,
     "eventname": "2023 2023\u00a0Mauritius Speed Challenge",
     "speed": 14.167800000000002,
@@ -46,5 +62,21 @@
     "sessionsail": "Loftsails RACING BLADE  6.3",
     "sessionfin": "Z-fins SLM S-  38",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400108&uid=22392"
+  },
+  {
+    "rowid": "5",
+    "event_id": 780,
+    "eventname": "2023 2023\u00a0Mauritius Speed Challenge",
+    "speed": 11.92688,
+    "type": "speed_hour",
+    "username": "Francois Desvaux",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "91-100",
+    "sexe": "Men",
+    "spotname": "Le Morne",
+    "sessionboard": "RRD X-Fire 114 V11 LTD",
+    "sessionsail": "Loftsails RACING BLADE  7.0",
+    "sessionfin": "Z-fins SL -  38",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400887&uid=24788"
   }
 ]

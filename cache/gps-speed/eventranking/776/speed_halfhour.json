@@ -3,6 +3,22 @@
     "rowid": "1",
     "event_id": 776,
     "eventname": "2023 Norwegian speedmaster - 2023",
+    "speed": 28.53932,
+    "type": "speed_halfhour",
+    "username": "Stian Johnsen",
+    "ageclass": "Master (36-50)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "\u00c5shavn",
+    "sessionboard": "JP 85",
+    "sessionsail": "S2 Maui Venom  8.2",
+    "sessionfin": "Select Rhino  45",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=401048&uid=25696"
+  },
+  {
+    "rowid": "2",
+    "event_id": 776,
+    "eventname": "2023 Norwegian speedmaster - 2023",
     "speed": 25.018668,
     "type": "speed_halfhour",
     "username": "Kenneth Hansson",
@@ -16,7 +32,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400624&uid=23594"
   },
   {
-    "rowid": "2",
+    "rowid": "3",
     "event_id": 776,
     "eventname": "2023 Norwegian speedmaster - 2023",
     "speed": 22.322156000000003,
@@ -32,7 +48,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400457&uid=24361"
   },
   {
-    "rowid": "3",
+    "rowid": "4",
     "event_id": 776,
     "eventname": "2023 Norwegian speedmaster - 2023",
     "speed": 19.534896,
@@ -48,7 +64,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400458&uid=26414"
   },
   {
-    "rowid": "4",
+    "rowid": "5",
     "event_id": 776,
     "eventname": "2023 Norwegian speedmaster - 2023",
     "speed": 14.321516,
@@ -64,7 +80,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400317&uid=25195"
   },
   {
-    "rowid": "5",
+    "rowid": "6",
     "event_id": 776,
     "eventname": "2023 Norwegian speedmaster - 2023",
     "speed": 7.780252,

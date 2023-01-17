@@ -3,6 +3,22 @@
     "rowid": "1",
     "event_id": 778,
     "eventname": "2023 WSCA Westeinder Speedking 2023",
+    "speed": 57.386072000000006,
+    "type": "speed_500",
+    "username": "Rogier Hassink",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Westeinder Plassen",
+    "sessionboard": "Angulo Magnum 95",
+    "sessionsail": "Loftsails Racing Blade  5.6",
+    "sessionfin": "Vector Fins Alpha Carbon  32",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400856&uid=23518"
+  },
+  {
+    "rowid": "2",
+    "event_id": 778,
+    "eventname": "2023 WSCA Westeinder Speedking 2023",
     "speed": 53.517244,
     "type": "speed_500",
     "username": "David van den Toorn",
@@ -16,7 +32,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400632&uid=22950"
   },
   {
-    "rowid": "2",
+    "rowid": "3",
     "event_id": 778,
     "eventname": "2023 WSCA Westeinder Speedking 2023",
     "speed": 52.19862,
@@ -30,22 +46,6 @@
     "sessionsail": "Maui Sails TR-X   7.7",
     "sessionfin": "Bugfins slem  37",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=399981&uid=22381"
-  },
-  {
-    "rowid": "3",
-    "event_id": 778,
-    "eventname": "2023 WSCA Westeinder Speedking 2023",
-    "speed": 52.115280000000006,
-    "type": "speed_500",
-    "username": "Rogier Hassink",
-    "ageclass": "Grand Master (51-60)",
-    "weightclass": "81-90",
-    "sexe": "Men",
-    "spotname": "Westeinder Plassen",
-    "sessionboard": "JP Slalom 72",
-    "sessionsail": "Gun Sails GS-R  7.1",
-    "sessionfin": "Tribal Fin Slalom mk2 carbon  38",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400618&uid=23518"
   },
   {
     "rowid": "4",
@@ -67,6 +67,22 @@
     "rowid": "5",
     "event_id": 778,
     "eventname": "2023 WSCA Westeinder Speedking 2023",
+    "speed": 48.689080000000004,
+    "type": "speed_500",
+    "username": "Edwin Beekman",
+    "ageclass": "Master (36-50)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Westeinder Plassen",
+    "sessionboard": "RRD XiFire LTD V6 90",
+    "sessionsail": "Gun Sails Mega XS  5.2",
+    "sessionfin": "Finish First  30",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400915&uid=21797"
+  },
+  {
+    "rowid": "6",
+    "event_id": 778,
+    "eventname": "2023 WSCA Westeinder Speedking 2023",
     "speed": 45.942564,
     "type": "speed_500",
     "username": "Matthijs Pos",
@@ -80,7 +96,23 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400629&uid=26473"
   },
   {
-    "rowid": "6",
+    "rowid": "7",
+    "event_id": 778,
+    "eventname": "2023 WSCA Westeinder Speedking 2023",
+    "speed": 43.333096000000005,
+    "type": "speed_500",
+    "username": "Bert Kuiper",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Westeinder Plassen",
+    "sessionboard": "Angulo SuperGu",
+    "sessionsail": "Vandal Riot  5.3",
+    "sessionfin": "Hurricane Speed Slalom  30",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400772&uid=5707"
+  },
+  {
+    "rowid": "8",
     "event_id": 778,
     "eventname": "2023 WSCA Westeinder Speedking 2023",
     "speed": 41.534804,
@@ -96,7 +128,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400110&uid=22540"
   },
   {
-    "rowid": "7",
+    "rowid": "9",
     "event_id": 778,
     "eventname": "2023 WSCA Westeinder Speedking 2023",
     "speed": 41.192184000000005,
@@ -110,5 +142,21 @@
     "sessionsail": "Neilpryde Ryde  5.7",
     "sessionfin": "JP Ride   40",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400028&uid=22978"
+  },
+  {
+    "rowid": "10",
+    "event_id": 778,
+    "eventname": "2023 WSCA Westeinder Speedking 2023",
+    "speed": 35.656556,
+    "type": "speed_500",
+    "username": "Erwin Coster",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Westeinder Plassen",
+    "sessionboard": "RRD Firewave LTD",
+    "sessionsail": "Neilpryde Combat HD  4.7",
+    "sessionfin": "MFC AR WAVE  26",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400886&uid=21778"
   }
 ]

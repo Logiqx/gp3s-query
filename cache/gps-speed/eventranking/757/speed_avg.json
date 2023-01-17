@@ -3,6 +3,22 @@
     "rowid": "1",
     "event_id": 757,
     "eventname": "2022 Auckland Windsurfing Association Speed Challenge",
+    "speed": 61.802721600000005,
+    "type": "speed_avg",
+    "username": "Hugo Ellis",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Mangawhai Heads  estuary",
+    "sessionboard": "Starboard Isonic 87 Wood",
+    "sessionsail": "KA Sails Koncept 2010  5.7",
+    "sessionfin": "C3 Venom  28",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=401011&uid=25923"
+  },
+  {
+    "rowid": "2",
+    "event_id": 757,
+    "eventname": "2022 Auckland Windsurfing Association Speed Challenge",
     "speed": 61.114888799999996,
     "type": "speed_avg",
     "username": "Dave Harnett",
@@ -16,7 +32,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=396792&uid=881"
   },
   {
-    "rowid": "2",
+    "rowid": "3",
     "event_id": 757,
     "eventname": "2022 Auckland Windsurfing Association Speed Challenge",
     "speed": 59.8525656,
@@ -30,22 +46,6 @@
     "sessionsail": "Neilpryde RS Racing EVO 8  6.4",
     "sessionfin": "Select Hotrod    27",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=398820&uid=5968"
-  },
-  {
-    "rowid": "3",
-    "event_id": 757,
-    "eventname": "2022 Auckland Windsurfing Association Speed Challenge",
-    "speed": 59.593655999999996,
-    "type": "speed_avg",
-    "username": "Hugo Ellis",
-    "ageclass": "Grand Master (51-60)",
-    "weightclass": "71-80",
-    "sexe": "Men",
-    "spotname": "Meola Reef, Auckland",
-    "sessionboard": "Starboard Isonic 87 Wood",
-    "sessionsail": "KA Sails Koncept  6.2",
-    "sessionfin": "Select select vmax  31",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=398816&uid=25923"
   },
   {
     "rowid": "4",

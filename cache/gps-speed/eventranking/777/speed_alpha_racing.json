@@ -3,7 +3,7 @@
     "rowid": "1",
     "event_id": 777,
     "eventname": "2023 gpskraaijchallenge",
-    "speed": 29.50236,
+    "speed": 32.926708000000005,
     "type": "speed_alpha_racing",
     "username": "Chris F\u00f6cking",
     "ageclass": "Master (36-50)",
@@ -12,11 +12,27 @@
     "spotname": "Kraaijenbergse plassen",
     "sessionboard": "Starboard Hypersonic 105",
     "sessionsail": "North Sails Warp F2006  6.8",
-    "sessionfin": "BOSS Slalom 7.0  43",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400171&uid=4524"
+    "sessionfin": "C3 Venom  34",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400754&uid=4524"
   },
   {
     "rowid": "2",
+    "event_id": 777,
+    "eventname": "2023 gpskraaijchallenge",
+    "speed": 29.6783,
+    "type": "speed_alpha_racing",
+    "username": "Bas de Vries",
+    "ageclass": "Master (36-50)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Kraaijenbergse plassen",
+    "sessionboard": "Mistral Mistral 112",
+    "sessionsail": "Neilpryde RS Racing EVO 5  7.0",
+    "sessionfin": "Sonntag Fins SL-X  37",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400797&uid=24851"
+  },
+  {
+    "rowid": "3",
     "event_id": 777,
     "eventname": "2023 gpskraaijchallenge",
     "speed": 28.426348,
@@ -32,7 +48,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400170&uid=25570"
   },
   {
-    "rowid": "3",
+    "rowid": "4",
     "event_id": 777,
     "eventname": "2023 gpskraaijchallenge",
     "speed": 26.122460000000004,
@@ -48,7 +64,23 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400502&uid=25794"
   },
   {
-    "rowid": "4",
+    "rowid": "5",
+    "event_id": 777,
+    "eventname": "2023 gpskraaijchallenge",
+    "speed": 24.435288000000003,
+    "type": "speed_alpha_racing",
+    "username": "Nils Duindam",
+    "ageclass": "Super Master (61-70)",
+    "weightclass": "61-70",
+    "sexe": "Men",
+    "spotname": "Kraaijenbergse plassen",
+    "sessionboard": "Fanatic falcon slalom 110",
+    "sessionsail": "Phantom IRIS R mk2  6.5",
+    "sessionfin": "F-Hot S3  38",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400727&uid=4058"
+  },
+  {
+    "rowid": "6",
     "event_id": 777,
     "eventname": "2023 gpskraaijchallenge",
     "speed": 24.064888,
@@ -64,19 +96,19 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400096&uid=5095"
   },
   {
-    "rowid": "5",
+    "rowid": "7",
     "event_id": 777,
     "eventname": "2023 gpskraaijchallenge",
-    "speed": 19.657128000000004,
+    "speed": 22.012871999999998,
     "type": "speed_alpha_racing",
-    "username": "Bas de Vries",
-    "ageclass": "Master (36-50)",
-    "weightclass": "71-80",
+    "username": "Jeroen Ari\u00ebns",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "81-90",
     "sexe": "Men",
     "spotname": "Kraaijenbergse plassen",
-    "sessionboard": "Mistral Slalom",
-    "sessionsail": "Neilpryde RS Slalom MKIII Limited  5.5",
-    "sessionfin": "Sonntag Fins SL-X  37",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400212&uid=24851"
+    "sessionboard": "Angulo Magnum 90",
+    "sessionsail": "Severne Reflex R8  5.7",
+    "sessionfin": "Select S1 Slam Evo  33",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400881&uid=21736"
   }
 ]
