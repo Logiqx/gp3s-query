@@ -3,17 +3,17 @@
     "rowid": "1",
     "event_id": 769,
     "eventname": "2023 Surf-Forum-One-Hour Challenge 2023",
-    "speed": 75.19675600000001,
+    "speed": 75.254168,
     "type": "speed_10sec",
-    "username": "Thomas Moldenhauer",
-    "ageclass": "Super Master (61-70)",
+    "username": "Ant Dunn",
+    "ageclass": "Grand Master (51-60)",
     "weightclass": "81-90",
     "sexe": "Men",
-    "spotname": "ouddorp Haven",
-    "sessionboard": "AV Modena Speed 45",
-    "sessionsail": "Point-7 AC1 speed  5.0",
-    "sessionfin": "Z-fins SPA S  21",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400155&uid=24163"
+    "spotname": "Albany Lilacs",
+    "sessionboard": "Mistral Speed 47",
+    "sessionsail": "Simmer Sails SCR  5.8",
+    "sessionfin": "Tribal Fin Delta  20",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=401139&uid=24518"
   },
   {
     "rowid": "2",
@@ -51,22 +51,6 @@
     "rowid": "4",
     "event_id": 769,
     "eventname": "2023 Surf-Forum-One-Hour Challenge 2023",
-    "speed": 73.43365200000001,
-    "type": "speed_10sec",
-    "username": "Ant Dunn",
-    "ageclass": "Grand Master (51-60)",
-    "weightclass": "81-90",
-    "sexe": "Men",
-    "spotname": "Coodanup",
-    "sessionboard": "Mistral Speed 47",
-    "sessionsail": "Simmer Sails scr  6.3",
-    "sessionfin": "Tribal Fin weed speed  18",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400717&uid=24518"
-  },
-  {
-    "rowid": "5",
-    "event_id": 769,
-    "eventname": "2023 Surf-Forum-One-Hour Challenge 2023",
     "speed": 63.60323600000001,
     "type": "speed_10sec",
     "username": "Steve Brown",
@@ -80,7 +64,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=401036&uid=25106"
   },
   {
-    "rowid": "6",
+    "rowid": "5",
     "event_id": 769,
     "eventname": "2023 Surf-Forum-One-Hour Challenge 2023",
     "speed": 63.35506800000001,
@@ -96,7 +80,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400433&uid=25243"
   },
   {
-    "rowid": "7",
+    "rowid": "6",
     "event_id": 769,
     "eventname": "2023 Surf-Forum-One-Hour Challenge 2023",
     "speed": 61.97718000000001,
@@ -112,7 +96,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400426&uid=24640"
   },
   {
-    "rowid": "8",
+    "rowid": "7",
     "event_id": 769,
     "eventname": "2023 Surf-Forum-One-Hour Challenge 2023",
     "speed": 60.371496,
@@ -128,7 +112,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400445&uid=1144"
   },
   {
-    "rowid": "9",
+    "rowid": "8",
     "event_id": 769,
     "eventname": "2023 Surf-Forum-One-Hour Challenge 2023",
     "speed": 53.722816,
@@ -144,7 +128,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=399992&uid=4066"
   },
   {
-    "rowid": "10",
+    "rowid": "9",
     "event_id": 769,
     "eventname": "2023 Surf-Forum-One-Hour Challenge 2023",
     "speed": 51.707840000000004,
@@ -160,7 +144,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400290&uid=24349"
   },
   {
-    "rowid": "11",
+    "rowid": "10",
     "event_id": 769,
     "eventname": "2023 Surf-Forum-One-Hour Challenge 2023",
     "speed": 49.57804,
@@ -176,7 +160,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400907&uid=26495"
   },
   {
-    "rowid": "12",
+    "rowid": "11",
     "event_id": 769,
     "eventname": "2023 Surf-Forum-One-Hour Challenge 2023",
     "speed": 48.12422,
@@ -192,7 +176,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400269&uid=25062"
   },
   {
-    "rowid": "13",
+    "rowid": "12",
     "event_id": 769,
     "eventname": "2023 Surf-Forum-One-Hour Challenge 2023",
     "speed": 44.11464,
@@ -208,7 +192,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400535&uid=1743"
   },
   {
-    "rowid": "14",
+    "rowid": "13",
     "event_id": 769,
     "eventname": "2023 Surf-Forum-One-Hour Challenge 2023",
     "speed": 38.529008,
@@ -222,21 +206,5 @@
     "sessionsail": "Point-7 AC1  7.1",
     "sessionfin": "Starboard Starboard Race Carbon (550-255)  95",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400367&uid=24496"
-  },
-  {
-    "rowid": "15",
-    "event_id": 769,
-    "eventname": "2023 Surf-Forum-One-Hour Challenge 2023",
-    "speed": 1.300104,
-    "type": "speed_10sec",
-    "username": "Alexander Burger",
-    "ageclass": "Grand Master (51-60)",
-    "weightclass": "91-100",
-    "sexe": "Men",
-    "spotname": "Neusiedler See",
-    "sessionboard": "Tabou ROCKET PLUS 123 TEAM ",
-    "sessionsail": "Point-7 AC-Z  7.8",
-    "sessionfin": "Bugfins Slem  39",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=398628&uid=26575"
   }
 ]

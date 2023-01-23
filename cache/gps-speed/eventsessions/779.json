@@ -76,5 +76,31 @@
     "sessionsail": "Severne Mach 5 7.8,  2022",
     "sessionfin": "Feine Finnen Biting Beast 2.0  37",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=401013&uid=7491"
+  },
+  {
+    "session_id": 401103,
+    "session_date": "1/13/2023 12:00:00 AM",
+    "event_id": 779,
+    "eventname": "2023 Singlis Speedchallenge 2023",
+    "speed_avg": 29.419760800000002,
+    "speed_2sec": 33.234140000000004,
+    "speed_10sec": 32.25628400000001,
+    "speed_100": 31.815507999999998,
+    "speed_250": 30.332056,
+    "speed_500": 30.059812000000004,
+    "speed_mile": 13.039932000000002,
+    "speed_hour": 0.0,
+    "speed_halfhour": 9.654476,
+    "speed_24hour": 0.0,
+    "speed_alpha_racing": 16.603180000000002,
+    "session_distance": 7.341742,
+    "username": "Annette Reinhardt",
+    "flag": "DE",
+    "sexe": "Woman",
+    "spotname": "Singliser See",
+    "sessionboard": "Tabou Rocket 135,  2011",
+    "sessionsail": "Ezzy Legacy 7.5,  2014",
+    "sessionfin": "not defined -  0",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=401103&uid=24138"
   }
 ]

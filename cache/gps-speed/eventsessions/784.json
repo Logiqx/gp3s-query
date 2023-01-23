@@ -1,0 +1,28 @@
+[
+  {
+    "session_id": 401167,
+    "session_date": "1/20/2023 12:00:00 AM",
+    "event_id": 784,
+    "eventname": "2023 FFF SPEED CHALLENGE",
+    "speed_avg": 68.7984664,
+    "speed_2sec": 74.567076,
+    "speed_10sec": 69.887072,
+    "speed_100": 73.576256,
+    "speed_250": 67.38872400000001,
+    "speed_500": 63.964375999999994,
+    "speed_mile": 47.124140000000004,
+    "speed_hour": 16.70504,
+    "speed_halfhour": 19.76084,
+    "speed_24hour": 0.0,
+    "speed_alpha_racing": 21.688772,
+    "session_distance": 45.682752,
+    "username": "Michel Cyril",
+    "flag": "FR",
+    "sexe": "Men",
+    "spotname": "Fos, 13",
+    "sessionboard": "Phil Carbon Concept Custom,  2013",
+    "sessionsail": "Neilpryde RS Racing EVO XIII 4.8,  2022",
+    "sessionfin": "Gasoil Fins ELS Asy speed b\u00e2bord   22",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=401167&uid=5566"
+  }
+]

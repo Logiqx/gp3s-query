@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "rowid": "1",
+    "event_id": 782,
+    "eventname": "2023 WingSurfing gpskraaijchallenge",
+    "speed": 10.145256,
+    "type": "speed_hour",
+    "username": "Freek van Triel",
+    "ageclass": "Senior (19-35)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Kraaijenbergse plassen",
+    "sessionboard": "Gong Mint",
+    "sessionsail": "Gong Plus  3.0",
+    "sessionfin": "Gong Allvator X-over  85",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400369&uid=26658"
+  },
+  {
+    "rowid": "2",
+    "event_id": 782,
+    "eventname": "2023 WingSurfing gpskraaijchallenge",
+    "speed": 9.269260000000001,
+    "type": "speed_hour",
+    "username": "Frank Heinen",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "61-70",
+    "sexe": "Men",
+    "spotname": "Kraaijenbergse plassen",
+    "sessionboard": "Simmer Blackbird WF 110",
+    "sessionsail": "Manta Wing  5.2",
+    "sessionfin": "Mantafoils Mono V2  95",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400405&uid=82"
+  }
+]

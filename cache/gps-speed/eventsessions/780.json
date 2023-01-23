@@ -414,5 +414,31 @@
     "sessionsail": "Loftsails Racing Blade 6.3,  2017",
     "sessionfin": "not defined -  0",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=401033&uid=22404"
+  },
+  {
+    "session_id": 401065,
+    "session_date": "1/17/2023 12:00:00 AM",
+    "event_id": 780,
+    "eventname": "2023 2023\u00a0Mauritius Speed Challenge",
+    "speed_avg": 60.293712,
+    "speed_2sec": 62.327208000000006,
+    "speed_10sec": 62.025332000000006,
+    "speed_100": 62.12534000000001,
+    "speed_250": 61.40306,
+    "speed_500": 60.0511,
+    "speed_mile": 48.620556,
+    "speed_hour": 0.0,
+    "speed_halfhour": 31.500668,
+    "speed_24hour": 0.0,
+    "speed_alpha_racing": 39.366112,
+    "session_distance": 29.91919,
+    "username": "Christopher Tyack",
+    "flag": "MU",
+    "sexe": "Men",
+    "spotname": "Le Morne",
+    "sessionboard": "not defined ,  0",
+    "sessionsail": "Loftsails Racing Blade 6.3,  2017",
+    "sessionfin": "Z-fins Z SLM 34 s-  34",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=401065&uid=22404"
   }
 ]

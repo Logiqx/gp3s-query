@@ -46,5 +46,21 @@
     "sessionsail": "North Sails Warp F2017  7.7",
     "sessionfin": "Winheller LWS-9  42",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=401002&uid=2399"
+  },
+  {
+    "rowid": "4",
+    "event_id": 779,
+    "eventname": "2023 Singlis Speedchallenge 2023",
+    "speed": 13.039932000000002,
+    "type": "speed_mile",
+    "username": "Annette Reinhardt",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "61-70",
+    "sexe": "Woman",
+    "spotname": "Singliser See",
+    "sessionboard": "Tabou Rocket 135",
+    "sessionsail": "Ezzy Legacy  7.5",
+    "sessionfin": "not defined -  0",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=401103&uid=24138"
   }
 ]

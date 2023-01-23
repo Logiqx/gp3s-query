@@ -3,6 +3,22 @@
     "rowid": "1",
     "event_id": 771,
     "eventname": "2022 KING OF THE ICE 2022/2023",
+    "speed": 84.760484,
+    "type": "speed_mile",
+    "username": "Boris Ljubt\u0161enko",
+    "ageclass": "Senior (19-35)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Sarve",
+    "sessionboard": "Custom Ice Sled-Al board Custom",
+    "sessionsail": "Neilpryde RS3  5.8",
+    "sessionfin": "Custom ice blade  0",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400623&uid=26037"
+  },
+  {
+    "rowid": "2",
+    "event_id": 771,
+    "eventname": "2022 KING OF THE ICE 2022/2023",
     "speed": 69.242576,
     "type": "speed_mile",
     "username": "Jakub Salek",
@@ -16,7 +32,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=399270&uid=25179"
   },
   {
-    "rowid": "2",
+    "rowid": "3",
     "event_id": 771,
     "eventname": "2022 KING OF THE ICE 2022/2023",
     "speed": 69.20553600000001,
@@ -32,7 +48,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=399295&uid=18026"
   },
   {
-    "rowid": "3",
+    "rowid": "4",
     "event_id": 771,
     "eventname": "2022 KING OF THE ICE 2022/2023",
     "speed": 66.544212,
@@ -48,7 +64,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=399282&uid=23164"
   },
   {
-    "rowid": "4",
+    "rowid": "5",
     "event_id": 771,
     "eventname": "2022 KING OF THE ICE 2022/2023",
     "speed": 65.63858400000001,
@@ -64,7 +80,55 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=401023&uid=26046"
   },
   {
-    "rowid": "5",
+    "rowid": "6",
+    "event_id": 771,
+    "eventname": "2022 KING OF THE ICE 2022/2023",
+    "speed": 53.502428,
+    "type": "speed_mile",
+    "username": "Koit Teder",
+    "ageclass": "Super Master (61-70)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "V\u00f5rtsj\u00e4rv",
+    "sessionboard": "- Custom   Viljandi",
+    "sessionsail": "GA-sails Phantom  6.4",
+    "sessionfin": "Custom ice blade  0",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=401114&uid=25187"
+  },
+  {
+    "rowid": "7",
+    "event_id": 771,
+    "eventname": "2022 KING OF THE ICE 2022/2023",
+    "speed": 52.507904,
+    "type": "speed_mile",
+    "username": "Henrik M\u00e5rd",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Drevviken",
+    "sessionboard": "Custom M\u00e5rdboard 4.1",
+    "sessionsail": "Neilpryde RS Racing EVO 2  7.0",
+    "sessionfin": "Custom ice blade  0",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=399816&uid=1468"
+  },
+  {
+    "rowid": "8",
+    "event_id": 771,
+    "eventname": "2022 KING OF THE ICE 2022/2023",
+    "speed": 49.461364,
+    "type": "speed_mile",
+    "username": "Rob Myles",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "61-70",
+    "sexe": "Men",
+    "spotname": "Lake Wentworth",
+    "sessionboard": "Custom Carbon Freeskate",
+    "sessionsail": "Sailworks Flyer  3.9",
+    "sessionfin": "Custom ice blade  0",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=401047&uid=24421"
+  },
+  {
+    "rowid": "9",
     "event_id": 771,
     "eventname": "2022 KING OF THE ICE 2022/2023",
     "speed": 47.913092,
@@ -80,7 +144,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400653&uid=26620"
   },
   {
-    "rowid": "6",
+    "rowid": "10",
     "event_id": 771,
     "eventname": "2022 KING OF THE ICE 2022/2023",
     "speed": 47.63158800000001,
@@ -96,7 +160,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=399216&uid=994"
   },
   {
-    "rowid": "7",
+    "rowid": "11",
     "event_id": 771,
     "eventname": "2022 KING OF THE ICE 2022/2023",
     "speed": 44.11464,
@@ -112,7 +176,71 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=399214&uid=4058"
   },
   {
-    "rowid": "8",
+    "rowid": "12",
+    "event_id": 771,
+    "eventname": "2022 KING OF THE ICE 2022/2023",
+    "speed": 41.51258,
+    "type": "speed_mile",
+    "username": "Toomas Kasenurm",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "P\u00e4rnu rand",
+    "sessionboard": "Custom Custom",
+    "sessionsail": "Gaastra Cross  4.2",
+    "sessionfin": "Custom ice blade  0",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=401040&uid=4527"
+  },
+  {
+    "rowid": "13",
+    "event_id": 771,
+    "eventname": "2022 KING OF THE ICE 2022/2023",
+    "speed": 39.084608,
+    "type": "speed_mile",
+    "username": "Fons van den Hove",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "P\u00e4rnu rand",
+    "sessionboard": "Custom Skis",
+    "sessionsail": "- Custom Speed  4.4",
+    "sessionfin": "Custom ice blade  0",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400504&uid=24311"
+  },
+  {
+    "rowid": "14",
+    "event_id": 771,
+    "eventname": "2022 KING OF THE ICE 2022/2023",
+    "speed": 38.77162,
+    "type": "speed_mile",
+    "username": "Thomas Barr\u00e9",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "91-100",
+    "sexe": "Men",
+    "spotname": "Vallentunasj\u00f6n",
+    "sessionboard": "not defined ",
+    "sessionsail": "Neilpryde Combat  5.3",
+    "sessionfin": "Custom ice blade  0",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400971&uid=24627"
+  },
+  {
+    "rowid": "15",
+    "event_id": 771,
+    "eventname": "2022 KING OF THE ICE 2022/2023",
+    "speed": 38.390108,
+    "type": "speed_mile",
+    "username": "Tobias Bodin",
+    "ageclass": "Master (36-50)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Altasjon, Stockholm",
+    "sessionboard": "Custom Sharp4",
+    "sessionsail": "Loftsails PureLip  4.7",
+    "sessionfin": "Custom ice blade  0",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=399966&uid=5893"
+  },
+  {
+    "rowid": "16",
     "event_id": 771,
     "eventname": "2022 KING OF THE ICE 2022/2023",
     "speed": 33.411932,
@@ -128,39 +256,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=399195&uid=24740"
   },
   {
-    "rowid": "9",
-    "event_id": 771,
-    "eventname": "2022 KING OF THE ICE 2022/2023",
-    "speed": 30.435768000000003,
-    "type": "speed_mile",
-    "username": "Thomas Barr\u00e9",
-    "ageclass": "Grand Master (51-60)",
-    "weightclass": "91-100",
-    "sexe": "Men",
-    "spotname": "Vallentunasj\u00f6n",
-    "sessionboard": "not defined ",
-    "sessionsail": "Goya Mark 2  6.6",
-    "sessionfin": "Custom ice blade  0",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400300&uid=24627"
-  },
-  {
-    "rowid": "10",
-    "event_id": 771,
-    "eventname": "2022 KING OF THE ICE 2022/2023",
-    "speed": 27.268848000000002,
-    "type": "speed_mile",
-    "username": "Toomas Kasenurm",
-    "ageclass": "Grand Master (51-60)",
-    "weightclass": "81-90",
-    "sexe": "Men",
-    "spotname": "P\u00e4rnu rand",
-    "sessionboard": "Custom Custom",
-    "sessionsail": "Gaastra Cross  5.2",
-    "sessionfin": "Custom ice blade  0",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400487&uid=4527"
-  },
-  {
-    "rowid": "11",
+    "rowid": "17",
     "event_id": 771,
     "eventname": "2022 KING OF THE ICE 2022/2023",
     "speed": 0.0,
@@ -176,7 +272,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=399238&uid=6348"
   },
   {
-    "rowid": "12",
+    "rowid": "18",
     "event_id": 771,
     "eventname": "2022 KING OF THE ICE 2022/2023",
     "speed": 0.0,
@@ -187,12 +283,12 @@
     "sexe": "Men",
     "spotname": "Veluwemeer - Nunspeet/Polsmaten",
     "sessionboard": "Custom  JB Iceboard",
-    "sessionsail": "Point-7 ACX  4.7",
+    "sessionsail": "Loftsails oxygen  5.8",
     "sessionfin": "Custom ice blade  0",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=399251&uid=102"
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=399215&uid=102"
   },
   {
-    "rowid": "13",
+    "rowid": "19",
     "event_id": 771,
     "eventname": "2022 KING OF THE ICE 2022/2023",
     "speed": 0.0,

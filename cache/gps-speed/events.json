@@ -1,4 +1,19 @@
 {
+  "788": {
+    "eventname": "2023 Test Event TEST TEST ",
+    "start_date": "2023-01-01T00:00:00",
+    "end_date": "2023-02-01T00:00:00"
+  },
+  "787": {
+    "eventname": "2023 Surf like a dude Zuidlaardermeer Speed Challenge 2023",
+    "start_date": "2023-01-01T00:00:00",
+    "end_date": "2024-01-01T00:00:00"
+  },
+  "784": {
+    "eventname": "2023 FFF SPEED CHALLENGE",
+    "start_date": "2023-01-01T00:00:00",
+    "end_date": "2023-12-31T00:00:00"
+  },
   "780": {
     "eventname": "2023 2023\u00a0Mauritius Speed Challenge",
     "start_date": "2023-01-01T00:00:00",

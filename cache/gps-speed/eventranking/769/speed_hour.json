@@ -206,37 +206,5 @@
     "sessionsail": "Patrik Race+  5.2",
     "sessionfin": "Feine Finnen BEAST ASY S  20",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400243&uid=5456"
-  },
-  {
-    "rowid": "14",
-    "event_id": 769,
-    "eventname": "2023 Surf-Forum-One-Hour Challenge 2023",
-    "speed": 4.70408,
-    "type": "speed_hour",
-    "username": "Thomas Moldenhauer",
-    "ageclass": "Super Master (61-70)",
-    "weightclass": "81-90",
-    "sexe": "Men",
-    "spotname": "ouddorp Haven",
-    "sessionboard": "AV Modena Speed 45",
-    "sessionsail": "Point-7 AC1 speed  5.0",
-    "sessionfin": "Z-fins SPA S  21",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400155&uid=24163"
-  },
-  {
-    "rowid": "15",
-    "event_id": 769,
-    "eventname": "2023 Surf-Forum-One-Hour Challenge 2023",
-    "speed": 1.852,
-    "type": "speed_hour",
-    "username": "Alexander Burger",
-    "ageclass": "Grand Master (51-60)",
-    "weightclass": "91-100",
-    "sexe": "Men",
-    "spotname": "Malcesine",
-    "sessionboard": "Flikka Freewave",
-    "sessionsail": "Point-7 ACK-Pro  7.1",
-    "sessionfin": "Bugfins Slem  39",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=398631&uid=26575"
   }
 ]
