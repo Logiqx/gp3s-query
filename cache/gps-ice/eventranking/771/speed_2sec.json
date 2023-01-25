@@ -155,9 +155,9 @@
     "sexe": "Men",
     "spotname": "V\u00f5rtsj\u00e4rv",
     "sessionboard": "- Custom   Viljandi",
-    "sessionsail": "GA-sails Phantom  6.4",
+    "sessionsail": "Gaastra Phantom   7.1",
     "sessionfin": "Custom ice blade  0",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=401114&uid=25187"
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=401129&uid=25187"
   },
   {
     "rowid": "11",
@@ -275,7 +275,7 @@
     "rowid": "18",
     "event_id": 771,
     "eventname": "2022 KING OF THE ICE 2022/2023",
-    "speed": 45.10731200000001,
+    "speed": 49.139116,
     "type": "speed_2sec",
     "username": "Tommy Gustavsson",
     "ageclass": "Super Master (61-70)",
@@ -285,7 +285,7 @@
     "sessionboard": "Hiberna 4 runner",
     "sessionsail": "XO-Sails Shark  4.7",
     "sessionfin": "Custom ice blade  0",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=399195&uid=24740"
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=401183&uid=24740"
   },
   {
     "rowid": "19",

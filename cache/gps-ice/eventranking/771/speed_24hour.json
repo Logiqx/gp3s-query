@@ -5,22 +5,6 @@
     "eventname": "2022 KING OF THE ICE 2022/2023",
     "speed": 0.0,
     "type": "speed_24hour",
-    "username": "Koit Teder",
-    "ageclass": "Super Master (61-70)",
-    "weightclass": "81-90",
-    "sexe": "Men",
-    "spotname": "V\u00f5rtsj\u00e4rv",
-    "sessionboard": "- Custom   Viljandi",
-    "sessionsail": "GA-sails Phantom  6.4",
-    "sessionfin": "Custom ice blade  0",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=401114&uid=25187"
-  },
-  {
-    "rowid": "2",
-    "event_id": 771,
-    "eventname": "2022 KING OF THE ICE 2022/2023",
-    "speed": 0.0,
-    "type": "speed_24hour",
     "username": "Raido Ruse",
     "ageclass": "Master (36-50)",
     "weightclass": "91-100",
@@ -32,7 +16,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400653&uid=26620"
   },
   {
-    "rowid": "3",
+    "rowid": "2",
     "event_id": 771,
     "eventname": "2022 KING OF THE ICE 2022/2023",
     "speed": 0.0,
@@ -48,7 +32,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=401023&uid=26046"
   },
   {
-    "rowid": "4",
+    "rowid": "3",
     "event_id": 771,
     "eventname": "2022 KING OF THE ICE 2022/2023",
     "speed": 0.0,
@@ -62,6 +46,22 @@
     "sessionsail": "Neilpryde RS3  5.8",
     "sessionfin": "Custom ice blade  0",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=401003&uid=26037"
+  },
+  {
+    "rowid": "4",
+    "event_id": 771,
+    "eventname": "2022 KING OF THE ICE 2022/2023",
+    "speed": 0.0,
+    "type": "speed_24hour",
+    "username": "Koit Teder",
+    "ageclass": "Super Master (61-70)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "V\u00f5rtsj\u00e4rv",
+    "sessionboard": "- Custom   Viljandi",
+    "sessionsail": "GA-sails Phantom  6.4",
+    "sessionfin": "Custom ice blade  0",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=401128&uid=25187"
   },
   {
     "rowid": "5",

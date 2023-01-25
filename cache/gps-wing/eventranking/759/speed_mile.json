@@ -131,22 +131,6 @@
     "rowid": "9",
     "event_id": 759,
     "eventname": "2022 British Wingfoil Challenge 2023",
-    "speed": 13.165868000000001,
-    "type": "speed_mile",
-    "username": "Matthew York",
-    "ageclass": "Grand Master (51-60)",
-    "weightclass": "91-100",
-    "sexe": "Men",
-    "spotname": "Pitsford Reservoir",
-    "sessionboard": "Simmer G6 Blackbird",
-    "sessionsail": "Slingshot Wing v2  6.4",
-    "sessionfin": "not defined blackbird surf  85",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400387&uid=4312"
-  },
-  {
-    "rowid": "10",
-    "event_id": 759,
-    "eventname": "2022 British Wingfoil Challenge 2023",
     "speed": 0.0,
     "type": "speed_mile",
     "username": "Anthony York",
@@ -155,8 +139,8 @@
     "sexe": "Men",
     "spotname": "Pitsford Reservoir",
     "sessionboard": "Simmer G6 Blackbird",
-    "sessionsail": "Simmer Sails Wing  5.0",
+    "sessionsail": "Slingshot Wing v2  4.0",
     "sessionfin": "- Simmer Blackbird Surf 75 Foil  750",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=395091&uid=26442"
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=395095&uid=26442"
   }
 ]

@@ -90,10 +90,10 @@
     "weightclass": "91-100",
     "sexe": "Men",
     "spotname": "Manukau Harbour, Clarks Beach",
-    "sessionboard": "Starboard Foil 147 UltraCore Reflex Carbon",
-    "sessionsail": "Severne Mach2  8.6",
-    "sessionfin": "C3 Drake Venom  54",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389596&uid=23731"
+    "sessionboard": "Starboard Futura",
+    "sessionsail": "Severne OverdriveMach1  7.0",
+    "sessionfin": "MFC G-10  44",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400604&uid=23731"
   },
   {
     "rowid": "7",
@@ -106,10 +106,10 @@
     "weightclass": "71-80",
     "sexe": "Men",
     "spotname": "Shoal Bay, Auckland",
-    "sessionboard": "Starboard iSonic 87 Carbon",
+    "sessionboard": "Fanatic Falcon 80",
     "sessionsail": "Neilpryde RS Racing EVO 5  5.8",
     "sessionfin": "Select Hotrod  29",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=388860&uid=5968"
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=387441&uid=5968"
   },
   {
     "rowid": "8",
@@ -124,8 +124,8 @@
     "spotname": "Shoal Bay, Auckland",
     "sessionboard": "Carbon Art Slalom Pro 72",
     "sessionsail": "Duotone Warp_fin 20.22  7.8",
-    "sessionfin": "- Team10 Slalom  37",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=397725&uid=4364"
+    "sessionfin": "- Team10 Slalom  38",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=396794&uid=4364"
   },
   {
     "rowid": "9",
@@ -137,10 +137,10 @@
     "ageclass": "Grand Master (51-60)",
     "weightclass": "91-100",
     "sexe": "Men",
-    "spotname": "Musick Point",
-    "sessionboard": "PATRIK Slalom 115 V5",
-    "sessionsail": "Severne Mach 4  7.0",
-    "sessionfin": "Meanline KRF Rebel Slalom/Speed  39",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=387434&uid=881"
+    "spotname": "Tamaki River, Auckland",
+    "sessionboard": "Starboard Isonic 134 Carbon",
+    "sessionsail": "Severne Mach4  8.6",
+    "sessionfin": "Custom ERD Evo  46",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390636&uid=881"
   }
 ]

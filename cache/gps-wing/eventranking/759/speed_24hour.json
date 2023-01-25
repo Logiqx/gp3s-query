@@ -5,6 +5,22 @@
     "eventname": "2022 British Wingfoil Challenge 2023",
     "speed": 0.0,
     "type": "speed_24hour",
+    "username": "Anthony York",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Pitsford Reservoir",
+    "sessionboard": "Simmer G6 Blackbird",
+    "sessionsail": "Slingshot Wing v2  4.0",
+    "sessionfin": "- Simmer Blackbird Surf 75 Foil  750",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=395095&uid=26442"
+  },
+  {
+    "rowid": "2",
+    "event_id": 759,
+    "eventname": "2022 British Wingfoil Challenge 2023",
+    "speed": 0.0,
+    "type": "speed_24hour",
     "username": "Denis Gordo",
     "ageclass": "Master (36-50)",
     "weightclass": "81-90",
@@ -16,22 +32,6 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=396086&uid=24191"
   },
   {
-    "rowid": "2",
-    "event_id": 759,
-    "eventname": "2022 British Wingfoil Challenge 2023",
-    "speed": 0.0,
-    "type": "speed_24hour",
-    "username": "Anthony York",
-    "ageclass": "Grand Master (51-60)",
-    "weightclass": "81-90",
-    "sexe": "Men",
-    "spotname": "Pitsford Reservoir",
-    "sessionboard": "Simmer G6 Blackbird",
-    "sessionsail": "Simmer Sails Wing  5.0",
-    "sessionfin": "- Simmer Blackbird Surf 75 Foil  750",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=395091&uid=26442"
-  },
-  {
     "rowid": "3",
     "event_id": 759,
     "eventname": "2022 British Wingfoil Challenge 2023",
@@ -41,11 +41,11 @@
     "ageclass": "Senior (19-35)",
     "weightclass": "81-90",
     "sexe": "Men",
-    "spotname": "Pitsford Reservoir",
+    "spotname": "Portland Harbour, Weymouth",
     "sessionboard": "- SkyWing",
-    "sessionsail": "- Hyde Blast v2  5.0",
+    "sessionsail": "- Hyde Blast V2  6.0",
     "sessionfin": "- Gong Ypra L  1000",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=395776&uid=23343"
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=396782&uid=23343"
   },
   {
     "rowid": "4",
@@ -57,11 +57,11 @@
     "ageclass": "Grand Master (51-60)",
     "weightclass": "81-90",
     "sexe": "Men",
-    "spotname": "Point Clear",
+    "spotname": "West Mersea",
     "sessionboard": "RRD Pocket Rocket",
-    "sessionsail": "RRD EVO WING   5.5",
+    "sessionsail": "RRD EVO Wing   4.5",
     "sessionfin": "RRD Dynamic ALU Wing Foil  1700",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=395417&uid=21720"
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=394674&uid=21720"
   },
   {
     "rowid": "5",
@@ -92,8 +92,8 @@
     "spotname": "Portland Harbour, Weymouth",
     "sessionboard": "Blue Fox Boards Wing",
     "sessionsail": "PPC Surge  3.8",
-    "sessionfin": "Mikeslab Bullet 3  104",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=399248&uid=5799"
+    "sessionfin": "Axis Axis ART  102",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=398765&uid=5799"
   },
   {
     "rowid": "7",
@@ -106,10 +106,10 @@
     "weightclass": "91-100",
     "sexe": "Men",
     "spotname": "Pitsford Reservoir",
-    "sessionboard": "Simmer G6 Blackbird",
+    "sessionboard": "Simmer G5 Blackbird",
     "sessionsail": "Slingshot Wing v2  6.4",
-    "sessionfin": "not defined blackbird surf  85",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=395773&uid=4312"
+    "sessionfin": "Z-fins Asy   20",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=395375&uid=4312"
   },
   {
     "rowid": "8",
@@ -121,11 +121,11 @@
     "ageclass": "Grand Master (51-60)",
     "weightclass": "81-90",
     "sexe": "Men",
-    "spotname": "Avon Beach",
+    "spotname": "Portland Harbour, Weymouth",
     "sessionboard": "Fanatic sky wing",
     "sessionsail": "Duotone Slick SLS  5.0",
     "sessionfin": "Fanatic Carve  82",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=396027&uid=2868"
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=396476&uid=2868"
   },
   {
     "rowid": "9",

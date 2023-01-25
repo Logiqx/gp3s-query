@@ -14,53 +14,5 @@
     "sessionsail": "Gun Sails GSR  7.7",
     "sessionfin": "Maui Ultra Fins Slalom pro Carbon   36",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400907&uid=26495"
-  },
-  {
-    "rowid": "2",
-    "event_id": 769,
-    "eventname": "2023 Surf-Forum-One-Hour Challenge 2023",
-    "speed": 0.0,
-    "type": "speed_24hour",
-    "username": "Steve Brown",
-    "ageclass": "Ultimate Master (71-99)",
-    "weightclass": "61-70",
-    "sexe": "Men",
-    "spotname": "Coodanup",
-    "sessionboard": "JP slalom speed 54",
-    "sessionsail": "Severne Mach 3  5.0",
-    "sessionfin": "Tribal Fin delta  18",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400715&uid=25106"
-  },
-  {
-    "rowid": "3",
-    "event_id": 769,
-    "eventname": "2023 Surf-Forum-One-Hour Challenge 2023",
-    "speed": 0.0,
-    "type": "speed_24hour",
-    "username": "Tim Kr\u00f6ner",
-    "ageclass": "Senior (19-35)",
-    "weightclass": "71-80",
-    "sexe": "Men",
-    "spotname": "Grevelingenmeer - De Punt",
-    "sessionboard": "Starboard Isonic 90 Carbon",
-    "sessionsail": "Neilpryde Evo11  5.6",
-    "sessionfin": "MS-Fins R2  32",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400433&uid=25243"
-  },
-  {
-    "rowid": "4",
-    "event_id": 769,
-    "eventname": "2023 Surf-Forum-One-Hour Challenge 2023",
-    "speed": 0.0,
-    "type": "speed_24hour",
-    "username": "Ant Dunn",
-    "ageclass": "Grand Master (51-60)",
-    "weightclass": "81-90",
-    "sexe": "Men",
-    "spotname": "Albany Lilacs",
-    "sessionboard": "Mistral Speed 47",
-    "sessionsail": "Simmer Sails scr  6.3",
-    "sessionfin": "Tribal Fin Delta weed  16",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400251&uid=24518"
   }
 ]

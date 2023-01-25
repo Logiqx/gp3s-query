@@ -174,5 +174,21 @@
     "sessionsail": "Severne Reflex R8  5.7",
     "sessionfin": "Select S1 Slam Evo  33",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400881&uid=21736"
+  },
+  {
+    "rowid": "12",
+    "event_id": 777,
+    "eventname": "2023 gpskraaijchallenge",
+    "speed": 0.0,
+    "type": "speed_hour",
+    "username": "Nils Duindam",
+    "ageclass": "Super Master (61-70)",
+    "weightclass": "61-70",
+    "sexe": "Men",
+    "spotname": "Kraaijenbergse plassen",
+    "sessionboard": "Fanatic falcon slalom 110",
+    "sessionsail": "Phantom IRIS R mk2  6.5",
+    "sessionfin": "F-Hot S3  38",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400727&uid=4058"
   }
 ]

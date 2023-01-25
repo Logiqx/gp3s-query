@@ -3,17 +3,17 @@
     "rowid": "1",
     "event_id": 776,
     "eventname": "2023 Norwegian speedmaster - 2023",
-    "speed": 54.487692,
+    "speed": 54.79697600000001,
     "type": "speed_100",
     "username": "Stian Johnsen",
     "ageclass": "Master (36-50)",
     "weightclass": "81-90",
     "sexe": "Men",
     "spotname": "\u00c5shavn",
-    "sessionboard": "JP 85",
-    "sessionsail": "S2 Maui Venom  8.2",
-    "sessionfin": "Select Rhino  45",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=401048&uid=25696"
+    "sessionboard": "PATRIK Slalom 115",
+    "sessionsail": "KA Sails race  7.7",
+    "sessionfin": "Z-fins SLM s-  37",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=401192&uid=25696"
   },
   {
     "rowid": "2",
@@ -35,6 +35,22 @@
     "rowid": "3",
     "event_id": 776,
     "eventname": "2023 Norwegian speedmaster - 2023",
+    "speed": 44.359104,
+    "type": "speed_100",
+    "username": "Lars Gimse",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "91-100",
+    "sexe": "Men",
+    "spotname": "Langnes, Troms\u00f8",
+    "sessionboard": "Tabou Rocket 80",
+    "sessionsail": "Severne Mach 1  8.6",
+    "sessionfin": "not defined -  0",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=401172&uid=24085"
+  },
+  {
+    "rowid": "4",
+    "event_id": 776,
+    "eventname": "2023 Norwegian speedmaster - 2023",
     "speed": 43.659048000000006,
     "type": "speed_100",
     "username": "Stig Bremerthun Sv\u00e5sand",
@@ -48,7 +64,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400317&uid=25195"
   },
   {
-    "rowid": "4",
+    "rowid": "5",
     "event_id": 776,
     "eventname": "2023 Norwegian speedmaster - 2023",
     "speed": 42.838612000000005,
@@ -64,7 +80,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400458&uid=26414"
   },
   {
-    "rowid": "5",
+    "rowid": "6",
     "event_id": 776,
     "eventname": "2023 Norwegian speedmaster - 2023",
     "speed": 41.96632,
@@ -78,22 +94,6 @@
     "sessionsail": "Gaastra matrix  6.5",
     "sessionfin": "Black Project Fins Epic Freewave Thruster  185",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400457&uid=24361"
-  },
-  {
-    "rowid": "6",
-    "event_id": 776,
-    "eventname": "2023 Norwegian speedmaster - 2023",
-    "speed": 37.903032,
-    "type": "speed_100",
-    "username": "Lars Gimse",
-    "ageclass": "Grand Master (51-60)",
-    "weightclass": "91-100",
-    "sexe": "Men",
-    "spotname": "Langnes, Troms\u00f8",
-    "sessionboard": "Tabou Rocket 80",
-    "sessionsail": "not defined   0.0",
-    "sessionfin": "not defined -  0",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=401081&uid=24085"
   },
   {
     "rowid": "7",

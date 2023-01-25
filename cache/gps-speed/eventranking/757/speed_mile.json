@@ -83,22 +83,6 @@
     "rowid": "6",
     "event_id": 757,
     "eventname": "2022 Auckland Windsurfing Association Speed Challenge",
-    "speed": 33.361928,
-    "type": "speed_mile",
-    "username": "Bryan Morrison",
-    "ageclass": "Grand Master (51-60)",
-    "weightclass": "71-80",
-    "sexe": "Men",
-    "spotname": "Shoal Bay, Auckland",
-    "sessionboard": "Starboard iSonic 87 Carbon",
-    "sessionsail": "Neilpryde RS Racing EVO 5  5.8",
-    "sessionfin": "Select Hotrod  29",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400238&uid=5968"
-  },
-  {
-    "rowid": "7",
-    "event_id": 757,
-    "eventname": "2022 Auckland Windsurfing Association Speed Challenge",
     "speed": 0.0,
     "type": "speed_mile",
     "username": "Onno le Roy",
@@ -112,7 +96,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=397784&uid=26016"
   },
   {
-    "rowid": "8",
+    "rowid": "7",
     "event_id": 757,
     "eventname": "2022 Auckland Windsurfing Association Speed Challenge",
     "speed": 0.0,
@@ -128,7 +112,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=395254&uid=25194"
   },
   {
-    "rowid": "9",
+    "rowid": "8",
     "event_id": 757,
     "eventname": "2022 Auckland Windsurfing Association Speed Challenge",
     "speed": 0.0,
@@ -144,7 +128,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=399106&uid=23755"
   },
   {
-    "rowid": "10",
+    "rowid": "9",
     "event_id": 757,
     "eventname": "2022 Auckland Windsurfing Association Speed Challenge",
     "speed": 0.0,
@@ -154,9 +138,9 @@
     "weightclass": "91-100",
     "sexe": "Men",
     "spotname": "Manukau Harbour, Clarks Beach",
-    "sessionboard": "Starboard Foil 147 UltraCore Reflex Carbon",
-    "sessionsail": "Severne Mach2  8.6",
-    "sessionfin": "C3 Drake Venom  54",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389596&uid=23731"
+    "sessionboard": "Starboard Futura",
+    "sessionsail": "Severne OverdriveMach1  7.0",
+    "sessionfin": "MFC G-10  44",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400604&uid=23731"
   }
 ]
