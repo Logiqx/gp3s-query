@@ -35,6 +35,22 @@
     "rowid": "3",
     "event_id": 776,
     "eventname": "2023 Norwegian speedmaster - 2023",
+    "speed": 46.6433608,
+    "type": "speed_avg",
+    "username": "K\u00e5re Christoffer Vestrheim",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "M\u00f8vik",
+    "sessionboard": "Starboard I-Sonic 137 Ultra Core Hybrid Carbon",
+    "sessionsail": "Severne Mach2  8.6",
+    "sessionfin": "F-Hot RWS-3  44",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=401197&uid=24361"
+  },
+  {
+    "rowid": "4",
+    "event_id": 776,
+    "eventname": "2023 Norwegian speedmaster - 2023",
     "speed": 41.82779040000001,
     "type": "speed_avg",
     "username": "Stig Bremerthun Sv\u00e5sand",
@@ -48,7 +64,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400473&uid=25195"
   },
   {
-    "rowid": "4",
+    "rowid": "5",
     "event_id": 776,
     "eventname": "2023 Norwegian speedmaster - 2023",
     "speed": 40.95698000000001,
@@ -62,22 +78,6 @@
     "sessionsail": "Severne Gator  5.5",
     "sessionfin": "not defined -  0",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400458&uid=26414"
-  },
-  {
-    "rowid": "5",
-    "event_id": 776,
-    "eventname": "2023 Norwegian speedmaster - 2023",
-    "speed": 40.679550400000004,
-    "type": "speed_avg",
-    "username": "K\u00e5re Christoffer Vestrheim",
-    "ageclass": "Grand Master (51-60)",
-    "weightclass": "81-90",
-    "sexe": "Men",
-    "spotname": "\u00d8rekroken",
-    "sessionboard": "RRD Freestyle Wave LTD Y26",
-    "sessionsail": "Gaastra Wave  5.4",
-    "sessionfin": "Maui Fin Co Multi fin/ thruster  19",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400842&uid=24361"
   },
   {
     "rowid": "6",

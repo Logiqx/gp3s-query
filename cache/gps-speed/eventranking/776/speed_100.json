@@ -35,6 +35,22 @@
     "rowid": "3",
     "event_id": 776,
     "eventname": "2023 Norwegian speedmaster - 2023",
+    "speed": 48.381648,
+    "type": "speed_100",
+    "username": "K\u00e5re Christoffer Vestrheim",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "M\u00f8vik",
+    "sessionboard": "Starboard I-Sonic 137 Ultra Core Hybrid Carbon",
+    "sessionsail": "Severne Mach2  8.6",
+    "sessionfin": "F-Hot RWS-3  44",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=401197&uid=24361"
+  },
+  {
+    "rowid": "4",
+    "event_id": 776,
+    "eventname": "2023 Norwegian speedmaster - 2023",
     "speed": 44.359104,
     "type": "speed_100",
     "username": "Lars Gimse",
@@ -48,7 +64,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=401172&uid=24085"
   },
   {
-    "rowid": "4",
+    "rowid": "5",
     "event_id": 776,
     "eventname": "2023 Norwegian speedmaster - 2023",
     "speed": 43.659048000000006,
@@ -64,7 +80,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400317&uid=25195"
   },
   {
-    "rowid": "5",
+    "rowid": "6",
     "event_id": 776,
     "eventname": "2023 Norwegian speedmaster - 2023",
     "speed": 42.838612000000005,
@@ -78,22 +94,6 @@
     "sessionsail": "Severne Gator  5.5",
     "sessionfin": "not defined -  0",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400458&uid=26414"
-  },
-  {
-    "rowid": "6",
-    "event_id": 776,
-    "eventname": "2023 Norwegian speedmaster - 2023",
-    "speed": 41.96632,
-    "type": "speed_100",
-    "username": "K\u00e5re Christoffer Vestrheim",
-    "ageclass": "Grand Master (51-60)",
-    "weightclass": "81-90",
-    "sexe": "Men",
-    "spotname": "M\u00f8vik",
-    "sessionboard": "RRD Freestyle Wave LTD Y26",
-    "sessionsail": "Gaastra matrix  6.5",
-    "sessionfin": "Black Project Fins Epic Freewave Thruster  185",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400457&uid=24361"
   },
   {
     "rowid": "7",

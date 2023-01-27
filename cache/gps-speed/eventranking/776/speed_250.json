@@ -35,6 +35,22 @@
     "rowid": "3",
     "event_id": 776,
     "eventname": "2023 Norwegian speedmaster - 2023",
+    "speed": 46.307408,
+    "type": "speed_250",
+    "username": "K\u00e5re Christoffer Vestrheim",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "M\u00f8vik",
+    "sessionboard": "Starboard I-Sonic 137 Ultra Core Hybrid Carbon",
+    "sessionsail": "Severne Mach2  8.6",
+    "sessionfin": "F-Hot RWS-3  44",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=401197&uid=24361"
+  },
+  {
+    "rowid": "4",
+    "event_id": 776,
+    "eventname": "2023 Norwegian speedmaster - 2023",
     "speed": 42.342276,
     "type": "speed_250",
     "username": "Lars Gimse",
@@ -48,7 +64,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=401172&uid=24085"
   },
   {
-    "rowid": "4",
+    "rowid": "5",
     "event_id": 776,
     "eventname": "2023 Norwegian speedmaster - 2023",
     "speed": 40.964388,
@@ -62,22 +78,6 @@
     "sessionsail": "Severne NCX  6.0",
     "sessionfin": "Z-fins SLM S-  39",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400473&uid=25195"
-  },
-  {
-    "rowid": "5",
-    "event_id": 776,
-    "eventname": "2023 Norwegian speedmaster - 2023",
-    "speed": 40.85326800000001,
-    "type": "speed_250",
-    "username": "K\u00e5re Christoffer Vestrheim",
-    "ageclass": "Grand Master (51-60)",
-    "weightclass": "81-90",
-    "sexe": "Men",
-    "spotname": "M\u00f8vik",
-    "sessionboard": "RRD Freestyle Wave LTD Y26",
-    "sessionsail": "Gaastra matrix  6.5",
-    "sessionfin": "Black Project Fins Epic Freewave Thruster  185",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400457&uid=24361"
   },
   {
     "rowid": "6",

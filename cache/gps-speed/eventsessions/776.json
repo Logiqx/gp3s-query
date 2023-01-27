@@ -336,5 +336,31 @@
     "sessionsail": "KA Sails race 7.7,  2021",
     "sessionfin": "Z-fins SLM s-  37",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=401192&uid=25696"
+  },
+  {
+    "session_id": 401197,
+    "session_date": "1/25/2023 12:00:00 AM",
+    "event_id": 776,
+    "eventname": "2023 Norwegian speedmaster - 2023",
+    "speed_avg": 46.6433608,
+    "speed_2sec": 54.19507600000001,
+    "speed_10sec": 47.863088000000005,
+    "speed_100": 48.381648,
+    "speed_250": 46.307408,
+    "speed_500": 45.172132,
+    "speed_mile": 37.49374,
+    "speed_hour": 8.71366,
+    "speed_halfhour": 20.368296,
+    "speed_24hour": 0.0,
+    "speed_alpha_racing": 34.574988000000005,
+    "session_distance": 10.216602,
+    "username": "K\u00e5re Christoffer Vestrheim",
+    "flag": "NO",
+    "sexe": "Men",
+    "spotname": "M\u00f8vik",
+    "sessionboard": "Starboard I-Sonic 137 Ultra Core Hybrid Carbon,  2017",
+    "sessionsail": "Severne Mach2 8.6,  2019",
+    "sessionfin": "F-Hot RWS-3  44",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=401197&uid=24361"
   }
 ]

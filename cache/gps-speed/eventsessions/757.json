@@ -2286,5 +2286,31 @@
     "sessionsail": "Severne Mach4 8.6,  2021",
     "sessionfin": "Custom ERD Evo  46",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=401140&uid=881"
+  },
+  {
+    "session_id": 401208,
+    "session_date": "1/26/2023 12:00:00 AM",
+    "event_id": 757,
+    "eventname": "2022 Auckland Windsurfing Association Speed Challenge",
+    "speed_avg": 56.69898,
+    "speed_2sec": 60.86598000000001,
+    "speed_10sec": 57.137904000000006,
+    "speed_100": 58.565796000000006,
+    "speed_250": 56.169308,
+    "speed_500": 53.82838,
+    "speed_mile": 0.0,
+    "speed_hour": 9.448904,
+    "speed_halfhour": 11.389800000000001,
+    "speed_24hour": 0.0,
+    "speed_alpha_racing": 0.0,
+    "session_distance": 9.684968000000001,
+    "username": "Dave Harnett",
+    "flag": "NZ",
+    "sexe": "Men",
+    "spotname": "Farm Cove Pakuranga",
+    "sessionboard": "RRD X-Fire LTD V7 98,  2015",
+    "sessionsail": "Severne Mach3 6.2,  2020",
+    "sessionfin": "MFC KP-RC 320  32",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=401208&uid=881"
   }
 ]
