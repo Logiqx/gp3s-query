@@ -2,10 +2,11 @@
 
 Summary of issues detected in the GP3S event rankings.
 
-Last refreshed 2023-01-27 09:13:45 UTC.
+Last refreshed 2023-01-29 09:39:58 UTC.
 
 | Event Name | Event ID | Date Issues | Duplicates | Ghosts | Missing | Incorrect | Actions |
 | ---------- | :------: | :---------: | :--------: | :----: | :-----: | :-------: | :-----: |
+| [2023 2023 USA 100m speed challenge](791.md) | 791 | 0 | 0 | 0 | 0 | 0 | 0 |
 | [2023 2023 USA 100m speed challenge](790.md) | 790 | 0 | 0 | 0 | 0 | 0 | 0 |
 | [2023 Surf like a dude Zuidlaardermeer Speed Challenge 2023](787.md) | 787 | 0 | 0 | 0 | 0 | 0 | 0 |
 | [2023 FFF SPEED CHALLENGE](784.md) | 784 | 0 | 0 | 0 | 0 | 0 | 0 |
