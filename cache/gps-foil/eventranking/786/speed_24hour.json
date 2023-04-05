@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "rowid": "1",
+    "event_id": 786,
+    "eventname": "2023 FFF SPEED CHALLENGE",
+    "speed": 0.0,
+    "type": "speed_24hour",
+    "username": "PierreAdam PierreAdam",
+    "ageclass": "Senior (19-35)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "ile grande(22)",
+    "sessionboard": "Exocet RF81",
+    "sessionsail": "Challenger Sails Aero  7.0",
+    "sessionfin": "Phantom IRIS R FW550-Fuselage100-BW175  95",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=403144&uid=26339"
+  },
+  {
+    "rowid": "2",
+    "event_id": 786,
+    "eventname": "2023 FFF SPEED CHALLENGE",
+    "speed": 0.0,
+    "type": "speed_24hour",
+    "username": "S\u00e9bastien Bourgeois",
+    "ageclass": "Senior (19-35)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Fos, 13",
+    "sessionboard": "AHD Compact Foil 83",
+    "sessionsail": "KA Sails speed  5.2",
+    "sessionfin": "- AFS 100 - 105 - 370 / 200  100",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=401603&uid=5223"
+  }
+]

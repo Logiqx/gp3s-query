@@ -3,6 +3,22 @@
     "rowid": "1",
     "event_id": 766,
     "eventname": "2022 BritishWindfoilSpeedChallenge2023",
+    "speed": 34.50276,
+    "type": "speed_hour",
+    "username": "Michael George",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Portland Harbour, Weymouth",
+    "sessionboard": "JP Hydrofoil 150 PRO",
+    "sessionsail": "Neilpryde RS Racing EVO XII  6.6",
+    "sessionfin": "Neilpryde Flight SLR 80  95",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=401606&uid=2640"
+  },
+  {
+    "rowid": "2",
+    "event_id": 766,
+    "eventname": "2022 BritishWindfoilSpeedChallenge2023",
     "speed": 26.976232000000003,
     "type": "speed_hour",
     "username": "Garry Connell",
@@ -16,7 +32,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=397323&uid=18265"
   },
   {
-    "rowid": "2",
+    "rowid": "3",
     "event_id": 766,
     "eventname": "2022 BritishWindfoilSpeedChallenge2023",
     "speed": 26.831776,
@@ -32,7 +48,23 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=395329&uid=3532"
   },
   {
-    "rowid": "3",
+    "rowid": "4",
+    "event_id": 766,
+    "eventname": "2022 BritishWindfoilSpeedChallenge2023",
+    "speed": 26.618796,
+    "type": "speed_hour",
+    "username": "Simon Pettifer",
+    "ageclass": "Master (36-50)",
+    "weightclass": "91-100",
+    "sexe": "Men",
+    "spotname": "El M\u00e9dano",
+    "sessionboard": "Fanatic Falcon Foil TE 188",
+    "sessionsail": "Duotone Warp_Foil 2022  7.9",
+    "sessionfin": "- F4 560  700",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=401839&uid=4276"
+  },
+  {
+    "rowid": "5",
     "event_id": 766,
     "eventname": "2022 BritishWindfoilSpeedChallenge2023",
     "speed": 26.087272000000002,
@@ -48,7 +80,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400501&uid=26661"
   },
   {
-    "rowid": "4",
+    "rowid": "6",
     "event_id": 766,
     "eventname": "2022 BritishWindfoilSpeedChallenge2023",
     "speed": 23.687079999999998,
@@ -64,7 +96,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=394970&uid=21720"
   },
   {
-    "rowid": "5",
+    "rowid": "7",
     "event_id": 766,
     "eventname": "2022 BritishWindfoilSpeedChallenge2023",
     "speed": 19.379328,
@@ -80,23 +112,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=395834&uid=4236"
   },
   {
-    "rowid": "6",
-    "event_id": 766,
-    "eventname": "2022 BritishWindfoilSpeedChallenge2023",
-    "speed": 17.888468000000003,
-    "type": "speed_hour",
-    "username": "Simon Pettifer",
-    "ageclass": "Master (36-50)",
-    "weightclass": "91-100",
-    "sexe": "Men",
-    "spotname": "Portland Harbour, Weymouth",
-    "sessionboard": "Fanatic Falcon Foil TE 188",
-    "sessionsail": "Duotone Warp-vin  6.8",
-    "sessionfin": "- F4 560  700",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=394741&uid=4276"
-  },
-  {
-    "rowid": "7",
+    "rowid": "8",
     "event_id": 766,
     "eventname": "2022 BritishWindfoilSpeedChallenge2023",
     "speed": 0.0,
@@ -112,7 +128,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=396906&uid=23493"
   },
   {
-    "rowid": "8",
+    "rowid": "9",
     "event_id": 766,
     "eventname": "2022 BritishWindfoilSpeedChallenge2023",
     "speed": 0.0,

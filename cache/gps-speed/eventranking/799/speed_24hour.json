@@ -1,0 +1,18 @@
+[
+  {
+    "rowid": "1",
+    "event_id": 799,
+    "eventname": "2023 USA 100m speed challenge",
+    "speed": 0.0,
+    "type": "speed_24hour",
+    "username": "Alexander Sosnin",
+    "ageclass": "Ultimate Master (71-99)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Stuart Causeway",
+    "sessionboard": "Starboard Isonic 134 Carbon",
+    "sessionsail": "Duotone Warp  7.0",
+    "sessionfin": "Vector Fins Volt  46",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400228&uid=5774"
+  }
+]

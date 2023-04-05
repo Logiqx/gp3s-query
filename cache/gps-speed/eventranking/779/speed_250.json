@@ -35,6 +35,22 @@
     "rowid": "3",
     "event_id": 779,
     "eventname": "2023 Singlis Speedchallenge 2023",
+    "speed": 48.21311600000001,
+    "type": "speed_250",
+    "username": "Juergen Wittig",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Singliser See",
+    "sessionboard": "Tabou Rocket 145 LTD",
+    "sessionsail": "Gun Sails Vector  7.1",
+    "sessionfin": "Maui Ultra Fins Slalom Weed  36",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=403211&uid=11612"
+  },
+  {
+    "rowid": "4",
+    "event_id": 779,
+    "eventname": "2023 Singlis Speedchallenge 2023",
     "speed": 47.796416,
     "type": "speed_250",
     "username": "Ralf Hansel",
@@ -48,10 +64,26 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400133&uid=10573"
   },
   {
-    "rowid": "4",
+    "rowid": "5",
     "event_id": 779,
     "eventname": "2023 Singlis Speedchallenge 2023",
-    "speed": 30.332056,
+    "speed": 40.24396,
+    "type": "speed_250",
+    "username": "Dirk Stahr",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "91-100",
+    "sexe": "Men",
+    "spotname": "Singliser See",
+    "sessionboard": "F2 Sputnik",
+    "sessionsail": "Ezzy Cheetah  8.5",
+    "sessionfin": "not defined -  0",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=403884&uid=23794"
+  },
+  {
+    "rowid": "6",
+    "event_id": 779,
+    "eventname": "2023 Singlis Speedchallenge 2023",
+    "speed": 33.095240000000004,
     "type": "speed_250",
     "username": "Annette Reinhardt",
     "ageclass": "Grand Master (51-60)",
@@ -61,6 +93,6 @@
     "sessionboard": "Tabou Rocket 135",
     "sessionsail": "Ezzy Legacy  7.5",
     "sessionfin": "not defined -  0",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=401103&uid=24138"
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=404353&uid=24138"
   }
 ]

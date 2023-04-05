@@ -19,6 +19,22 @@
     "rowid": "2",
     "event_id": 767,
     "eventname": "2022 Scandinavian Wingfoil Challenge 2023",
+    "speed": 25.537228,
+    "type": "speed_halfhour",
+    "username": "Oyvind Birkeland",
+    "ageclass": "Master (36-50)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Herdla",
+    "sessionboard": "not defined ",
+    "sessionsail": "not defined   0.0",
+    "sessionfin": "not defined -  0",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=404023&uid=22818"
+  },
+  {
+    "rowid": "3",
+    "event_id": 767,
+    "eventname": "2022 Scandinavian Wingfoil Challenge 2023",
     "speed": 25.498336000000002,
     "type": "speed_halfhour",
     "username": "Andreas J\u00f8ssang",
@@ -32,7 +48,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=398095&uid=26489"
   },
   {
-    "rowid": "3",
+    "rowid": "4",
     "event_id": 767,
     "eventname": "2022 Scandinavian Wingfoil Challenge 2023",
     "speed": 24.959404000000003,
@@ -46,22 +62,6 @@
     "sessionsail": "",
     "sessionfin": "not defined -  0",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=399005&uid=26486"
-  },
-  {
-    "rowid": "4",
-    "event_id": 767,
-    "eventname": "2022 Scandinavian Wingfoil Challenge 2023",
-    "speed": 24.305648,
-    "type": "speed_halfhour",
-    "username": "Oyvind Birkeland",
-    "ageclass": "Master (36-50)",
-    "weightclass": "81-90",
-    "sexe": "Men",
-    "spotname": "Glesv\u00e6r",
-    "sessionboard": "not defined ",
-    "sessionsail": "not defined   0.0",
-    "sessionfin": "not defined -  0",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=398402&uid=22818"
   },
   {
     "rowid": "5",

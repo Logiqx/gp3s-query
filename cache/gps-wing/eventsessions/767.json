@@ -778,5 +778,31 @@
     "sessionsail": "",
     "sessionfin": "not defined -  0",
     "sessionurl": "https://www.gps-wingfoiling.com/?mnu=user&val=399293&uid=26486"
+  },
+  {
+    "session_id": 404023,
+    "session_date": "3/25/2023 12:00:00 AM",
+    "event_id": 767,
+    "eventname": "2022 Scandinavian Wingfoil Challenge 2023",
+    "speed_avg": 44.092045600000006,
+    "speed_2sec": 46.109244,
+    "speed_10sec": 45.22028400000001,
+    "speed_100": 45.34622,
+    "speed_250": 44.71654,
+    "speed_500": 43.544224,
+    "speed_mile": 33.273032,
+    "speed_hour": 19.92752,
+    "speed_halfhour": 25.537228,
+    "speed_24hour": 0.0,
+    "speed_alpha_racing": 34.330524,
+    "session_distance": 35.647527000000004,
+    "username": "Oyvind Birkeland",
+    "flag": "NO",
+    "sexe": "Men",
+    "spotname": "Herdla",
+    "sessionboard": "not defined ,  0",
+    "sessionsail": "not defined  0.0,  0",
+    "sessionfin": "not defined -  0",
+    "sessionurl": "https://www.gps-wingfoiling.com/?mnu=user&val=404023&uid=22818"
   }
 ]

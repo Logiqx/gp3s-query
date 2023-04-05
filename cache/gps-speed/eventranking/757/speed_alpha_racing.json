@@ -35,7 +35,7 @@
     "rowid": "3",
     "event_id": 757,
     "eventname": "2022 Auckland Windsurfing Association Speed Challenge",
-    "speed": 41.78482400000001,
+    "speed": 42.529328,
     "type": "speed_alpha_racing",
     "username": "Daniel Thomas",
     "ageclass": "Master (36-50)",
@@ -45,7 +45,7 @@
     "sessionboard": "Carbon Art Slalom Pro 72",
     "sessionsail": "Duotone Warp_fin 20.22  7.8",
     "sessionfin": "- Team10 Slalom  37",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=397725&uid=4364"
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=403029&uid=4364"
   },
   {
     "rowid": "4",
@@ -67,6 +67,22 @@
     "rowid": "5",
     "event_id": 757,
     "eventname": "2022 Auckland Windsurfing Association Speed Challenge",
+    "speed": 36.9474,
+    "type": "speed_alpha_racing",
+    "username": "Mikhail Pozhidaev",
+    "ageclass": "Master (36-50)",
+    "weightclass": "91-100",
+    "sexe": "Men",
+    "spotname": "Manukau Harbour, Clarks Beach",
+    "sessionboard": "RRD X-Fire 118 LTD Y25",
+    "sessionsail": "RRD xwing MK1  8.6",
+    "sessionfin": "- Sputnik  42",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=404588&uid=5934"
+  },
+  {
+    "rowid": "6",
+    "event_id": 757,
+    "eventname": "2022 Auckland Windsurfing Association Speed Challenge",
     "speed": 32.024784000000004,
     "type": "speed_alpha_racing",
     "username": "Dave Harnett",
@@ -80,7 +96,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=386783&uid=881"
   },
   {
-    "rowid": "6",
+    "rowid": "7",
     "event_id": 757,
     "eventname": "2022 Auckland Windsurfing Association Speed Challenge",
     "speed": 26.407668,
@@ -96,7 +112,39 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=399105&uid=23755"
   },
   {
-    "rowid": "7",
+    "rowid": "8",
+    "event_id": 757,
+    "eventname": "2022 Auckland Windsurfing Association Speed Challenge",
+    "speed": 21.879528,
+    "type": "speed_alpha_racing",
+    "username": "Bryan Morrison",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Tamaki River, Auckland",
+    "sessionboard": "Starboard iSonic 87 Carbon",
+    "sessionsail": "Neilpryde RS Racing EVO 8  6.4",
+    "sessionfin": "MFC KP-RC  32",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=403031&uid=5968"
+  },
+  {
+    "rowid": "9",
+    "event_id": 757,
+    "eventname": "2022 Auckland Windsurfing Association Speed Challenge",
+    "speed": 21.879528,
+    "type": "speed_alpha_racing",
+    "username": "Bryan Morrison",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Tamaki River, Auckland",
+    "sessionboard": "Starboard iSonic 87 Carbon",
+    "sessionsail": "Neilpryde RS Racing EVO 8  6.4",
+    "sessionfin": "MFC KP-RC  32",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=403031&uid=5968"
+  },
+  {
+    "rowid": "10",
     "event_id": 757,
     "eventname": "2022 Auckland Windsurfing Association Speed Challenge",
     "speed": 0.0,
@@ -112,7 +160,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=395254&uid=25194"
   },
   {
-    "rowid": "8",
+    "rowid": "11",
     "event_id": 757,
     "eventname": "2022 Auckland Windsurfing Association Speed Challenge",
     "speed": 0.0,
@@ -126,21 +174,5 @@
     "sessionsail": "Severne OverdriveMach1  7.0",
     "sessionfin": "MFC G-10  44",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400604&uid=23731"
-  },
-  {
-    "rowid": "9",
-    "event_id": 757,
-    "eventname": "2022 Auckland Windsurfing Association Speed Challenge",
-    "speed": 0.0,
-    "type": "speed_alpha_racing",
-    "username": "Bryan Morrison",
-    "ageclass": "Grand Master (51-60)",
-    "weightclass": "71-80",
-    "sexe": "Men",
-    "spotname": "Shoal Bay, Auckland",
-    "sessionboard": "Fanatic Falcon 80",
-    "sessionsail": "Neilpryde RS Racing EVO 5  5.8",
-    "sessionfin": "Select Hotrod  29",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=387441&uid=5968"
   }
 ]

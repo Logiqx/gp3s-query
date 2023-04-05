@@ -35,7 +35,23 @@
     "rowid": "3",
     "event_id": 757,
     "eventname": "2022 Auckland Windsurfing Association Speed Challenge",
-    "speed": 44.779508,
+    "speed": 47.579732,
+    "type": "speed_mile",
+    "username": "Mikhail Pozhidaev",
+    "ageclass": "Master (36-50)",
+    "weightclass": "91-100",
+    "sexe": "Men",
+    "spotname": "Manukau Harbour, Clarks Beach",
+    "sessionboard": "RRD X-Fire 118 LTD Y25",
+    "sessionsail": "RRD xwing MK1  8.6",
+    "sessionfin": "- Sputnik  42",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=404588&uid=5934"
+  },
+  {
+    "rowid": "4",
+    "event_id": 757,
+    "eventname": "2022 Auckland Windsurfing Association Speed Challenge",
+    "speed": 45.073976,
     "type": "speed_mile",
     "username": "Dave Harnett",
     "ageclass": "Grand Master (51-60)",
@@ -45,10 +61,10 @@
     "sessionboard": "Starboard Isonic 134 Carbon",
     "sessionsail": "Severne Mach4  8.6",
     "sessionfin": "Custom ERD Evo  46",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=398397&uid=881"
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=402790&uid=881"
   },
   {
-    "rowid": "4",
+    "rowid": "5",
     "event_id": 757,
     "eventname": "2022 Auckland Windsurfing Association Speed Challenge",
     "speed": 39.562424,
@@ -64,23 +80,23 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=397310&uid=26454"
   },
   {
-    "rowid": "5",
+    "rowid": "6",
     "event_id": 757,
     "eventname": "2022 Auckland Windsurfing Association Speed Challenge",
-    "speed": 33.361928,
+    "speed": 37.488184000000004,
     "type": "speed_mile",
     "username": "Bryan Morrison",
     "ageclass": "Grand Master (51-60)",
     "weightclass": "71-80",
     "sexe": "Men",
-    "spotname": "Shoal Bay, Auckland",
+    "spotname": "Tamaki River, Auckland",
     "sessionboard": "Starboard iSonic 87 Carbon",
-    "sessionsail": "Neilpryde RS Racing EVO 5  5.8",
-    "sessionfin": "Select Hotrod  29",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400238&uid=5968"
+    "sessionsail": "Neilpryde RS Racing EVO 8  6.4",
+    "sessionfin": "MFC KP-RC  32",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=403031&uid=5968"
   },
   {
-    "rowid": "6",
+    "rowid": "7",
     "event_id": 757,
     "eventname": "2022 Auckland Windsurfing Association Speed Challenge",
     "speed": 0.0,
@@ -96,7 +112,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=397784&uid=26016"
   },
   {
-    "rowid": "7",
+    "rowid": "8",
     "event_id": 757,
     "eventname": "2022 Auckland Windsurfing Association Speed Challenge",
     "speed": 0.0,
@@ -112,7 +128,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=395254&uid=25194"
   },
   {
-    "rowid": "8",
+    "rowid": "9",
     "event_id": 757,
     "eventname": "2022 Auckland Windsurfing Association Speed Challenge",
     "speed": 0.0,
@@ -128,7 +144,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=399106&uid=23755"
   },
   {
-    "rowid": "9",
+    "rowid": "10",
     "event_id": 757,
     "eventname": "2022 Auckland Windsurfing Association Speed Challenge",
     "speed": 0.0,

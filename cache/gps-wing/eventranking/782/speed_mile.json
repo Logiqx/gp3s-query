@@ -30,5 +30,21 @@
     "sessionsail": "Manta Wing  5.2",
     "sessionfin": "Mantafoils Mono V2  95",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400405&uid=82"
+  },
+  {
+    "rowid": "3",
+    "event_id": 782,
+    "eventname": "2023 WingSurfing gpskraaijchallenge",
+    "speed": 0.0,
+    "type": "speed_mile",
+    "username": "Imme Monshouwer",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Kraaijenbergse plassen",
+    "sessionboard": "G-Boards groove",
+    "sessionsail": "Armstrong Mojo  4.5",
+    "sessionfin": "Naish Foil  85",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=403936&uid=23759"
   }
 ]

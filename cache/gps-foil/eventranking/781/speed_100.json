@@ -3,20 +3,36 @@
     "rowid": "1",
     "event_id": 781,
     "eventname": "2023 FoilSurfing gpskraaijchallenge",
-    "speed": 36.621448,
+    "speed": 41.231076,
     "type": "speed_100",
     "username": "Nils Duindam",
     "ageclass": "Super Master (61-70)",
-    "weightclass": "61-70",
+    "weightclass": "71-80",
     "sexe": "Men",
     "spotname": "Kraaijenbergse plassen",
-    "sessionboard": "Fanatic Falcon Foil TE 190",
-    "sessionsail": "Phantom RF  8.0",
-    "sessionfin": "Starboard Race Plus Carbon Lo-wind (1000-115-225)  95",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400476&uid=4058"
+    "sessionboard": "Fanatic Falcon TE 115 2019",
+    "sessionsail": "Phantom IRIS R mk2  6.5",
+    "sessionfin": "Starboard Starboard Race  (115+ 725 255)  95",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=404134&uid=4058"
   },
   {
     "rowid": "2",
+    "event_id": 781,
+    "eventname": "2023 FoilSurfing gpskraaijchallenge",
+    "speed": 39.906895999999996,
+    "type": "speed_100",
+    "username": "Chris F\u00f6cking",
+    "ageclass": "Master (36-50)",
+    "weightclass": "91-100",
+    "sexe": "Men",
+    "spotname": "Kraaijenbergse plassen",
+    "sessionboard": "F2 FX VI",
+    "sessionsail": "North Sails warp F2007  5.8",
+    "sessionfin": "Neilpryde RS:Flight NP F4 Foil  100",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=404126&uid=4524"
+  },
+  {
+    "rowid": "3",
     "event_id": 781,
     "eventname": "2023 FoilSurfing gpskraaijchallenge",
     "speed": 35.286156000000005,
@@ -32,7 +48,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400509&uid=25794"
   },
   {
-    "rowid": "3",
+    "rowid": "4",
     "event_id": 781,
     "eventname": "2023 FoilSurfing gpskraaijchallenge",
     "speed": 34.25274,
@@ -46,21 +62,5 @@
     "sessionsail": "Severne Mach 2  7.0",
     "sessionfin": "Starboard IQfoil Alu Fuselage 115 Plus Fr 900 T -255  95",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400472&uid=22382"
-  },
-  {
-    "rowid": "4",
-    "event_id": 781,
-    "eventname": "2023 FoilSurfing gpskraaijchallenge",
-    "speed": 30.159820000000003,
-    "type": "speed_100",
-    "username": "Chris F\u00f6cking",
-    "ageclass": "Master (36-50)",
-    "weightclass": "91-100",
-    "sexe": "Men",
-    "spotname": "Kraaijenbergse plassen",
-    "sessionboard": "F2 FX VI",
-    "sessionsail": "Loft Sails Oxygen  9.5",
-    "sessionfin": "Neilpryde RS:Flight NP F4 Foil  100",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400592&uid=4524"
   }
 ]

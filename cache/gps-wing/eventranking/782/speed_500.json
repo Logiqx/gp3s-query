@@ -19,7 +19,23 @@
     "rowid": "2",
     "event_id": 782,
     "eventname": "2023 WingSurfing gpskraaijchallenge",
-    "speed": 19.842328000000002,
+    "speed": 22.292524000000004,
+    "type": "speed_500",
+    "username": "Imme Monshouwer",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Kraaijenbergse plassen",
+    "sessionboard": "G-Boards groove",
+    "sessionsail": "Armstrong Mojo  4.5",
+    "sessionfin": "Naish Foil  85",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=403936&uid=23759"
+  },
+  {
+    "rowid": "3",
+    "event_id": 782,
+    "eventname": "2023 WingSurfing gpskraaijchallenge",
+    "speed": 20.972048,
     "type": "speed_500",
     "username": "Frank Heinen",
     "ageclass": "Grand Master (51-60)",
@@ -27,8 +43,8 @@
     "sexe": "Men",
     "spotname": "Kraaijenbergse plassen",
     "sessionboard": "Simmer Blackbird WF 110",
-    "sessionsail": "Manta Wing  5.2",
-    "sessionfin": "Mantafoils Mono V2  95",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400405&uid=82"
+    "sessionsail": "Bull Sails Hero Wing 4.0  4.0",
+    "sessionfin": "not defined Manta Alu Foil  90",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=401811&uid=82"
   }
 ]

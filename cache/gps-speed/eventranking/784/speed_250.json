@@ -3,6 +3,22 @@
     "rowid": "1",
     "event_id": 784,
     "eventname": "2023 FFF SPEED CHALLENGE",
+    "speed": 70.120424,
+    "type": "speed_250",
+    "username": "Alexandre Broussier",
+    "ageclass": "Senior (19-35)",
+    "weightclass": "61-70",
+    "sexe": "Men",
+    "spotname": "Fos, 13",
+    "sessionboard": "F2 Missile XS",
+    "sessionsail": "Loftsails Racing Balde  4.9",
+    "sessionfin": "Gasoil Fins ELS Asy speed b\u00e2bord   22",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=404550&uid=11625"
+  },
+  {
+    "rowid": "2",
+    "event_id": 784,
+    "eventname": "2023 FFF SPEED CHALLENGE",
     "speed": 67.38872400000001,
     "type": "speed_250",
     "username": "Michel Cyril",
@@ -14,5 +30,21 @@
     "sessionsail": "Neilpryde RS Racing EVO XIII  4.8",
     "sessionfin": "Gasoil Fins ELS Asy speed b\u00e2bord   22",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=401167&uid=5566"
+  },
+  {
+    "rowid": "3",
+    "event_id": 784,
+    "eventname": "2023 FFF SPEED CHALLENGE",
+    "speed": 65.457088,
+    "type": "speed_250",
+    "username": "S\u00e9bastien Bourgeois",
+    "ageclass": "Senior (19-35)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Fos, 13",
+    "sessionboard": "FMX Invictus 98",
+    "sessionsail": "KA Sails Race  6.3",
+    "sessionfin": "Tribal Fin Slalom MK2 Carbon  32",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=401861&uid=5223"
   }
 ]

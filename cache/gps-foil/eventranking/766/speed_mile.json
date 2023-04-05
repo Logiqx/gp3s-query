@@ -35,6 +35,22 @@
     "rowid": "3",
     "event_id": 766,
     "eventname": "2022 BritishWindfoilSpeedChallenge2023",
+    "speed": 40.523612,
+    "type": "speed_mile",
+    "username": "Michael George",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Portland Harbour, Weymouth",
+    "sessionboard": "JP HydroFoil Slalom 88",
+    "sessionsail": "Neilpryde RS Racing EVO XII  7.4",
+    "sessionfin": "Neilpryde Flight SLR 70  95",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=404631&uid=2640"
+  },
+  {
+    "rowid": "4",
+    "event_id": 766,
+    "eventname": "2022 BritishWindfoilSpeedChallenge2023",
     "speed": 40.427308000000004,
     "type": "speed_mile",
     "username": "Garry Connell",
@@ -48,7 +64,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=397301&uid=18265"
   },
   {
-    "rowid": "4",
+    "rowid": "5",
     "event_id": 766,
     "eventname": "2022 BritishWindfoilSpeedChallenge2023",
     "speed": 39.193876,
@@ -64,10 +80,10 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=397179&uid=4236"
   },
   {
-    "rowid": "5",
+    "rowid": "6",
     "event_id": 766,
     "eventname": "2022 BritishWindfoilSpeedChallenge2023",
-    "speed": 33.776776,
+    "speed": 35.584328,
     "type": "speed_mile",
     "username": "Sophie Blaydes",
     "ageclass": "Junior plus (15-18)",
@@ -77,10 +93,10 @@
     "sessionboard": "Starboard iQFOIL 85 ",
     "sessionsail": "Severne HGO  8.0",
     "sessionfin": "Starboard IQFoil Carbon Fuselage 115 Plus Fr 900 T 255-2   95",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400501&uid=26661"
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=403141&uid=26661"
   },
   {
-    "rowid": "6",
+    "rowid": "7",
     "event_id": 766,
     "eventname": "2022 BritishWindfoilSpeedChallenge2023",
     "speed": 33.161912,
@@ -96,7 +112,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=398181&uid=3532"
   },
   {
-    "rowid": "7",
+    "rowid": "8",
     "event_id": 766,
     "eventname": "2022 BritishWindfoilSpeedChallenge2023",
     "speed": 31.874772,
@@ -112,7 +128,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=394970&uid=21720"
   },
   {
-    "rowid": "8",
+    "rowid": "9",
     "event_id": 766,
     "eventname": "2022 BritishWindfoilSpeedChallenge2023",
     "speed": 0.0,

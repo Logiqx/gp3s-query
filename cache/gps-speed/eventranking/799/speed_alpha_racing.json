@@ -1,0 +1,50 @@
+[
+  {
+    "rowid": "1",
+    "event_id": 799,
+    "eventname": "2023 USA 100m speed challenge",
+    "speed": 37.134451999999996,
+    "type": "speed_alpha_racing",
+    "username": "Alexander Sosnin",
+    "ageclass": "Ultimate Master (71-99)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Stuart Causeway",
+    "sessionboard": "Starboard Isonic 72 Carbon Reflex",
+    "sessionsail": "Duotone Warp  7.0",
+    "sessionfin": "- Carpenter  35",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=404143&uid=5774"
+  },
+  {
+    "rowid": "2",
+    "event_id": 799,
+    "eventname": "2023 USA 100m speed challenge",
+    "speed": 24.246384000000003,
+    "type": "speed_alpha_racing",
+    "username": "Rainer Haemmerle",
+    "ageclass": "Ultimate Master (71-99)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Crown Beach Alameda, CA",
+    "sessionboard": "Severne Dyno",
+    "sessionsail": "Severne GATOR 5.5  5.5",
+    "sessionfin": "not defined -  0",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=404583&uid=26366"
+  },
+  {
+    "rowid": "3",
+    "event_id": 799,
+    "eventname": "2023 USA 100m speed challenge",
+    "speed": 23.181484,
+    "type": "speed_alpha_racing",
+    "username": "Roland Lucas",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Coyote Point - SFB, CA",
+    "sessionboard": "Goya Proton 116",
+    "sessionsail": "Point-7 AC1  7.8",
+    "sessionfin": "Black Project Fins Type RS  38",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=402864&uid=25594"
+  }
+]

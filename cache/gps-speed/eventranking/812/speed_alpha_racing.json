@@ -1,0 +1,18 @@
+[
+  {
+    "rowid": "1",
+    "event_id": 812,
+    "eventname": "2023 Estonian Speed King 2023",
+    "speed": 34.654624,
+    "type": "speed_alpha_racing",
+    "username": "J\u00fcri Kaldoja",
+    "ageclass": "Super Master (61-70)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "H\u00e4\u00e4demeeste",
+    "sessionboard": "Fanatic Falcon Slalom 90",
+    "sessionsail": "Gun Sails GSR  5.0",
+    "sessionfin": "Z-fins SL S-  30",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=403838&uid=4497"
+  }
+]

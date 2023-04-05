@@ -1,0 +1,50 @@
+[
+  {
+    "rowid": "1",
+    "event_id": 799,
+    "eventname": "2023 USA 100m speed challenge",
+    "speed": 37.791911999999996,
+    "type": "speed_hour",
+    "username": "Alexander Sosnin",
+    "ageclass": "Ultimate Master (71-99)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "US Sailing Center Jensen Beach",
+    "sessionboard": "Starboard Isonic 72 Carbon Reflex",
+    "sessionsail": "Loftsails Racing Blade  7.7",
+    "sessionfin": "- Chopper ChC  37",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=404142&uid=5774"
+  },
+  {
+    "rowid": "2",
+    "event_id": 799,
+    "eventname": "2023 USA 100m speed challenge",
+    "speed": 25.896516000000002,
+    "type": "speed_hour",
+    "username": "Roland Lucas",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Coyote Point - SFB, CA",
+    "sessionboard": "Goya Proton 116",
+    "sessionsail": "Point-7 AC1  7.8",
+    "sessionfin": "Black Project Fins Type RS  38",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=402864&uid=25594"
+  },
+  {
+    "rowid": "3",
+    "event_id": 799,
+    "eventname": "2023 USA 100m speed challenge",
+    "speed": 21.799892000000003,
+    "type": "speed_hour",
+    "username": "Rainer Haemmerle",
+    "ageclass": "Ultimate Master (71-99)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Palo Alto Yacht Harbor - SFB, CA",
+    "sessionboard": "Starboard iSonic 72 Carbon Reflex ",
+    "sessionsail": "Severne Overdrive M2  7.8",
+    "sessionfin": "Z-fins SLM S-  39",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=403826&uid=26366"
+  }
+]

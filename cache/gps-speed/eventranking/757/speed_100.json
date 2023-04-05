@@ -67,6 +67,22 @@
     "rowid": "5",
     "event_id": 757,
     "eventname": "2022 Auckland Windsurfing Association Speed Challenge",
+    "speed": 60.56966,
+    "type": "speed_100",
+    "username": "Mikhail Pozhidaev",
+    "ageclass": "Master (36-50)",
+    "weightclass": "91-100",
+    "sexe": "Men",
+    "spotname": "Manukau Harbour, Clarks Beach",
+    "sessionboard": "RRD X-Fire 118 LTD Y25",
+    "sessionsail": "RRD xwing MK1  8.6",
+    "sessionfin": "- Sputnik  42",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=404588&uid=5934"
+  },
+  {
+    "rowid": "6",
+    "event_id": 757,
+    "eventname": "2022 Auckland Windsurfing Association Speed Challenge",
     "speed": 60.302972000000004,
     "type": "speed_100",
     "username": "Daniel Thomas",
@@ -80,7 +96,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=398863&uid=4364"
   },
   {
-    "rowid": "6",
+    "rowid": "7",
     "event_id": 757,
     "eventname": "2022 Auckland Windsurfing Association Speed Challenge",
     "speed": 59.073244,
@@ -96,7 +112,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400606&uid=23755"
   },
   {
-    "rowid": "7",
+    "rowid": "8",
     "event_id": 757,
     "eventname": "2022 Auckland Windsurfing Association Speed Challenge",
     "speed": 58.889896,
@@ -112,7 +128,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=397784&uid=26016"
   },
   {
-    "rowid": "8",
+    "rowid": "9",
     "event_id": 757,
     "eventname": "2022 Auckland Windsurfing Association Speed Challenge",
     "speed": 58.058348,
@@ -128,7 +144,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=395254&uid=25194"
   },
   {
-    "rowid": "9",
+    "rowid": "10",
     "event_id": 757,
     "eventname": "2022 Auckland Windsurfing Association Speed Challenge",
     "speed": 57.84907200000001,
