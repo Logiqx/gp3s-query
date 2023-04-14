@@ -5,6 +5,22 @@
     "eventname": "2022 Schildmeer Speed Challenge 2022-2023",
     "speed": 0.0,
     "type": "speed_24hour",
+    "username": "Tim Heeringa",
+    "ageclass": "Master (36-50)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "schildmeer",
+    "sessionboard": "Future Fly Dark Horse 117",
+    "sessionsail": "S2 Maui Venom  8.4",
+    "sessionfin": "Finish Speed Slalom  37",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=405444&uid=23642"
+  },
+  {
+    "rowid": "2",
+    "event_id": 761,
+    "eventname": "2022 Schildmeer Speed Challenge 2022-2023",
+    "speed": 0.0,
+    "type": "speed_24hour",
     "username": "Dennis Metaal",
     "ageclass": "Grand Master (51-60)",
     "weightclass": "81-90",
@@ -16,7 +32,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=395409&uid=26110"
   },
   {
-    "rowid": "2",
+    "rowid": "3",
     "event_id": 761,
     "eventname": "2022 Schildmeer Speed Challenge 2022-2023",
     "speed": 0.0,
@@ -32,7 +48,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=395646&uid=25577"
   },
   {
-    "rowid": "3",
+    "rowid": "4",
     "event_id": 761,
     "eventname": "2022 Schildmeer Speed Challenge 2022-2023",
     "speed": 0.0,
@@ -48,7 +64,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=396833&uid=25189"
   },
   {
-    "rowid": "4",
+    "rowid": "5",
     "event_id": 761,
     "eventname": "2022 Schildmeer Speed Challenge 2022-2023",
     "speed": 0.0,
@@ -64,7 +80,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=396818&uid=23550"
   },
   {
-    "rowid": "5",
+    "rowid": "6",
     "event_id": 761,
     "eventname": "2022 Schildmeer Speed Challenge 2022-2023",
     "speed": 0.0,
@@ -80,7 +96,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=397491&uid=23299"
   },
   {
-    "rowid": "6",
+    "rowid": "7",
     "event_id": 761,
     "eventname": "2022 Schildmeer Speed Challenge 2022-2023",
     "speed": 0.0,
@@ -96,7 +112,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=395325&uid=22320"
   },
   {
-    "rowid": "7",
+    "rowid": "8",
     "event_id": 761,
     "eventname": "2022 Schildmeer Speed Challenge 2022-2023",
     "speed": 0.0,
@@ -112,7 +128,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=395308&uid=21711"
   },
   {
-    "rowid": "8",
+    "rowid": "9",
     "event_id": 761,
     "eventname": "2022 Schildmeer Speed Challenge 2022-2023",
     "speed": 0.0,
@@ -128,7 +144,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=395085&uid=15697"
   },
   {
-    "rowid": "9",
+    "rowid": "10",
     "event_id": 761,
     "eventname": "2022 Schildmeer Speed Challenge 2022-2023",
     "speed": 0.0,
@@ -144,7 +160,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=395344&uid=5650"
   },
   {
-    "rowid": "10",
+    "rowid": "11",
     "event_id": 761,
     "eventname": "2022 Schildmeer Speed Challenge 2022-2023",
     "speed": 0.0,
@@ -160,7 +176,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=396170&uid=5376"
   },
   {
-    "rowid": "11",
+    "rowid": "12",
     "event_id": 761,
     "eventname": "2022 Schildmeer Speed Challenge 2022-2023",
     "speed": 0.0,

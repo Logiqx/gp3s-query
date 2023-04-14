@@ -41,11 +41,11 @@
     "ageclass": "Grand Master (51-60)",
     "weightclass": "71-80",
     "sexe": "Men",
-    "spotname": "Meola Reef, Auckland",
+    "spotname": "Mangawhai Heads  estuary",
     "sessionboard": "Starboard Isonic 87 Wood",
     "sessionsail": "KA Sails Koncept  6.2",
     "sessionfin": "Select select vmax  31",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=398816&uid=25923"
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=401009&uid=25923"
   },
   {
     "rowid": "4",
@@ -57,11 +57,11 @@
     "ageclass": "Grand Master (51-60)",
     "weightclass": "81-90",
     "sexe": "Men",
-    "spotname": "Shoal Bay",
-    "sessionboard": "Carbon Art SL 58",
-    "sessionsail": "Maui Sails TR4  5.5",
-    "sessionfin": "Tectonics F1 Falcon  30",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=395254&uid=25194"
+    "spotname": "Bayswater",
+    "sessionboard": "Carbon Art Slalom 58",
+    "sessionsail": "Severne Overdrive  6.7",
+    "sessionfin": "Tectonics F1 Falcon  35",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=403030&uid=25194"
   },
   {
     "rowid": "5",
@@ -90,10 +90,10 @@
     "weightclass": "91-100",
     "sexe": "Men",
     "spotname": "Manukau Harbour, Clarks Beach",
-    "sessionboard": "Starboard Futura",
-    "sessionsail": "Severne OverdriveMach1  7.0",
-    "sessionfin": "MFC G-10  44",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400604&uid=23731"
+    "sessionboard": "Starboard Foil 147 UltraCore Reflex Carbon",
+    "sessionsail": "Severne Mach2  8.6",
+    "sessionfin": "C3 Drake Venom  54",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=389596&uid=23731"
   },
   {
     "rowid": "7",
@@ -106,13 +106,29 @@
     "weightclass": "71-80",
     "sexe": "Men",
     "spotname": "Shoal Bay, Auckland",
-    "sessionboard": "Fanatic Falcon 80",
+    "sessionboard": "Starboard iSonic 87 Carbon",
     "sessionsail": "Neilpryde RS Racing EVO 5  5.8",
     "sessionfin": "Select Hotrod  29",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=387441&uid=5968"
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=388860&uid=5968"
   },
   {
     "rowid": "8",
+    "event_id": 757,
+    "eventname": "2022 Auckland Windsurfing Association Speed Challenge",
+    "speed": 0.0,
+    "type": "speed_24hour",
+    "username": "Mikhail Pozhidaev",
+    "ageclass": "Master (36-50)",
+    "weightclass": "91-100",
+    "sexe": "Men",
+    "spotname": "Manukau Harbour, Clarks Beach",
+    "sessionboard": "RRD X-Fire 118 LTD Y25",
+    "sessionsail": "RRD xwing MK1  8.6",
+    "sessionfin": "- Sputnik  42",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=404588&uid=5934"
+  },
+  {
+    "rowid": "9",
     "event_id": 757,
     "eventname": "2022 Auckland Windsurfing Association Speed Challenge",
     "speed": 0.0,
@@ -124,11 +140,11 @@
     "spotname": "Shoal Bay, Auckland",
     "sessionboard": "Carbon Art Slalom Pro 72",
     "sessionsail": "Duotone Warp_fin 20.22  7.8",
-    "sessionfin": "- Team10 Slalom  38",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=396794&uid=4364"
+    "sessionfin": "- Team10 Slalom  37",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=397725&uid=4364"
   },
   {
-    "rowid": "9",
+    "rowid": "10",
     "event_id": 757,
     "eventname": "2022 Auckland Windsurfing Association Speed Challenge",
     "speed": 0.0,
@@ -137,10 +153,10 @@
     "ageclass": "Grand Master (51-60)",
     "weightclass": "91-100",
     "sexe": "Men",
-    "spotname": "Tamaki River, Auckland",
-    "sessionboard": "Starboard Isonic 134 Carbon",
-    "sessionsail": "Severne Mach4  8.6",
-    "sessionfin": "Custom ERD Evo  46",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=390636&uid=881"
+    "spotname": "Musick Point",
+    "sessionboard": "PATRIK Slalom 115 V5",
+    "sessionsail": "Severne Mach 4  7.0",
+    "sessionfin": "Meanline KRF Rebel Slalom/Speed  39",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=387434&uid=881"
   }
 ]

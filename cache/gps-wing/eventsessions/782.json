@@ -128,5 +128,31 @@
     "sessionsail": "Armstrong Mojo 4.5,  2022",
     "sessionfin": "Naish Foil  85",
     "sessionurl": "https://www.gps-wingfoiling.com/?mnu=user&val=403936&uid=23759"
+  },
+  {
+    "session_id": 405470,
+    "session_date": "4/15/2023 12:00:00 AM",
+    "event_id": 782,
+    "eventname": "2023 WingSurfing gpskraaijchallenge",
+    "speed_avg": 42.76564320000001,
+    "speed_2sec": 45.366592,
+    "speed_10sec": 43.275684000000005,
+    "speed_100": 43.48681200000001,
+    "speed_250": 42.736752,
+    "speed_500": 41.468132,
+    "speed_mile": 36.812204,
+    "speed_hour": 0.0,
+    "speed_halfhour": 23.90932,
+    "speed_24hour": 0.0,
+    "speed_alpha_racing": 34.249036,
+    "session_distance": 36.776572,
+    "username": "Bas Keijsers",
+    "flag": "NL",
+    "sexe": "Men",
+    "spotname": "Kraaijenbergse plassen",
+    "sessionboard": "JP HydroFoil 190,  2019",
+    "sessionsail": "KA Sails Race 7.9,  2016",
+    "sessionfin": "Starboard Race foil Plus ( 880 - 225 - 95 )  95",
+    "sessionurl": "https://www.gps-wingfoiling.com/?mnu=user&val=405470&uid=20620"
   }
 ]

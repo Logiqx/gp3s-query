@@ -29,7 +29,7 @@
     "sessionboard": "Starboard slalom",
     "sessionsail": "Point-7 AC1  7.1",
     "sessionfin": "Z-fins SL S  34",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=404104&uid=21831"
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=404085&uid=21831"
   },
   {
     "rowid": "3",
@@ -67,6 +67,22 @@
     "rowid": "5",
     "event_id": 810,
     "eventname": "2023 Odyssey of Speed",
+    "speed": 40.084688,
+    "type": "speed_alpha_racing",
+    "username": "Dimitris Lentzos",
+    "ageclass": "Master (36-50)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "VALTOS",
+    "sessionboard": "Tabou Manta 61",
+    "sessionsail": "Gun Sails GSR  7.0",
+    "sessionfin": "BOSS 6.0 S  32",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=404697&uid=18214"
+  },
+  {
+    "rowid": "6",
+    "event_id": 810,
+    "eventname": "2023 Odyssey of Speed",
     "speed": 39.914304,
     "type": "speed_alpha_racing",
     "username": "Thanasis Savvakis",
@@ -80,39 +96,39 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=403286&uid=26346"
   },
   {
-    "rowid": "6",
-    "event_id": 810,
-    "eventname": "2023 Odyssey of Speed",
-    "speed": 39.832816,
-    "type": "speed_alpha_racing",
-    "username": "Dimitris Lentzos",
-    "ageclass": "Master (36-50)",
-    "weightclass": "81-90",
-    "sexe": "Men",
-    "spotname": "VALTOS",
-    "sessionboard": "Starboard iSonic 107 Carbon",
-    "sessionsail": "Gun Sails GSR  7.7",
-    "sessionfin": "Z-fins z sl  s-  36",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=403888&uid=18214"
-  },
-  {
     "rowid": "7",
     "event_id": 810,
     "eventname": "2023 Odyssey of Speed",
-    "speed": 35.367644000000006,
+    "speed": 37.149268000000006,
     "type": "speed_alpha_racing",
     "username": "Spiros Chouliaras",
     "ageclass": "Master (36-50)",
     "weightclass": "71-80",
     "sexe": "Men",
     "spotname": "VALTOS",
-    "sessionboard": "Tabou Manta 71",
-    "sessionsail": "Gaastra Phantom  7.1",
-    "sessionfin": "Z-fins Zfin SL S-  37",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=404202&uid=23430"
+    "sessionboard": "Tabou Manta 61",
+    "sessionsail": "Gaastra Vapor  5.6",
+    "sessionfin": "Sonntag Fins SL-Pro  32",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=405405&uid=23430"
   },
   {
     "rowid": "8",
+    "event_id": 810,
+    "eventname": "2023 Odyssey of Speed",
+    "speed": 35.878796,
+    "type": "speed_alpha_racing",
+    "username": "Konstantinos Palogos",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Karavos Beach- Aliveri EVIA",
+    "sessionboard": "F2 SX S",
+    "sessionsail": "S2 Maui Venom  5.7",
+    "sessionfin": "Zulu Umbani  32",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=405347&uid=23998"
+  },
+  {
+    "rowid": "9",
     "event_id": 810,
     "eventname": "2023 Odyssey of Speed",
     "speed": 34.152732,
@@ -128,7 +144,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=404308&uid=3182"
   },
   {
-    "rowid": "9",
+    "rowid": "10",
     "event_id": 810,
     "eventname": "2023 Odyssey of Speed",
     "speed": 33.723068,
@@ -144,23 +160,39 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=403170&uid=26300"
   },
   {
-    "rowid": "10",
+    "rowid": "11",
     "event_id": 810,
     "eventname": "2023 Odyssey of Speed",
-    "speed": 24.357504,
+    "speed": 33.158208,
     "type": "speed_alpha_racing",
-    "username": "Konstantinos Palogos",
+    "username": "Doxis Milidakis",
     "ageclass": "Grand Master (51-60)",
-    "weightclass": "81-90",
+    "weightclass": "71-80",
     "sexe": "Men",
-    "spotname": "Akti Nirea  EVIA ISLAND",
-    "sessionboard": "F2 SX S",
-    "sessionsail": "S2 Maui Venom  5.7",
-    "sessionfin": "Zulu Umbani  32",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=403017&uid=23998"
+    "spotname": "VALTOS",
+    "sessionboard": "Starboard iSonic Carbon 67",
+    "sessionsail": "Neilpryde RS Racing EVO XII  7.4",
+    "sessionfin": "Custom CARPENTER  34",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=403636&uid=3708"
   },
   {
-    "rowid": "11",
+    "rowid": "12",
+    "event_id": 810,
+    "eventname": "2023 Odyssey of Speed",
+    "speed": 18.773724,
+    "type": "speed_alpha_racing",
+    "username": "Dionisis Papadatos",
+    "ageclass": "Senior (19-35)",
+    "weightclass": "101-110",
+    "sexe": "Men",
+    "spotname": "Drepano",
+    "sessionboard": "RRD X-Fire 114 V10 LTD",
+    "sessionsail": "S2 Maui Venom  7.6",
+    "sessionfin": "Select Vmax 3.0  39",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=404108&uid=23910"
+  },
+  {
+    "rowid": "13",
     "event_id": 810,
     "eventname": "2023 Odyssey of Speed",
     "speed": 9.048872000000001,
@@ -174,5 +206,21 @@
     "sessionsail": "Loftsails Racing Blade  5.6",
     "sessionfin": "mXr-fin UFO Wide 30 10%  24",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=404170&uid=6342"
+  },
+  {
+    "rowid": "14",
+    "event_id": 810,
+    "eventname": "2023 Odyssey of Speed",
+    "speed": 0.0,
+    "type": "speed_alpha_racing",
+    "username": "Antonis Giannopoulos",
+    "ageclass": "Super Master (61-70)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Tsimari",
+    "sessionboard": "PATRIK Speed 48",
+    "sessionsail": "Loft Sails slalom  6.3",
+    "sessionfin": "C3 SLINGSHOT  23",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=404669&uid=6151"
   }
 ]

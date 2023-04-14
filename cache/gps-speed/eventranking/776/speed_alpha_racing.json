@@ -67,6 +67,22 @@
     "rowid": "5",
     "event_id": 776,
     "eventname": "2023 Norwegian speedmaster - 2023",
+    "speed": 32.01182,
+    "type": "speed_alpha_racing",
+    "username": "Tor Kjell Grytnes ",
+    "ageclass": "Super Master (61-70)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Traela",
+    "sessionboard": "RRD X-FIRE V3 ",
+    "sessionsail": "Loftsails Racing blade   7.8",
+    "sessionfin": "Select S07 Elite Slam  37",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=404997&uid=22817"
+  },
+  {
+    "rowid": "6",
+    "event_id": 776,
+    "eventname": "2023 Norwegian speedmaster - 2023",
     "speed": 31.500668,
     "type": "speed_alpha_racing",
     "username": "Kenneth Hansson",
@@ -80,7 +96,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400624&uid=23594"
   },
   {
-    "rowid": "6",
+    "rowid": "7",
     "event_id": 776,
     "eventname": "2023 Norwegian speedmaster - 2023",
     "speed": 30.596892000000004,
@@ -96,7 +112,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=402786&uid=25195"
   },
   {
-    "rowid": "7",
+    "rowid": "8",
     "event_id": 776,
     "eventname": "2023 Norwegian speedmaster - 2023",
     "speed": 29.024544000000002,
@@ -112,7 +128,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=403589&uid=26414"
   },
   {
-    "rowid": "8",
+    "rowid": "9",
     "event_id": 776,
     "eventname": "2023 Norwegian speedmaster - 2023",
     "speed": 28.526356000000003,
@@ -128,7 +144,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=403597&uid=9552"
   },
   {
-    "rowid": "9",
+    "rowid": "10",
     "event_id": 776,
     "eventname": "2023 Norwegian speedmaster - 2023",
     "speed": 26.0669,
@@ -144,7 +160,23 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=401903&uid=23297"
   },
   {
-    "rowid": "10",
+    "rowid": "11",
+    "event_id": 776,
+    "eventname": "2023 Norwegian speedmaster - 2023",
+    "speed": 22.849975999999998,
+    "type": "speed_alpha_racing",
+    "username": "Bernt Ottem",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Langnes, Troms\u00f8",
+    "sessionboard": "Starboard Isonic 107 UltraCore Reflex Carbon",
+    "sessionsail": "Severne Mach 5  6.2",
+    "sessionfin": "Z-fins Z-SLM  37",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=405253&uid=19447"
+  },
+  {
+    "rowid": "12",
     "event_id": 776,
     "eventname": "2023 Norwegian speedmaster - 2023",
     "speed": 16.14018,
@@ -160,7 +192,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=401341&uid=25617"
   },
   {
-    "rowid": "11",
+    "rowid": "13",
     "event_id": 776,
     "eventname": "2023 Norwegian speedmaster - 2023",
     "speed": 0.0,

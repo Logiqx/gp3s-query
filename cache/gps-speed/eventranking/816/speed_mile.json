@@ -99,22 +99,6 @@
     "rowid": "7",
     "event_id": 816,
     "eventname": "2023 Spanish Challenge",
-    "speed": 42.064476000000006,
-    "type": "speed_mile",
-    "username": "Rafael Cuesta",
-    "ageclass": "Super Master (61-70)",
-    "weightclass": "71-80",
-    "sexe": "Men",
-    "spotname": "Valmayor Lake, Madrid",
-    "sessionboard": "Fanatic Falcon TE 140 ",
-    "sessionsail": "Duotone Warp 2019  8.4",
-    "sessionfin": "- Gregor Custom Fins SL2 S-  44",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=404483&uid=22584"
-  },
-  {
-    "rowid": "8",
-    "event_id": 816,
-    "eventname": "2023 Spanish Challenge",
     "speed": 41.67926,
     "type": "speed_mile",
     "username": "Alberto Marugan",
@@ -125,10 +109,10 @@
     "sessionboard": "Fanatic Falcon TE 115",
     "sessionsail": "Duotone Warp  7.0",
     "sessionfin": "Z-fins SLM S-  36",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=403274&uid=25183"
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=402093&uid=25183"
   },
   {
-    "rowid": "9",
+    "rowid": "8",
     "event_id": 816,
     "eventname": "2023 Spanish Challenge",
     "speed": 41.388496,
@@ -144,7 +128,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=403319&uid=13637"
   },
   {
-    "rowid": "10",
+    "rowid": "9",
     "event_id": 816,
     "eventname": "2023 Spanish Challenge",
     "speed": 41.171812,
@@ -160,7 +144,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=403363&uid=2357"
   },
   {
-    "rowid": "11",
+    "rowid": "10",
     "event_id": 816,
     "eventname": "2023 Spanish Challenge",
     "speed": 40.601396,
@@ -176,7 +160,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=403400&uid=24605"
   },
   {
-    "rowid": "12",
+    "rowid": "11",
     "event_id": 816,
     "eventname": "2023 Spanish Challenge",
     "speed": 34.954648,
@@ -190,6 +174,22 @@
     "sessionsail": "Neilpryde Evo X1  8.6",
     "sessionfin": "- Chopper fins  44",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=402091&uid=22002"
+  },
+  {
+    "rowid": "12",
+    "event_id": 816,
+    "eventname": "2023 Spanish Challenge",
+    "speed": 33.784184,
+    "type": "speed_mile",
+    "username": "Raimundo Sala Albert",
+    "ageclass": "Ultimate Master (71-99)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "La Loteta",
+    "sessionboard": "AV Modena Slalom 62",
+    "sessionsail": "Point-7 AC1  5.6",
+    "sessionfin": "Tribal Fin Slalom mk2  32",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=404684&uid=22440"
   },
   {
     "rowid": "13",
@@ -220,7 +220,23 @@
     "spotname": "Tarifa, Campo de football",
     "sessionboard": "Custom SBT",
     "sessionsail": "Gun Sails GSR  5.0",
-    "sessionfin": "Sonntag Fins GPS-X4  21",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=402233&uid=26477"
+    "sessionfin": "Sonntag Fins 21  21",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=404164&uid=26477"
+  },
+  {
+    "rowid": "15",
+    "event_id": 816,
+    "eventname": "2023 Spanish Challenge",
+    "speed": 0.0,
+    "type": "speed_mile",
+    "username": "Jose Manuel Torres Garcia",
+    "ageclass": "Ultimate Master (71-99)",
+    "weightclass": "101-110",
+    "sexe": "Men",
+    "spotname": "Santa Pola",
+    "sessionboard": "i-99 WCSL",
+    "sessionsail": "Loft Sails Racinblade  9.0",
+    "sessionfin": "Z-fins SLM S-  46",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=405603&uid=25290"
   }
 ]

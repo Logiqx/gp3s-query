@@ -3,16 +3,32 @@
     "rowid": "1",
     "event_id": 802,
     "eventname": "2023 Wurster Tri-Speed",
-    "speed": 46.709292000000005,
+    "speed": 53.582064,
     "type": "speed_2sec",
     "username": "Hans-Dieter Wilshusen",
     "ageclass": "Super Master (61-70)",
     "weightclass": "71-80",
     "sexe": "Men",
     "spotname": "Dorum, Bremerhaven",
-    "sessionboard": "Exocet Warp Slalom 73",
-    "sessionsail": "Demon Design C4 Slalom/Speed  8.2",
-    "sessionfin": "Hurricane SpeedSlalom M-  42",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=403655&uid=3855"
+    "sessionboard": "RRD FreeStyleWave 96",
+    "sessionsail": "Loftsails Purelip  6.2",
+    "sessionfin": "Hurricane Weed   24",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=404995&uid=3855"
+  },
+  {
+    "rowid": "2",
+    "event_id": 802,
+    "eventname": "2023 Wurster Tri-Speed",
+    "speed": 47.033392000000006,
+    "type": "speed_2sec",
+    "username": "Bert Nijsen",
+    "ageclass": "Super Master (61-70)",
+    "weightclass": "61-70",
+    "sexe": "Men",
+    "spotname": "Dorum, Bremerhaven",
+    "sessionboard": "Starboard Isonic 87",
+    "sessionsail": "Neilpryde Speedster  6.2",
+    "sessionfin": "Lessacher LE WO DO SPEED RAKE 30  22",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=405135&uid=4306"
   }
 ]

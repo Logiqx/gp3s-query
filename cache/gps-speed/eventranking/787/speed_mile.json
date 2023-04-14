@@ -19,38 +19,6 @@
     "rowid": "2",
     "event_id": 787,
     "eventname": "2023 Surf like a dude Zuidlaardermeer Speed Challenge 2023",
-    "speed": 52.181952,
-    "type": "speed_mile",
-    "username": "Tim Heeringa",
-    "ageclass": "Master (36-50)",
-    "weightclass": "81-90",
-    "sexe": "Men",
-    "spotname": "Zuidlaardermeer",
-    "sessionboard": "Future Fly Dark Horse 117",
-    "sessionsail": "S2 Maui Venom  8.4",
-    "sessionfin": "Finish Speed Slalom  37",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=404399&uid=23642"
-  },
-  {
-    "rowid": "3",
-    "event_id": 787,
-    "eventname": "2023 Surf like a dude Zuidlaardermeer Speed Challenge 2023",
-    "speed": 52.181952,
-    "type": "speed_mile",
-    "username": "Tim Heeringa",
-    "ageclass": "Master (36-50)",
-    "weightclass": "81-90",
-    "sexe": "Men",
-    "spotname": "Zuidlaardermeer",
-    "sessionboard": "Future Fly Dark Horse 117",
-    "sessionsail": "S2 Maui Venom  8.4",
-    "sessionfin": "Finish Speed Slalom  37",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=404399&uid=23642"
-  },
-  {
-    "rowid": "4",
-    "event_id": 787,
-    "eventname": "2023 Surf like a dude Zuidlaardermeer Speed Challenge 2023",
     "speed": 50.961484,
     "type": "speed_mile",
     "username": "Richard Hilgers",
@@ -64,7 +32,23 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=403710&uid=24414"
   },
   {
-    "rowid": "5",
+    "rowid": "3",
+    "event_id": 787,
+    "eventname": "2023 Surf like a dude Zuidlaardermeer Speed Challenge 2023",
+    "speed": 49.183564,
+    "type": "speed_mile",
+    "username": "Marco Bos",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Zuidlaardermeer",
+    "sessionboard": "Starboard  iSonic 73 Carbon Reflex ",
+    "sessionsail": "S2 Maui Venom  8.2",
+    "sessionfin": "Finish First V2  38",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=405376&uid=8545"
+  },
+  {
+    "rowid": "4",
     "event_id": 787,
     "eventname": "2023 Surf like a dude Zuidlaardermeer Speed Challenge 2023",
     "speed": 46.770408,
@@ -80,7 +64,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=399965&uid=3309"
   },
   {
-    "rowid": "6",
+    "rowid": "5",
     "event_id": 787,
     "eventname": "2023 Surf like a dude Zuidlaardermeer Speed Challenge 2023",
     "speed": 46.518536,
@@ -96,23 +80,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=404205&uid=24370"
   },
   {
-    "rowid": "7",
-    "event_id": 787,
-    "eventname": "2023 Surf like a dude Zuidlaardermeer Speed Challenge 2023",
-    "speed": 45.0962,
-    "type": "speed_mile",
-    "username": "Marco Bos",
-    "ageclass": "Grand Master (51-60)",
-    "weightclass": "81-90",
-    "sexe": "Men",
-    "spotname": "Zuidlaardermeer",
-    "sessionboard": "Starboard Isonic Carbon Reflex 67",
-    "sessionsail": "S2 Maui Venom  7.5",
-    "sessionfin": "Finish First V2  34",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=399943&uid=8545"
-  },
-  {
-    "rowid": "8",
+    "rowid": "6",
     "event_id": 787,
     "eventname": "2023 Surf like a dude Zuidlaardermeer Speed Challenge 2023",
     "speed": 43.7535,
@@ -128,7 +96,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=402551&uid=26725"
   },
   {
-    "rowid": "9",
+    "rowid": "7",
     "event_id": 787,
     "eventname": "2023 Surf like a dude Zuidlaardermeer Speed Challenge 2023",
     "speed": 43.722016,
@@ -144,7 +112,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=401843&uid=25848"
   },
   {
-    "rowid": "10",
+    "rowid": "8",
     "event_id": 787,
     "eventname": "2023 Surf like a dude Zuidlaardermeer Speed Challenge 2023",
     "speed": 0.0,
@@ -155,8 +123,8 @@
     "sexe": "Men",
     "spotname": "Zuidlaardermeer",
     "sessionboard": "Tabou rocket",
-    "sessionsail": "North Sails S type  7.3",
+    "sessionsail": "Point-7 ACK-pro  7.1",
     "sessionfin": "B3 Select  36",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=399970&uid=26064"
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400378&uid=26064"
   }
 ]

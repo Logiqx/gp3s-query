@@ -53,22 +53,6 @@
     "eventname": "2022 Scandinavian Wingfoil Challenge 2023",
     "speed": 0.0,
     "type": "speed_24hour",
-    "username": "Kristian Mosvold",
-    "ageclass": "Master (36-50)",
-    "weightclass": "111-150",
-    "sexe": "Men",
-    "spotname": "\u00c5shavn",
-    "sessionboard": "not defined ",
-    "sessionsail": "",
-    "sessionfin": "not defined -  0",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=395794&uid=26487"
-  },
-  {
-    "rowid": "5",
-    "event_id": 767,
-    "eventname": "2022 Scandinavian Wingfoil Challenge 2023",
-    "speed": 0.0,
-    "type": "speed_24hour",
     "username": "Cato Olsen",
     "ageclass": "Master (36-50)",
     "weightclass": "71-80",
@@ -80,7 +64,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=397296&uid=26486"
   },
   {
-    "rowid": "6",
+    "rowid": "5",
     "event_id": 767,
     "eventname": "2022 Scandinavian Wingfoil Challenge 2023",
     "speed": 0.0,
@@ -96,7 +80,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=395957&uid=22858"
   },
   {
-    "rowid": "7",
+    "rowid": "6",
     "event_id": 767,
     "eventname": "2022 Scandinavian Wingfoil Challenge 2023",
     "speed": 0.0,

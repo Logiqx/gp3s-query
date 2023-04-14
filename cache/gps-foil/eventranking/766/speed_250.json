@@ -19,7 +19,7 @@
     "rowid": "2",
     "event_id": 766,
     "eventname": "2022 BritishWindfoilSpeedChallenge2023",
-    "speed": 51.155944000000005,
+    "speed": 52.450492000000004,
     "type": "speed_250",
     "username": "Simon Pettifer",
     "ageclass": "Master (36-50)",
@@ -29,23 +29,23 @@
     "sessionboard": "Fanatic Falcon Foil TE 188",
     "sessionsail": "Duotone Warp-vin  6.8",
     "sessionfin": "- F4 560  700",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=394741&uid=4276"
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=404752&uid=4276"
   },
   {
     "rowid": "3",
     "event_id": 766,
     "eventname": "2022 BritishWindfoilSpeedChallenge2023",
-    "speed": 50.398476,
+    "speed": 50.950372,
     "type": "speed_250",
     "username": "Michael George",
     "ageclass": "Grand Master (51-60)",
     "weightclass": "71-80",
     "sexe": "Men",
     "spotname": "Portland Harbour, Weymouth",
-    "sessionboard": "JP Hydrofoil 150 PRO",
-    "sessionsail": "Neilpryde RS Racing EVO XII  5.8",
+    "sessionboard": "JP HydroFoil Slalom 88",
+    "sessionsail": "Neilpryde RS Racing EVO XII  6.6",
     "sessionfin": "Neilpryde Flight SLR 70  95",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=402183&uid=2640"
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=405366&uid=2640"
   },
   {
     "rowid": "4",
@@ -83,7 +83,7 @@
     "rowid": "6",
     "event_id": 766,
     "eventname": "2022 BritishWindfoilSpeedChallenge2023",
-    "speed": 40.932904,
+    "speed": 41.482948,
     "type": "speed_250",
     "username": "Sophie Blaydes",
     "ageclass": "Junior plus (15-18)",
@@ -93,7 +93,7 @@
     "sessionboard": "Starboard iQFOIL 85 ",
     "sessionsail": "Severne HGO  8.0",
     "sessionfin": "Starboard IQFoil Carbon Fuselage 115 Plus Fr 900 T 255-2   95",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=403141&uid=26661"
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=404724&uid=26661"
   },
   {
     "rowid": "7",

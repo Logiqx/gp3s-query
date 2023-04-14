@@ -14,5 +14,21 @@
     "sessionsail": "Gun Sails GSR  5.0",
     "sessionfin": "Z-fins SL S-  30",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=403838&uid=4497"
+  },
+  {
+    "rowid": "2",
+    "event_id": 812,
+    "eventname": "2023 Estonian Speed King 2023",
+    "speed": 20.799812,
+    "type": "speed_alpha_racing",
+    "username": "Toomas Kasenurm",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Vana P\u00e4rnu rand",
+    "sessionboard": "Starboard iSonic 107 Carbon",
+    "sessionsail": "Loft Sails racing blade   7.0",
+    "sessionfin": "Z-fins SL S-  36",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=405332&uid=4527"
   }
 ]

@@ -3,6 +3,22 @@
     "rowid": "1",
     "event_id": 759,
     "eventname": "2022 British Wingfoil Challenge 2023",
+    "speed": 54.521028,
+    "type": "speed_250",
+    "username": "Rafferty Read",
+    "ageclass": "Senior (19-35)",
+    "weightclass": "61-70",
+    "sexe": "Men",
+    "spotname": "Portland Harbour, Weymouth",
+    "sessionboard": "not defined ",
+    "sessionsail": "",
+    "sessionfin": "not defined -  0",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=405156&uid=26819"
+  },
+  {
+    "rowid": "2",
+    "event_id": 759,
+    "eventname": "2022 British Wingfoil Challenge 2023",
     "speed": 54.237672,
     "type": "speed_250",
     "username": "Joe Adams",
@@ -16,7 +32,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400186&uid=5799"
   },
   {
-    "rowid": "2",
+    "rowid": "3",
     "event_id": 759,
     "eventname": "2022 British Wingfoil Challenge 2023",
     "speed": 46.459272,
@@ -32,7 +48,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=396625&uid=2640"
   },
   {
-    "rowid": "3",
+    "rowid": "4",
     "event_id": 759,
     "eventname": "2022 British Wingfoil Challenge 2023",
     "speed": 45.65550400000001,
@@ -48,7 +64,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=395487&uid=2868"
   },
   {
-    "rowid": "4",
+    "rowid": "5",
     "event_id": 759,
     "eventname": "2022 British Wingfoil Challenge 2023",
     "speed": 40.931052,
@@ -64,7 +80,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=404472&uid=24191"
   },
   {
-    "rowid": "5",
+    "rowid": "6",
     "event_id": 759,
     "eventname": "2022 British Wingfoil Challenge 2023",
     "speed": 35.165776,
@@ -80,7 +96,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=395776&uid=23343"
   },
   {
-    "rowid": "6",
+    "rowid": "7",
     "event_id": 759,
     "eventname": "2022 British Wingfoil Challenge 2023",
     "speed": 34.53054,
@@ -96,7 +112,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=397631&uid=16826"
   },
   {
-    "rowid": "7",
+    "rowid": "8",
     "event_id": 759,
     "eventname": "2022 British Wingfoil Challenge 2023",
     "speed": 33.98975600000001,
@@ -112,7 +128,23 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=396310&uid=21720"
   },
   {
-    "rowid": "8",
+    "rowid": "9",
+    "event_id": 759,
+    "eventname": "2022 British Wingfoil Challenge 2023",
+    "speed": 25.018668,
+    "type": "speed_250",
+    "username": "Douglas Reid",
+    "ageclass": "Senior (19-35)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Calshot Lagoon",
+    "sessionboard": "AFS Fire",
+    "sessionsail": "AFS WILD  5.2",
+    "sessionfin": "AFS Performer 1250  97",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=405180&uid=22441"
+  },
+  {
+    "rowid": "10",
     "event_id": 759,
     "eventname": "2022 British Wingfoil Challenge 2023",
     "speed": 23.533364000000002,
@@ -128,7 +160,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400387&uid=4312"
   },
   {
-    "rowid": "9",
+    "rowid": "11",
     "event_id": 759,
     "eventname": "2022 British Wingfoil Challenge 2023",
     "speed": 22.466612,

@@ -35,6 +35,22 @@
     "rowid": "3",
     "event_id": 776,
     "eventname": "2023 Norwegian speedmaster - 2023",
+    "speed": 55.161820000000006,
+    "type": "speed_10sec",
+    "username": "Tor Kjell Grytnes ",
+    "ageclass": "Super Master (61-70)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Traela",
+    "sessionboard": "RRD X-FIRE V3 ",
+    "sessionsail": "Loftsails Racing blade   7.8",
+    "sessionfin": "Select S07 Elite Slam  37",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=404997&uid=22817"
+  },
+  {
+    "rowid": "4",
+    "event_id": 776,
+    "eventname": "2023 Norwegian speedmaster - 2023",
     "speed": 54.202484,
     "type": "speed_10sec",
     "username": "Stian Johnsen",
@@ -48,7 +64,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=401192&uid=25696"
   },
   {
-    "rowid": "4",
+    "rowid": "5",
     "event_id": 776,
     "eventname": "2023 Norwegian speedmaster - 2023",
     "speed": 52.446788,
@@ -64,7 +80,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=402674&uid=24361"
   },
   {
-    "rowid": "5",
+    "rowid": "6",
     "event_id": 776,
     "eventname": "2023 Norwegian speedmaster - 2023",
     "speed": 52.426416,
@@ -80,7 +96,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=402888&uid=25195"
   },
   {
-    "rowid": "6",
+    "rowid": "7",
     "event_id": 776,
     "eventname": "2023 Norwegian speedmaster - 2023",
     "speed": 48.824276000000005,
@@ -96,7 +112,23 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400624&uid=23594"
   },
   {
-    "rowid": "7",
+    "rowid": "8",
+    "event_id": 776,
+    "eventname": "2023 Norwegian speedmaster - 2023",
+    "speed": 47.53158,
+    "type": "speed_10sec",
+    "username": "Bernt Ottem",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Langnes, Troms\u00f8",
+    "sessionboard": "Starboard Isonic 107 UltraCore Reflex Carbon",
+    "sessionsail": "Severne Mach 5  6.2",
+    "sessionfin": "Z-fins Z-SLM  37",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=405253&uid=19447"
+  },
+  {
+    "rowid": "9",
     "event_id": 776,
     "eventname": "2023 Norwegian speedmaster - 2023",
     "speed": 46.409268000000004,
@@ -112,7 +144,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=403589&uid=26414"
   },
   {
-    "rowid": "8",
+    "rowid": "10",
     "event_id": 776,
     "eventname": "2023 Norwegian speedmaster - 2023",
     "speed": 44.446148,
@@ -128,7 +160,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=403600&uid=23169"
   },
   {
-    "rowid": "9",
+    "rowid": "11",
     "event_id": 776,
     "eventname": "2023 Norwegian speedmaster - 2023",
     "speed": 44.068340000000006,
@@ -144,7 +176,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=401172&uid=24085"
   },
   {
-    "rowid": "10",
+    "rowid": "12",
     "event_id": 776,
     "eventname": "2023 Norwegian speedmaster - 2023",
     "speed": 43.114560000000004,
@@ -160,7 +192,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=403597&uid=9552"
   },
   {
-    "rowid": "11",
+    "rowid": "13",
     "event_id": 776,
     "eventname": "2023 Norwegian speedmaster - 2023",
     "speed": 32.193316,

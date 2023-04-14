@@ -3,20 +3,68 @@
     "rowid": "1",
     "event_id": 761,
     "eventname": "2022 Schildmeer Speed Challenge 2022-2023",
-    "speed": 32.88226,
+    "speed": 36.8085,
+    "type": "speed_halfhour",
+    "username": "Alwin Visker",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "91-100",
+    "sexe": "Men",
+    "spotname": "schildmeer",
+    "sessionboard": "AV Modena Slalom 77",
+    "sessionsail": "Point-7 ac1  8.6",
+    "sessionfin": "Sonntag Fins SL-Pro F 5.1  41",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=405463&uid=15697"
+  },
+  {
+    "rowid": "2",
+    "event_id": 761,
+    "eventname": "2022 Schildmeer Speed Challenge 2022-2023",
+    "speed": 34.041612,
+    "type": "speed_halfhour",
+    "username": "Edwin Buruma",
+    "ageclass": "Master (36-50)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "schildmeer",
+    "sessionboard": "Starboard Isonic 114 Carbon",
+    "sessionsail": "Severne Mach 3  7.8",
+    "sessionfin": "Finish Fast speed  38",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=405448&uid=23550"
+  },
+  {
+    "rowid": "3",
+    "event_id": 761,
+    "eventname": "2022 Schildmeer Speed Challenge 2022-2023",
+    "speed": 33.543424,
     "type": "speed_halfhour",
     "username": "Hans Prins",
     "ageclass": "Master (36-50)",
     "weightclass": "81-90",
     "sexe": "Men",
     "spotname": "schildmeer",
-    "sessionboard": "Starboard Isonic Slalom Carbon LCF 97",
-    "sessionsail": "Point-7 AC-One  7.1",
+    "sessionboard": "Starboard Isonic 107 Carbon",
+    "sessionsail": "Point-7 AC-One  8.6",
     "sessionfin": "Finish Fast 36 Speed/Slalom  36",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=401652&uid=5376"
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=404967&uid=5376"
   },
   {
-    "rowid": "2",
+    "rowid": "4",
+    "event_id": 761,
+    "eventname": "2022 Schildmeer Speed Challenge 2022-2023",
+    "speed": 27.644804,
+    "type": "speed_halfhour",
+    "username": "Tim Heeringa",
+    "ageclass": "Master (36-50)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "schildmeer",
+    "sessionboard": "Future Fly Dark Horse 117",
+    "sessionsail": "S2 Maui Venom  8.4",
+    "sessionfin": "Finish Speed Slalom  37",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=405444&uid=23642"
+  },
+  {
+    "rowid": "5",
     "event_id": 761,
     "eventname": "2022 Schildmeer Speed Challenge 2022-2023",
     "speed": 26.939192,
@@ -32,23 +80,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=395344&uid=5650"
   },
   {
-    "rowid": "3",
-    "event_id": 761,
-    "eventname": "2022 Schildmeer Speed Challenge 2022-2023",
-    "speed": 26.824368,
-    "type": "speed_halfhour",
-    "username": "Alwin Visker",
-    "ageclass": "Grand Master (51-60)",
-    "weightclass": "91-100",
-    "sexe": "Men",
-    "spotname": "schildmeer",
-    "sessionboard": "AV Modena Slalom 62",
-    "sessionsail": "Point-7 AC1  7.1",
-    "sessionfin": "Sonntag Fins SL-Pro F4.3  32",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=401527&uid=15697"
-  },
-  {
-    "rowid": "4",
+    "rowid": "6",
     "event_id": 761,
     "eventname": "2022 Schildmeer Speed Challenge 2022-2023",
     "speed": 24.331576000000002,
@@ -64,7 +96,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=395089&uid=418"
   },
   {
-    "rowid": "5",
+    "rowid": "7",
     "event_id": 761,
     "eventname": "2022 Schildmeer Speed Challenge 2022-2023",
     "speed": 20.333108,
@@ -80,23 +112,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=395325&uid=22320"
   },
   {
-    "rowid": "6",
-    "event_id": 761,
-    "eventname": "2022 Schildmeer Speed Challenge 2022-2023",
-    "speed": 19.994191999999998,
-    "type": "speed_halfhour",
-    "username": "Edwin Buruma",
-    "ageclass": "Master (36-50)",
-    "weightclass": "71-80",
-    "sexe": "Men",
-    "spotname": "schildmeer",
-    "sessionboard": "Starboard iSonic 107 Carbon",
-    "sessionsail": "Severne Mach 3  7.8",
-    "sessionfin": "Finish Fast speed  36",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=394514&uid=23550"
-  },
-  {
-    "rowid": "7",
+    "rowid": "8",
     "event_id": 761,
     "eventname": "2022 Schildmeer Speed Challenge 2022-2023",
     "speed": 17.81624,
@@ -112,7 +128,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=395409&uid=26110"
   },
   {
-    "rowid": "8",
+    "rowid": "9",
     "event_id": 761,
     "eventname": "2022 Schildmeer Speed Challenge 2022-2023",
     "speed": 17.266196,
@@ -128,7 +144,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=396833&uid=25189"
   },
   {
-    "rowid": "9",
+    "rowid": "10",
     "event_id": 761,
     "eventname": "2022 Schildmeer Speed Challenge 2022-2023",
     "speed": 15.912384000000001,
@@ -144,7 +160,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=397855&uid=25577"
   },
   {
-    "rowid": "10",
+    "rowid": "11",
     "event_id": 761,
     "eventname": "2022 Schildmeer Speed Challenge 2022-2023",
     "speed": 13.482560000000001,
@@ -160,19 +176,19 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=397491&uid=23299"
   },
   {
-    "rowid": "11",
+    "rowid": "12",
     "event_id": 761,
     "eventname": "2022 Schildmeer Speed Challenge 2022-2023",
-    "speed": 11.836132000000001,
+    "speed": 13.158460000000002,
     "type": "speed_halfhour",
     "username": "Ren\u00e9 Bijmolt",
     "ageclass": "Master (36-50)",
     "weightclass": "91-100",
     "sexe": "Men",
     "spotname": "schildmeer",
-    "sessionboard": "Starboard iSonic 83 Carbon Reflex",
-    "sessionsail": "Point-7 AC-K Pro am Racing  8.5",
-    "sessionfin": "Finish Fast - speed/slalom  44",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=395669&uid=21711"
+    "sessionboard": "Fanatic Jag 138",
+    "sessionsail": "Duotone S-pace  8.3",
+    "sessionfin": "Finish First  45",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=405468&uid=21711"
   }
 ]

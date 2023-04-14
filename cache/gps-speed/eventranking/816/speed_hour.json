@@ -206,5 +206,37 @@
     "sessionsail": "Gun Sails GSR  5.0",
     "sessionfin": "Sonntag Fins 21  21",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=404164&uid=26477"
+  },
+  {
+    "rowid": "14",
+    "event_id": 816,
+    "eventname": "2023 Spanish Challenge",
+    "speed": 0.0,
+    "type": "speed_hour",
+    "username": "Jose Manuel Torres Garcia",
+    "ageclass": "Ultimate Master (71-99)",
+    "weightclass": "101-110",
+    "sexe": "Men",
+    "spotname": "Santa Pola",
+    "sessionboard": "i-99 WCSL",
+    "sessionsail": "Loft Sails Racinblade  9.0",
+    "sessionfin": "Z-fins SLM S-  46",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=405603&uid=25290"
+  },
+  {
+    "rowid": "15",
+    "event_id": 816,
+    "eventname": "2023 Spanish Challenge",
+    "speed": 0.0,
+    "type": "speed_hour",
+    "username": "Raimundo Sala Albert",
+    "ageclass": "Ultimate Master (71-99)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "La Loteta",
+    "sessionboard": "AV Modena Slalom 62",
+    "sessionsail": "Point-7 AC1  5.6",
+    "sessionfin": "Tribal Fin Slalom mk2  32",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=404684&uid=22440"
   }
 ]

@@ -3,6 +3,22 @@
     "rowid": "1",
     "event_id": 799,
     "eventname": "2023 USA 100m speed challenge",
+    "speed": 57.336068000000004,
+    "type": "speed_500",
+    "username": "Kipps Zygarewicz",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "61-70",
+    "sexe": "Men",
+    "spotname": "Haskins - SFB , CA",
+    "sessionboard": "Starboard Isonic speed slalom 75",
+    "sessionsail": "Severne OverdriveMach2  5.5",
+    "sessionfin": "Tribal Fin SYM speed  27",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=405427&uid=4682"
+  },
+  {
+    "rowid": "2",
+    "event_id": 799,
+    "eventname": "2023 USA 100m speed challenge",
     "speed": 55.537776,
     "type": "speed_500",
     "username": "Alexander Sosnin",
@@ -16,7 +32,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=401695&uid=5774"
   },
   {
-    "rowid": "2",
+    "rowid": "3",
     "event_id": 799,
     "eventname": "2023 USA 100m speed challenge",
     "speed": 45.29992000000001,
@@ -32,7 +48,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=402864&uid=25594"
   },
   {
-    "rowid": "3",
+    "rowid": "4",
     "event_id": 799,
     "eventname": "2023 USA 100m speed challenge",
     "speed": 44.796176,

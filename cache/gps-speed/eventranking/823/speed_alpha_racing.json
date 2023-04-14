@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "rowid": "1",
+    "event_id": 823,
+    "eventname": "2023 Funsport Makkum GPS Speed Challenge",
+    "speed": 42.101516000000004,
+    "type": "speed_alpha_racing",
+    "username": "Stijn de Bruin",
+    "ageclass": "Senior (19-35)",
+    "weightclass": "61-70",
+    "sexe": "Men",
+    "spotname": "IJsselmeer - Makkum",
+    "sessionboard": "Starboard iSonic 87 Carbon",
+    "sessionsail": "Severne Mach 5  6.2",
+    "sessionfin": "Select S12 Slam  31",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=405478&uid=5761"
+  }
+]

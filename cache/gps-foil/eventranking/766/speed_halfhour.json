@@ -19,7 +19,7 @@
     "rowid": "2",
     "event_id": 766,
     "eventname": "2022 BritishWindfoilSpeedChallenge2023",
-    "speed": 35.860276,
+    "speed": 38.1512,
     "type": "speed_halfhour",
     "username": "Michael George",
     "ageclass": "Grand Master (51-60)",
@@ -27,15 +27,15 @@
     "sexe": "Men",
     "spotname": "Portland Harbour, Weymouth",
     "sessionboard": "JP HydroFoil Slalom 88",
-    "sessionsail": "Neilpryde RS Racing EVO XII  7.4",
+    "sessionsail": "Neilpryde RS Racing EVO XII  6.6",
     "sessionfin": "Neilpryde Flight SLR 70  95",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=404631&uid=2640"
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=404751&uid=2640"
   },
   {
     "rowid": "3",
     "event_id": 766,
     "eventname": "2022 BritishWindfoilSpeedChallenge2023",
-    "speed": 34.665736,
+    "speed": 35.193556,
     "type": "speed_halfhour",
     "username": "Simon Pettifer",
     "ageclass": "Master (36-50)",
@@ -43,9 +43,9 @@
     "sexe": "Men",
     "spotname": "Portland Harbour, Weymouth",
     "sessionboard": "Fanatic Falcon Foil TE 188",
-    "sessionsail": "Duotone Warp-vin  6.8",
-    "sessionfin": "- F4 560  700",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=394741&uid=4276"
+    "sessionsail": "Duotone Warp Foil Slalom   8.8",
+    "sessionfin": "- F4 620  800",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=404806&uid=4276"
   },
   {
     "rowid": "4",

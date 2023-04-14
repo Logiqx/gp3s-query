@@ -19,17 +19,17 @@
     "rowid": "2",
     "event_id": 762,
     "eventname": "2022 SSS Go reasonable big or go Home 2022-2023",
-    "speed": 36.219564,
+    "speed": 38.004892000000005,
     "type": "speed_alpha_racing",
     "username": "Alwin Visker",
     "ageclass": "Grand Master (51-60)",
     "weightclass": "91-100",
     "sexe": "Men",
     "spotname": "schildmeer",
-    "sessionboard": "AV Modena Slalom 62",
-    "sessionsail": "Point-7 AC1  7.1",
-    "sessionfin": "Sonntag Fins SL-Pro F4.3  32",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=401527&uid=15697"
+    "sessionboard": "AV Modena Slalom 77",
+    "sessionsail": "Point-7 ac1  8.6",
+    "sessionfin": "Sonntag Fins SL-Pro F 5.1  41",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=405463&uid=15697"
   },
   {
     "rowid": "3",
@@ -83,7 +83,7 @@
     "rowid": "6",
     "event_id": 762,
     "eventname": "2022 SSS Go reasonable big or go Home 2022-2023",
-    "speed": 16.542064,
+    "speed": 19.629348,
     "type": "speed_alpha_racing",
     "username": "Ren\u00e9 Bijmolt",
     "ageclass": "Master (36-50)",
@@ -91,9 +91,9 @@
     "sexe": "Men",
     "spotname": "schildmeer",
     "sessionboard": "Fanatic Jag 138",
-    "sessionsail": "Duotone S-pace  8.3",
+    "sessionsail": "Duotone S-pace  7.8",
     "sessionfin": "Finish First  45",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=404590&uid=21711"
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=405103&uid=21711"
   },
   {
     "rowid": "7",

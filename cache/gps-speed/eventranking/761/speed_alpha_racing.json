@@ -19,6 +19,22 @@
     "rowid": "2",
     "event_id": 761,
     "eventname": "2022 Schildmeer Speed Challenge 2022-2023",
+    "speed": 38.004892000000005,
+    "type": "speed_alpha_racing",
+    "username": "Alwin Visker",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "91-100",
+    "sexe": "Men",
+    "spotname": "schildmeer",
+    "sessionboard": "AV Modena Slalom 77",
+    "sessionsail": "Point-7 ac1  8.6",
+    "sessionfin": "Sonntag Fins SL-Pro F 5.1  41",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=405463&uid=15697"
+  },
+  {
+    "rowid": "3",
+    "event_id": 761,
+    "eventname": "2022 Schildmeer Speed Challenge 2022-2023",
     "speed": 37.60486,
     "type": "speed_alpha_racing",
     "username": "Dirk Doppenberg",
@@ -30,22 +46,6 @@
     "sessionsail": "Point-7 AC1  7.1",
     "sessionfin": "Z-fins SLM 33 S-  33",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=395089&uid=418"
-  },
-  {
-    "rowid": "3",
-    "event_id": 761,
-    "eventname": "2022 Schildmeer Speed Challenge 2022-2023",
-    "speed": 36.219564,
-    "type": "speed_alpha_racing",
-    "username": "Alwin Visker",
-    "ageclass": "Grand Master (51-60)",
-    "weightclass": "91-100",
-    "sexe": "Men",
-    "spotname": "schildmeer",
-    "sessionboard": "AV Modena Slalom 62",
-    "sessionsail": "Point-7 AC1  7.1",
-    "sessionfin": "Sonntag Fins SL-Pro F4.3  32",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=401527&uid=15697"
   },
   {
     "rowid": "4",
@@ -115,6 +115,22 @@
     "rowid": "8",
     "event_id": 761,
     "eventname": "2022 Schildmeer Speed Challenge 2022-2023",
+    "speed": 27.259588,
+    "type": "speed_alpha_racing",
+    "username": "Tim Heeringa",
+    "ageclass": "Master (36-50)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "schildmeer",
+    "sessionboard": "Future Fly Dark Horse 117",
+    "sessionsail": "S2 Maui Venom  8.4",
+    "sessionfin": "Finish Speed Slalom  37",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=405444&uid=23642"
+  },
+  {
+    "rowid": "9",
+    "event_id": 761,
+    "eventname": "2022 Schildmeer Speed Challenge 2022-2023",
     "speed": 21.911012,
     "type": "speed_alpha_racing",
     "username": "Sven Hulst",
@@ -128,10 +144,10 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=397491&uid=23299"
   },
   {
-    "rowid": "9",
+    "rowid": "10",
     "event_id": 761,
     "eventname": "2022 Schildmeer Speed Challenge 2022-2023",
-    "speed": 16.542064,
+    "speed": 19.629348,
     "type": "speed_alpha_racing",
     "username": "Ren\u00e9 Bijmolt",
     "ageclass": "Master (36-50)",
@@ -139,12 +155,12 @@
     "sexe": "Men",
     "spotname": "schildmeer",
     "sessionboard": "Fanatic Jag 138",
-    "sessionsail": "Duotone S-pace  8.3",
+    "sessionsail": "Duotone S-pace  7.8",
     "sessionfin": "Finish First  45",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=404590&uid=21711"
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=405103&uid=21711"
   },
   {
-    "rowid": "10",
+    "rowid": "11",
     "event_id": 761,
     "eventname": "2022 Schildmeer Speed Challenge 2022-2023",
     "speed": 16.493912,
@@ -160,7 +176,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=395296&uid=25577"
   },
   {
-    "rowid": "11",
+    "rowid": "12",
     "event_id": 761,
     "eventname": "2022 Schildmeer Speed Challenge 2022-2023",
     "speed": 0.0,

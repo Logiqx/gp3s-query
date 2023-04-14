@@ -3,7 +3,23 @@
     "rowid": "1",
     "event_id": 801,
     "eventname": "2023 POINT-7 SLALOM SPEED CUP 023",
-    "speed": 37.125192,
+    "speed": 39.516124000000005,
+    "type": "speed_halfhour",
+    "username": "Michael Still",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Malcesine, Lake Garda",
+    "sessionboard": "FMX Invictus 118",
+    "sessionsail": "Point-7 AC1  7.8",
+    "sessionfin": "MS-Fins X6 S+ 38-2  36",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=404842&uid=26798"
+  },
+  {
+    "rowid": "2",
+    "event_id": 801,
+    "eventname": "2023 POINT-7 SLALOM SPEED CUP 023",
+    "speed": 39.236472,
     "type": "speed_halfhour",
     "username": "Markus Purwitzer",
     "ageclass": "Grand Master (51-60)",
@@ -13,10 +29,26 @@
     "sessionboard": "Starboard iSonic Reflex Carbon 73",
     "sessionsail": "Point-7 AC1  7.8",
     "sessionfin": "NoLo NoLo 6  365",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=404342&uid=5437"
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=404717&uid=5437"
   },
   {
-    "rowid": "2",
+    "rowid": "3",
+    "event_id": 801,
+    "eventname": "2023 POINT-7 SLALOM SPEED CUP 023",
+    "speed": 38.832736000000004,
+    "type": "speed_halfhour",
+    "username": "Nils Bach",
+    "ageclass": "Senior (19-35)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Malcesine, Lake Garda",
+    "sessionboard": "Starboard Isonic 134 Carbon",
+    "sessionsail": "Point-7 AC1  7.8",
+    "sessionfin": "Feine Finnen Biting Beast S-  44",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=405297&uid=6182"
+  },
+  {
+    "rowid": "4",
     "event_id": 801,
     "eventname": "2023 POINT-7 SLALOM SPEED CUP 023",
     "speed": 36.68071200000001,
@@ -32,7 +64,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=404281&uid=23901"
   },
   {
-    "rowid": "3",
+    "rowid": "5",
     "event_id": 801,
     "eventname": "2023 POINT-7 SLALOM SPEED CUP 023",
     "speed": 32.582236,
@@ -48,19 +80,35 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=404271&uid=26781"
   },
   {
-    "rowid": "4",
+    "rowid": "6",
     "event_id": 801,
     "eventname": "2023 POINT-7 SLALOM SPEED CUP 023",
-    "speed": 14.586352000000002,
+    "speed": 27.733700000000002,
+    "type": "speed_halfhour",
+    "username": "Carlo Caden",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Malcesine, Lake Garda",
+    "sessionboard": "PATRIK Full Core",
+    "sessionsail": "Point-7 AC1  6.2",
+    "sessionfin": "King Fins E5  32",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=405458&uid=26780"
+  },
+  {
+    "rowid": "7",
+    "event_id": 801,
+    "eventname": "2023 POINT-7 SLALOM SPEED CUP 023",
+    "speed": 16.197592,
     "type": "speed_halfhour",
     "username": "Cristiano Gementi",
     "ageclass": "Grand Master (51-60)",
     "weightclass": "71-80",
     "sexe": "Men",
     "spotname": "Malcesine, Lake Garda",
-    "sessionboard": "AV Modena Slalom 72",
-    "sessionsail": "Point-7 AC-1  7.1",
-    "sessionfin": "Custom Carpenter Fins  36",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=404139&uid=24919"
+    "sessionboard": "AV Modena",
+    "sessionsail": "Point-7 AC-1  7.8",
+    "sessionfin": "Custom Carpenter Fins  44",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=404749&uid=24919"
   }
 ]

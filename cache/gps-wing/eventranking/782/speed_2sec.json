@@ -3,6 +3,22 @@
     "rowid": "1",
     "event_id": 782,
     "eventname": "2023 WingSurfing gpskraaijchallenge",
+    "speed": 45.366592,
+    "type": "speed_2sec",
+    "username": "Bas Keijsers",
+    "ageclass": "Master (36-50)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Kraaijenbergse plassen",
+    "sessionboard": "JP HydroFoil 190",
+    "sessionsail": "KA Sails Race  7.9",
+    "sessionfin": "Starboard Race foil Plus ( 880 - 225 - 95 )  95",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=405470&uid=20620"
+  },
+  {
+    "rowid": "2",
+    "event_id": 782,
+    "eventname": "2023 WingSurfing gpskraaijchallenge",
     "speed": 37.3641,
     "type": "speed_2sec",
     "username": "Freek van Triel",
@@ -16,7 +32,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400369&uid=26658"
   },
   {
-    "rowid": "2",
+    "rowid": "3",
     "event_id": 782,
     "eventname": "2023 WingSurfing gpskraaijchallenge",
     "speed": 25.663164,
@@ -32,7 +48,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=403936&uid=23759"
   },
   {
-    "rowid": "3",
+    "rowid": "4",
     "event_id": 782,
     "eventname": "2023 WingSurfing gpskraaijchallenge",
     "speed": 24.426028000000002,

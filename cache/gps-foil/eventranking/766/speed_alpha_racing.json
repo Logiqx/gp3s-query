@@ -35,17 +35,17 @@
     "rowid": "3",
     "event_id": 766,
     "eventname": "2022 BritishWindfoilSpeedChallenge2023",
-    "speed": 38.523452,
+    "speed": 39.366112,
     "type": "speed_alpha_racing",
     "username": "Michael George",
     "ageclass": "Grand Master (51-60)",
     "weightclass": "71-80",
     "sexe": "Men",
     "spotname": "Portland Harbour, Weymouth",
-    "sessionboard": "JP Hydrofoil 150 PRO",
-    "sessionsail": "Neilpryde RS Racing EVO XII  5.8",
+    "sessionboard": "JP HydroFoil Slalom 88",
+    "sessionsail": "Neilpryde RS Racing EVO XII  6.6",
     "sessionfin": "Neilpryde Flight SLR 70  95",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=402183&uid=2640"
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=404751&uid=2640"
   },
   {
     "rowid": "4",
@@ -83,7 +83,7 @@
     "rowid": "6",
     "event_id": 766,
     "eventname": "2022 BritishWindfoilSpeedChallenge2023",
-    "speed": 32.248876,
+    "speed": 32.324808000000004,
     "type": "speed_alpha_racing",
     "username": "Sophie Blaydes",
     "ageclass": "Junior plus (15-18)",
@@ -93,7 +93,7 @@
     "sessionboard": "Starboard iQFOIL 85 ",
     "sessionsail": "Severne HGO  8.0",
     "sessionfin": "Starboard IQFoil Carbon Fuselage 115 Plus Fr 900 T 255-2   95",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=403141&uid=26661"
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=404724&uid=26661"
   },
   {
     "rowid": "7",

@@ -19,7 +19,7 @@
     "rowid": "2",
     "event_id": 786,
     "eventname": "2023 FFF SPEED CHALLENGE",
-    "speed": 54.59696,
+    "speed": 54.722896,
     "type": "speed_mile",
     "username": "PierreAdam PierreAdam",
     "ageclass": "Senior (19-35)",
@@ -28,23 +28,23 @@
     "spotname": "ile grande(22)",
     "sessionboard": "Exocet RF81",
     "sessionsail": "Challenger Sails Force 1  5.0",
-    "sessionfin": "- AFS 105 370 / 200  105",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400711&uid=26339"
+    "sessionfin": "Phantom IRIS R FW430-Fuselage100-BW175  95",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=405408&uid=26339"
   },
   {
     "rowid": "3",
     "event_id": 786,
     "eventname": "2023 FFF SPEED CHALLENGE",
-    "speed": 34.20644,
+    "speed": 41.988544000000005,
     "type": "speed_mile",
     "username": "G\u00e9rard Dabat",
     "ageclass": "Super Master (61-70)",
     "weightclass": "81-90",
     "sexe": "Men",
-    "spotname": "Etang de Thau",
+    "spotname": "Gruissan",
     "sessionboard": "PATRIK Foil-ride 145",
     "sessionsail": "Loft Sails switch blade  5.0",
     "sessionfin": "- Zeeko Amplifier 96  96",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=404624&uid=23041"
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=404706&uid=23041"
   }
 ]

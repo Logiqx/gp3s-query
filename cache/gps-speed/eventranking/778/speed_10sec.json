@@ -3,6 +3,22 @@
     "rowid": "1",
     "event_id": 778,
     "eventname": "2023 WSCA Westeinder Speedking 2023",
+    "speed": 61.177116000000005,
+    "type": "speed_10sec",
+    "username": "Martijn van Noord",
+    "ageclass": "Senior (19-35)",
+    "weightclass": "91-100",
+    "sexe": "Men",
+    "spotname": "Westeinder Plassen",
+    "sessionboard": "Future Fly Dark Horse 117",
+    "sessionsail": "not defined   0.0",
+    "sessionfin": "Z-fins SL S-  37",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=405333&uid=22463"
+  },
+  {
+    "rowid": "2",
+    "event_id": 778,
+    "eventname": "2023 WSCA Westeinder Speedking 2023",
     "speed": 60.299268,
     "type": "speed_10sec",
     "username": "Lotte van den Toorn",
@@ -16,7 +32,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=403619&uid=22950"
   },
   {
-    "rowid": "2",
+    "rowid": "3",
     "event_id": 778,
     "eventname": "2023 WSCA Westeinder Speedking 2023",
     "speed": 59.026944,
@@ -32,7 +48,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400856&uid=23518"
   },
   {
-    "rowid": "3",
+    "rowid": "4",
     "event_id": 778,
     "eventname": "2023 WSCA Westeinder Speedking 2023",
     "speed": 58.43986,
@@ -48,7 +64,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=403094&uid=15681"
   },
   {
-    "rowid": "4",
+    "rowid": "5",
     "event_id": 778,
     "eventname": "2023 WSCA Westeinder Speedking 2023",
     "speed": 58.034272,
@@ -64,10 +80,10 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=402306&uid=21797"
   },
   {
-    "rowid": "5",
+    "rowid": "6",
     "event_id": 778,
     "eventname": "2023 WSCA Westeinder Speedking 2023",
-    "speed": 57.360144000000005,
+    "speed": 57.608312000000005,
     "type": "speed_10sec",
     "username": "Max Shytikov",
     "ageclass": "Master (36-50)",
@@ -75,12 +91,12 @@
     "sexe": "Men",
     "spotname": "Westeinder Plassen",
     "sessionboard": "Future Fly Dark Horse 97",
-    "sessionsail": "Duotone Warp_fin 20.22  6.8",
+    "sessionsail": "Duotone Warp_fin 20.22  5.8",
     "sessionfin": "Finish First V2   32",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=403633&uid=25266"
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=405269&uid=25266"
   },
   {
-    "rowid": "6",
+    "rowid": "7",
     "event_id": 778,
     "eventname": "2023 WSCA Westeinder Speedking 2023",
     "speed": 55.230344,
@@ -96,7 +112,55 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=403111&uid=22381"
   },
   {
-    "rowid": "7",
+    "rowid": "8",
+    "event_id": 778,
+    "eventname": "2023 WSCA Westeinder Speedking 2023",
+    "speed": 54.069140000000004,
+    "type": "speed_10sec",
+    "username": "Renee Vonk",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "91-100",
+    "sexe": "Men",
+    "spotname": "Westeinder Plassen",
+    "sessionboard": "Fanatic Jag",
+    "sessionsail": "Duotone Warp Fin  8.4",
+    "sessionfin": "Finish First  45",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=404853&uid=1499"
+  },
+  {
+    "rowid": "9",
+    "event_id": 778,
+    "eventname": "2023 WSCA Westeinder Speedking 2023",
+    "speed": 52.761628,
+    "type": "speed_10sec",
+    "username": "Matthijs Pos",
+    "ageclass": "Junior plus (15-18)",
+    "weightclass": "51-60",
+    "sexe": "Men",
+    "spotname": "Westeinder Plassen",
+    "sessionboard": "Starboard Isonic 72 Carbon Reflex",
+    "sessionsail": "GA-sails Vapor  5.6",
+    "sessionfin": "Select S-Max  37",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=405146&uid=26473"
+  },
+  {
+    "rowid": "10",
+    "event_id": 778,
+    "eventname": "2023 WSCA Westeinder Speedking 2023",
+    "speed": 52.144912,
+    "type": "speed_10sec",
+    "username": "Erwin Coster",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Westeinder Plassen",
+    "sessionboard": "RRD X-Fire LTD V8 122",
+    "sessionsail": "Duotone warp 2022 FIN  7.8",
+    "sessionfin": "Sonntag Fins SL- X  41",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=405566&uid=21778"
+  },
+  {
+    "rowid": "11",
     "event_id": 778,
     "eventname": "2023 WSCA Westeinder Speedking 2023",
     "speed": 51.80044,
@@ -112,39 +176,23 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400772&uid=5707"
   },
   {
-    "rowid": "8",
+    "rowid": "12",
     "event_id": 778,
     "eventname": "2023 WSCA Westeinder Speedking 2023",
-    "speed": 51.58375600000001,
+    "speed": 48.777976,
     "type": "speed_10sec",
-    "username": "Matthijs Pos",
-    "ageclass": "Junior plus (15-18)",
-    "weightclass": "51-60",
-    "sexe": "Men",
-    "spotname": "Westeinder Plassen",
-    "sessionboard": "Starboard Isonic 72 Carbon Reflex",
-    "sessionsail": "GA-sails Vapor  5.6",
-    "sessionfin": "Select S-Max  37",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=404212&uid=26473"
-  },
-  {
-    "rowid": "9",
-    "event_id": 778,
-    "eventname": "2023 WSCA Westeinder Speedking 2023",
-    "speed": 49.98548,
-    "type": "speed_10sec",
-    "username": "Erwin Coster",
+    "username": "Leon Ippel",
     "ageclass": "Grand Master (51-60)",
-    "weightclass": "81-90",
+    "weightclass": "101-110",
     "sexe": "Men",
     "spotname": "Westeinder Plassen",
-    "sessionboard": "RRD X-Fire LTD V8 122",
-    "sessionsail": "Duotone warp 2022 FIN  7.8",
-    "sessionfin": "Sonntag Fins SL- X  41",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=402628&uid=21778"
+    "sessionboard": "PATRIK Slalom 140",
+    "sessionsail": "Neilpryde RS Racing Evo XI  9.0",
+    "sessionfin": "Custom Carpenter Fins  46",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=404943&uid=25523"
   },
   {
-    "rowid": "10",
+    "rowid": "13",
     "event_id": 778,
     "eventname": "2023 WSCA Westeinder Speedking 2023",
     "speed": 47.650108,
@@ -160,7 +208,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400110&uid=22540"
   },
   {
-    "rowid": "11",
+    "rowid": "14",
     "event_id": 778,
     "eventname": "2023 WSCA Westeinder Speedking 2023",
     "speed": 43.16086,

@@ -3,6 +3,22 @@
     "rowid": "1",
     "event_id": 801,
     "eventname": "2023 POINT-7 SLALOM SPEED CUP 023",
+    "speed": 36.001028000000005,
+    "type": "speed_hour",
+    "username": "Michael Still",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Malcesine, Lake Garda",
+    "sessionboard": "FMX Invictus 118",
+    "sessionsail": "Point-7 AC1  7.8",
+    "sessionfin": "MS-Fins X6 S+ 38-2  36",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=404842&uid=26798"
+  },
+  {
+    "rowid": "2",
+    "event_id": 801,
+    "eventname": "2023 POINT-7 SLALOM SPEED CUP 023",
     "speed": 34.478684,
     "type": "speed_hour",
     "username": "Andrea Cucchi",
@@ -16,7 +32,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=404281&uid=23901"
   },
   {
-    "rowid": "2",
+    "rowid": "3",
     "event_id": 801,
     "eventname": "2023 POINT-7 SLALOM SPEED CUP 023",
     "speed": 33.639728000000005,
@@ -32,7 +48,39 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=404342&uid=5437"
   },
   {
-    "rowid": "3",
+    "rowid": "4",
+    "event_id": 801,
+    "eventname": "2023 POINT-7 SLALOM SPEED CUP 023",
+    "speed": 25.698352,
+    "type": "speed_hour",
+    "username": "Carlo Caden",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Malcesine, Lake Garda",
+    "sessionboard": "PATRIK Full Core",
+    "sessionsail": "Point-7 AC1  6.2",
+    "sessionfin": "King Fins E5  32",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=405458&uid=26780"
+  },
+  {
+    "rowid": "5",
+    "event_id": 801,
+    "eventname": "2023 POINT-7 SLALOM SPEED CUP 023",
+    "speed": 23.624112,
+    "type": "speed_hour",
+    "username": "Nils Bach",
+    "ageclass": "Senior (19-35)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Malcesine, Lake Garda",
+    "sessionboard": "Starboard Isonic 134 Carbon",
+    "sessionsail": "Point-7 AC1  7.8",
+    "sessionfin": "Feine Finnen Biting Beast S-  44",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=405297&uid=6182"
+  },
+  {
+    "rowid": "6",
     "event_id": 801,
     "eventname": "2023 POINT-7 SLALOM SPEED CUP 023",
     "speed": 11.523144000000002,
@@ -48,7 +96,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=404139&uid=24919"
   },
   {
-    "rowid": "4",
+    "rowid": "7",
     "event_id": 801,
     "eventname": "2023 POINT-7 SLALOM SPEED CUP 023",
     "speed": 0.0,

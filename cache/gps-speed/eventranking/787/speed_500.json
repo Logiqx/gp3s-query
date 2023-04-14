@@ -35,17 +35,17 @@
     "rowid": "3",
     "event_id": 787,
     "eventname": "2023 Surf like a dude Zuidlaardermeer Speed Challenge 2023",
-    "speed": 56.376732000000004,
+    "speed": 56.974928,
     "type": "speed_500",
-    "username": "Tim Heeringa",
-    "ageclass": "Master (36-50)",
-    "weightclass": "81-90",
+    "username": "Eric Kamminga",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "91-100",
     "sexe": "Men",
     "spotname": "Zuidlaardermeer",
-    "sessionboard": "JP Freestyle Wave FWS",
-    "sessionsail": "KA Sails Koncept 2013  5.8",
-    "sessionfin": "JP Freestyle Wave 29  29",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=402160&uid=23642"
+    "sessionboard": "Future Fly Dark Horse 107",
+    "sessionsail": "Challenger Sails \taero+  7.7",
+    "sessionfin": "Sonntag Fins GPS 6  35",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=405346&uid=3309"
   },
   {
     "rowid": "4",
@@ -67,22 +67,6 @@
     "rowid": "5",
     "event_id": 787,
     "eventname": "2023 Surf like a dude Zuidlaardermeer Speed Challenge 2023",
-    "speed": 53.996912,
-    "type": "speed_500",
-    "username": "Eric Kamminga",
-    "ageclass": "Grand Master (51-60)",
-    "weightclass": "91-100",
-    "sexe": "Men",
-    "spotname": "Zuidlaardermeer",
-    "sessionboard": "Future Fly Dark Horse 107",
-    "sessionsail": "Loftsails Racingblade  6.9",
-    "sessionfin": "Tribal Fin Slalom MK2   34",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400682&uid=3309"
-  },
-  {
-    "rowid": "6",
-    "event_id": 787,
-    "eventname": "2023 Surf like a dude Zuidlaardermeer Speed Challenge 2023",
     "speed": 53.713556000000004,
     "type": "speed_500",
     "username": "Erik Schaper",
@@ -96,7 +80,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=404205&uid=24370"
   },
   {
-    "rowid": "7",
+    "rowid": "6",
     "event_id": 787,
     "eventname": "2023 Surf like a dude Zuidlaardermeer Speed Challenge 2023",
     "speed": 49.379876,
@@ -112,7 +96,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=403789&uid=26725"
   },
   {
-    "rowid": "8",
+    "rowid": "7",
     "event_id": 787,
     "eventname": "2023 Surf like a dude Zuidlaardermeer Speed Challenge 2023",
     "speed": 48.413132,
@@ -128,10 +112,10 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=401843&uid=25848"
   },
   {
-    "rowid": "9",
+    "rowid": "8",
     "event_id": 787,
     "eventname": "2023 Surf like a dude Zuidlaardermeer Speed Challenge 2023",
-    "speed": 38.017856,
+    "speed": 38.601236,
     "type": "speed_500",
     "username": "Martinez wind",
     "ageclass": "Master (36-50)",
@@ -141,6 +125,6 @@
     "sessionboard": "Tabou rocket",
     "sessionsail": "Neilpryde RS Slalom  6.2",
     "sessionfin": "B3 Select  36",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=404211&uid=26064"
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=405130&uid=26064"
   }
 ]

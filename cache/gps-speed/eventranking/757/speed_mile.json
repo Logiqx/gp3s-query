@@ -99,6 +99,22 @@
     "rowid": "7",
     "event_id": 757,
     "eventname": "2022 Auckland Windsurfing Association Speed Challenge",
+    "speed": 36.415876000000004,
+    "type": "speed_mile",
+    "username": "Brett Wyatt",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "91-100",
+    "sexe": "Men",
+    "spotname": "Manukau Harbour, Clarks Beach",
+    "sessionboard": "PATRIK Slalom",
+    "sessionsail": "Severne Mach 5  8.6",
+    "sessionfin": "Select S1 XL Slam evo  49",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=405061&uid=23731"
+  },
+  {
+    "rowid": "8",
+    "event_id": 757,
+    "eventname": "2022 Auckland Windsurfing Association Speed Challenge",
     "speed": 0.0,
     "type": "speed_mile",
     "username": "Onno le Roy",
@@ -112,7 +128,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=397784&uid=26016"
   },
   {
-    "rowid": "8",
+    "rowid": "9",
     "event_id": 757,
     "eventname": "2022 Auckland Windsurfing Association Speed Challenge",
     "speed": 0.0,
@@ -121,14 +137,14 @@
     "ageclass": "Grand Master (51-60)",
     "weightclass": "81-90",
     "sexe": "Men",
-    "spotname": "Shoal Bay",
-    "sessionboard": "Carbon Art SL 58",
-    "sessionsail": "Maui Sails TR4  5.5",
-    "sessionfin": "Tectonics F1 Falcon  30",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=395254&uid=25194"
+    "spotname": "Bayswater",
+    "sessionboard": "Carbon Art Slalom 58",
+    "sessionsail": "Severne Overdrive  6.7",
+    "sessionfin": "Tectonics F1 Falcon  35",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=403030&uid=25194"
   },
   {
-    "rowid": "9",
+    "rowid": "10",
     "event_id": 757,
     "eventname": "2022 Auckland Windsurfing Association Speed Challenge",
     "speed": 0.0,
@@ -142,21 +158,5 @@
     "sessionsail": "Neilpryde RS Race EVO8  7.0",
     "sessionfin": "not defined -  0",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=399106&uid=23755"
-  },
-  {
-    "rowid": "10",
-    "event_id": 757,
-    "eventname": "2022 Auckland Windsurfing Association Speed Challenge",
-    "speed": 0.0,
-    "type": "speed_mile",
-    "username": "Brett Wyatt",
-    "ageclass": "Grand Master (51-60)",
-    "weightclass": "91-100",
-    "sexe": "Men",
-    "spotname": "Manukau Harbour, Clarks Beach",
-    "sessionboard": "Starboard Futura",
-    "sessionsail": "Severne OverdriveMach1  7.0",
-    "sessionfin": "MFC G-10  44",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400604&uid=23731"
   }
 ]

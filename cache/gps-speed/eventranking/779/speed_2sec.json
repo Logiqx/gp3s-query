@@ -67,6 +67,22 @@
     "rowid": "5",
     "event_id": 779,
     "eventname": "2023 Singlis Speedchallenge 2023",
+    "speed": 46.653732,
+    "type": "speed_2sec",
+    "username": "Juan-Antonio Garcia Garcia",
+    "ageclass": "Super Master (61-70)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Singliser See",
+    "sessionboard": "Starboard Futura Carbon",
+    "sessionsail": "Ezzy Cheetah  7.5",
+    "sessionfin": "Hurricane Speed Slalom  38",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=405141&uid=26796"
+  },
+  {
+    "rowid": "6",
+    "event_id": 779,
+    "eventname": "2023 Singlis Speedchallenge 2023",
     "speed": 41.945948,
     "type": "speed_2sec",
     "username": "Dirk Stahr",
@@ -80,7 +96,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=403884&uid=23794"
   },
   {
-    "rowid": "6",
+    "rowid": "7",
     "event_id": 779,
     "eventname": "2023 Singlis Speedchallenge 2023",
     "speed": 35.98436,

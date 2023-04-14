@@ -19,6 +19,22 @@
     "rowid": "2",
     "event_id": 787,
     "eventname": "2023 Surf like a dude Zuidlaardermeer Speed Challenge 2023",
+    "speed": 33.597131999999995,
+    "type": "speed_hour",
+    "username": "Tim Heeringa",
+    "ageclass": "Master (36-50)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Zuidlaardermeer",
+    "sessionboard": "AHD GT 75",
+    "sessionsail": "S2 Maui Venom  8.4",
+    "sessionfin": "Finish First   38",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=404858&uid=23642"
+  },
+  {
+    "rowid": "3",
+    "event_id": 787,
+    "eventname": "2023 Surf like a dude Zuidlaardermeer Speed Challenge 2023",
     "speed": 29.646816,
     "type": "speed_hour",
     "username": "Marco Bos",
@@ -32,7 +48,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=399943&uid=8545"
   },
   {
-    "rowid": "3",
+    "rowid": "4",
     "event_id": 787,
     "eventname": "2023 Surf like a dude Zuidlaardermeer Speed Challenge 2023",
     "speed": 28.441164,
@@ -48,7 +64,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=404225&uid=24414"
   },
   {
-    "rowid": "4",
+    "rowid": "5",
     "event_id": 787,
     "eventname": "2023 Surf like a dude Zuidlaardermeer Speed Challenge 2023",
     "speed": 26.78918,
@@ -64,7 +80,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=402551&uid=26725"
   },
   {
-    "rowid": "5",
+    "rowid": "6",
     "event_id": 787,
     "eventname": "2023 Surf like a dude Zuidlaardermeer Speed Challenge 2023",
     "speed": 26.059492000000002,
@@ -80,7 +96,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=404540&uid=3309"
   },
   {
-    "rowid": "6",
+    "rowid": "7",
     "event_id": 787,
     "eventname": "2023 Surf like a dude Zuidlaardermeer Speed Challenge 2023",
     "speed": 24.922364,
@@ -96,39 +112,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400301&uid=25848"
   },
   {
-    "rowid": "7",
-    "event_id": 787,
-    "eventname": "2023 Surf like a dude Zuidlaardermeer Speed Challenge 2023",
-    "speed": 24.542704000000004,
-    "type": "speed_hour",
-    "username": "Tim Heeringa",
-    "ageclass": "Master (36-50)",
-    "weightclass": "81-90",
-    "sexe": "Men",
-    "spotname": "Zuidlaardermeer",
-    "sessionboard": "Exocet RS 3",
-    "sessionsail": "S2 Maui Venom  7.0",
-    "sessionfin": "F-Hot RS-3  34",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=401744&uid=23642"
-  },
-  {
     "rowid": "8",
-    "event_id": 787,
-    "eventname": "2023 Surf like a dude Zuidlaardermeer Speed Challenge 2023",
-    "speed": 24.542704000000004,
-    "type": "speed_hour",
-    "username": "Tim Heeringa",
-    "ageclass": "Master (36-50)",
-    "weightclass": "81-90",
-    "sexe": "Men",
-    "spotname": "Zuidlaardermeer",
-    "sessionboard": "Exocet RS 3",
-    "sessionsail": "S2 Maui Venom  7.0",
-    "sessionfin": "F-Hot RS-3  34",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=401744&uid=23642"
-  },
-  {
-    "rowid": "9",
     "event_id": 787,
     "eventname": "2023 Surf like a dude Zuidlaardermeer Speed Challenge 2023",
     "speed": 5.874544,
