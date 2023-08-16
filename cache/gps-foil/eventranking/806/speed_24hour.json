@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "rowid": "1",
+    "event_id": 806,
+    "eventname": "2023 Norway Foil ",
+    "speed": 0.0,
+    "type": "speed_24hour",
+    "username": "Jan Erik Ringvold",
+    "ageclass": "Master (36-50)",
+    "weightclass": "91-100",
+    "sexe": "Men",
+    "spotname": "Storsj\u00f8en, Odalen",
+    "sessionboard": "Tabou AirRide",
+    "sessionsail": "North Sails R-Type  7.2",
+    "sessionfin": "AFS AFS-2  92",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=409784&uid=24766"
+  },
+  {
+    "rowid": "2",
+    "event_id": 806,
+    "eventname": "2023 Norway Foil ",
+    "speed": 0.0,
+    "type": "speed_24hour",
+    "username": "Stian Johnsen",
+    "ageclass": "Master (36-50)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Hamresanden",
+    "sessionboard": "JP Freefoil LXT",
+    "sessionsail": "KA Sails race  7.0",
+    "sessionfin": "AFS 740  105",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=404157&uid=25696"
+  }
+]

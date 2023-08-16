@@ -1,1 +1,50 @@
-[]
+[
+  {
+    "rowid": "1",
+    "event_id": 813,
+    "eventname": "2023 2023 Foil King Estonia",
+    "speed": 31.852548000000006,
+    "type": "speed_halfhour",
+    "username": "Toomas Kasenurm",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Kullipesa ",
+    "sessionboard": "Future Fly FOIL",
+    "sessionsail": "Loftsails Switch Blade  7.3",
+    "sessionfin": "Z-fins 100 frontwing 820. Backwing 350  95",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=407750&uid=4527"
+  },
+  {
+    "rowid": "2",
+    "event_id": 813,
+    "eventname": "2023 2023 Foil King Estonia",
+    "speed": 21.459124,
+    "type": "speed_halfhour",
+    "username": "Elena Lass",
+    "ageclass": "Master (36-50)",
+    "weightclass": "51-60",
+    "sexe": "Woman",
+    "spotname": "Vana P\u00e4rnu rand",
+    "sessionboard": "Future Fly Flying Camel",
+    "sessionsail": "GA-sails Vapor  5.2",
+    "sessionfin": "Z-fins z wndfoil race  95",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=418366&uid=23316"
+  },
+  {
+    "rowid": "3",
+    "event_id": 813,
+    "eventname": "2023 2023 Foil King Estonia",
+    "speed": 20.309032,
+    "type": "speed_halfhour",
+    "username": "Valde Viiding",
+    "ageclass": "Master (36-50)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Harku j\u00e4rv",
+    "sessionboard": "not defined ",
+    "sessionsail": "Neilpryde V8  8.0",
+    "sessionfin": "Starboard Iq foil  900",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=409480&uid=21996"
+  }
+]

@@ -3,17 +3,17 @@
     "rowid": "1",
     "event_id": 782,
     "eventname": "2023 WingSurfing gpskraaijchallenge",
-    "speed": 43.275684000000005,
+    "speed": 39.988383999999996,
     "type": "speed_10sec",
-    "username": "Bas Keijsers",
+    "username": "Ilja Bartels",
     "ageclass": "Master (36-50)",
     "weightclass": "81-90",
     "sexe": "Men",
     "spotname": "Kraaijenbergse plassen",
-    "sessionboard": "JP HydroFoil 190",
-    "sessionsail": "KA Sails Race  7.9",
-    "sessionfin": "Starboard Race foil Plus ( 880 - 225 - 95 )  95",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=405470&uid=20620"
+    "sessionboard": "Highwinds Wingfoil",
+    "sessionsail": "Gong Pulse  5.0",
+    "sessionfin": "Gong Ypra-S S  85",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=418500&uid=2977"
   },
   {
     "rowid": "2",
@@ -35,7 +35,7 @@
     "rowid": "3",
     "event_id": 782,
     "eventname": "2023 WingSurfing gpskraaijchallenge",
-    "speed": 24.748276,
+    "speed": 26.766956,
     "type": "speed_10sec",
     "username": "Imme Monshouwer",
     "ageclass": "Grand Master (51-60)",
@@ -45,7 +45,7 @@
     "sessionboard": "G-Boards groove",
     "sessionsail": "Armstrong Mojo  4.5",
     "sessionfin": "Naish Foil  85",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=403936&uid=23759"
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=411734&uid=23759"
   },
   {
     "rowid": "4",

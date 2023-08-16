@@ -1,1 +1,66 @@
-[]
+[
+  {
+    "rowid": "1",
+    "event_id": 812,
+    "eventname": "2023 Estonian Speed King 2023",
+    "speed": 0.0,
+    "type": "speed_24hour",
+    "username": "John Kaju",
+    "ageclass": "Senior (19-35)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Toomal\u00f5uka",
+    "sessionboard": "Fanatic Falcon 55",
+    "sessionsail": "GA-sails Vapor  5.2",
+    "sessionfin": "Z-fins SF-  28",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=413737&uid=5596"
+  },
+  {
+    "rowid": "2",
+    "event_id": 812,
+    "eventname": "2023 Estonian Speed King 2023",
+    "speed": 0.0,
+    "type": "speed_24hour",
+    "username": "Meigo Jaager",
+    "ageclass": "Master (36-50)",
+    "weightclass": "91-100",
+    "sexe": "Men",
+    "spotname": "V\u00e4ike v\u00e4in Saaremaa",
+    "sessionboard": "Fanatic Falcon 138",
+    "sessionsail": "Neilpryde RS Racing EVO 9  8.6",
+    "sessionfin": "Z-fins SL S-  45",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=412488&uid=4186"
+  },
+  {
+    "rowid": "3",
+    "event_id": 812,
+    "eventname": "2023 Estonian Speed King 2023",
+    "speed": 0.0,
+    "type": "speed_24hour",
+    "username": "Rain Kaur",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "P\u00e4rnu muul",
+    "sessionboard": "PATRIK F-Race 120",
+    "sessionsail": "Gun Sails Vector  7.1",
+    "sessionfin": "Z-fins Z SLM 37 s-  37",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=410305&uid=24448"
+  },
+  {
+    "rowid": "4",
+    "event_id": 812,
+    "eventname": "2023 Estonian Speed King 2023",
+    "speed": 0.0,
+    "type": "speed_24hour",
+    "username": "Valde Viiding",
+    "ageclass": "Master (36-50)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Pirita",
+    "sessionboard": "Starboard iSonic 63 Carbon Reflex",
+    "sessionsail": "Point-7 AC1  6.2",
+    "sessionfin": "Z-fins SLM S-  32",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=406941&uid=21996"
+  }
+]

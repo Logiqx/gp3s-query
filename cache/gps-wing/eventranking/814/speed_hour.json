@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "rowid": "1",
+    "event_id": 814,
+    "eventname": "2023 2023 Wing King Estonia",
+    "speed": 19.970116,
+    "type": "speed_hour",
+    "username": "Raul Kivi",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "51-60",
+    "sexe": "Men",
+    "spotname": "P\u00e4rnu rand",
+    "sessionboard": "Starboard Hypernut 4-in-1",
+    "sessionsail": "North Sails North Mode  5.5",
+    "sessionfin": "not defined -  0",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=405741&uid=26696"
+  },
+  {
+    "rowid": "2",
+    "event_id": 814,
+    "eventname": "2023 2023 Wing King Estonia",
+    "speed": 3.126176,
+    "type": "speed_hour",
+    "username": "Toomas Krivonogov",
+    "ageclass": "Master (36-50)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "H\u00e4\u00e4demeeste",
+    "sessionboard": "Gaastra tabou",
+    "sessionsail": "Gaastra Cross  5.2",
+    "sessionfin": "not defined -  0",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=410644&uid=26703"
+  }
+]

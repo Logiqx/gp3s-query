@@ -51,39 +51,39 @@
     "rowid": "4",
     "event_id": 762,
     "eventname": "2022 SSS Go reasonable big or go Home 2022-2023",
-    "speed": 15.175288000000002,
+    "speed": 19.581196000000002,
     "type": "speed_hour",
     "username": "Saar Schuling ",
     "ageclass": "Master (36-50)",
     "weightclass": "51-60",
     "sexe": "Woman",
     "spotname": "schildmeer",
-    "sessionboard": "JP Slalom 62 Pro Edition",
-    "sessionsail": "Ezzy Elite  4.7",
-    "sessionfin": "not defined -  0",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=396833&uid=25189"
+    "sessionboard": "AV Modena Slalom 72,5",
+    "sessionsail": "Neilpryde V8  6.7",
+    "sessionfin": "Sonntag Fins SL pro  36",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=413009&uid=25189"
   },
   {
     "rowid": "5",
     "event_id": 762,
     "eventname": "2022 SSS Go reasonable big or go Home 2022-2023",
-    "speed": 12.862140000000002,
+    "speed": 16.662444,
     "type": "speed_hour",
     "username": "Sven Hulst",
     "ageclass": "Senior (19-35)",
     "weightclass": "91-100",
     "sexe": "Men",
     "spotname": "schildmeer",
-    "sessionboard": "Custom Severne Fox",
-    "sessionsail": "Gun Sails GSR  7.1",
-    "sessionfin": "Finish Speed/Slalom  32",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=397491&uid=23299"
+    "sessionboard": "Starboard isonic 85 Reflex Carbon ",
+    "sessionsail": "GA-sails Vapor  9.6",
+    "sessionfin": "Zulu Umbani Evo 2  48",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=411139&uid=23299"
   },
   {
     "rowid": "6",
     "event_id": 762,
     "eventname": "2022 SSS Go reasonable big or go Home 2022-2023",
-    "speed": 12.034296000000001,
+    "speed": 14.567832,
     "type": "speed_hour",
     "username": "Ren\u00e9 Bijmolt",
     "ageclass": "Master (36-50)",
@@ -91,15 +91,15 @@
     "sexe": "Men",
     "spotname": "schildmeer",
     "sessionboard": "Fanatic Jag 138",
-    "sessionsail": "Duotone S-pace  8.3",
+    "sessionsail": "Duotone S-pace  7.8",
     "sessionfin": "Finish First  45",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=405468&uid=21711"
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=406445&uid=21711"
   },
   {
     "rowid": "7",
     "event_id": 762,
     "eventname": "2022 SSS Go reasonable big or go Home 2022-2023",
-    "speed": 5.0911480000000005,
+    "speed": 6.780172,
     "type": "speed_hour",
     "username": "Stefan Bijmolt",
     "ageclass": "Master (36-50)",
@@ -109,6 +109,6 @@
     "sessionboard": "Severne Fox V2 140",
     "sessionsail": "Severne Overdrive M4  7.8",
     "sessionfin": "- Severne F-series  44",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=395296&uid=25577"
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=408989&uid=25577"
   }
 ]

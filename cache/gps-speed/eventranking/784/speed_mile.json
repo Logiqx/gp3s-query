@@ -3,7 +3,7 @@
     "rowid": "1",
     "event_id": 784,
     "eventname": "2023 FFF SPEED CHALLENGE",
-    "speed": 60.604848,
+    "speed": 61.360464,
     "type": "speed_mile",
     "username": "Michel Cyril",
     "ageclass": "Master (36-50)",
@@ -11,9 +11,9 @@
     "sexe": "Men",
     "spotname": "Fos, 13",
     "sessionboard": "Tabou Manta 59",
-    "sessionsail": "Simmer Sails SCR  5.8",
-    "sessionfin": "Z-fins S FS  30",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=404140&uid=5566"
+    "sessionsail": "Simmer Sails sc speed proto FFF  5.4",
+    "sessionfin": "Gasoil Fins chr  30",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=405689&uid=5566"
   },
   {
     "rowid": "2",
@@ -46,5 +46,21 @@
     "sessionsail": "Loftsails Racing Blade  6.3",
     "sessionfin": "Custom ERD FAST LANE  32",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=402438&uid=11625"
+  },
+  {
+    "rowid": "4",
+    "event_id": 784,
+    "eventname": "2023 FFF SPEED CHALLENGE",
+    "speed": 33.598984,
+    "type": "speed_mile",
+    "username": "Paul Scourzic",
+    "ageclass": "Senior (19-35)",
+    "weightclass": "51-60",
+    "sexe": "Men",
+    "spotname": "Fos, 13",
+    "sessionboard": "not defined ",
+    "sessionsail": "",
+    "sessionfin": "not defined -  0",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=405832&uid=26265"
   }
 ]

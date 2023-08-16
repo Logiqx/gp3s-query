@@ -1,0 +1,50 @@
+[
+  {
+    "rowid": "1",
+    "event_id": 828,
+    "eventname": "2023 Ho bugt sejlklub, speed konkurence 2023",
+    "speed": 64.558868,
+    "type": "speed_10sec",
+    "username": "Kasper Thrane",
+    "ageclass": "Master (36-50)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Ho Bugt",
+    "sessionboard": "AV Modena Slalom 62",
+    "sessionsail": "Avanti Sails Machine M7  5.6",
+    "sessionfin": "Sonntag Fins SL Pro  32",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=408062&uid=18149"
+  },
+  {
+    "rowid": "2",
+    "event_id": 828,
+    "eventname": "2023 Ho bugt sejlklub, speed konkurence 2023",
+    "speed": 63.053192,
+    "type": "speed_10sec",
+    "username": "S\u00f8ren Christensen",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "91-100",
+    "sexe": "Men",
+    "spotname": "Ho Bugt",
+    "sessionboard": "Fanatic Falcon 116",
+    "sessionsail": "Duotone Warp  7.7",
+    "sessionfin": "Z-fins SLM S-  38",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=408032&uid=24692"
+  },
+  {
+    "rowid": "3",
+    "event_id": 828,
+    "eventname": "2023 Ho bugt sejlklub, speed konkurence 2023",
+    "speed": 60.010356,
+    "type": "speed_10sec",
+    "username": "Martin Lamhauge Anker",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Ho Bugt",
+    "sessionboard": "RRD X-Fire LTD V6 90",
+    "sessionsail": "Point-7 AC1  6.2",
+    "sessionfin": "Z-fins slm  32",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=404068&uid=23803"
+  }
+]

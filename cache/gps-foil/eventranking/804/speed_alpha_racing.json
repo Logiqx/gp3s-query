@@ -1,1 +1,66 @@
-[]
+[
+  {
+    "rowid": "1",
+    "event_id": 804,
+    "eventname": "2023 Lysakerfjorden Foil 2023",
+    "speed": 32.14146,
+    "type": "speed_alpha_racing",
+    "username": "Thomas Karterud",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "91-100",
+    "sexe": "Men",
+    "spotname": "Rolfstangen, Lysaker, Oslo",
+    "sessionboard": "Starboard Foil Race 100",
+    "sessionsail": "Severne HGO  9.0",
+    "sessionfin": "Starboard Race foil plus (1000-225-115plus)  95",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=413929&uid=23163"
+  },
+  {
+    "rowid": "2",
+    "event_id": 804,
+    "eventname": "2023 Lysakerfjorden Foil 2023",
+    "speed": 32.14146,
+    "type": "speed_alpha_racing",
+    "username": "Thomas Karterud",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "91-100",
+    "sexe": "Men",
+    "spotname": "Rolfstangen, Lysaker, Oslo",
+    "sessionboard": "Starboard Foil Race 100",
+    "sessionsail": "Severne HGO  9.0",
+    "sessionfin": "Starboard Race foil plus (1000-225-115plus)  95",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=413929&uid=23163"
+  },
+  {
+    "rowid": "3",
+    "event_id": 804,
+    "eventname": "2023 Lysakerfjorden Foil 2023",
+    "speed": 28.900460000000002,
+    "type": "speed_alpha_racing",
+    "username": "Christian Hilmersen",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Lysakerfjorden",
+    "sessionboard": "RRD Pocket Rocket",
+    "sessionsail": "Hotsails KS3  5.2",
+    "sessionfin": "- SABFOIL c95 790/450  95",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=414306&uid=23634"
+  },
+  {
+    "rowid": "4",
+    "event_id": 804,
+    "eventname": "2023 Lysakerfjorden Foil 2023",
+    "speed": 28.239296,
+    "type": "speed_alpha_racing",
+    "username": "Axel Espeli Blankholm",
+    "ageclass": "Junior (11-14)",
+    "weightclass": "0-40",
+    "sexe": "Men",
+    "spotname": "Lysakerfjorden",
+    "sessionboard": "Starboard iQFOIL 85 ",
+    "sessionsail": "Severne FGO IQ foil  7.0",
+    "sessionfin": "Starboard IQ Foil Jr 95 - 800FW-255BW-0,5  800",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=411040&uid=25451"
+  }
+]

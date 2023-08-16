@@ -1,0 +1,34 @@
+[
+  {
+    "rowid": "1",
+    "event_id": 826,
+    "eventname": "2023 Estonian Kite King  2023",
+    "speed": 48.359424,
+    "type": "speed_mile",
+    "username": "Andre Tamp\u00f5ld",
+    "ageclass": "Master (36-50)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "P\u00e4rnu rand",
+    "sessionboard": "Custom speed",
+    "sessionsail": "Ozone Edge  7.0",
+    "sessionfin": "Custom kite fin  10",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=406915&uid=25249"
+  },
+  {
+    "rowid": "2",
+    "event_id": 826,
+    "eventname": "2023 Estonian Kite King  2023",
+    "speed": 37.312244,
+    "type": "speed_mile",
+    "username": "Taho-Jaan Truus",
+    "ageclass": "Master (36-50)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "V\u00f5rtsj\u00e4rv",
+    "sessionboard": "not defined ",
+    "sessionsail": "Custom Kite: Core XR6  9.0",
+    "sessionfin": "Custom kite fin  10",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=406780&uid=26046"
+  }
+]

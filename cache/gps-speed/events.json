@@ -1,13 +1,38 @@
 {
+  "837": {
+    "eventname": "2023 SSS goes Egypt part II",
+    "start_date": "2023-09-26T00:00:00",
+    "end_date": "2023-09-30T00:00:00"
+  },
+  "836": {
+    "eventname": "2023 Youth Open Dutch Speed Championship",
+    "start_date": "2023-09-18T00:00:00",
+    "end_date": "2023-10-29T00:00:00"
+  },
+  "834": {
+    "eventname": "2023 2023 Auckland Windsurfing Association Speed Challenge",
+    "start_date": "2023-07-01T00:00:00",
+    "end_date": "2024-06-30T00:00:00"
+  },
+  "830": {
+    "eventname": "2023 Summer Edition- Dunkerbeck Speed Challenge",
+    "start_date": "2023-07-01T00:00:00",
+    "end_date": "2023-09-01T00:00:00"
+  },
+  "828": {
+    "eventname": "2023 Ho bugt sejlklub, speed konkurence 2023",
+    "start_date": "2023-01-01T00:00:00",
+    "end_date": "2023-12-31T00:00:00"
+  },
+  "825": {
+    "eventname": "2023 2023 GpsKraaijchallenge ",
+    "start_date": "2023-01-01T00:00:00",
+    "end_date": "2023-12-31T00:00:00"
+  },
   "823": {
     "eventname": "2023 Funsport Makkum GPS Speed Challenge",
     "start_date": "2023-04-01T00:00:00",
     "end_date": "2023-10-31T00:00:00"
-  },
-  "819": {
-    "eventname": "2023 2023 Gran Canara Dunkerbeck Speed Challenge",
-    "start_date": "2023-04-01T00:00:00",
-    "end_date": "2023-06-01T00:00:00"
   },
   "818": {
     "eventname": "2023 UMMAII SPEED CUP - Suhrendorf / R\u00fcgen",
@@ -38,11 +63,6 @@
     "eventname": "2023 Wurster Tri-Speed",
     "start_date": "2023-03-01T00:00:00",
     "end_date": "2024-02-28T00:00:00"
-  },
-  "801": {
-    "eventname": "2023 POINT-7 SLALOM SPEED CUP 023",
-    "start_date": "2023-03-15T00:00:00",
-    "end_date": "2023-04-15T00:00:00"
   },
   "799": {
     "eventname": "2023 USA 100m speed challenge",
@@ -79,11 +99,6 @@
     "start_date": "2023-01-01T00:00:00",
     "end_date": "2023-12-31T00:00:00"
   },
-  "777": {
-    "eventname": "2023 gpskraaijchallenge",
-    "start_date": "2023-01-01T00:00:00",
-    "end_date": "2023-12-31T00:00:00"
-  },
   "776": {
     "eventname": "2023 Norwegian speedmaster - 2023",
     "start_date": "2023-01-01T00:00:00",
@@ -113,10 +128,5 @@
     "eventname": "2022 Schildmeer Speed Challenge 2022-2023",
     "start_date": "2022-10-01T00:00:00",
     "end_date": "2023-09-30T00:00:00"
-  },
-  "757": {
-    "eventname": "2022 Auckland Windsurfing Association Speed Challenge",
-    "start_date": "2022-07-01T00:00:00",
-    "end_date": "2023-06-30T00:00:00"
   }
 }

@@ -1,1 +1,50 @@
-[]
+[
+  {
+    "rowid": "1",
+    "event_id": 804,
+    "eventname": "2023 Lysakerfjorden Foil 2023",
+    "speed": 40.431012,
+    "type": "speed_500",
+    "username": "Thomas Karterud",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "91-100",
+    "sexe": "Men",
+    "spotname": "Rolfstangen, Lysaker, Oslo",
+    "sessionboard": "Starboard Foil Race 100",
+    "sessionsail": "Severne HGO  9.0",
+    "sessionfin": "Starboard Race foil plus (1000-225-115plus)  95",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=413929&uid=23163"
+  },
+  {
+    "rowid": "2",
+    "event_id": 804,
+    "eventname": "2023 Lysakerfjorden Foil 2023",
+    "speed": 39.48093600000001,
+    "type": "speed_500",
+    "username": "Christian Hilmersen",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Lysakerfjorden",
+    "sessionboard": "PATRIK Foil-Comp 100 v2",
+    "sessionsail": "Severne HGO  8.0",
+    "sessionfin": "- SABFoil(1000-1150-420)  107",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=410365&uid=23634"
+  },
+  {
+    "rowid": "3",
+    "event_id": 804,
+    "eventname": "2023 Lysakerfjorden Foil 2023",
+    "speed": 35.334308,
+    "type": "speed_500",
+    "username": "Axel Espeli Blankholm",
+    "ageclass": "Junior (11-14)",
+    "weightclass": "0-40",
+    "sexe": "Men",
+    "spotname": "Lysakerfjorden",
+    "sessionboard": "Starboard iQFOIL 85 ",
+    "sessionsail": "Severne FGO IQ foil  7.0",
+    "sessionfin": "Starboard IQ Foil Jr 95 - 800FW-255BW-0,5  800",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=411040&uid=25451"
+  }
+]

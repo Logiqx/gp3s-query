@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "rowid": "1",
+    "event_id": 804,
+    "eventname": "2023 Lysakerfjorden Foil 2023",
+    "speed": 0.0,
+    "type": "speed_24hour",
+    "username": "Thomas Karterud",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "91-100",
+    "sexe": "Men",
+    "spotname": "Rolfstangen, Lysaker, Oslo",
+    "sessionboard": "Starboard Foil Race 100",
+    "sessionsail": "Severne HGO  10.0",
+    "sessionfin": "Starboard Race foil plus (1000-225-115plus)  95",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=406206&uid=23163"
+  }
+]

@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "rowid": "1",
+    "event_id": 818,
+    "eventname": "2023 UMMAII SPEED CUP - Suhrendorf / R\u00fcgen",
+    "speed": 40.671772,
+    "type": "speed_alpha_racing",
+    "username": "Daniel Hempelmann",
+    "ageclass": "Master (36-50)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Suhrendorf/Schaproder Bodden",
+    "sessionboard": "Severne Fox 105",
+    "sessionsail": "Gun Sails Vector  7.8",
+    "sessionfin": "C-Fins 6.0  36",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=411927&uid=22240"
+  },
+  {
+    "rowid": "2",
+    "event_id": 818,
+    "eventname": "2023 UMMAII SPEED CUP - Suhrendorf / R\u00fcgen",
+    "speed": 26.726212,
+    "type": "speed_alpha_racing",
+    "username": "Ralf Pasewald",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Suhrendorf/Schaproder Bodden",
+    "sessionboard": "PATRIK Slalom 125",
+    "sessionsail": "Neilpryde RS Racing EVO 12  7.4",
+    "sessionfin": "Hurricane Weed 2  32",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=416461&uid=22552"
+  }
+]

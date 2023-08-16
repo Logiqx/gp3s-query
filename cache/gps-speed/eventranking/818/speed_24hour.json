@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "rowid": "1",
+    "event_id": 818,
+    "eventname": "2023 UMMAII SPEED CUP - Suhrendorf / R\u00fcgen",
+    "speed": 0.0,
+    "type": "speed_24hour",
+    "username": "Daniel Hempelmann",
+    "ageclass": "Master (36-50)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Suhrendorf/Schaproder Bodden",
+    "sessionboard": "Severne Fox 105",
+    "sessionsail": "Gun Sails Vector  7.8",
+    "sessionfin": "C-Fins 6.0  36",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=411927&uid=22240"
+  }
+]

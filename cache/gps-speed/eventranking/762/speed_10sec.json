@@ -35,7 +35,7 @@
     "rowid": "3",
     "event_id": 762,
     "eventname": "2022 SSS Go reasonable big or go Home 2022-2023",
-    "speed": 57.530528000000004,
+    "speed": 58.691732,
     "type": "speed_10sec",
     "username": "Edwin Buruma",
     "ageclass": "Master (36-50)",
@@ -43,25 +43,25 @@
     "sexe": "Men",
     "spotname": "schildmeer",
     "sessionboard": "Starboard iSonic 107 Carbon",
-    "sessionsail": "Severne Mach 2  7.0",
-    "sessionfin": "Sonntag Fins GPS-6  35",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=396818&uid=23550"
+    "sessionsail": "Severne Mach 3  7.8",
+    "sessionfin": "Finish Fast speed  36",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=407934&uid=23550"
   },
   {
     "rowid": "4",
     "event_id": 762,
     "eventname": "2022 SSS Go reasonable big or go Home 2022-2023",
-    "speed": 56.839732,
+    "speed": 58.293552,
     "type": "speed_10sec",
     "username": "Sven Hulst",
     "ageclass": "Senior (19-35)",
     "weightclass": "91-100",
     "sexe": "Men",
     "spotname": "schildmeer",
-    "sessionboard": "Custom Severne Fox",
-    "sessionsail": "Gun Sails GSR  7.1",
-    "sessionfin": "Finish Speed/Slalom  32",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=397491&uid=23299"
+    "sessionboard": "Starboard isonic 85 Reflex Carbon ",
+    "sessionsail": "Gun Sails GS-R  7.8",
+    "sessionfin": "Finish Speed / Slalom   40",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=417239&uid=23299"
   },
   {
     "rowid": "5",

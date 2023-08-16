@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "rowid": "1",
+    "event_id": 824,
+    "eventname": "2023 IQ Foil Junior Speed Challenge 2023",
+    "speed": 0.0,
+    "type": "speed_24hour",
+    "username": "Charlie Baker",
+    "ageclass": "Master (36-50)",
+    "weightclass": "61-70",
+    "sexe": "Men",
+    "spotname": "Lago di Garda",
+    "sessionboard": "Starboard IQfoil 85",
+    "sessionsail": "Severne Foilglide 2  7.0",
+    "sessionfin": "not defined -  0",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=404732&uid=24663"
+  }
+]

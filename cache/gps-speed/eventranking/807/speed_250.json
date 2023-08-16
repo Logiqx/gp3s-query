@@ -1,1 +1,50 @@
-[]
+[
+  {
+    "rowid": "1",
+    "event_id": 807,
+    "eventname": "2023 Lysakerfjordern",
+    "speed": 42.562664,
+    "type": "speed_250",
+    "username": "Jan Erik Ringvold",
+    "ageclass": "Master (36-50)",
+    "weightclass": "91-100",
+    "sexe": "Men",
+    "spotname": "Rolfstangen, Lysaker, Oslo",
+    "sessionboard": "PATRIK f-ride",
+    "sessionsail": "Severne Turbo GT  8.6",
+    "sessionfin": "not defined -  0",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=412122&uid=24766"
+  },
+  {
+    "rowid": "2",
+    "event_id": 807,
+    "eventname": "2023 Lysakerfjordern",
+    "speed": 33.0119,
+    "type": "speed_250",
+    "username": "Jakob Schjerven",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Rolfstangen, Lysaker, Oslo",
+    "sessionboard": "Starboard Phantom Race 377",
+    "sessionsail": "Loftsails Raceboardblade ULW  9.5",
+    "sessionfin": "Starboard Drake R13  52",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=407280&uid=23938"
+  },
+  {
+    "rowid": "3",
+    "event_id": 807,
+    "eventname": "2023 Lysakerfjordern",
+    "speed": 32.702616000000006,
+    "type": "speed_250",
+    "username": "Christian Hilmersen",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Rolfstangen, Lysaker, Oslo",
+    "sessionboard": "Exocet RS 380 Elite Pro",
+    "sessionsail": "Demon Design VG7  95.0",
+    "sessionfin": "Select Rhino  51",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=410532&uid=23634"
+  }
+]

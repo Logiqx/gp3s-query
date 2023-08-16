@@ -51,6 +51,38 @@
     "rowid": "4",
     "event_id": 762,
     "eventname": "2022 SSS Go reasonable big or go Home 2022-2023",
+    "speed": 41.51258,
+    "type": "speed_mile",
+    "username": "Sven Hulst",
+    "ageclass": "Senior (19-35)",
+    "weightclass": "91-100",
+    "sexe": "Men",
+    "spotname": "schildmeer",
+    "sessionboard": "Starboard isonic 85 Reflex Carbon ",
+    "sessionsail": "GA-sails Vapor  9.6",
+    "sessionfin": "Zulu Umbani Evo 2  48",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=411139&uid=23299"
+  },
+  {
+    "rowid": "5",
+    "event_id": 762,
+    "eventname": "2022 SSS Go reasonable big or go Home 2022-2023",
+    "speed": 41.51258,
+    "type": "speed_mile",
+    "username": "Sven Hulst",
+    "ageclass": "Senior (19-35)",
+    "weightclass": "91-100",
+    "sexe": "Men",
+    "spotname": "schildmeer",
+    "sessionboard": "Starboard isonic 85 Reflex Carbon ",
+    "sessionsail": "GA-sails Vapor  9.6",
+    "sessionfin": "Zulu Umbani Evo 2  48",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=411139&uid=23299"
+  },
+  {
+    "rowid": "6",
+    "event_id": 762,
+    "eventname": "2022 SSS Go reasonable big or go Home 2022-2023",
     "speed": 37.727092,
     "type": "speed_mile",
     "username": "Ren\u00e9 Bijmolt",
@@ -64,7 +96,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=405468&uid=21711"
   },
   {
-    "rowid": "5",
+    "rowid": "7",
     "event_id": 762,
     "eventname": "2022 SSS Go reasonable big or go Home 2022-2023",
     "speed": 31.985892000000003,
@@ -80,7 +112,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=403653&uid=25189"
   },
   {
-    "rowid": "6",
+    "rowid": "8",
     "event_id": 762,
     "eventname": "2022 SSS Go reasonable big or go Home 2022-2023",
     "speed": 18.297760000000004,
@@ -94,21 +126,5 @@
     "sessionsail": "Severne Overdrive M4  8.6",
     "sessionfin": "- Severne F-series  44",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=397855&uid=25577"
-  },
-  {
-    "rowid": "7",
-    "event_id": 762,
-    "eventname": "2022 SSS Go reasonable big or go Home 2022-2023",
-    "speed": 0.0,
-    "type": "speed_mile",
-    "username": "Sven Hulst",
-    "ageclass": "Senior (19-35)",
-    "weightclass": "91-100",
-    "sexe": "Men",
-    "spotname": "schildmeer",
-    "sessionboard": "Custom Severne Fox",
-    "sessionsail": "Gun Sails GSR  7.1",
-    "sessionfin": "Finish Speed/Slalom  32",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=397491&uid=23299"
   }
 ]

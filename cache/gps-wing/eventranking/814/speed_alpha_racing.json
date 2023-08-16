@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "rowid": "1",
+    "event_id": 814,
+    "eventname": "2023 2023 Wing King Estonia",
+    "speed": 20.58498,
+    "type": "speed_alpha_racing",
+    "username": "Raul Kivi",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "51-60",
+    "sexe": "Men",
+    "spotname": "P\u00e4rnu rand",
+    "sessionboard": "not defined ",
+    "sessionsail": "North Sails North Mode  5.5",
+    "sessionfin": "not defined -  0",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=419540&uid=26696"
+  }
+]

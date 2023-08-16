@@ -118,7 +118,7 @@
     "speed": 75.115268,
     "type": "speed_10sec",
     "username": "Mark Hayford",
-    "ageclass": "Super Master (61-70)",
+    "ageclass": "Grand Master (51-60)",
     "weightclass": "91-100",
     "sexe": "Men",
     "spotname": "West Kirby",
@@ -307,6 +307,38 @@
     "rowid": "20",
     "event_id": 764,
     "eventname": "2022 BritishSpeedChallenge2023",
+    "speed": 66.151588,
+    "type": "speed_10sec",
+    "username": "James Dinsmore",
+    "ageclass": "Master (36-50)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Hayling Island",
+    "sessionboard": "Starboard iSonic 63 Carbon Reflex",
+    "sessionsail": "Severne Mach5  5.5",
+    "sessionfin": "not defined -  0",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=406607&uid=22336"
+  },
+  {
+    "rowid": "21",
+    "event_id": 764,
+    "eventname": "2022 BritishSpeedChallenge2023",
+    "speed": 64.68850800000001,
+    "type": "speed_10sec",
+    "username": "Alexander Doukas",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "West Wittering",
+    "sessionboard": "Carbon Art SP53pro",
+    "sessionsail": "Gaastra Vapor  5.7",
+    "sessionfin": "Tectonics Nomad  23",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=417319&uid=1605"
+  },
+  {
+    "rowid": "22",
+    "event_id": 764,
+    "eventname": "2022 BritishSpeedChallenge2023",
     "speed": 64.54405200000001,
     "type": "speed_10sec",
     "username": "Nic Dodd",
@@ -320,7 +352,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=403730&uid=3111"
   },
   {
-    "rowid": "21",
+    "rowid": "23",
     "event_id": 764,
     "eventname": "2022 BritishSpeedChallenge2023",
     "speed": 64.35514800000001,
@@ -336,7 +368,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=399370&uid=954"
   },
   {
-    "rowid": "22",
+    "rowid": "24",
     "event_id": 764,
     "eventname": "2022 BritishSpeedChallenge2023",
     "speed": 64.251436,
@@ -352,7 +384,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=395055&uid=4824"
   },
   {
-    "rowid": "23",
+    "rowid": "25",
     "event_id": 764,
     "eventname": "2022 BritishSpeedChallenge2023",
     "speed": 62.847620000000006,
@@ -368,7 +400,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=401557&uid=26062"
   },
   {
-    "rowid": "24",
+    "rowid": "26",
     "event_id": 764,
     "eventname": "2022 BritishSpeedChallenge2023",
     "speed": 62.817988,
@@ -384,7 +416,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=404951&uid=18284"
   },
   {
-    "rowid": "25",
+    "rowid": "27",
     "event_id": 764,
     "eventname": "2022 BritishSpeedChallenge2023",
     "speed": 62.77909600000001,
@@ -400,7 +432,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400674&uid=21715"
   },
   {
-    "rowid": "26",
+    "rowid": "28",
     "event_id": 764,
     "eventname": "2022 BritishSpeedChallenge2023",
     "speed": 62.610564000000004,
@@ -416,7 +448,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=397993&uid=16978"
   },
   {
-    "rowid": "27",
+    "rowid": "29",
     "event_id": 764,
     "eventname": "2022 BritishSpeedChallenge2023",
     "speed": 61.33453600000001,
@@ -432,7 +464,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=405207&uid=24841"
   },
   {
-    "rowid": "28",
+    "rowid": "30",
     "event_id": 764,
     "eventname": "2022 BritishSpeedChallenge2023",
     "speed": 61.167856,
@@ -448,23 +480,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=399507&uid=21905"
   },
   {
-    "rowid": "29",
-    "event_id": 764,
-    "eventname": "2022 BritishSpeedChallenge2023",
-    "speed": 59.691812000000006,
-    "type": "speed_10sec",
-    "username": "Alexander Doukas",
-    "ageclass": "Grand Master (51-60)",
-    "weightclass": "71-80",
-    "sexe": "Men",
-    "spotname": "Langstone Harbour",
-    "sessionboard": "Carbon Art SP53pro",
-    "sessionsail": "Gun Sails GS-R  7.1",
-    "sessionfin": "Z-fins SPA 27 S  27",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=396077&uid=1605"
-  },
-  {
-    "rowid": "30",
+    "rowid": "31",
     "event_id": 764,
     "eventname": "2022 BritishSpeedChallenge2023",
     "speed": 59.593655999999996,
@@ -480,7 +496,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=396061&uid=23443"
   },
   {
-    "rowid": "31",
+    "rowid": "32",
     "event_id": 764,
     "eventname": "2022 BritishSpeedChallenge2023",
     "speed": 59.539948,
@@ -496,7 +512,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=398245&uid=26304"
   },
   {
-    "rowid": "32",
+    "rowid": "33",
     "event_id": 764,
     "eventname": "2022 BritishSpeedChallenge2023",
     "speed": 59.339932,
@@ -512,7 +528,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=405381&uid=2710"
   },
   {
-    "rowid": "33",
+    "rowid": "34",
     "event_id": 764,
     "eventname": "2022 BritishSpeedChallenge2023",
     "speed": 59.29548400000001,
@@ -528,7 +544,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=395557&uid=4776"
   },
   {
-    "rowid": "34",
+    "rowid": "35",
     "event_id": 764,
     "eventname": "2022 BritishSpeedChallenge2023",
     "speed": 58.77322,
@@ -544,39 +560,55 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=396062&uid=25070"
   },
   {
-    "rowid": "35",
-    "event_id": 764,
-    "eventname": "2022 BritishSpeedChallenge2023",
-    "speed": 54.74326800000001,
-    "type": "speed_10sec",
-    "username": "Shane Verrion",
-    "ageclass": "Grand Master (51-60)",
-    "weightclass": "81-90",
-    "sexe": "Men",
-    "spotname": "Portland Harbour, Weymouth",
-    "sessionboard": "JP All Ride ",
-    "sessionsail": "Gun Sails Stream  6.4",
-    "sessionfin": "not defined -  0",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=398375&uid=26104"
-  },
-  {
     "rowid": "36",
     "event_id": 764,
     "eventname": "2022 BritishSpeedChallenge2023",
-    "speed": 54.237672,
+    "speed": 56.861956,
     "type": "speed_10sec",
     "username": "Olly Wood",
     "ageclass": "Master (36-50)",
     "weightclass": "81-90",
     "sexe": "Men",
     "spotname": "Christchurch Harbour",
-    "sessionboard": "JP Slalom IV 60",
-    "sessionsail": "Neilpryde RS Racing EVO 7  5.8",
-    "sessionfin": "not defined -  0",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=397071&uid=24107"
+    "sessionboard": "Fanatic Falcon 122",
+    "sessionsail": "Neilpryde rs racing evo7  7.0",
+    "sessionfin": "Sonntag Fins GPS-6  28",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=419172&uid=24107"
   },
   {
     "rowid": "37",
+    "event_id": 764,
+    "eventname": "2022 BritishSpeedChallenge2023",
+    "speed": 54.79697600000001,
+    "type": "speed_10sec",
+    "username": "Shane Verrion",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Portland Harbour, Weymouth",
+    "sessionboard": "JP Slalom 71 Pro Edition",
+    "sessionsail": "Gun Sails Stream  6.4",
+    "sessionfin": "not defined -  0",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=418743&uid=26104"
+  },
+  {
+    "rowid": "38",
+    "event_id": 764,
+    "eventname": "2022 BritishSpeedChallenge2023",
+    "speed": 54.283972000000006,
+    "type": "speed_10sec",
+    "username": "Chris Pankhurst ",
+    "ageclass": "Super Master (61-70)",
+    "weightclass": "61-70",
+    "sexe": "Men",
+    "spotname": "Portland Harbour, Weymouth",
+    "sessionboard": "Exocet rs1",
+    "sessionsail": "North Sails Warp F2011  5.7",
+    "sessionfin": "Fanatic FreeWave G10  29",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=416004&uid=5368"
+  },
+  {
+    "rowid": "39",
     "event_id": 764,
     "eventname": "2022 BritishSpeedChallenge2023",
     "speed": 54.009876000000006,
@@ -592,7 +624,23 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=396044&uid=3592"
   },
   {
-    "rowid": "38",
+    "rowid": "40",
+    "event_id": 764,
+    "eventname": "2022 BritishSpeedChallenge2023",
+    "speed": 52.507904,
+    "type": "speed_10sec",
+    "username": "Mark Palmer",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Portland Harbour, Weymouth",
+    "sessionboard": "PATRIK slalom 95",
+    "sessionsail": "Severne Mach 3  7.0",
+    "sessionfin": "F-Hot slalom  34",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=406043&uid=6401"
+  },
+  {
+    "rowid": "41",
     "event_id": 764,
     "eventname": "2022 BritishSpeedChallenge2023",
     "speed": 52.306036,
@@ -608,7 +656,23 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=395727&uid=2307"
   },
   {
-    "rowid": "39",
+    "rowid": "42",
+    "event_id": 764,
+    "eventname": "2022 BritishSpeedChallenge2023",
+    "speed": 51.39485200000001,
+    "type": "speed_10sec",
+    "username": "Douglas Reid",
+    "ageclass": "Senior (19-35)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Calshot Beach",
+    "sessionboard": "Severne Fox V2 105",
+    "sessionsail": "Ezzy Lion  7.0",
+    "sessionfin": "Select S-Max  37",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=407653&uid=22441"
+  },
+  {
+    "rowid": "43",
     "event_id": 764,
     "eventname": "2022 BritishSpeedChallenge2023",
     "speed": 50.131788,
@@ -624,42 +688,26 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=403978&uid=3532"
   },
   {
-    "rowid": "40",
+    "rowid": "44",
     "event_id": 764,
     "eventname": "2022 BritishSpeedChallenge2023",
-    "speed": 49.848432,
+    "speed": 48.644632,
     "type": "speed_10sec",
-    "username": "Chris Pankhurst ",
-    "ageclass": "Super Master (61-70)",
-    "weightclass": "61-70",
+    "username": "Richard Evans",
+    "ageclass": "Master (36-50)",
+    "weightclass": "91-100",
     "sexe": "Men",
-    "spotname": "Portland Harbour, Weymouth",
-    "sessionboard": "Exocet rs1",
-    "sessionsail": "North Sails Warp F2011  5.7",
-    "sessionfin": "Select SRX  36",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=396101&uid=5368"
+    "spotname": "Langstone Harbour",
+    "sessionboard": "JP Freestyle Wave",
+    "sessionsail": "Ezzy Cheetah  6.0",
+    "sessionfin": "- Fin  34",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=417701&uid=24194"
   },
   {
-    "rowid": "41",
+    "rowid": "45",
     "event_id": 764,
     "eventname": "2022 BritishSpeedChallenge2023",
-    "speed": 49.794724,
-    "type": "speed_10sec",
-    "username": "Douglas Reid",
-    "ageclass": "Senior (19-35)",
-    "weightclass": "71-80",
-    "sexe": "Men",
-    "spotname": "Calshot Lagoon",
-    "sessionboard": "Severne Fox V2 105",
-    "sessionsail": "Ezzy Lion  7.0",
-    "sessionfin": "Select Edge Pro Carbon  35",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=399800&uid=22441"
-  },
-  {
-    "rowid": "42",
-    "event_id": 764,
-    "eventname": "2022 BritishSpeedChallenge2023",
-    "speed": 44.0313,
+    "speed": 47.638996,
     "type": "speed_10sec",
     "username": "Chris Vasey",
     "ageclass": "Super Master (61-70)",
@@ -669,10 +717,42 @@
     "sessionboard": "Tiga  Flash 74",
     "sessionsail": "Point-7 ACK  8.5",
     "sessionfin": "Curtis Race   58",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=404996&uid=5487"
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=412275&uid=5487"
   },
   {
-    "rowid": "43",
+    "rowid": "46",
+    "event_id": 764,
+    "eventname": "2022 BritishSpeedChallenge2023",
+    "speed": 45.56846,
+    "type": "speed_10sec",
+    "username": "Cash Cox",
+    "ageclass": "Junior (11-14)",
+    "weightclass": "61-70",
+    "sexe": "Men",
+    "spotname": "Christchurch Harbour",
+    "sessionboard": "Starboard iSonic 97 Carbon",
+    "sessionsail": "North Sails ICE  5.7",
+    "sessionfin": "not defined -  0",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=418636&uid=27070"
+  },
+  {
+    "rowid": "47",
+    "event_id": 764,
+    "eventname": "2022 BritishSpeedChallenge2023",
+    "speed": 35.130588,
+    "type": "speed_10sec",
+    "username": "Theo Cox",
+    "ageclass": "Junior (11-14)",
+    "weightclass": "41-50",
+    "sexe": "Men",
+    "spotname": "Christchurch Harbour",
+    "sessionboard": "Tabou Manta",
+    "sessionsail": "Naish Force 5  4.7",
+    "sessionfin": "not defined -  0",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=418618&uid=27069"
+  },
+  {
+    "rowid": "48",
     "event_id": 764,
     "eventname": "2022 BritishSpeedChallenge2023",
     "speed": 31.567340000000005,
@@ -681,7 +761,7 @@
     "ageclass": "Grand Master (51-60)",
     "weightclass": "81-90",
     "sexe": "Men",
-    "spotname": "Calshot Lagoon",
+    "spotname": "Calshot Beach",
     "sessionboard": "Tabou Rocket 74",
     "sessionsail": "Gaastra Matrix  7.5",
     "sessionfin": "not defined -  0",

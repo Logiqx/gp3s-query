@@ -5,6 +5,54 @@
     "eventname": "2023 Surf like a dude Zuidlaardermeer Speed Challenge 2023",
     "speed": 0.0,
     "type": "speed_24hour",
+    "username": "Dennis Beumer",
+    "ageclass": "Master (36-50)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Zuidlaardermeer",
+    "sessionboard": "Starboard Isonic ",
+    "sessionsail": "Severne Reflex 6  6.2",
+    "sessionfin": "Sonntag Fins GPS_6  33",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=402948&uid=22984"
+  },
+  {
+    "rowid": "2",
+    "event_id": 787,
+    "eventname": "2023 Surf like a dude Zuidlaardermeer Speed Challenge 2023",
+    "speed": 0.0,
+    "type": "speed_24hour",
+    "username": "Edwin Buruma",
+    "ageclass": "Master (36-50)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Zuidlaardermeer",
+    "sessionboard": "Starboard Isonic 90 Carbon",
+    "sessionsail": "Neilpryde Hellcat  5.7",
+    "sessionfin": "Finish fast speed/slalom  32",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=415217&uid=23550"
+  },
+  {
+    "rowid": "3",
+    "event_id": 787,
+    "eventname": "2023 Surf like a dude Zuidlaardermeer Speed Challenge 2023",
+    "speed": 0.0,
+    "type": "speed_24hour",
+    "username": "Martijn Mobach",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Zuidlaardermeer",
+    "sessionboard": "Starboard Isonic 67  Carbon",
+    "sessionsail": "Severne Mach3  7.8",
+    "sessionfin": "Gasoil Fins CHR-M  35",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400431&uid=4690"
+  },
+  {
+    "rowid": "4",
+    "event_id": 787,
+    "eventname": "2023 Surf like a dude Zuidlaardermeer Speed Challenge 2023",
+    "speed": 0.0,
+    "type": "speed_24hour",
     "username": "Gerard De Groot",
     "ageclass": "Super Master (61-70)",
     "weightclass": "61-70",
@@ -16,7 +64,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=402228&uid=26725"
   },
   {
-    "rowid": "2",
+    "rowid": "5",
     "event_id": 787,
     "eventname": "2023 Surf like a dude Zuidlaardermeer Speed Challenge 2023",
     "speed": 0.0,
@@ -32,7 +80,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400378&uid=26064"
   },
   {
-    "rowid": "3",
+    "rowid": "6",
     "event_id": 787,
     "eventname": "2023 Surf like a dude Zuidlaardermeer Speed Challenge 2023",
     "speed": 0.0,
@@ -48,7 +96,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400386&uid=25848"
   },
   {
-    "rowid": "4",
+    "rowid": "7",
     "event_id": 787,
     "eventname": "2023 Surf like a dude Zuidlaardermeer Speed Challenge 2023",
     "speed": 0.0,
@@ -64,7 +112,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=402305&uid=24414"
   },
   {
-    "rowid": "5",
+    "rowid": "8",
     "event_id": 787,
     "eventname": "2023 Surf like a dude Zuidlaardermeer Speed Challenge 2023",
     "speed": 0.0,
@@ -80,14 +128,14 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=404205&uid=24370"
   },
   {
-    "rowid": "6",
+    "rowid": "9",
     "event_id": 787,
     "eventname": "2023 Surf like a dude Zuidlaardermeer Speed Challenge 2023",
     "speed": 0.0,
     "type": "speed_24hour",
     "username": "Tim Heeringa",
     "ageclass": "Master (36-50)",
-    "weightclass": "81-90",
+    "weightclass": "91-100",
     "sexe": "Men",
     "spotname": "Zuidlaardermeer",
     "sessionboard": "Exocet RS 3",
@@ -96,7 +144,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=401744&uid=23642"
   },
   {
-    "rowid": "7",
+    "rowid": "10",
     "event_id": 787,
     "eventname": "2023 Surf like a dude Zuidlaardermeer Speed Challenge 2023",
     "speed": 0.0,
@@ -112,7 +160,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=403534&uid=8545"
   },
   {
-    "rowid": "8",
+    "rowid": "11",
     "event_id": 787,
     "eventname": "2023 Surf like a dude Zuidlaardermeer Speed Challenge 2023",
     "speed": 0.0,

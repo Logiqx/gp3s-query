@@ -5,6 +5,54 @@
     "eventname": "2023 Spanish Challenge",
     "speed": 0.0,
     "type": "speed_24hour",
+    "username": "Kai Kaufmann",
+    "ageclass": "Master (36-50)",
+    "weightclass": "91-100",
+    "sexe": "Men",
+    "spotname": "Gran Canaria - Aguila Playa",
+    "sessionboard": "RRD X-Fire 98 LTD Y25",
+    "sessionsail": "RRD X-Wing Y25  5.2",
+    "sessionfin": "Hurricane SS 3 M-  32",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400796&uid=16746"
+  },
+  {
+    "rowid": "2",
+    "event_id": 816,
+    "eventname": "2023 Spanish Challenge",
+    "speed": 0.0,
+    "type": "speed_24hour",
+    "username": "Gaspar Evelio Cascon Schwarzenlander",
+    "ageclass": "Youth (0-10)",
+    "weightclass": "0-40",
+    "sexe": "Men",
+    "spotname": "Gran Canaria, Bah\u00eda de Formas (Salinas de Arinaga)",
+    "sessionboard": "Goya Bolt",
+    "sessionsail": "Goya Banzai  5.0",
+    "sessionfin": "MFC H1  30",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=406679&uid=26847"
+  },
+  {
+    "rowid": "3",
+    "event_id": 816,
+    "eventname": "2023 Spanish Challenge",
+    "speed": 0.0,
+    "type": "speed_24hour",
+    "username": "Jose Luis Morales Romacho",
+    "ageclass": "Master (36-50)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Cabo de Gata, Torreon",
+    "sessionboard": "Starboard iSonic Speed Special W54",
+    "sessionsail": "Neilpryde EVO X  5.2",
+    "sessionfin": "Sonntag Fins GPS 6  29",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=402056&uid=22828"
+  },
+  {
+    "rowid": "4",
+    "event_id": 816,
+    "eventname": "2023 Spanish Challenge",
+    "speed": 0.0,
+    "type": "speed_24hour",
     "username": "Manuel Pousa ",
     "ageclass": "Master (36-50)",
     "weightclass": "71-80",
@@ -16,7 +64,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=404164&uid=26477"
   },
   {
-    "rowid": "2",
+    "rowid": "5",
     "event_id": 816,
     "eventname": "2023 Spanish Challenge",
     "speed": 0.0,
@@ -32,7 +80,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=402013&uid=26053"
   },
   {
-    "rowid": "3",
+    "rowid": "6",
     "event_id": 816,
     "eventname": "2023 Spanish Challenge",
     "speed": 0.0,
@@ -48,7 +96,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=402072&uid=26004"
   },
   {
-    "rowid": "4",
+    "rowid": "7",
     "event_id": 816,
     "eventname": "2023 Spanish Challenge",
     "speed": 0.0,
@@ -64,7 +112,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=405603&uid=25290"
   },
   {
-    "rowid": "5",
+    "rowid": "8",
     "event_id": 816,
     "eventname": "2023 Spanish Challenge",
     "speed": 0.0,
@@ -73,14 +121,14 @@
     "ageclass": "Grand Master (51-60)",
     "weightclass": "81-90",
     "sexe": "Men",
-    "spotname": "Cazalegas",
+    "spotname": "Cazalegas lake",
     "sessionboard": "Fanatic Fanatic TE ff 140 2022",
     "sessionsail": "Duotone Warp Fin  8.4",
     "sessionfin": "- chopper ChC  46",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=402092&uid=25183"
   },
   {
-    "rowid": "6",
+    "rowid": "9",
     "event_id": 816,
     "eventname": "2023 Spanish Challenge",
     "speed": 0.0,
@@ -96,7 +144,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=403400&uid=24605"
   },
   {
-    "rowid": "7",
+    "rowid": "10",
     "event_id": 816,
     "eventname": "2023 Spanish Challenge",
     "speed": 0.0,
@@ -112,7 +160,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=401872&uid=23714"
   },
   {
-    "rowid": "8",
+    "rowid": "11",
     "event_id": 816,
     "eventname": "2023 Spanish Challenge",
     "speed": 0.0,
@@ -128,7 +176,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=401863&uid=23628"
   },
   {
-    "rowid": "9",
+    "rowid": "12",
     "event_id": 816,
     "eventname": "2023 Spanish Challenge",
     "speed": 0.0,
@@ -144,7 +192,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=403681&uid=23412"
   },
   {
-    "rowid": "10",
+    "rowid": "13",
     "event_id": 816,
     "eventname": "2023 Spanish Challenge",
     "speed": 0.0,
@@ -160,7 +208,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=402974&uid=22584"
   },
   {
-    "rowid": "11",
+    "rowid": "14",
     "event_id": 816,
     "eventname": "2023 Spanish Challenge",
     "speed": 0.0,
@@ -176,7 +224,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=404684&uid=22440"
   },
   {
-    "rowid": "12",
+    "rowid": "15",
     "event_id": 816,
     "eventname": "2023 Spanish Challenge",
     "speed": 0.0,
@@ -192,7 +240,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=403186&uid=22002"
   },
   {
-    "rowid": "13",
+    "rowid": "16",
     "event_id": 816,
     "eventname": "2023 Spanish Challenge",
     "speed": 0.0,
@@ -208,13 +256,13 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=401072&uid=19419"
   },
   {
-    "rowid": "14",
+    "rowid": "17",
     "event_id": 816,
     "eventname": "2023 Spanish Challenge",
     "speed": 0.0,
     "type": "speed_24hour",
     "username": "Salvador Ya\u00f1ez",
-    "ageclass": "Ultimate Master (71-99)",
+    "ageclass": "Grand Master (51-60)",
     "weightclass": "81-90",
     "sexe": "Men",
     "spotname": "Valmayor Lake, Madrid",
@@ -224,7 +272,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=403335&uid=13637"
   },
   {
-    "rowid": "15",
+    "rowid": "18",
     "event_id": 816,
     "eventname": "2023 Spanish Challenge",
     "speed": 0.0,

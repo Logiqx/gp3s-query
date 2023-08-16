@@ -35,6 +35,22 @@
     "rowid": "3",
     "event_id": 775,
     "eventname": "2023 Irish Speed Masters",
+    "speed": 62.473516,
+    "type": "speed_250",
+    "username": "Roman Szypura",
+    "ageclass": "Master (36-50)",
+    "weightclass": "61-70",
+    "sexe": "Men",
+    "spotname": "Sligo Bay",
+    "sessionboard": "F2 SX XS",
+    "sessionsail": "Neilpryde Combat HD  5.0",
+    "sessionfin": "Choco Fins Choco Fin SX XS 29  29",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=414106&uid=23887"
+  },
+  {
+    "rowid": "4",
+    "event_id": 775,
+    "eventname": "2023 Irish Speed Masters",
     "speed": 61.945696000000005,
     "type": "speed_250",
     "username": "Mark Cullinane",
@@ -48,7 +64,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=400429&uid=25543"
   },
   {
-    "rowid": "4",
+    "rowid": "5",
     "event_id": 775,
     "eventname": "2023 Irish Speed Masters",
     "speed": 43.090484000000004,

@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "rowid": "1",
+    "event_id": 802,
+    "eventname": "2023 Wurster Tri-Speed",
+    "speed": 0.0,
+    "type": "speed_24hour",
+    "username": "Uwe-S\u00f6ren Schmidt",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Dorum, Bremerhaven",
+    "sessionboard": "JP Speed 45 Pro Edition",
+    "sessionsail": "Neilpryde RS Racing Evo X  5.2",
+    "sessionfin": "Hurricane Speed 2  21",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=403178&uid=3581"
+  }
+]
