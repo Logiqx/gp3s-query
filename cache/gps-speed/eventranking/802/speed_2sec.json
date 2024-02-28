@@ -19,6 +19,22 @@
     "rowid": "2",
     "event_id": 802,
     "eventname": "2023 Wurster Tri-Speed",
+    "speed": 70.07412400000001,
+    "type": "speed_2sec",
+    "username": "Bj\u00f6rn Haacke",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Dorum, Bremerhaven",
+    "sessionboard": "Starboard  iSonic 63 Carbon Reflex ",
+    "sessionsail": "Neilpryde RS Racing EVO 6  5.8",
+    "sessionfin": "Hurricane Speed 2  28",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=422960&uid=27183"
+  },
+  {
+    "rowid": "3",
+    "event_id": 802,
+    "eventname": "2023 Wurster Tri-Speed",
     "speed": 69.890776,
     "type": "speed_2sec",
     "username": "Bjoern Haacke",
@@ -32,26 +48,26 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=415373&uid=26899"
   },
   {
-    "rowid": "3",
+    "rowid": "4",
     "event_id": 802,
     "eventname": "2023 Wurster Tri-Speed",
-    "speed": 62.747612000000004,
+    "speed": 64.188468,
     "type": "speed_2sec",
     "username": "Hans-Dieter Wilshusen",
     "ageclass": "Super Master (61-70)",
     "weightclass": "71-80",
     "sexe": "Men",
     "spotname": "Dorum, Bremerhaven",
-    "sessionboard": "Starboard iSonic Speed Slalom 80",
+    "sessionboard": "Fanatic Speed 45",
     "sessionsail": "Loftsails Speed Blade  6.1",
-    "sessionfin": "Hurricane Weed  28",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=417145&uid=3855"
+    "sessionfin": "Hurricane speed 30  22",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=421373&uid=3855"
   },
   {
-    "rowid": "4",
+    "rowid": "5",
     "event_id": 802,
     "eventname": "2023 Wurster Tri-Speed",
-    "speed": 56.041520000000006,
+    "speed": 60.764120000000005,
     "type": "speed_2sec",
     "username": "Bert Nijsen",
     "ageclass": "Super Master (61-70)",
@@ -59,12 +75,12 @@
     "sexe": "Men",
     "spotname": "Dorum, Bremerhaven",
     "sessionboard": "Starboard Isonic 87",
-    "sessionsail": "Neilpryde Speedster  6.2",
+    "sessionsail": "Neilpryde RS Racing EVO 8  5.2",
     "sessionfin": "Hurricane Speed Slalom  27",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=407980&uid=4306"
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=429272&uid=4306"
   },
   {
-    "rowid": "5",
+    "rowid": "6",
     "event_id": 802,
     "eventname": "2023 Wurster Tri-Speed",
     "speed": 52.459752,
@@ -80,7 +96,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=417549&uid=10607"
   },
   {
-    "rowid": "6",
+    "rowid": "7",
     "event_id": 802,
     "eventname": "2023 Wurster Tri-Speed",
     "speed": 49.44654800000001,
@@ -90,13 +106,13 @@
     "weightclass": "91-100",
     "sexe": "Men",
     "spotname": "Dorum, Bremerhaven",
-    "sessionboard": "Starboard Isonic 107 Carbon",
+    "sessionboard": "Starboard Futura 107 Carbon",
     "sessionsail": "Gun Sails Vector  7.8",
     "sessionfin": "Maui Ultra Fins Slalom Weed  28",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=409086&uid=5567"
   },
   {
-    "rowid": "7",
+    "rowid": "8",
     "event_id": 802,
     "eventname": "2023 Wurster Tri-Speed",
     "speed": 46.764852000000005,

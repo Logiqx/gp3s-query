@@ -1,0 +1,50 @@
+[
+  {
+    "rowid": "1",
+    "event_id": 877,
+    "eventname": "2024 Singlis Speed Challenge 2024",
+    "speed": 54.674744,
+    "type": "speed_10sec",
+    "username": "Michel Gutbier",
+    "ageclass": "Senior (19-35)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Singliser See",
+    "sessionboard": "Starboard  iSonic 73 Carbon Reflex ",
+    "sessionsail": "Severne Mach 5  7.8",
+    "sessionfin": "NoLo 6  36",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=431874&uid=7491"
+  },
+  {
+    "rowid": "2",
+    "event_id": 877,
+    "eventname": "2024 Singlis Speed Challenge 2024",
+    "speed": 40.151360000000004,
+    "type": "speed_10sec",
+    "username": "Juan Antonio Garcia",
+    "ageclass": "Super Master (61-70)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Singliser See",
+    "sessionboard": "Starboard Futura 144 Carbon",
+    "sessionsail": "Ezzy Lion  9.5",
+    "sessionfin": "Z-fins SL 50  50",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=431684&uid=26977"
+  },
+  {
+    "rowid": "3",
+    "event_id": 877,
+    "eventname": "2024 Singlis Speed Challenge 2024",
+    "speed": 32.293324000000005,
+    "type": "speed_10sec",
+    "username": "Annette Reinhardt",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "61-70",
+    "sexe": "Woman",
+    "spotname": "Singliser See",
+    "sessionboard": "Tabou Rocket 135",
+    "sessionsail": "Ezzy Legacy  7.5",
+    "sessionfin": "not defined -  0",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=431776&uid=24138"
+  }
+]

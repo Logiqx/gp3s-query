@@ -26,7 +26,7 @@
     "weightclass": "61-70",
     "sexe": "Men",
     "spotname": "Dorum, Bremerhaven",
-    "sessionboard": "Starboard Isonic 107 Carbon",
+    "sessionboard": "Starboard Futura 107 Carbon",
     "sessionsail": "Neilpryde Speedster  7.2",
     "sessionfin": "Lessacher LE WO Duo Speed Rake 30  25",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=407242&uid=4306"
@@ -81,6 +81,22 @@
   },
   {
     "rowid": "6",
+    "event_id": 802,
+    "eventname": "2023 Wurster Tri-Speed",
+    "speed": 9.1674,
+    "type": "speed_halfhour",
+    "username": "Bj\u00f6rn Haacke",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Dorum, Bremerhaven",
+    "sessionboard": "Starboard  iSonic 63 Carbon Reflex ",
+    "sessionsail": "Neilpryde RS Racing EVO 6  5.8",
+    "sessionfin": "Hurricane Speed 2  28",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=422960&uid=27183"
+  },
+  {
+    "rowid": "7",
     "event_id": 802,
     "eventname": "2023 Wurster Tri-Speed",
     "speed": 0.0,

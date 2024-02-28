@@ -3,6 +3,22 @@
     "rowid": "1",
     "event_id": 834,
     "eventname": "2023 2023 Auckland Windsurfing Association Speed Challenge",
+    "speed": 69.290728,
+    "type": "speed_10sec",
+    "username": "Dave Harnett",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "91-100",
+    "sexe": "Men",
+    "spotname": "Tamaki River, Auckland",
+    "sessionboard": "Starboard Isonic 67  Carbon",
+    "sessionsail": "Severne Mach 5  7.0",
+    "sessionfin": "Big World Fins nZ 6-3  36",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=427862&uid=881"
+  },
+  {
+    "rowid": "2",
+    "event_id": 834,
+    "eventname": "2023 2023 Auckland Windsurfing Association Speed Challenge",
     "speed": 64.73666,
     "type": "speed_10sec",
     "username": "Bryan Morrison",
@@ -16,7 +32,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=412852&uid=5968"
   },
   {
-    "rowid": "2",
+    "rowid": "3",
     "event_id": 834,
     "eventname": "2023 2023 Auckland Windsurfing Association Speed Challenge",
     "speed": 63.25506000000001,
@@ -32,26 +48,42 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=413431&uid=5934"
   },
   {
-    "rowid": "3",
+    "rowid": "4",
     "event_id": 834,
     "eventname": "2023 2023 Auckland Windsurfing Association Speed Challenge",
-    "speed": 57.591644,
+    "speed": 59.804784000000005,
+    "type": "speed_10sec",
+    "username": "Brendan van Diepen",
+    "ageclass": "Super Master (61-70)",
+    "weightclass": "91-100",
+    "sexe": "Men",
+    "spotname": "McLeods Bay",
+    "sessionboard": "Starboard Futura 124 Wood",
+    "sessionsail": "Neilpryde RS Slalom MK6  6.4",
+    "sessionfin": "not defined -  0",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=422479&uid=23755"
+  },
+  {
+    "rowid": "5",
+    "event_id": 834,
+    "eventname": "2023 2023 Auckland Windsurfing Association Speed Challenge",
+    "speed": 59.630696,
     "type": "speed_10sec",
     "username": "Daniel Thomas",
     "ageclass": "Master (36-50)",
     "weightclass": "101-110",
     "sexe": "Men",
-    "spotname": "Manukau Harbour, Clarks Beach",
+    "spotname": "Shoal Bay, Auckland",
     "sessionboard": "Carbon Art Slalom Pro",
     "sessionsail": "Duotone Warp  6.2",
     "sessionfin": "Tectonics R2N 9.0  32",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=413472&uid=4364"
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=426690&uid=4364"
   },
   {
-    "rowid": "4",
+    "rowid": "6",
     "event_id": 834,
     "eventname": "2023 2023 Auckland Windsurfing Association Speed Challenge",
-    "speed": 56.928628,
+    "speed": 58.945456,
     "type": "speed_10sec",
     "username": "Hugo Ellis",
     "ageclass": "Grand Master (51-60)",
@@ -61,10 +93,26 @@
     "sessionboard": "Starboard Isonic 87 Wood",
     "sessionsail": "KA Sails Koncept  6.2",
     "sessionfin": "Select select vmax  31",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=416579&uid=25923"
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=428355&uid=25923"
   },
   {
-    "rowid": "5",
+    "rowid": "7",
+    "event_id": 834,
+    "eventname": "2023 2023 Auckland Windsurfing Association Speed Challenge",
+    "speed": 57.02308,
+    "type": "speed_10sec",
+    "username": "Stephen Westwood",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Shoal Bay, Auckland",
+    "sessionboard": "Starboard isonic 87 Carbon",
+    "sessionsail": "Severne Mach 3  6.2",
+    "sessionfin": "Tectonics F1 Falcon  30",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=427784&uid=25194"
+  },
+  {
+    "rowid": "8",
     "event_id": 834,
     "eventname": "2023 2023 Auckland Windsurfing Association Speed Challenge",
     "speed": 56.667496,
@@ -78,21 +126,5 @@
     "sessionsail": "Severne OverdriveMach1  7.0",
     "sessionfin": "Starboard DRAKE SlalomDW 38  38",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=416852&uid=23731"
-  },
-  {
-    "rowid": "6",
-    "event_id": 834,
-    "eventname": "2023 2023 Auckland Windsurfing Association Speed Challenge",
-    "speed": 51.874520000000004,
-    "type": "speed_10sec",
-    "username": "Dave Harnett",
-    "ageclass": "Grand Master (51-60)",
-    "weightclass": "91-100",
-    "sexe": "Men",
-    "spotname": "Tamaki River, Auckland",
-    "sessionboard": "Starboard Isonic 134 Carbon",
-    "sessionsail": "Severne Mach4  8.6",
-    "sessionfin": "Custom ERD Evo  46",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=418072&uid=881"
   }
 ]

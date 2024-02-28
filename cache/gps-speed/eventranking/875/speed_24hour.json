@@ -1,0 +1,18 @@
+[
+  {
+    "rowid": "1",
+    "event_id": 875,
+    "eventname": "2024 MAURITIUS SPEED CHALLENGE 2024",
+    "speed": 0.0,
+    "type": "speed_24hour",
+    "username": "Christopher Tyack",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Le Morne",
+    "sessionboard": "RRD X-Fire 114 V10 LTD",
+    "sessionsail": "S2 Maui Venom  7.6",
+    "sessionfin": "not defined -  0",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=430361&uid=22404"
+  }
+]

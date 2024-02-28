@@ -1,0 +1,18 @@
+[
+  {
+    "rowid": "1",
+    "event_id": 856,
+    "eventname": "2024 US Fastest Nautical Mile",
+    "speed": 58.145392,
+    "type": "speed_100",
+    "username": "Alexander Sosnin",
+    "ageclass": "Ultimate Master (71-99)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "US Sailing Center Jensen Beach",
+    "sessionboard": "Starboard iSonic 67 Carbon Reflex",
+    "sessionsail": "Loftsails Speed Blade  5.6",
+    "sessionfin": "Vector Fins Volt  32",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=431920&uid=5774"
+  }
+]

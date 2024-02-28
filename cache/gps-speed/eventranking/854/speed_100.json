@@ -1,0 +1,34 @@
+[
+  {
+    "rowid": "1",
+    "event_id": 854,
+    "eventname": "2024 AQUA International Speedsurfing Trophy",
+    "speed": 62.529075999999996,
+    "type": "speed_100",
+    "username": "Peter Warwick",
+    "ageclass": "Ultimate Master (71-99)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Coodanup",
+    "sessionboard": "Carbon Art Carbon Art",
+    "sessionsail": "KA Sails Koncept  5.4",
+    "sessionfin": "- Fangy  18",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=430058&uid=24502"
+  },
+  {
+    "rowid": "2",
+    "event_id": 854,
+    "eventname": "2024 AQUA International Speedsurfing Trophy",
+    "speed": 49.94844,
+    "type": "speed_100",
+    "username": "Elisi\u00e1rio Carvalho",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Seixal - Praia da Velha",
+    "sessionboard": "Goya Volar",
+    "sessionsail": "Loftsails Oxygen HD  7.8",
+    "sessionfin": "not defined -  0",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=431961&uid=27419"
+  }
+]

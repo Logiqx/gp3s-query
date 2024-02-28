@@ -1,0 +1,28 @@
+[
+  {
+    "session_id": 431261,
+    "session_date": "2/4/2024 12:00:00 AM",
+    "event_id": 869,
+    "eventname": "2024 FFF SPEED CHALLENGE",
+    "speed_avg": 59.2095512,
+    "speed_2sec": 62.595748,
+    "speed_10sec": 60.610403999999996,
+    "speed_100": 61.80309200000001,
+    "speed_250": 59.469572,
+    "speed_500": 58.797296,
+    "speed_mile": 51.796736,
+    "speed_hour": 39.930972000000004,
+    "speed_halfhour": 43.740536,
+    "speed_24hour": 0.0,
+    "speed_alpha_racing": 41.1144,
+    "session_distance": 91.915186,
+    "username": "S\u00e9bastien Bourgeois",
+    "flag": "FR",
+    "sexe": "Men",
+    "spotname": "Fos, 13",
+    "sessionboard": "AHD Compact Foil 83,  2021",
+    "sessionsail": "KA Sails speed 5.7,  2021",
+    "sessionfin": "- AFS 100 - 105 - 370 / 200  100",
+    "sessionurl": "https://www.gps-foilsurfing.com/?mnu=user&val=431261&uid=5223"
+  }
+]

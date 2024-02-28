@@ -1,0 +1,28 @@
+[
+  {
+    "session_id": 432242,
+    "session_date": "2/6/2024 12:00:00 AM",
+    "event_id": 884,
+    "eventname": "2024 forum.timeto.surf GPS-Event fin only - inkl Kombinationswertung",
+    "speed_avg": 51.830072,
+    "speed_2sec": 54.348792,
+    "speed_10sec": 52.580132,
+    "speed_100": 52.85608,
+    "speed_250": 51.5319,
+    "speed_500": 51.191131999999996,
+    "speed_mile": 47.024132,
+    "speed_hour": 32.574828,
+    "speed_halfhour": 37.210384,
+    "speed_24hour": 0.0,
+    "speed_alpha_racing": 39.229064,
+    "session_distance": 60.036527,
+    "username": "Dominik Kocholl",
+    "flag": "AT",
+    "sexe": "Men",
+    "spotname": "Neusiedler See",
+    "sessionboard": "Fanatic Falcon 115 TE,  2019",
+    "sessionsail": "Duotone Warp 20.20 7.7,  2020",
+    "sessionfin": "Chopper Chopper  375",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=432242&uid=26794"
+  }
+]

@@ -5,6 +5,22 @@
     "eventname": "2023 2023 Auckland Windsurfing Association Speed Challenge",
     "speed": 0.0,
     "type": "speed_24hour",
+    "username": "Stephen Westwood",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Shoal Bay, Auckland",
+    "sessionboard": "Starboard iSonic 107 Carbon",
+    "sessionsail": "Severne Mach 3  6.2",
+    "sessionfin": "Tectonics F1 Falcon  35",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=426688&uid=25194"
+  },
+  {
+    "rowid": "2",
+    "event_id": 834,
+    "eventname": "2023 2023 Auckland Windsurfing Association Speed Challenge",
+    "speed": 0.0,
+    "type": "speed_24hour",
     "username": "Dave Harnett",
     "ageclass": "Grand Master (51-60)",
     "weightclass": "91-100",
@@ -16,7 +32,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=418071&uid=881"
   },
   {
-    "rowid": "2",
+    "rowid": "3",
     "event_id": 834,
     "eventname": "2023 2023 Auckland Windsurfing Association Speed Challenge",
     "speed": 0.0,
@@ -32,7 +48,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=416854&uid=23731"
   },
   {
-    "rowid": "3",
+    "rowid": "4",
     "event_id": 834,
     "eventname": "2023 2023 Auckland Windsurfing Association Speed Challenge",
     "speed": 0.0,
@@ -48,7 +64,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=413431&uid=5934"
   },
   {
-    "rowid": "4",
+    "rowid": "5",
     "event_id": 834,
     "eventname": "2023 2023 Auckland Windsurfing Association Speed Challenge",
     "speed": 0.0,
@@ -64,7 +80,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=412852&uid=5968"
   },
   {
-    "rowid": "5",
+    "rowid": "6",
     "event_id": 834,
     "eventname": "2023 2023 Auckland Windsurfing Association Speed Challenge",
     "speed": 0.0,
@@ -80,7 +96,7 @@
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=413427&uid=25923"
   },
   {
-    "rowid": "6",
+    "rowid": "7",
     "event_id": 834,
     "eventname": "2023 2023 Auckland Windsurfing Association Speed Challenge",
     "speed": 0.0,

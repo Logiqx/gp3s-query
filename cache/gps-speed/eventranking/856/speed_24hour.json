@@ -1,0 +1,18 @@
+[
+  {
+    "rowid": "1",
+    "event_id": 856,
+    "eventname": "2024 US Fastest Nautical Mile",
+    "speed": 0.0,
+    "type": "speed_24hour",
+    "username": "Alexander Sosnin",
+    "ageclass": "Ultimate Master (71-99)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "US Sailing Center Jensen Beach",
+    "sessionboard": "Starboard iSonic Reflex Carbon 77",
+    "sessionsail": "Duotone Warp  7.0",
+    "sessionfin": "- Chopper ChC  37",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=429933&uid=5774"
+  }
+]

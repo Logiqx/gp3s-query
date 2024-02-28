@@ -1,0 +1,50 @@
+[
+  {
+    "rowid": "1",
+    "event_id": 861,
+    "eventname": "2024 2024 Gpskraaijchallenge   speedsurfing",
+    "speed": 0.0,
+    "type": "speed_24hour",
+    "username": "Patricia Verduyn Lunel",
+    "ageclass": "Master (36-50)",
+    "weightclass": "51-60",
+    "sexe": "Woman",
+    "spotname": "Kraaijenbergse plassen",
+    "sessionboard": "Mistral slalom",
+    "sessionsail": "Loftsails Racing Blade  5.0",
+    "sessionfin": "C3 Drake Venom 340  34",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=429957&uid=25571"
+  },
+  {
+    "rowid": "2",
+    "event_id": 861,
+    "eventname": "2024 2024 Gpskraaijchallenge   speedsurfing",
+    "speed": 0.0,
+    "type": "speed_24hour",
+    "username": "Marijn van Duijnhoven",
+    "ageclass": "Junior plus (15-18)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Kraaijenbergse plassen",
+    "sessionboard": "F2 RX 133",
+    "sessionsail": "Neilpryde RS slalom MKII  7.8",
+    "sessionfin": "Choco Fins F2 RX133  43",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=429884&uid=27201"
+  },
+  {
+    "rowid": "3",
+    "event_id": 861,
+    "eventname": "2024 2024 Gpskraaijchallenge   speedsurfing",
+    "speed": 0.0,
+    "type": "speed_24hour",
+    "username": "Chris F\u00f6cking",
+    "ageclass": "Master (36-50)",
+    "weightclass": "91-100",
+    "sexe": "Men",
+    "spotname": "Kraaijenbergse plassen",
+    "sessionboard": "Starboard LWR",
+    "sessionsail": "North Sails Warp F2006  7.8",
+    "sessionfin": "Select Zero Racing  60",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=429744&uid=4524"
+  }
+]

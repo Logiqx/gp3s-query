@@ -1,0 +1,34 @@
+[
+  {
+    "rowid": "1",
+    "event_id": 841,
+    "eventname": "2023 Mauritius GPS Wingfoil speed Challenge",
+    "speed": 20.249768,
+    "type": "speed_hour",
+    "username": "Frederic Lascourreges",
+    "ageclass": "Master (36-50)",
+    "weightclass": "61-70",
+    "sexe": "Men",
+    "spotname": "Anse le Raie",
+    "sessionboard": "not defined ",
+    "sessionsail": "not defined race  9.0",
+    "sessionfin": "not defined -  0",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=431709&uid=27161"
+  },
+  {
+    "rowid": "2",
+    "event_id": 841,
+    "eventname": "2023 Mauritius GPS Wingfoil speed Challenge",
+    "speed": 14.467824000000002,
+    "type": "speed_hour",
+    "username": "Danny Geereedhary",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "61-70",
+    "sexe": "Men",
+    "spotname": "Bellemarre",
+    "sessionboard": "North Sails North Seek 4/10 78L",
+    "sessionsail": "North Sails MODE  5.5",
+    "sessionfin": "not defined North Sonar Carbon HA 1050 & M60/F60/S208  85",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=426785&uid=22357"
+  }
+]

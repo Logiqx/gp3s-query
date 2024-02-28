@@ -3,17 +3,17 @@
     "rowid": "1",
     "event_id": 818,
     "eventname": "2023 UMMAII SPEED CUP - Suhrendorf / R\u00fcgen",
-    "speed": 69.083304,
+    "speed": 72.407644,
     "type": "speed_2sec",
     "username": "Georg Nassauer",
     "ageclass": "Ultimate Master (71-99)",
     "weightclass": "81-90",
     "sexe": "Men",
     "spotname": "Suhrendorf/Schaproder Bodden",
-    "sessionboard": "PATRIK Slalom 85",
-    "sessionsail": "Duotone Warp  6.8",
-    "sessionfin": "Hurricane Weed 1  26",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=412575&uid=5329"
+    "sessionboard": "PATRIK speed",
+    "sessionsail": "Duotone Warp 20.20  5.0",
+    "sessionfin": "Hurricane Weed2  22",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=424826&uid=5329"
   },
   {
     "rowid": "2",
@@ -78,5 +78,21 @@
     "sessionsail": "Patrik Race+  8.4",
     "sessionfin": "Maui Ultra Fins Slalom Carbon Weed  32",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=411569&uid=4766"
+  },
+  {
+    "rowid": "6",
+    "event_id": 818,
+    "eventname": "2023 UMMAII SPEED CUP - Suhrendorf / R\u00fcgen",
+    "speed": 52.220844,
+    "type": "speed_2sec",
+    "username": "Noah Valtin",
+    "ageclass": "Junior plus (15-18)",
+    "weightclass": "51-60",
+    "sexe": "Men",
+    "spotname": "Suhrendorf/Schaproder Bodden",
+    "sessionboard": "Fanatic Blast",
+    "sessionsail": "Gun Sails Burner  6.2",
+    "sessionfin": "not defined -  0",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=431550&uid=26695"
   }
 ]

@@ -1,0 +1,50 @@
+[
+  {
+    "rowid": "1",
+    "event_id": 864,
+    "eventname": "2024 Norwegian speedmaster 2024",
+    "speed": 33.893451999999996,
+    "type": "speed_mile",
+    "username": "Rudolf Fredriksen",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Dr\u00f8baksundet",
+    "sessionboard": "PATRIK Slalom 115",
+    "sessionsail": "North Sails Warp F2017  7.0",
+    "sessionfin": "Gasoil Fins CHR-X  37",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=430787&uid=23297"
+  },
+  {
+    "rowid": "2",
+    "event_id": 864,
+    "eventname": "2024 Norwegian speedmaster 2024",
+    "speed": 30.269088000000004,
+    "type": "speed_mile",
+    "username": "Ole Erik Carlson",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "91-100",
+    "sexe": "Men",
+    "spotname": "Saltnes",
+    "sessionboard": "RRD Firemove 110: - LTD V3",
+    "sessionsail": "Ezzy Cheetah   6.5",
+    "sessionfin": "Black Project Fins Hammer GT [Black Ed.]  375",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=430990&uid=9552"
+  },
+  {
+    "rowid": "3",
+    "event_id": 864,
+    "eventname": "2024 Norwegian speedmaster 2024",
+    "speed": 29.846832,
+    "type": "speed_mile",
+    "username": "Stig Bremerthun Sv\u00e5sand",
+    "ageclass": "Master (36-50)",
+    "weightclass": "61-70",
+    "sexe": "Men",
+    "spotname": "Herdla",
+    "sessionboard": "Starboard Futura flex balsa 97L",
+    "sessionsail": "Severne NCX  6.0",
+    "sessionfin": "Tectonics R2-3P  33",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=430105&uid=25195"
+  }
+]

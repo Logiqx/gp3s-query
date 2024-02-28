@@ -1,0 +1,34 @@
+[
+  {
+    "rowid": "1",
+    "event_id": 877,
+    "eventname": "2024 Singlis Speed Challenge 2024",
+    "speed": 0.0,
+    "type": "speed_24hour",
+    "username": "Michel Gutbier",
+    "ageclass": "Senior (19-35)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Singliser See",
+    "sessionboard": "Starboard  iSonic 73 Carbon Reflex ",
+    "sessionsail": "Severne Mach 5  7.8",
+    "sessionfin": "NoLo 6  36",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=430468&uid=7491"
+  },
+  {
+    "rowid": "2",
+    "event_id": 877,
+    "eventname": "2024 Singlis Speed Challenge 2024",
+    "speed": 0.0,
+    "type": "speed_24hour",
+    "username": "Juan Antonio Garcia",
+    "ageclass": "Super Master (61-70)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Singliser See",
+    "sessionboard": "Starboard Futura 144 Carbon",
+    "sessionsail": "Ezzy Lion  9.5",
+    "sessionfin": "Z-fins SL 50  50",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=431684&uid=26977"
+  }
+]

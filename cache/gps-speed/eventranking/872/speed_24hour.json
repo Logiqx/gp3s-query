@@ -1,0 +1,50 @@
+[
+  {
+    "rowid": "1",
+    "event_id": 872,
+    "eventname": "2024 Surf-Forum-One-Hour Challenge",
+    "speed": 0.0,
+    "type": "speed_24hour",
+    "username": "Thomas Moldenhauer",
+    "ageclass": "Super Master (61-70)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "La Palme - Plage du Rouet",
+    "sessionboard": "AV Modena Slalom 62",
+    "sessionsail": "Challenger Sails PSL - Principe Speed Line  6.0",
+    "sessionfin": "NoLo 6  32",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=430889&uid=24163"
+  },
+  {
+    "rowid": "2",
+    "event_id": 872,
+    "eventname": "2024 Surf-Forum-One-Hour Challenge",
+    "speed": 0.0,
+    "type": "speed_24hour",
+    "username": "Christian Hirschberg",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "La Palme - Plage du Rouet",
+    "sessionboard": "JP Speed 45 Pro Edition",
+    "sessionsail": "Neilpryde Proto EVO XlV   5.3",
+    "sessionfin": "Z-fins ZSPA  21",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=429993&uid=24389"
+  },
+  {
+    "rowid": "3",
+    "event_id": 872,
+    "eventname": "2024 Surf-Forum-One-Hour Challenge",
+    "speed": 0.0,
+    "type": "speed_24hour",
+    "username": "Harry Hemminger",
+    "ageclass": "Super Master (61-70)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Epplesee",
+    "sessionboard": "Starboard Isonic 77 reflex carbon",
+    "sessionsail": "Severne Overdrive M2  6.2",
+    "sessionfin": "Select Rhino  40",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=429925&uid=6158"
+  }
+]

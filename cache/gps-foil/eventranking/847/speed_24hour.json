@@ -1,0 +1,50 @@
+[
+  {
+    "rowid": "1",
+    "event_id": 847,
+    "eventname": "2023 2023BritishWindfoilSpeedChallenge2024",
+    "speed": 0.0,
+    "type": "speed_24hour",
+    "username": "Mark Ingram",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "61-70",
+    "sexe": "Men",
+    "spotname": "Draycote Water",
+    "sessionboard": "RRD H-Fire 91 PRO LTE",
+    "sessionsail": "Severne ReflexR8  7.0",
+    "sessionfin": "Phantom IRIS R FW550-Fuselage100-BW200  550",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=426561&uid=5835"
+  },
+  {
+    "rowid": "2",
+    "event_id": 847,
+    "eventname": "2023 2023BritishWindfoilSpeedChallenge2024",
+    "speed": 0.0,
+    "type": "speed_24hour",
+    "username": "Michael George",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Portland Harbour, Weymouth",
+    "sessionboard": "JP HydroFoil Slalom 88",
+    "sessionsail": "Neilpryde RS Flight EVO IV  7.7",
+    "sessionfin": "Neilpryde Flight SLR 70  95",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=425023&uid=2640"
+  },
+  {
+    "rowid": "3",
+    "event_id": 847,
+    "eventname": "2023 2023BritishWindfoilSpeedChallenge2024",
+    "speed": 0.0,
+    "type": "speed_24hour",
+    "username": "Garry Connell",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "101-110",
+    "sexe": "Men",
+    "spotname": "Portland Harbour, Weymouth",
+    "sessionboard": "Fanatic Falcon Foil TE 180 ",
+    "sessionsail": "Duotone Warp Foil 20.23  8.7",
+    "sessionfin": "Phantom Iris R 950-250  950",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=423703&uid=18265"
+  }
+]
