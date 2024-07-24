@@ -1,1 +1,36 @@
-[]
+[
+  {
+    "rowid": "1",
+    "event_id": 858,
+    "eventname": "2024 Estonian Speed King 2024",
+    "speed": 0.0,
+    "type": "speed_24hour",
+    "username": "Meigo Jaager",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "91-100",
+    "sexe": "Men",
+    "spotname": "V\u00e4ike v\u00e4in Saaremaa",
+    "sessionboard": "Fanatic Falcon 138",
+    "sessionsail": "Neilpryde RS Racing EVO 9  8.6",
+    "sessionfin": "Z-fins SL S-  45",
+    "sessiongpstype": "COROS VERTIX 2",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=446058&uid=4186"
+  },
+  {
+    "rowid": "2",
+    "event_id": 858,
+    "eventname": "2024 Estonian Speed King 2024",
+    "speed": 0.0,
+    "type": "speed_24hour",
+    "username": "Fons van den Hove",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Maardu j\u00e4rv Tallinn",
+    "sessionboard": "Tabou Manta 71",
+    "sessionsail": "Loftsails Racing Blade  6.9",
+    "sessionfin": "Z-fins Z SLM 37 s-  37",
+    "sessiongpstype": "unknown",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=443203&uid=24311"
+  }
+]

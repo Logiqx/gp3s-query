@@ -13,10 +13,28 @@
     "sessionboard": "Carbon Art SL62",
     "sessionsail": "KA Sails Koncept  2019  6.2",
     "sessionfin": "- Fangy  18",
+    "sessiongpstype": "Motion",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=429962&uid=24502"
   },
   {
     "rowid": "2",
+    "event_id": 854,
+    "eventname": "2024 AQUA International Speedsurfing Trophy",
+    "speed": 56.274872,
+    "type": "speed_500",
+    "username": "Benjamin de Bie",
+    "ageclass": "Master (36-50)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "La Palme - Plage du Rouet",
+    "sessionboard": "Starboard iSonic 63 Carbon Reflex",
+    "sessionsail": "Severne Mach 5  5.5",
+    "sessionfin": "Gasoil Fins Chr -m  27",
+    "sessiongpstype": "COROS APEX 2 Pro",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=438415&uid=25351"
+  },
+  {
+    "rowid": "3",
     "event_id": 854,
     "eventname": "2024 AQUA International Speedsurfing Trophy",
     "speed": 42.325608,
@@ -29,6 +47,7 @@
     "sessionboard": "Goya Volar",
     "sessionsail": "Loftsails Oxygen HD  7.8",
     "sessionfin": "not defined -  0",
+    "sessiongpstype": "Suunto 9 Peak",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=431961&uid=27419"
   }
 ]

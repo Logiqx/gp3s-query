@@ -6,13 +6,14 @@
     "speed": 24.959404000000003,
     "type": "speed_halfhour",
     "username": "Frederic Lascourreges",
-    "ageclass": "Master (36-50)",
+    "ageclass": "Grand Master (51-60)",
     "weightclass": "61-70",
     "sexe": "Men",
     "spotname": "Anse le Raie",
     "sessionboard": "not defined ",
     "sessionsail": "not defined race  9.0",
     "sessionfin": "not defined -  0",
+    "sessiongpstype": "unknown",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=423845&uid=27161"
   },
   {
@@ -29,6 +30,24 @@
     "sessionboard": "North Sails North Seek 4/10 78L",
     "sessionsail": "North Sails MODE  5.5",
     "sessionfin": "not defined North Sonar Carbon HA 1050 & M60/F60/S208  85",
+    "sessiongpstype": "Locosys GT-31",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=426785&uid=22357"
+  },
+  {
+    "rowid": "3",
+    "event_id": 841,
+    "eventname": "2023 Mauritius GPS Wingfoil speed Challenge",
+    "speed": 0.0,
+    "type": "speed_halfhour",
+    "username": "Jerome Bonieux",
+    "ageclass": "Master (36-50)",
+    "weightclass": "61-70",
+    "sexe": "Men",
+    "spotname": "Pte Desny",
+    "sessionboard": "Duotone Sky Style SLS",
+    "sessionsail": "Duotone Unit  4.0",
+    "sessionfin": "Duotone aero carve dlab 500  90",
+    "sessiongpstype": "Garmin fenix 5 \u2013 Sapphire Edition",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=443627&uid=27639"
   }
 ]

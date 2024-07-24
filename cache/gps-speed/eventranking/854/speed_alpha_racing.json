@@ -3,6 +3,23 @@
     "rowid": "1",
     "event_id": 854,
     "eventname": "2024 AQUA International Speedsurfing Trophy",
+    "speed": 40.519908,
+    "type": "speed_alpha_racing",
+    "username": "Benjamin de Bie",
+    "ageclass": "Master (36-50)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Lauwersmeer",
+    "sessionboard": "Starboard iSonic 63 Carbon Reflex",
+    "sessionsail": "Severne Mach4  6.2",
+    "sessionfin": "Gasoil Fins CHR-M 32 Medium  32",
+    "sessiongpstype": "COROS APEX 2 Pro",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=444582&uid=25351"
+  },
+  {
+    "rowid": "2",
+    "event_id": 854,
+    "eventname": "2024 AQUA International Speedsurfing Trophy",
     "speed": 39.832816,
     "type": "speed_alpha_racing",
     "username": "Peter Warwick",
@@ -13,10 +30,11 @@
     "sessionboard": "Carbon Art SL62",
     "sessionsail": "KA Sails Koncept  2019  6.2",
     "sessionfin": "- Fangy  22",
+    "sessiongpstype": "Motion",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=429961&uid=24502"
   },
   {
-    "rowid": "2",
+    "rowid": "3",
     "event_id": 854,
     "eventname": "2024 AQUA International Speedsurfing Trophy",
     "speed": 35.976952,
@@ -29,6 +47,7 @@
     "sessionboard": "Goya Volar",
     "sessionsail": "Loftsails Oxygen HD  6.8",
     "sessionfin": "not defined -  0",
+    "sessiongpstype": "Suunto 9 Peak",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=431655&uid=27419"
   }
 ]

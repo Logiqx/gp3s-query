@@ -13,6 +13,7 @@
     "sessionboard": "Mistral SL ",
     "sessionsail": "Simmer Sails sc race  7.0",
     "sessionfin": "Gasoil Fins CHR X  36",
+    "sessiongpstype": "Locosys GW-60",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=430519&uid=5566"
   },
   {
@@ -29,6 +30,24 @@
     "sessionboard": "Mistral SL ",
     "sessionsail": "Simmer Sails sc race  7.0",
     "sessionfin": "Gasoil Fins CHR X  36",
+    "sessiongpstype": "Locosys GW-60",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=430519&uid=5566"
+  },
+  {
+    "rowid": "3",
+    "event_id": 868,
+    "eventname": "2024 FFF SPEED CHALLENGE",
+    "speed": 40.76252,
+    "type": "speed_alpha_racing",
+    "username": "Michel Cyril",
+    "ageclass": "Master (36-50)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Fos, 13",
+    "sessionboard": "Mistral SL ",
+    "sessionsail": "Simmer Sails sc race  7.0",
+    "sessionfin": "Gasoil Fins CHR X  36",
+    "sessiongpstype": "Locosys GW-60",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=430519&uid=5566"
   }
 ]

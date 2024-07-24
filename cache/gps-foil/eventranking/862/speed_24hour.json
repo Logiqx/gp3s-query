@@ -1,1 +1,36 @@
-[]
+[
+  {
+    "rowid": "1",
+    "event_id": 862,
+    "eventname": "2024 2024 Gpskraaijchallenge   Foilsurfing",
+    "speed": 0.0,
+    "type": "speed_24hour",
+    "username": "Ronald Verriet",
+    "ageclass": "Master (36-50)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Kraaijenbergse plassen",
+    "sessionboard": "Starboard FOIL SLALOM 91",
+    "sessionsail": "Phantom Iris RF  9.0",
+    "sessionfin": "Starboard Race Plus Fuselage 115 Plus Fr 1000 T -255  95",
+    "sessiongpstype": "COROS VERTIX 2",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=434065&uid=3588"
+  },
+  {
+    "rowid": "2",
+    "event_id": 862,
+    "eventname": "2024 2024 Gpskraaijchallenge   Foilsurfing",
+    "speed": 0.0,
+    "type": "speed_24hour",
+    "username": "Chris F\u00f6cking",
+    "ageclass": "Master (36-50)",
+    "weightclass": "91-100",
+    "sexe": "Men",
+    "spotname": "Kraaijenbergse plassen",
+    "sessionboard": "F2 FX VI",
+    "sessionsail": "North Sails warp F2007  5.8",
+    "sessionfin": "Neilpryde RS:Flight NP F4 Foil  100",
+    "sessiongpstype": "Locosys GW-60",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=432719&uid=4524"
+  }
+]

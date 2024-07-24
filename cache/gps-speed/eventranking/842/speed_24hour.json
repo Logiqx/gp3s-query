@@ -13,6 +13,7 @@
     "sessionboard": "AV Modena 68",
     "sessionsail": "Neilpryde RS Racing EVO XIV  6.5",
     "sessionfin": "Sonntag Fins SL-pro  34",
+    "sessiongpstype": "COROS VERTIX 2",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=423373&uid=5650"
   },
   {
@@ -29,6 +30,7 @@
     "sessionboard": "JP FSW",
     "sessionsail": "Severne Blade  5.3",
     "sessionfin": "Select Fastwave  27",
+    "sessiongpstype": "COROS APEX 2 Pro",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=427750&uid=25351"
   },
   {
@@ -45,6 +47,7 @@
     "sessionboard": "Fanatic Falcon 99",
     "sessionsail": "Duotone Warp fin  6.8",
     "sessionfin": "Finish First V2  33",
+    "sessiongpstype": "COROS VERTIX 2",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=424417&uid=25071"
   },
   {
@@ -54,13 +57,14 @@
     "speed": 0.0,
     "type": "speed_24hour",
     "username": "Saar Schuling ",
-    "ageclass": "Master (36-50)",
+    "ageclass": "Grand Master (51-60)",
     "weightclass": "51-60",
     "sexe": "Woman",
     "spotname": "schildmeer",
     "sessionboard": "JP Slalom 62 Pro Edition",
     "sessionsail": "Neilpryde V8  5.7",
     "sessionfin": "Finish Fast speed/slalom  31",
+    "sessiongpstype": "COROS APEX PRO",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=423367&uid=25189"
   },
   {
@@ -77,6 +81,7 @@
     "sessionboard": "Starboard iSonic Carbon 67",
     "sessionsail": "Point-7 AC-One  7.8",
     "sessionfin": "Finish Fast 36 Speed/Slalom  36",
+    "sessiongpstype": "COROS APEX PRO",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=423707&uid=5376"
   }
 ]

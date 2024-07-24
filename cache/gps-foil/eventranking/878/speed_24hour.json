@@ -5,6 +5,40 @@
     "eventname": "2024 Timeto.Surf Foil Event",
     "speed": 0.0,
     "type": "speed_24hour",
+    "username": "Andreas Grosse-Holz",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "91-100",
+    "sexe": "Men",
+    "spotname": "M\u00f6hnesee",
+    "sessionboard": "Severne Alien Foil",
+    "sessionsail": "Gun Sails Vector  6.5",
+    "sessionfin": "Starboard RACE (800-255-115f)  110",
+    "sessiongpstype": "Garmin fenix6x",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=436570&uid=5955"
+  },
+  {
+    "rowid": "2",
+    "event_id": 878,
+    "eventname": "2024 Timeto.Surf Foil Event",
+    "speed": 0.0,
+    "type": "speed_24hour",
+    "username": "Harry Hemminger",
+    "ageclass": "Super Master (61-70)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Epplesee",
+    "sessionboard": "Starboard X-15 85",
+    "sessionsail": "Gun Sails GS-F  8.0",
+    "sessionfin": "Starboard Starboard Race Slalom (105+ 725 255)  95",
+    "sessiongpstype": "COROS VERTIX 2",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=431695&uid=6158"
+  },
+  {
+    "rowid": "3",
+    "event_id": 878,
+    "eventname": "2024 Timeto.Surf Foil Event",
+    "speed": 0.0,
+    "type": "speed_24hour",
     "username": "Philipp Nagel",
     "ageclass": "Master (36-50)",
     "weightclass": "81-90",
@@ -13,6 +47,7 @@
     "sessionboard": "Phantom Iris R 91 Mk2 ",
     "sessionsail": "Neilpryde RS Flight Evo IV  8.7",
     "sessionfin": "Phantom Infinite 800/100 -10 /190  95",
+    "sessiongpstype": "COROS VERTIX 2",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=431533&uid=25220"
   }
 ]

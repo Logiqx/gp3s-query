@@ -1,4 +1,44 @@
 {
+  "901": {
+    "eventname": "2024 The Summer Edition- Dunkerbeck Speed Challenge",
+    "start_date": "2024-07-01T00:00:00",
+    "end_date": "2024-08-31T00:00:00"
+  },
+  "900": {
+    "eventname": "2024 Funworks: TARIFA Speed Champions 2024",
+    "start_date": "2024-01-01T00:00:00",
+    "end_date": "2025-01-01T00:00:00"
+  },
+  "899": {
+    "eventname": "2024 Funworks Spanish Speed Champions 2024",
+    "start_date": "2024-01-01T00:00:00",
+    "end_date": "2024-12-31T00:00:00"
+  },
+  "898": {
+    "eventname": "2024 INDIAN OCEAN FAST WINDSURFING GPS CHALLENGE 2024",
+    "start_date": "2024-05-20T00:00:00",
+    "end_date": "2024-09-20T00:00:00"
+  },
+  "896": {
+    "eventname": "2024 Prince of Speed GPS Trial 2025",
+    "start_date": "2024-04-21T00:00:00",
+    "end_date": "2025-04-20T00:00:00"
+  },
+  "894": {
+    "eventname": "2024 2024 Ho bugt sejlklub, speed konkurence",
+    "start_date": "2024-01-01T00:00:00",
+    "end_date": "2024-12-31T00:00:00"
+  },
+  "893": {
+    "eventname": "2024 Funsport Makkum GPS Speed Challenge",
+    "start_date": "2024-04-01T00:00:00",
+    "end_date": "2024-10-31T00:00:00"
+  },
+  "886": {
+    "eventname": "2024 Wurster Tri-Speed 2024",
+    "start_date": "2024-03-01T00:00:00",
+    "end_date": "2025-02-28T00:00:00"
+  },
   "884": {
     "eventname": "2024 forum.timeto.surf GPS-Event fin only - inkl Kombinationswertung",
     "start_date": "2024-01-01T00:00:00",
@@ -64,11 +104,6 @@
     "start_date": "2024-01-01T00:00:00",
     "end_date": "2024-12-31T00:00:00"
   },
-  "855": {
-    "eventname": "2023 Prince of Speed - World Speed Tour GPS pre World Championship",
-    "start_date": "2023-05-01T00:00:00",
-    "end_date": "2024-04-20T00:00:00"
-  },
   "854": {
     "eventname": "2024 AQUA International Speedsurfing Trophy",
     "start_date": "2024-01-01T00:00:00",
@@ -83,25 +118,5 @@
     "eventname": "2023 2023 Schildmeer Speed Challenge 2023-2024",
     "start_date": "2023-10-01T00:00:00",
     "end_date": "2024-09-30T00:00:00"
-  },
-  "838": {
-    "eventname": "2024 SSS goes Bonaire part I",
-    "start_date": "2024-03-05T00:00:00",
-    "end_date": "2024-03-10T00:00:00"
-  },
-  "834": {
-    "eventname": "2023 2023 Auckland Windsurfing Association Speed Challenge",
-    "start_date": "2023-07-01T00:00:00",
-    "end_date": "2024-06-30T00:00:00"
-  },
-  "818": {
-    "eventname": "2023 UMMAII SPEED CUP - Suhrendorf / R\u00fcgen",
-    "start_date": "2023-05-01T00:00:00",
-    "end_date": "2024-04-29T00:00:00"
-  },
-  "802": {
-    "eventname": "2023 Wurster Tri-Speed",
-    "start_date": "2023-03-01T00:00:00",
-    "end_date": "2024-02-28T00:00:00"
   }
 }

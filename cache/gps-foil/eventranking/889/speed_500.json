@@ -1,0 +1,19 @@
+[
+  {
+    "rowid": "1",
+    "event_id": 889,
+    "eventname": "2024  Foil King Estonia 2024",
+    "speed": 44.881368,
+    "type": "speed_500",
+    "username": "Valde Viiding",
+    "ageclass": "Master (36-50)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Laulasmaa",
+    "sessionboard": "Starboard FOIL SLALOM 91",
+    "sessionsail": "Point-7 AC1  6.2",
+    "sessionfin": "Starboard Iq foil  900",
+    "sessiongpstype": "Locosys GW-60",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=440003&uid=21996"
+  }
+]

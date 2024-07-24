@@ -5,6 +5,40 @@
     "eventname": "2023 2023BritishWindfoilSpeedChallenge2024",
     "speed": 0.0,
     "type": "speed_24hour",
+    "username": "Max Beaman",
+    "ageclass": "Senior (19-35)",
+    "weightclass": "91-100",
+    "sexe": "Men",
+    "spotname": "Portland Harbour, Weymouth",
+    "sessionboard": "Phantom IRIS R 85",
+    "sessionsail": "Severne H7  5.0",
+    "sessionfin": "Phantom SPARK 360 / 100-10 / 170  95",
+    "sessiongpstype": "Motion",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=446985&uid=24209"
+  },
+  {
+    "rowid": "2",
+    "event_id": 847,
+    "eventname": "2023 2023BritishWindfoilSpeedChallenge2024",
+    "speed": 0.0,
+    "type": "speed_24hour",
+    "username": "Nic Dodd",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "61-70",
+    "sexe": "Men",
+    "spotname": "St.Johns Lake",
+    "sessionboard": "AHD Compact Foil 83",
+    "sessionsail": "Loftsails Racing Blade Luderitz  5.6",
+    "sessionfin": "Phantom Iris X 730 250 100  95",
+    "sessiongpstype": "COROS APEX PRO",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=441199&uid=3111"
+  },
+  {
+    "rowid": "3",
+    "event_id": 847,
+    "eventname": "2023 2023BritishWindfoilSpeedChallenge2024",
+    "speed": 0.0,
+    "type": "speed_24hour",
     "username": "Mark Ingram",
     "ageclass": "Grand Master (51-60)",
     "weightclass": "61-70",
@@ -13,10 +47,11 @@
     "sessionboard": "RRD H-Fire 91 PRO LTE",
     "sessionsail": "Severne ReflexR8  7.0",
     "sessionfin": "Phantom IRIS R FW550-Fuselage100-BW200  550",
+    "sessiongpstype": "COROS VERTIX",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=426561&uid=5835"
   },
   {
-    "rowid": "2",
+    "rowid": "4",
     "event_id": 847,
     "eventname": "2023 2023BritishWindfoilSpeedChallenge2024",
     "speed": 0.0,
@@ -27,12 +62,13 @@
     "sexe": "Men",
     "spotname": "Portland Harbour, Weymouth",
     "sessionboard": "JP HydroFoil Slalom 88",
-    "sessionsail": "Neilpryde RS Flight EVO IV  7.7",
+    "sessionsail": "Neilpryde RS:Flight EVO IV  7.7",
     "sessionfin": "Neilpryde Flight SLR 70  95",
+    "sessiongpstype": "Motion",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=425023&uid=2640"
   },
   {
-    "rowid": "3",
+    "rowid": "5",
     "event_id": 847,
     "eventname": "2023 2023BritishWindfoilSpeedChallenge2024",
     "speed": 0.0,
@@ -45,6 +81,7 @@
     "sessionboard": "Fanatic Falcon Foil TE 180 ",
     "sessionsail": "Duotone Warp Foil 20.23  8.7",
     "sessionfin": "Phantom Iris R 950-250  950",
+    "sessiongpstype": "COROS VERTIX 2",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=423703&uid=18265"
   }
 ]

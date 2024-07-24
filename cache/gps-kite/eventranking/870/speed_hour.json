@@ -1,1 +1,19 @@
-[]
+[
+  {
+    "rowid": "1",
+    "event_id": 870,
+    "eventname": "2024  FFF SPEED CHALLENGE",
+    "speed": 48.396464,
+    "type": "speed_hour",
+    "username": "Michel Cyril",
+    "ageclass": "Master (36-50)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Fos, 13",
+    "sessionboard": "- tarifa foil ",
+    "sessionsail": "Duotone rebel sls  6.0",
+    "sessionfin": "Custom kite fin  10",
+    "sessiongpstype": "Locosys GW-60",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=440307&uid=5566"
+  }
+]

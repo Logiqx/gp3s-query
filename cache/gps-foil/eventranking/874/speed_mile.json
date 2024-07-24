@@ -13,10 +13,28 @@
     "sessionboard": "PATRIK Foil COMP V2",
     "sessionsail": "Patrik SF  7.4",
     "sessionfin": "Phantom Iris R  95",
+    "sessiongpstype": "waterspeed",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=430589&uid=27278"
   },
   {
     "rowid": "2",
+    "event_id": 874,
+    "eventname": "2024 SOUTH AMERICAN FOIL SPEED CHALLENGE",
+    "speed": 44.718392,
+    "type": "speed_mile",
+    "username": "Marcello Rodriguez Pons",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "91-100",
+    "sexe": "Men",
+    "spotname": "Lago San Roque",
+    "sessionboard": "Phantom IRIS X mk2 85",
+    "sessionsail": "Severne HG5  9.0",
+    "sessionfin": "Phantom IRIS R (FW 550 R - Fuselage 100 PWA - BW 200 R)  100",
+    "sessiongpstype": "Garmin fenix 6",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=437655&uid=27325"
+  },
+  {
+    "rowid": "3",
     "event_id": 874,
     "eventname": "2024 SOUTH AMERICAN FOIL SPEED CHALLENGE",
     "speed": 43.638676,
@@ -29,23 +47,8 @@
     "sessionboard": "Phantom IRIS X mk2 85",
     "sessionsail": "Severne HYPERGLIDE 5  9.0",
     "sessionfin": "Phantom IRIS (FW 730 R - 100 mast R - BW 200 R)  100",
+    "sessiongpstype": "unknown",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=431740&uid=27350"
-  },
-  {
-    "rowid": "3",
-    "event_id": 874,
-    "eventname": "2024 SOUTH AMERICAN FOIL SPEED CHALLENGE",
-    "speed": 43.62571200000001,
-    "type": "speed_mile",
-    "username": "Marcello Rodriguez Pons",
-    "ageclass": "Grand Master (51-60)",
-    "weightclass": "91-100",
-    "sexe": "Men",
-    "spotname": "Lago San Roque",
-    "sessionboard": "Phantom IRIS X mk2 85",
-    "sessionsail": "Phantom IRIS X  7.0",
-    "sessionfin": "Phantom IRIS R (FW 550 R - Fuselage 100 PWA - BW 200 R)  100",
-    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=430525&uid=27325"
   },
   {
     "rowid": "4",
@@ -61,6 +64,7 @@
     "sessionboard": "PATRIK Foil COMP V2",
     "sessionsail": "Patrick Foil+  9.0",
     "sessionfin": "Patrik HM Race  95",
+    "sessiongpstype": "Garmin fenix 6",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=430584&uid=27401"
   },
   {
@@ -77,6 +81,7 @@
     "sessionboard": "Starboard Foil Race 100",
     "sessionsail": "Severne HGO  10.0",
     "sessionfin": "Phantom IRIS R (FW 950 - fuselage 110 - BW 250)  100",
+    "sessiongpstype": "unknown",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=429964&uid=27339"
   },
   {
@@ -93,6 +98,7 @@
     "sessionboard": "Starboard Foil Race 100",
     "sessionsail": "Severne HG5  9.0",
     "sessionfin": "Starboard Formula Carbon Fuselage 115 Plus Evo Fr 1000 T 255  95",
+    "sessiongpstype": "unknown",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=431614&uid=27375"
   },
   {
@@ -109,6 +115,7 @@
     "sessionboard": "Starboard Foil Race 100",
     "sessionsail": "Severne HGO  9.0",
     "sessionfin": "Starboard \tRace Carbon Fuselage 115 Plus Fr 900 T 255 -2 Thi  95",
+    "sessiongpstype": "Garmin Venu 2",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=431389&uid=26629"
   },
   {
@@ -125,6 +132,24 @@
     "sessionboard": "Starboard iq 95",
     "sessionsail": "Severne Foil Glide 2  8.0",
     "sessionfin": "Starboard Iq  900 /115+/ 255 -2  thin +0,5   95",
+    "sessiongpstype": "Garmin Venu 2",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=430042&uid=27304"
+  },
+  {
+    "rowid": "9",
+    "event_id": 874,
+    "eventname": "2024 SOUTH AMERICAN FOIL SPEED CHALLENGE",
+    "speed": 33.421192,
+    "type": "speed_mile",
+    "username": "Luis Reissig",
+    "ageclass": "Master (36-50)",
+    "weightclass": "91-100",
+    "sexe": "Men",
+    "spotname": "Nautilus Yachting Club",
+    "sessionboard": "PATRIK Foil COMP V2",
+    "sessionsail": "Neilpryde RS Flight Evo II  9.0",
+    "sessionfin": "Starboard Race foil plus (1000-225-115plus)  95",
+    "sessiongpstype": "Garmin fenix 6",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=440793&uid=26628"
   }
 ]

@@ -1,0 +1,36 @@
+[
+  {
+    "rowid": "1",
+    "event_id": 903,
+    "eventname": "2024 The Summer Edition- Dunkerbeck Speed Challenge",
+    "speed": 57.167536,
+    "type": "speed_100",
+    "username": "Wesley Deleye",
+    "ageclass": "Master (36-50)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Uitgeester-/Alkmaardermeer",
+    "sessionboard": "AFS Fly 5.4",
+    "sessionsail": "Reedin Supernatural   5.2",
+    "sessionfin": "AFS Pure 700  85",
+    "sessiongpstype": "COROS VERTIX",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=445694&uid=4303"
+  },
+  {
+    "rowid": "2",
+    "event_id": 903,
+    "eventname": "2024 The Summer Edition- Dunkerbeck Speed Challenge",
+    "speed": 54.102476,
+    "type": "speed_100",
+    "username": "Anthony Rebours",
+    "ageclass": "Master (36-50)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "La Palme - Plage du Rouet",
+    "sessionboard": "Duotone Sky Style SLS",
+    "sessionsail": "Duotone Slick concept blue  3.0",
+    "sessionfin": "Duotone aero carve dlab 500  90",
+    "sessiongpstype": "Suunto 9",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=446816&uid=23333"
+  }
+]

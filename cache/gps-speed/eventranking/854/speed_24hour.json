@@ -5,6 +5,23 @@
     "eventname": "2024 AQUA International Speedsurfing Trophy",
     "speed": 0.0,
     "type": "speed_24hour",
+    "username": "Benjamin de Bie",
+    "ageclass": "Master (36-50)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Paesens Moddergat",
+    "sessionboard": "JP FSW",
+    "sessionsail": "Severne Blade  4.7",
+    "sessionfin": "Select Fastwave  27",
+    "sessiongpstype": "COROS APEX 2 Pro",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=430876&uid=25351"
+  },
+  {
+    "rowid": "2",
+    "event_id": 854,
+    "eventname": "2024 AQUA International Speedsurfing Trophy",
+    "speed": 0.0,
+    "type": "speed_24hour",
     "username": "Peter Warwick",
     "ageclass": "Ultimate Master (71-99)",
     "weightclass": "71-80",
@@ -13,6 +30,7 @@
     "sessionboard": "Carbon Art SL62",
     "sessionsail": "KA Sails Koncept  2019  6.2",
     "sessionfin": "- Fangy  18",
+    "sessiongpstype": "Motion",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=429962&uid=24502"
   }
 ]

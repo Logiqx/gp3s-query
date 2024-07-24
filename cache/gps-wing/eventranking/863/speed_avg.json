@@ -1,1 +1,53 @@
-[]
+[
+  {
+    "rowid": "1",
+    "event_id": 863,
+    "eventname": "2024 2024 Gpskraaijchallenge   Wingfoiling",
+    "speed": 47.100064,
+    "type": "speed_avg",
+    "username": "Ilja Bartels",
+    "ageclass": "Master (36-50)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Kraaijenbergse plassen",
+    "sessionboard": "Highwinds Wingfoil",
+    "sessionsail": "Gong Pulse DP  5.5",
+    "sessionfin": "Gong Ypra SM HM107  107",
+    "sessiongpstype": "Garmin v\u00edvoactive 4",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=444749&uid=2977"
+  },
+  {
+    "rowid": "2",
+    "event_id": 863,
+    "eventname": "2024 2024 Gpskraaijchallenge   Wingfoiling",
+    "speed": 30.466881600000004,
+    "type": "speed_avg",
+    "username": "Nils Duindam",
+    "ageclass": "Super Master (61-70)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Kraaijenbergse plassen",
+    "sessionboard": "Fanatic Sky Wing",
+    "sessionsail": "Duotone Slick SLS  6.5",
+    "sessionfin": "Fanatic Aero glide   820",
+    "sessiongpstype": "COROS APEX PRO",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=443887&uid=4058"
+  },
+  {
+    "rowid": "3",
+    "event_id": 863,
+    "eventname": "2024 2024 Gpskraaijchallenge   Wingfoiling",
+    "speed": 29.5053232,
+    "type": "speed_avg",
+    "username": "Imme Monshouwer",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Kraaijenbergse plassen",
+    "sessionboard": "G-Boards groove",
+    "sessionsail": "Armstrong Mojo  4.5",
+    "sessionfin": "F-One Phantom  85",
+    "sessiongpstype": "unknown",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=432357&uid=23759"
+  }
+]

@@ -1,1 +1,19 @@
-[]
+[
+  {
+    "rowid": "1",
+    "event_id": 870,
+    "eventname": "2024  FFF SPEED CHALLENGE",
+    "speed": 0.0,
+    "type": "speed_24hour",
+    "username": "Michel Cyril",
+    "ageclass": "Master (36-50)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Fos, 13",
+    "sessionboard": "- KITE SPEED GUN HOMEMADE M8",
+    "sessionsail": "Duotone rebel sls  6.0",
+    "sessionfin": "Custom kite fin  10",
+    "sessiongpstype": "Locosys GW-60",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=429991&uid=5566"
+  }
+]

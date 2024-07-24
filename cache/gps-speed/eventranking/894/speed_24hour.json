@@ -1,0 +1,36 @@
+[
+  {
+    "rowid": "1",
+    "event_id": 894,
+    "eventname": "2024 2024 Ho bugt sejlklub, speed konkurence",
+    "speed": 0.0,
+    "type": "speed_24hour",
+    "username": "S\u00f8ren Christensen",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "91-100",
+    "sexe": "Men",
+    "spotname": "Ho Bugt",
+    "sessionboard": "Fanatic Falcon 116",
+    "sessionsail": "Duotone Warp_Fin  7.8",
+    "sessionfin": "Z-fins slalom  32",
+    "sessiongpstype": "Coros",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=441374&uid=24692"
+  },
+  {
+    "rowid": "2",
+    "event_id": 894,
+    "eventname": "2024 2024 Ho bugt sejlklub, speed konkurence",
+    "speed": 0.0,
+    "type": "speed_24hour",
+    "username": "Martin Lamhauge Anker",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Ho Bugt",
+    "sessionboard": "RRD X-Fire 129 LTD V11",
+    "sessionsail": "Point-7 AC1  9.2",
+    "sessionfin": "Z-fins SLM  44",
+    "sessiongpstype": "Locosys GW-60",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=432307&uid=23803"
+  }
+]

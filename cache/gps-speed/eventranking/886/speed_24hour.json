@@ -1,0 +1,36 @@
+[
+  {
+    "rowid": "1",
+    "event_id": 886,
+    "eventname": "2024 Wurster Tri-Speed 2024",
+    "speed": 0.0,
+    "type": "speed_24hour",
+    "username": "Uwe-S\u00f6ren Schmidt",
+    "ageclass": "Grand Master (51-60)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Dorum, Bremerhaven",
+    "sessionboard": "Starboard Isonic 67 Carbon reflex ",
+    "sessionsail": "Neilpryde RS - Racing EVO XII  8.2",
+    "sessionfin": "Hurricane SR 7 M-  38",
+    "sessiongpstype": "Locosys GW-60",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=440881&uid=3581"
+  },
+  {
+    "rowid": "2",
+    "event_id": 886,
+    "eventname": "2024 Wurster Tri-Speed 2024",
+    "speed": 0.0,
+    "type": "speed_24hour",
+    "username": "Hans-Dieter Wilshusen",
+    "ageclass": "Super Master (61-70)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Dorum, Bremerhaven",
+    "sessionboard": "RRD FreestyleWave LTD V2",
+    "sessionsail": "Loftsails Purelip  6.2",
+    "sessionfin": "Tabou Wave  22",
+    "sessiongpstype": "Locosys GW-60",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=433460&uid=3855"
+  }
+]

@@ -10,9 +10,27 @@
     "weightclass": "71-80",
     "sexe": "Men",
     "spotname": "Fos, 13",
+    "sessionboard": "Mistral SL ",
+    "sessionsail": "Simmer Sails sc race  7.0",
+    "sessionfin": "Gasoil Fins CHR X  36",
+    "sessiongpstype": "Locosys GW-60",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=430519&uid=5566"
+  },
+  {
+    "rowid": "2",
+    "event_id": 868,
+    "eventname": "2024 FFF SPEED CHALLENGE",
+    "speed": 0.0,
+    "type": "speed_24hour",
+    "username": "Michel Cyril",
+    "ageclass": "Master (36-50)",
+    "weightclass": "71-80",
+    "sexe": "Men",
+    "spotname": "Fos, 13",
     "sessionboard": "F2 Missile XS",
     "sessionsail": "Neilpryde RS:Racing EVO XIII  4.8",
     "sessionfin": "Gasoil Fins ELS Asy speed b\u00e2bord   22",
+    "sessiongpstype": "unknown",
     "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=430008&uid=5566"
   }
 ]

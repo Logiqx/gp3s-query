@@ -1,1 +1,19 @@
-[]
+[
+  {
+    "rowid": "1",
+    "event_id": 841,
+    "eventname": "2023 Mauritius GPS Wingfoil speed Challenge",
+    "speed": 0.0,
+    "type": "speed_24hour",
+    "username": "Jerome Bonieux",
+    "ageclass": "Master (36-50)",
+    "weightclass": "61-70",
+    "sexe": "Men",
+    "spotname": "Pte Desny",
+    "sessionboard": "Duotone Sky Style SLS",
+    "sessionsail": "Duotone Unit  4.0",
+    "sessionfin": "Duotone aero carve dlab 500  90",
+    "sessiongpstype": "Garmin fenix 5 \u2013 Sapphire Edition",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=443627&uid=27639"
+  }
+]

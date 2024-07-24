@@ -1,1 +1,36 @@
-[]
+[
+  {
+    "rowid": "1",
+    "event_id": 866,
+    "eventname": "2024 2024 Irish Speed Masters",
+    "speed": 32.25258,
+    "type": "speed_mile",
+    "username": "Marc Roosli",
+    "ageclass": "Master (36-50)",
+    "weightclass": "81-90",
+    "sexe": "Men",
+    "spotname": "Dungarvan",
+    "sessionboard": "AV Modena Speed 45",
+    "sessionsail": "Severne Mach 6  5.5",
+    "sessionfin": "Z-fins SPA S  21",
+    "sessiongpstype": "Motion",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=435345&uid=11613"
+  },
+  {
+    "rowid": "2",
+    "event_id": 866,
+    "eventname": "2024 2024 Irish Speed Masters",
+    "speed": 12.389880000000002,
+    "type": "speed_mile",
+    "username": "Roman Szypura",
+    "ageclass": "Master (36-50)",
+    "weightclass": "61-70",
+    "sexe": "Men",
+    "spotname": "Bunbeg",
+    "sessionboard": "PATRIK Speed 39 AirInside",
+    "sessionsail": "Neilpryde Combat HD  4.5",
+    "sessionfin": "C3 speed  20",
+    "sessiongpstype": "Locosys GW-60",
+    "sessionurl": "https://www.gps-speedsurfing.com/?mnu=user&val=443802&uid=23887"
+  }
+]
